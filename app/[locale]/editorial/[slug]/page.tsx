@@ -5,8 +5,10 @@ import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight } from "lucide-react";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import { JsonLd } from "@/components/json-ld";
 import type { Locale } from "@/lib/data";
 import { editorials, getEditorial } from "@/lib/editorials";
+import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 
@@ -19,10 +21,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const locale = localeParam as Locale;
   const article = getEditorial(slug);
   if (!article || !locales.includes(locale)) return {};
+  const canonical = `/${locale}/editorial/${slug}`;
+  const image = article.coverImage ?? defaultSocialImage;
   return {
     title: `${article.title[locale]} — Wellness Hub Editorial`,
     description: article.deck[locale],
-    alternates: { languages: { en: `/en/editorial/${slug}`, "zh-HK": `/zh-hk/editorial/${slug}` } },
+    alternates: { canonical, languages: { en: `/en/editorial/${slug}`, "zh-HK": `/zh-hk/editorial/${slug}`, "x-default": `/en/editorial/${slug}` } },
+    openGraph: { type: "article", url: canonical, siteName, title: article.title[locale], description: article.deck[locale], locale: locale === "en" ? "en_HK" : "zh_HK", publishedTime: new Date(article.date.en).toISOString(), modifiedTime: "2026-09-29T00:00:00+08:00", section: article.category[locale], images: [image] },
+    twitter: { card: "summary_large_image", title: article.title[locale], description: article.deck[locale], images: [image] },
   };
 }
 
@@ -34,9 +40,30 @@ export default async function EditorialArticlePage({ params }: { params: Promise
   if (!article) notFound();
   const articleIndex = editorials.findIndex((item) => item.slug === slug);
   const next = editorials[(articleIndex + 1) % editorials.length];
+  const canonicalUrl = absoluteUrl(`/${locale}/editorial/${slug}`);
+  const articleImage = absoluteUrl(article.coverImage ?? "/well-hk-hero.png");
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Article", "@id": `${canonicalUrl}#article`, headline: article.title[locale], description: article.deck[locale],
+        image: [articleImage], datePublished: new Date(article.date.en).toISOString(), dateModified: "2026-09-29T00:00:00+08:00",
+        author: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) }, publisher: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) },
+        mainEntityOfPage: canonicalUrl, articleSection: article.category[locale], inLanguage: locale === "en" ? "en-HK" : "zh-HK",
+        wordCount: article.sections.flatMap((section) => section.paragraphs).map((paragraph) => paragraph[locale]).join(" ").split(/\s+/).length,
+      },
+      {
+        "@type": "BreadcrumbList", itemListElement: [
+          { "@type": "ListItem", position: 1, name: siteName, item: absoluteUrl(`/${locale}`) },
+          { "@type": "ListItem", position: 2, name: locale === "en" ? "Editorial" : "生活誌", item: absoluteUrl(`/${locale}/editorial`) },
+          { "@type": "ListItem", position: 3, name: article.title[locale], item: canonicalUrl },
+        ],
+      },
+    ],
+  };
 
   return (
-    <main>
+    <><JsonLd data={jsonLd} /><main>
       <SiteHeader locale={locale} page="guide" alternatePath={`/editorial/${slug}`} />
       <article className={`opinion-page editorial-accent-${article.accent}`}>
         <header className="opinion-header">
@@ -65,6 +92,6 @@ export default async function EditorialArticlePage({ params }: { params: Promise
         <footer className="opinion-next"><div className="shell"><span>{locale === "en" ? "Read next" : "下一篇"}</span><Link href={`/${locale}/editorial/${next.slug}`}><strong>{next.title[locale]}</strong><ArrowRight size={26} /></Link></div></footer>
       </article>
       <SiteFooter locale={locale} />
-    </main>
+    </main></>
   );
 }

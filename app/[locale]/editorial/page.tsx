@@ -5,8 +5,10 @@ import { notFound } from "next/navigation";
 import { ArrowRight, ArrowUpRight } from "lucide-react";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import { JsonLd } from "@/components/json-ld";
 import type { Locale } from "@/lib/data";
 import { editorials } from "@/lib/editorials";
+import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 
@@ -47,10 +49,14 @@ const pageCopy = {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const chinese = locale === "zh-hk";
+  const title = chinese ? "生活誌 — 香港健康生活觀點" : "Editorial — Ideas for a healthier Hong Kong";
+  const description = chinese ? pageCopy["zh-hk"].intro : pageCopy.en.intro;
   return {
-    title: locale === "zh-hk" ? "生活誌 — 香港健康生活觀點" : "Editorial — Ideas for a healthier Hong Kong",
-    description: locale === "zh-hk" ? pageCopy["zh-hk"].intro : pageCopy.en.intro,
-    alternates: { languages: { en: "/en/editorial", "zh-HK": "/zh-hk/editorial" } },
+    title, description,
+    alternates: { canonical: `/${locale}/editorial`, languages: { en: "/en/editorial", "zh-HK": "/zh-hk/editorial", "x-default": "/en/editorial" } },
+    openGraph: { type: "website", url: `/${locale}/editorial`, siteName, title, description, locale: chinese ? "zh_HK" : "en_HK", images: [defaultSocialImage] },
+    twitter: { card: "summary_large_image", title, description, images: [defaultSocialImage] },
   };
 }
 
@@ -63,9 +69,16 @@ export default async function EditorialIndexPage({ params }: { params: Promise<{
   const opinions = editorials.filter((article) => article.format.en === "Opinion");
   const features = editorials.filter((article) => article.format.en === "Feature" && article.slug !== lead.slug);
   const reviews = editorials.filter((article) => article.format.en === "Review");
+  const pageUrl = absoluteUrl(`/${locale}/editorial`);
+  const jsonLd = {
+    "@context": "https://schema.org", "@type": "CollectionPage", "@id": `${pageUrl}#collection`, url: pageUrl,
+    name: t.title, description: t.intro, inLanguage: locale === "en" ? "en-HK" : "zh-HK",
+    isPartOf: { "@type": "WebSite", name: siteName, url: absoluteUrl(`/${locale}`) },
+    mainEntity: { "@type": "ItemList", numberOfItems: editorials.length, itemListElement: editorials.map((article, index) => ({ "@type": "ListItem", position: index + 1, name: article.title[locale], url: absoluteUrl(`/${locale}/editorial/${article.slug}`) })) },
+  };
 
   return (
-    <main>
+    <><JsonLd data={jsonLd} /><main>
       <SiteHeader locale={locale} page="guide" />
       <div className="editorial-index">
         <header className="editorial-masthead">
@@ -135,6 +148,6 @@ export default async function EditorialIndexPage({ params }: { params: Promise<{
         </div></section>
       </div>
       <SiteFooter locale={locale} />
-    </main>
+    </main></>
   );
 }

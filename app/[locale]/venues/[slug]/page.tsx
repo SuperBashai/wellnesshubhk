@@ -4,12 +4,14 @@ import { notFound } from "next/navigation";
 import { ArrowLeft, ArrowRight, ArrowUpRight, Check, Clock3, Map as MapIcon, Dumbbell, Flame, Leaf, MapPin, Phone, ShoppingBasket, Snowflake } from "lucide-react";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
+import { JsonLd } from "@/components/json-ld";
 import { VenueGallery, type VenuePhoto } from "@/components/venue-gallery";
 import { VenueReviews } from "@/components/venue-reviews";
 import venueImages from "@/data/venue-images.json";
 import { listingCategories } from "@/lib/listing-categories";
 import { sports, listingSports } from "@/lib/sports";
 import { categories, getListingBySlug, listingName, listingSlug, listings, territories, type CategoryId, type Locale } from "@/lib/data";
+import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
@@ -58,10 +60,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const listing = getListingBySlug(slug);
   if (!listing) return {};
   const name = listingName(listing, locale);
+  const canonical = `/${locale}/venues/${slug}`;
+  const images = (venueImages as Record<string, VenuePhoto[]>)[slug]?.map((photo) => photo.url) ?? [defaultSocialImage];
   return {
     title: name,
     description: listing.description[locale],
-    alternates: { languages: { en: `/en/venues/${slug}`, "zh-HK": `/zh-hk/venues/${slug}` } },
+    alternates: { canonical, languages: { en: `/en/venues/${slug}`, "zh-HK": `/zh-hk/venues/${slug}`, "x-default": `/en/venues/${slug}` } },
+    openGraph: { type: "website", url: canonical, siteName, title: name, description: listing.description[locale], locale: locale === "en" ? "en_HK" : "zh_HK", images },
+    twitter: { card: "summary_large_image", title: name, description: listing.description[locale], images },
   };
 }
 
@@ -79,13 +85,34 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
   const activities = listingSports(listing);
   const territory = territories.find((item) => item.id === listing.territory)!;
   const Icon = categoryIcons[listing.category as CategoryId];
+  const canonicalUrl = absoluteUrl(`/${locale}/venues/${slug}`);
+  const schemaType: Record<CategoryId, string> = { movement: "SportsActivityLocation", recovery: "HealthAndBeautyBusiness", sauna: "HealthAndBeautyBusiness", food: "Restaurant", shops: "Store" };
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": schemaType[listing.category], "@id": `${canonicalUrl}#venue`, name, url: canonicalUrl,
+        description: listing.description[locale], telephone: listing.phone, image: photos.map((photo) => photo.url),
+        address: listing.address ? { "@type": "PostalAddress", streetAddress: listing.address[locale], addressLocality: listing.area[locale], addressRegion: "Hong Kong", addressCountry: "HK" } : undefined,
+        areaServed: { "@type": "AdministrativeArea", name: "Hong Kong SAR" },
+        sameAs: [listing.url], keywords: listing.tags[locale].join(", "),
+      },
+      {
+        "@type": "BreadcrumbList", itemListElement: [
+          { "@type": "ListItem", position: 1, name: siteName, item: absoluteUrl(`/${locale}`) },
+          { "@type": "ListItem", position: 2, name: locale === "en" ? "Venue directory" : "場地目錄", item: absoluteUrl(`/${locale}/places`) },
+          { "@type": "ListItem", position: 3, name, item: canonicalUrl },
+        ],
+      },
+    ],
+  };
   const related = listings
     .filter((candidate) => listingCategories(candidate).some((id) => listingCategories(listing).includes(id)) && listingSlug(candidate) !== slug)
     .sort((a, b) => Number(b.territory === listing.territory) - Number(a.territory === listing.territory))
     .slice(0, 3);
 
   return (
-    <main>
+    <><JsonLd data={jsonLd} /><main>
       <SiteHeader locale={locale} page="venue" alternatePath={`/venues/${slug}`} />
       <article className={`venue-page venue-${listing.category}`}>
         <header className="venue-hero">
@@ -137,6 +164,6 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
         </section>
       </article>
       <SiteFooter locale={locale} />
-    </main>
+    </main></>
   );
 }
