@@ -6,18 +6,14 @@ if (!rawToken) {
 }
 
 const token = rawToken.replace(/^Basic\s+/i, "");
-const response = await fetch("https://scraper-api.decodo.com/v1/tasks", {
+const response = await fetch("https://scraper-api.decodo.com/v2/scrape", {
   method: "POST",
   headers: {
     Accept: "application/json",
     Authorization: `Basic ${token}`,
     "Content-Type": "application/json",
   },
-  body: JSON.stringify({
-    target: "universal",
-    url: "https://ip.decodo.com",
-    locale: "en-us",
-  }),
+  body: JSON.stringify({ url: "https://ip.decodo.com" }),
 });
 
 if (!response.ok) {
@@ -27,4 +23,5 @@ if (!response.ok) {
 }
 
 const result = await response.json();
-console.log(`Decodo connection successful${result.id ? `; task ${result.id} created` : ""}.`);
+const taskId = result.results?.[0]?.task_id;
+console.log(`Decodo connection successful${taskId ? `; task ${taskId} completed` : ""}.`);
