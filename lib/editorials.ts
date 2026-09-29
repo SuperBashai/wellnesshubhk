@@ -1,4 +1,5 @@
 import type { LocalText } from "./data";
+import { editorialFieldNotes, editorialLongform } from "./editorial-longform";
 
 export type Editorial = {
   slug: string;
@@ -18,7 +19,7 @@ export type Editorial = {
   }>;
 };
 
-export const editorials: Editorial[] = [
+const shortEditorials: Editorial[] = [
   {
     slug: "convenience-is-the-real-wellness-luxury",
     number: "01",
@@ -30,7 +31,7 @@ export const editorials: Editorial[] = [
       "zh-hk": "最好嘅習慣通常唔係最矚目嗰個，而係落雨星期二、開會超時之後，仍然方便做到嗰個。",
     },
     date: { en: "21 September 2026", "zh-hk": "2026年9月21日" },
-    readTime: { en: "4 min read", "zh-hk": "閱讀約4分鐘" },
+    readTime: { en: "12 min read", "zh-hk": "閱讀約12分鐘" },
     accent: "jade",
     coverImage: "/editorial-hong-kong-morning.png",
     coverAlt: { en: "A morning walk through a hillside Hong Kong neighbourhood", "zh-hk": "清晨漫步香港山城社區" },
@@ -58,7 +59,7 @@ export const editorials: Editorial[] = [
     title: { en: "Hong Kong does not need more punishing workouts.", "zh-hk": "香港唔需要更多懲罰式運動。" },
     deck: { en: "Movement should give something back. Exhaustion is not the only proof that exercise counted.", "zh-hk": "運動應該令你有所得着。筋疲力盡，唔係證明運動有效嘅唯一方法。" },
     date: { en: "14 September 2026", "zh-hk": "2026年9月14日" },
-    readTime: { en: "3 min read", "zh-hk": "閱讀約3分鐘" },
+    readTime: { en: "11 min read", "zh-hk": "閱讀約11分鐘" },
     accent: "blue",
     sections: [
       {
@@ -83,7 +84,7 @@ export const editorials: Editorial[] = [
     title: { en: "Cold-plunge culture, reviewed.", "zh-hk": "冰浴文化，值得點評。" },
     deck: { en: "The ritual can feel brilliant. The performance around it is less convincing. Our verdict on Hong Kong’s cold-plunge moment.", "zh-hk": "個儀式可以好正，圍繞住佢嘅表演就未必。點睇香港而家嘅冰浴熱潮。" },
     date: { en: "7 September 2026", "zh-hk": "2026年9月7日" },
-    readTime: { en: "4 min read", "zh-hk": "閱讀約4分鐘" },
+    readTime: { en: "12 min read", "zh-hk": "閱讀約12分鐘" },
     accent: "blue",
     sections: [
       {
@@ -108,7 +109,7 @@ export const editorials: Editorial[] = [
     title: { en: "Healthy food should still taste like Hong Kong.", "zh-hk": "健康飲食，仍然可以有香港味道。" },
     deck: { en: "Eating well should expand local food culture, not replace it with the same imported bowl in every neighbourhood.", "zh-hk": "食得好應該令本地飲食文化更豐富，而唔係每區都換成同一碗入口健康餐。" },
     date: { en: "31 August 2026", "zh-hk": "2026年8月31日" },
-    readTime: { en: "4 min read", "zh-hk": "閱讀約4分鐘" },
+    readTime: { en: "11 min read", "zh-hk": "閱讀約11分鐘" },
     accent: "clay",
     sections: [
       {
@@ -133,7 +134,7 @@ export const editorials: Editorial[] = [
     title: { en: "Public sports centres are wellness infrastructure.", "zh-hk": "公共體育館，就係健康生活基建。" },
     deck: { en: "Wellbeing is not only built in boutique studios. It is built in affordable courts, pools and rooms people can reach.", "zh-hk": "健康唔只喺精品工作室建立，亦喺人人去得到、負擔得起嘅球場、泳池同活動室建立。" },
     date: { en: "24 August 2026", "zh-hk": "2026年8月24日" },
-    readTime: { en: "3 min read", "zh-hk": "閱讀約3分鐘" },
+    readTime: { en: "12 min read", "zh-hk": "閱讀約12分鐘" },
     accent: "jade",
     sections: [
       {
@@ -158,7 +159,7 @@ export const editorials: Editorial[] = [
     title: { en: "Rest is not a reward for productivity.", "zh-hk": "休息唔係努力工作之後嘅獎品。" },
     deck: { en: "If recovery must always be earned, it never truly arrives. Sometimes stopping is simply part of being a person.", "zh-hk": "如果休息永遠都要先賺返嚟，真正嘅休息就永遠唔會到。有時停低，只係做人嘅一部分。" },
     date: { en: "17 August 2026", "zh-hk": "2026年8月17日" },
-    readTime: { en: "3 min read", "zh-hk": "閱讀約3分鐘" },
+    readTime: { en: "10 min read", "zh-hk": "閱讀約10分鐘" },
     accent: "clay",
     sections: [
       {
@@ -176,6 +177,11 @@ export const editorials: Editorial[] = [
     ],
   },
 ];
+
+export const editorials: Editorial[] = shortEditorials.map((article) => ({
+  ...article,
+  sections: [...article.sections, ...(editorialLongform[article.slug] ?? []), ...(editorialFieldNotes[article.slug] ?? [])],
+}));
 
 export function getEditorial(slug: string) {
   return editorials.find((article) => article.slug === slug);
