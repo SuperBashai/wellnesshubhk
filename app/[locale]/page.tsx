@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params;
   const chinese = locale === "zh-hk";
   return {
-    title: chinese ? "好好香港 — 香港健康生活地圖" : "WELL HK — Hong Kong Wellness Directory",
+    title: { absolute: chinese ? "Wellness Hub — 香港健康生活地圖" : "Wellness Hub" },
     description: chinese ? "按地區探索全港運動場地、恢復空間、健康餐廳及健康食品店。" : "Discover sports facilities, recovery spaces, healthy restaurants and wellness shops across Hong Kong.",
     alternates: { languages: { en: "/en", "zh-HK": "/zh-hk" } },
   };

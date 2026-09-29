@@ -1,4 +1,4 @@
-# WELL HK
+# Wellness Hub
 
 A bilingual English / Traditional Chinese prototype for a Hong Kong wellness directory.
 

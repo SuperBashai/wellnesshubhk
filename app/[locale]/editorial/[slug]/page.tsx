@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const article = getEditorial(slug);
   if (!article || !locales.includes(locale)) return {};
   return {
-    title: `${article.title[locale]} — WELL HK Editorial`,
+    title: `${article.title[locale]} — Wellness Hub Editorial`,
     description: article.deck[locale],
     alternates: { languages: { en: `/en/editorial/${slug}`, "zh-HK": `/zh-hk/editorial/${slug}` } },
   };
@@ -52,7 +52,7 @@ export default async function EditorialArticlePage({ params }: { params: Promise
         </header>
 
         <div className="opinion-body shell">
-          <aside><span>WELL HK</span><p>{locale === "en" ? "An independent point of view on living well in Hong Kong." : "關於喺香港好好生活嘅獨立觀點。"}</p></aside>
+          <aside><span>Wellness Hub</span><p>{locale === "en" ? "An independent point of view on living well in Hong Kong." : "關於喺香港好好生活嘅獨立觀點。"}</p></aside>
           <div className="opinion-copy">
             {article.sections.map((section, index) => <section key={section.heading?.en ?? index}>
               {section.heading && <h2>{section.heading[locale]}</h2>}

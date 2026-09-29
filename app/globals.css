@@ -41,9 +41,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 }
 .header-inner { min-height: 76px; display: flex; align-items: center; justify-content: space-between; gap: 30px; }
 .brand { display: inline-flex; align-items: center; gap: 12px; min-width: 205px; }
-.brand > span:last-child { display: grid; gap: 1px; }
-.brand strong { font-size: 1rem; letter-spacing: .07em; }
-.brand small { color: var(--muted); font-size: .66rem; letter-spacing: .02em; }
+.brand > span:last-child { display: grid; }
+.brand strong { font-size: 1.02rem; font-weight: 690; letter-spacing: -.01em; white-space: nowrap; }
 .brand-mark { position: relative; width: 34px; height: 34px; border: 1px solid var(--jade); border-radius: 50%; }
 .brand-mark i { position: absolute; display: block; width: 12px; height: 18px; border: 1.5px solid var(--jade); border-radius: 100% 0 100% 0; transform: rotate(45deg); }
 .brand-mark i:first-child { left: 5px; top: 5px; }
@@ -398,7 +397,7 @@ html[lang="zh-HK"] .venue-title-block h1 { font-size: clamp(3.8rem, 7vw, 7rem); 
   .shell { width: min(100% - 28px, var(--max)); }
   .header-inner { min-height: 68px; }
   .brand { min-width: auto; }
-  .brand small, .header-cta { display: none; }
+  .header-cta { display: none; }
   .brand-mark { width: 30px; height: 30px; }
   .hero, .hero-grid { min-height: auto; }
   .hero-grid { width: 100%; grid-template-columns: 1fr; }
@@ -601,7 +600,7 @@ html[lang="zh-HK"] .venue-title-block h1 { font-size: clamp(3.8rem, 7vw, 7rem); 
   .home-visual-arrow { top: 12px; right: 12px; width: 38px; height: 38px; }
 }
 
-/* WELL HK opinion editorial */
+/* Wellness Hub opinion editorial */
 .editorial-index { background: #f7f5ef; }
 .editorial-masthead { padding: clamp(58px, 8vw, 105px) 0 clamp(52px, 7vw, 90px); border-bottom: 1px solid #d8d6ce; }
 .editorial-issue { color: var(--jade); font-size: .68rem; font-weight: 780; letter-spacing: .12em; text-transform: uppercase; }

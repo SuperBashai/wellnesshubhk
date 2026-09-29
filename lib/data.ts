@@ -173,7 +173,7 @@ export function getListingBySlug(slug: string) {
 
 export const copy = {
   en: {
-    brandLine: "Hong Kong wellness directory", navDiscover: "Discover", navAreas: "Areas", navGuide: "Editorial", suggest: "Suggest a place",
+    navDiscover: "Discover", navAreas: "Areas", navGuide: "Editorial", suggest: "Suggest a place",
     heroEyebrow: "Wellness, around the corner", heroTitle: "Feel good, closer to home.", heroBody: "Explore places to move, recover and eat well across Hong Kong, neighbourhood by neighbourhood.",
     searchPlaceholder: "Venue, activity or district", allAreas: "All of Hong Kong", search: "Find places",
     browseEyebrow: "Browse by interest", browseTitle: "Start with what you need today.", browseBody: "Move, recover, eat well or slow down. There is no single way to feel well.",
@@ -185,7 +185,7 @@ export const copy = {
     footerNote: "A calmer way to explore wellness across Hong Kong.", disclaimer: "Directory information is general and is not medical advice.",
   },
   "zh-hk": {
-    brandLine: "香港健康生活地圖", navDiscover: "探索", navAreas: "地區", navGuide: "生活誌", suggest: "推薦好地方",
+    navDiscover: "探索", navAreas: "地區", navGuide: "生活誌", suggest: "推薦好地方",
     heroEyebrow: "好好生活，就喺附近", heroTitle: "搵到香港啱你嘅健康去處。", heroBody: "按地區搵勻全港運動場地、冰浴及恢復空間、健康餐廳同食品店。",
     searchPlaceholder: "搜尋場地、活動或地區", allAreas: "全香港", search: "搜尋地方",
     browseEyebrow: "按需要探索", browseTitle: "由今日需要嘅開始。", browseBody: "想郁動、恢復、食得好，定係放慢節奏？健康生活從來唔止一種方式。",

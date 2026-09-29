@@ -94,7 +94,7 @@ export function WellnessHome({ locale }: { locale: Locale }) {
       <section className="section home-visual-section" aria-labelledby="home-visual-title">
         <div className="shell">
           <div className="home-visual-heading">
-            <div><span className="eyebrow"><span />{locale === "en" ? "Inside WELL HK" : "走入好好香港"}</span><h2 id="home-visual-title">{locale === "en" ? "See what feeling good can look like." : "睇吓好好生活，可以係點樣。"}</h2></div>
+            <div><span className="eyebrow"><span />{locale === "en" ? "Inside Wellness Hub" : "走入 Wellness Hub"}</span><h2 id="home-visual-title">{locale === "en" ? "See what feeling good can look like." : "睇吓好好生活，可以係點樣。"}</h2></div>
             <p>{locale === "en" ? "A visual glimpse of places to move, recover and eat well around the city." : "用相片探索城中運動、恢復同健康飲食空間。"}</p>
           </div>
           <div className="home-visual-grid">

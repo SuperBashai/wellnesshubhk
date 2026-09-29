@@ -7,9 +7,9 @@ export function SiteFooter({ locale }: { locale: Locale }) {
   return (
     <footer className="site-footer">
       <div className="shell footer-grid">
-        <div><strong>WELL HK</strong><p>{t.footerNote}</p></div>
+        <div><strong>Wellness Hub</strong><p>{t.footerNote}</p></div>
         <div className="footer-links"><Link href={`/${locale}#discover`}>{t.navDiscover}</Link><Link href={`/${locale}#areas`}>{t.navAreas}</Link><Link href={`/${locale}/editorial`}>{t.navGuide}</Link></div>
-        <p className="footer-disclaimer">{t.disclaimer}<br />© 2026 WELL HK</p>
+        <p className="footer-disclaimer">{t.disclaimer}<br />© 2026 Wellness Hub</p>
       </div>
     </footer>
   );

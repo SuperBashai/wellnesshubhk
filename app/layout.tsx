@@ -4,8 +4,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "WELL HK — Hong Kong Wellness Directory",
-    template: "%s | WELL HK",
+    default: "Wellness Hub",
+    template: "%s | Wellness Hub",
   },
   description:
     "Discover sports facilities, recovery spaces, healthy restaurants and wellness shops across Hong Kong.",

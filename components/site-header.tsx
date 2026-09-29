@@ -12,9 +12,9 @@ export function SiteHeader({ locale, page = "home", alternatePath }: { locale: L
   return (
     <header className="site-header">
       <div className="shell header-inner">
-        <Link className="brand" href={`/${locale}`} aria-label="WELL HK home">
+        <Link className="brand" href={`/${locale}`} aria-label="Wellness Hub home">
           <span className="brand-mark" aria-hidden="true"><i /><i /></span>
-          <span><strong>WELL HK</strong><small>{t.brandLine}</small></span>
+          <span><strong>Wellness Hub</strong></span>
         </Link>
         <nav aria-label="Primary navigation">
           <Link href={`/${locale}#discover`}>{t.navDiscover}</Link>

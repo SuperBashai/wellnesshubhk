@@ -12,7 +12,7 @@ const locales: Locale[] = ["en", "zh-hk"];
 
 const pageCopy = {
   en: {
-    issue: "THE WELL HK JOURNAL · ISSUE 01",
+    issue: "THE WELLNESS HUB JOURNAL · ISSUE 01",
     title: "Wellness, without the soft focus.",
     intro: "Sharp opinions, reported features and honest reviews about moving, eating and living well in Hong Kong.",
     latest: "Cover story",
@@ -28,7 +28,7 @@ const pageCopy = {
     directory: "Explore the directory",
   },
   "zh-hk": {
-    issue: "好好香港生活誌 · 第一期",
+    issue: "WELLNESS HUB 生活誌 · 第一期",
     title: "健康生活，唔需要柔焦濾鏡。",
     intro: "有立場嘅觀點、深入專題同坦白評評，寫香港點樣運動、食好啲，同生活得自在啲。",
     latest: "今期封面故事",
