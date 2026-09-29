@@ -11,6 +11,7 @@ type Review = {
   body: string;
   createdAt: string;
   images?: string[];
+  pending?: boolean;
 };
 
 const MAX_REVIEW_IMAGES = 3;
@@ -40,12 +41,15 @@ const copy = {
     removePhoto: "Remove image",
     photoAlt: "Photo shared with this review",
     processing: "Preparing images…",
+    submitting: "Sending review…",
     tooManyPhotos: "You can add up to 3 images to one review.",
     unsupportedPhoto: "Please choose JPG, PNG or WebP images.",
     photoTooLarge: "Each original image must be smaller than 10 MB.",
     photoError: "One of the images could not be prepared. Please try another file.",
-    saveError: "This browser does not have enough storage for these images. Try fewer or smaller images.",
-    localNote: "Local preview: reviews are saved only in this browser. Shared publishing and moderation will be connected before launch.",
+    saveError: "Your review could not be sent. Please try again.",
+    loadError: "Reviews are temporarily unavailable.",
+    pending: "Awaiting moderation",
+    localNote: "Reviews are checked before they appear publicly. Your review will be visible to you immediately after submission.",
     star: "star",
   },
   "zh-hk": {
@@ -71,12 +75,15 @@ const copy = {
     removePhoto: "移除相片",
     photoAlt: "隨評價分享嘅相片",
     processing: "正在處理相片…",
+    submitting: "正在傳送評價…",
     tooManyPhotos: "每則評價最多可以加入 3 張相片。",
     unsupportedPhoto: "請選擇 JPG、PNG 或 WebP 相片。",
     photoTooLarge: "每張原相必須細過 10 MB。",
     photoError: "其中一張相片未能處理，請試另一個檔案。",
-    saveError: "瀏覽器儲存空間不足，請減少相片數量或選擇較細嘅相片。",
-    localNote: "本地預覽：評價暫時只儲存喺呢個瀏覽器。正式推出前會接駁共用資料庫及審核系統。",
+    saveError: "未能傳送你嘅評價，請再試一次。",
+    loadError: "評價暫時未能載入。",
+    pending: "等候審核",
+    localNote: "評價經審核後先會公開；提交後你會即時見到自己嘅評價。",
     star: "星",
   },
 } as const;
@@ -84,7 +91,7 @@ const copy = {
 function isReview(value: unknown): value is Review {
   if (!value || typeof value !== "object") return false;
   const review = value as Partial<Review>;
-  const validImages = review.images === undefined || (Array.isArray(review.images) && review.images.every((image) => typeof image === "string" && image.startsWith("data:image/")));
+  const validImages = review.images === undefined || (Array.isArray(review.images) && review.images.every((image) => typeof image === "string" && (image.startsWith("data:image/") || image.startsWith("https://"))));
   return typeof review.id === "string" && typeof review.name === "string" && typeof review.body === "string" && typeof review.createdAt === "string" && typeof review.rating === "number" && review.rating >= 1 && review.rating <= 5 && validImages;
 }
 
@@ -127,21 +134,43 @@ export function VenueReviews({ locale, slug, venueName }: { locale: Locale; slug
   const [body, setBody] = useState("");
   const [images, setImages] = useState<string[]>([]);
   const [processingImages, setProcessingImages] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [saved, setSaved] = useState(false);
   const [formMessage, setFormMessage] = useState("");
 
   useEffect(() => {
+    let cancelled = false;
+    let localReviews: Review[] = [];
     try {
       const stored = window.localStorage.getItem(storageKey);
       const parsed: unknown = stored ? JSON.parse(stored) : [];
-      if (Array.isArray(parsed)) setReviews(parsed.filter(isReview));
-    } catch {
-      setReviews([]);
+      if (Array.isArray(parsed)) localReviews = parsed.filter(isReview);
+    } catch {}
+
+    async function loadReviews() {
+      try {
+        const response = await fetch(`/api/reviews?venue=${encodeURIComponent(slug)}`, { cache: "no-store" });
+        if (!response.ok) throw new Error("Reviews unavailable");
+        const payload = await response.json() as { reviews?: Review[] };
+        const remoteReviews = Array.isArray(payload.reviews) ? payload.reviews.filter(isReview) : [];
+        const remoteIds = new Set(remoteReviews.map((review) => review.id));
+        if (!cancelled) setReviews([...remoteReviews, ...localReviews.filter((review) => !remoteIds.has(review.id))]);
+      } catch {
+        if (!cancelled) {
+          setReviews(localReviews);
+          setFormMessage((current) => current || t.loadError);
+        }
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
     }
-  }, [storageKey]);
+    void loadReviews();
+    return () => { cancelled = true; };
+  }, [slug, storageKey, t.loadError]);
 
   const average = useMemo(() => reviews.length ? reviews.reduce((total, review) => total + review.rating, 0) / reviews.length : 0, [reviews]);
-  const valid = rating > 0 && name.trim().length >= 2 && body.trim().length >= 10 && !processingImages;
+  const valid = rating > 0 && name.trim().length >= 2 && body.trim().length >= 10 && !processingImages && !submitting;
 
   async function addImages(event: ChangeEvent<HTMLInputElement>) {
     const files = Array.from(event.target.files ?? []);
@@ -172,32 +201,41 @@ export function VenueReviews({ locale, slug, venueName }: { locale: Locale; slug
     }
   }
 
-  function submitReview(event: FormEvent<HTMLFormElement>) {
+  async function submitReview(event: FormEvent<HTMLFormElement>) {
     event.preventDefault();
     if (!valid) return;
-    const review: Review = {
-      id: typeof crypto.randomUUID === "function" ? crypto.randomUUID() : `${Date.now()}`,
-      name: name.trim(),
-      rating,
-      body: body.trim(),
-      createdAt: new Date().toISOString(),
-      images,
-    };
-    const updated = [review, ...reviews];
-    try {
-      window.localStorage.setItem(storageKey, JSON.stringify(updated));
-    } catch {
-      setSaved(false);
-      setFormMessage(t.saveError);
-      return;
-    }
-    setReviews(updated);
-    setRating(0);
-    setName("");
-    setBody("");
-    setImages([]);
+    const website = new FormData(event.currentTarget).get("website");
+    setSubmitting(true);
+    setSaved(false);
     setFormMessage("");
-    setSaved(true);
+    try {
+      const form = new FormData();
+      form.set("venueSlug", slug);
+      form.set("name", name.trim());
+      form.set("rating", String(rating));
+      form.set("body", body.trim());
+      form.set("locale", locale);
+      form.set("website", String(website ?? ""));
+      for (const [index, image] of images.entries()) {
+        const blob = await fetch(image).then((response) => response.blob());
+        form.append("images", blob, `review-${index + 1}.jpg`);
+      }
+
+      const response = await fetch("/api/reviews", { method: "POST", body: form });
+      const payload = await response.json() as { review?: Review; error?: string };
+      if (!response.ok || !payload.review || !isReview(payload.review)) throw new Error(payload.error || "Unable to save review");
+
+      setReviews((current) => [{ ...payload.review!, pending: true }, ...current]);
+      setRating(0);
+      setName("");
+      setBody("");
+      setImages([]);
+      setSaved(true);
+    } catch {
+      setFormMessage(t.saveError);
+    } finally {
+      setSubmitting(false);
+    }
   }
 
   return (
@@ -236,7 +274,8 @@ export function VenueReviews({ locale, slug, venueName }: { locale: Locale; slug
                 <button type="button" aria-label={`${t.removePhoto} ${index + 1}`} onClick={() => { setImages((current) => current.filter((_, imageIndex) => imageIndex !== index)); setSaved(false); setFormMessage(""); }}><X size={15} /></button>
               </figure>)}</div>}
             </div>
-            <div className="review-form-footer"><small>{body.length} / 600</small><button type="submit" disabled={!valid}>{t.submit}</button></div>
+            <input className="review-honeypot" name="website" tabIndex={-1} autoComplete="off" aria-hidden="true" />
+            <div className="review-form-footer"><small>{body.length} / 600</small><button type="submit" disabled={!valid}>{submitting ? t.submitting : t.submit}</button></div>
             <p className={`review-save-message${formMessage ? " is-error" : ""}`} aria-live="polite">{formMessage || (saved ? t.saved : "")}</p>
             <p className="review-local-note">{t.localNote}</p>
           </form>
@@ -244,14 +283,14 @@ export function VenueReviews({ locale, slug, venueName }: { locale: Locale; slug
 
         <div className="venue-review-list">
           {reviews.length ? reviews.map((review) => <article key={review.id}>
-            <div className="review-author"><span>{review.name.slice(0, 1).toLocaleUpperCase()}</span><div><strong>{review.name}</strong><small>{new Intl.DateTimeFormat(locale === "en" ? "en-HK" : "zh-HK", { year: "numeric", month: "short", day: "numeric" }).format(new Date(review.createdAt))}</small></div></div>
+            <div className="review-author"><span>{review.name.slice(0, 1).toLocaleUpperCase()}</span><div><strong>{review.name}</strong><small>{new Intl.DateTimeFormat(locale === "en" ? "en-HK" : "zh-HK", { year: "numeric", month: "short", day: "numeric" }).format(new Date(review.createdAt))}{review.pending ? ` · ${t.pending}` : ""}</small></div></div>
             <span className="review-stars" aria-label={`${review.rating} / 5`}>{[1, 2, 3, 4, 5].map((star) => <Star key={star} size={15} fill={star <= review.rating ? "currentColor" : "none"} />)}</span>
             <div className="review-content"><p>{review.body}</p>{review.images?.length ? <div className="review-photo-gallery">{review.images.map((image, index) => <figure key={`${review.id}-${index}`}>
-              {/* User-submitted image saved in this browser. */}
+              {/* User-submitted image from Supabase Storage or a legacy local review. */}
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={image} alt={`${t.photoAlt} ${index + 1}`} />
             </figure>)}</div> : null}</div>
-          </article>) : <div className="review-empty"><MessageSquare size={27} /><div><h3>{t.emptyTitle}</h3><p>{t.emptyBody}</p></div></div>}
+          </article>) : !loading && <div className="review-empty"><MessageSquare size={27} /><div><h3>{t.emptyTitle}</h3><p>{t.emptyBody}</p></div></div>}
         </div>
       </div>
     </section>

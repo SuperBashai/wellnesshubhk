@@ -10,6 +10,7 @@
     "decodo:test": "node --env-file=.env.local scripts/test-decodo.mjs"
   },
   "dependencies": {
+    "@supabase/supabase-js": "2.117.2",
     "lucide-react": "^0.468.0",
     "next": "^15.3.0",
     "react": "^19.0.0",
