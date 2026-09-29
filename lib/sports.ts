@@ -12,6 +12,7 @@ export const sports = [
   { id: "squash", label: { en: "Squash", "zh-hk": "壁球" }, tags: ["squash"] },
   { id: "climbing", label: { en: "Climbing", "zh-hk": "攀石" }, tags: ["climbing", "bouldering"] },
   { id: "yoga", label: { en: "Yoga", "zh-hk": "瑜伽" }, tags: ["yoga", "yoga & fitness"] },
+  { id: "pilates", label: { en: "Pilates", "zh-hk": "普拉提" }, tags: ["pilates", "reformer pilates", "mat pilates", "yoga & pilates"] },
   { id: "gym", label: { en: "Gym & training", "zh-hk": "健身訓練" }, tags: ["fitness", "fitness room", "gym", "yoga & fitness"] },
   { id: "dance", label: { en: "Dance", "zh-hk": "舞蹈" }, tags: ["dance"] },
   { id: "swimming", label: { en: "Swimming", "zh-hk": "游泳" }, tags: ["swimming", "pool"] },

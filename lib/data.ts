@@ -6,6 +6,7 @@ import { privateWellness } from "@/lib/private-wellness";
 import { contactByName } from "@/lib/contact-details";
 import { venueUpdatesSeptember2026 } from "@/lib/venue-updates-2026-09";
 import { hyroxListings } from "@/lib/hyrox-listings";
+import { pilatesYogaListings } from "@/lib/pilates-yoga-listings";
 import type { SportId } from "./sports";
 
 export type Locale = "en" | "zh-hk";
@@ -32,7 +33,7 @@ export type Listing = {
 };
 
 export const categories = [
-  { id: "movement", label: { en: "Sports & fitness", "zh-hk": "運動健身" }, detail: { en: "HYROX, pickleball, badminton & more", "zh-hk": "HYROX、匹克球、羽毛球等" } },
+  { id: "movement", label: { en: "Sports & fitness", "zh-hk": "運動健身" }, detail: { en: "Pilates, yoga, HYROX & more", "zh-hk": "普拉提、瑜伽、HYROX 等" } },
   { id: "recovery", label: { en: "Ice baths", "zh-hk": "冰浴恢復" }, detail: { en: "Cold plunge & body recovery", "zh-hk": "冰浴及身體恢復" } },
   { id: "sauna", label: { en: "Saunas", "zh-hk": "桑拿熱療" }, detail: { en: "Sauna & infrared spaces", "zh-hk": "桑拿及紅外線熱療" } },
   { id: "food", label: { en: "Healthy dining", "zh-hk": "健康飲食" }, detail: { en: "Balanced & plant-forward dining", "zh-hk": "均衡及植物為本飲食" } },
@@ -158,6 +159,7 @@ export const listings: Listing[] = [
   ...outdoorSports,
   ...venueUpdatesSeptember2026,
   ...hyroxListings,
+  ...pilatesYogaListings,
   ...(lcsdSportsCentres as Listing[]),
 ].filter((listing, index, all) =>
   all.findIndex((candidate) => listingName(candidate, "en") === listingName(listing, "en")) === index,
@@ -179,7 +181,7 @@ export const copy = {
     browseEyebrow: "Browse by interest", browseTitle: "Start with what you need today.", browseBody: "Move, recover, eat well or slow down. There is no single way to feel well.",
     areasEyebrow: "Explore by area", areasTitle: "One city. Many ways to reset.",
     featuredEyebrow: "Curated directory", featuredTitle: "Places worth knowing", featuredBody: "A considered starting point, built from venue and public-facility sources.",
-    all: "All", noResults: "No places match those filters yet. Try another area or clear your search.", clear: "Clear filters", view: "View venue", updated: "Details checked 21 September 2026", showMore: "Show more places",
+    all: "All", noResults: "No places match those filters yet. Try another area or clear your search.", clear: "Clear filters", view: "View venue", updated: "Directory updated 29 September 2026", showMore: "Show more places",
     guideEyebrow: "Opinion & editorial", guideTitle: "Ideas for a healthier Hong Kong.", guideBody: "Original viewpoints on movement, food, recovery and life in the city.", guideCta: "Browse the editorials",
     trustTitle: "Local, useful, transparent.", trustBody: "We show the source for every place and never invent ratings. Details change, so please confirm directly with each venue before visiting.",
     footerNote: "A calmer way to explore wellness across Hong Kong.", disclaimer: "Directory information is general and is not medical advice.",
@@ -191,7 +193,7 @@ export const copy = {
     browseEyebrow: "按需要探索", browseTitle: "由今日需要嘅開始。", browseBody: "想郁動、恢復、食得好，定係放慢節奏？健康生活從來唔止一種方式。",
     areasEyebrow: "按地區探索", areasTitle: "一個香港，多種回復狀態嘅方法。",
     featuredEyebrow: "精選目錄", featuredTitle: "值得認識嘅好地方", featuredBody: "根據場地及公共設施官方資料，整理成一個實用起點。",
-    all: "全部", noResults: "暫時搵唔到符合條件嘅地方。可以試吓其他地區，或者清除搜尋。", clear: "清除篩選", view: "查看場地", updated: "資料於 2026 年 9 月 21 日查閱", showMore: "顯示更多地方",
+    all: "全部", noResults: "暫時搵唔到符合條件嘅地方。可以試吓其他地區，或者清除搜尋。", clear: "清除篩選", view: "查看場地", updated: "目錄於 2026 年 9 月 29 日更新", showMore: "顯示更多地方",
     guideEyebrow: "觀點生活誌", guideTitle: "關於香港健康生活嘅一啲想法。", guideBody: "由運動、飲食、恢復到城市生活，分享原創觀點。", guideCta: "瀏覽生活誌文章",
     trustTitle: "本地、實用、透明。", trustBody: "每個地方都會列出資料來源，亦唔會虛構評分。資料隨時有變，出發前請直接向場地核實。",
     footerNote: "用更輕鬆嘅方式，探索香港健康生活。", disclaimer: "目錄資料只供一般參考，並非醫療建議。",
