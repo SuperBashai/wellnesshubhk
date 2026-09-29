@@ -657,7 +657,8 @@ html[lang="zh-HK"] .opinion-title-grid h1 { font-size: clamp(3.2rem, 6vw, 5.9rem
 .opinion-body aside p { margin-top: 14px; color: var(--muted); font-size: .72rem; line-height: 1.65; }
 .opinion-copy > section + section { margin-top: 68px; }
 .opinion-copy h2 { margin-bottom: 28px; font-family: Georgia, "Noto Serif HK", serif; font-size: clamp(2rem, 3.4vw, 3.1rem); font-weight: 400; line-height: 1.15; letter-spacing: -.035em; }
-.opinion-copy section p { color: #263732; font-family: Georgia, "Noto Serif HK", serif; font-size: clamp(1.17rem, 1.7vw, 1.34rem); line-height: 1.9; }
+.opinion-copy section p { color: #263732; font-family: Georgia, "Noto Serif HK", serif; font-size: clamp(1.17rem, 1.7vw, 1.34rem); line-height: 1.9; text-align: justify; text-justify: inter-word; hyphens: auto; hanging-punctuation: first last; }
+html[lang="zh-hk"] .opinion-copy section p { text-justify: inter-character; hyphens: none; }
 .opinion-copy section p + p { margin-top: 28px; }
 .opinion-copy section:first-child p:first-child::first-letter { float: left; margin: .1em .12em 0 0; color: var(--editorial-accent); font-size: 4.8rem; line-height: .73; }
 .opinion-note { margin-top: 75px; padding-top: 24px; border-top: 1px solid var(--line); }
