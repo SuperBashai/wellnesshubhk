@@ -1,0 +1,788 @@
+[
+  {
+    "slug": "island-east-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/469_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "sai-wan-ho-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/482_SWHSC_arena_00.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "quarry-bay-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/481_Arena_QBSC.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "siu-sai-wan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/Arena_SSWSC.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "chai-wan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/Activity%20room_CWSC.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "praya-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/IL/PSSC_Is_Activity%20room.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "peng-chau-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/IL/PCSC_Is_Arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "cheung-chau-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/IL/855_CCSC_Arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tung-chung-man-tung-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/IL/1065_TCMTRSC_ls_table_tennis_room.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ho-man-tin-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KC/Ho%20Man%20Tin%20Sports%20Centre%201_KC.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "kowloon-city-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KC/Kowloon%20City%20Sports%20Centre%201_KC.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "cheung-fat-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/Cheung%20Fat%20Sports%20Centre_KwT_arena.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "to-kwa-wan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KC/To%20Kwa%20Wan%20Sports%20Centre%201_KC.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "fung-shue-wo-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/Fung%20Shue%20Wo%20Sports%20Centre_KwT_activity%20room.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "hung-hom-municipal-services-building-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KC/22_9.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "lai-king-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/Lai%20King%20Sports%20Centre_KwT_arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "osman-ramju-sadick-memorial-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/813_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "north-kwai-chung-tang-shiu-kin-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/Main%20Entrance%20of%20NKCTSKSC.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-wo-hau-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/Tai%20Wo%20Hau%20Sports%20Centre_KwT_Activity%20Room.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tsing-yi-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/843_TYSC3.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "choi-wing-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/2522_cwrsc1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "chun-wah-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Chun%20Wah%20Road%20Sports%20Centre_Arena_Photo_KT.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "hiu-kwong-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/939_25_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "kowloon-bay-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Kowloon%20Bay%20Sports%20Centre_Arena_Photo_KT.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "lam-tin-south-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Lam%20Tin%20South%20Sports%20Centre%20Outlook.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "mui-wo-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/IL/870_MWSC_ls_Fitness_Rm.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "fat-kwong-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KC/Fat%20Kwong%20Street%20Sports%20Centre%201_KC.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "java-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/471_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "lei-yue-mun-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Lei%20Yue%20Mun%20Municipal%20Services%20Bldg%20Outlook.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ngau-tau-kok-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Ngau%20Tau%20Kok%20Road%20Sports%20Centre_Arena_photo_KT.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "shun-lee-tsuen-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Shun%20Lee%20Tsuen%20Sports%20Centre_Outlook_%20Photo_KT.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "luen-wo-hui-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ND/Photo-LWHSC%281%29_N.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "shui-wo-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KT/Shui%20Wo%20Street%20Sports%20Centre_Arena_photo_KT.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tsing-yi-southwest-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/KWT/tyswsc_arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "lung-sum-avenue-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ND/Photo-LSASC_N.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tin-ping-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ND/Photo-TPSC%281%29_N.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "wo-hing-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ND/349_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "hang-hau-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SK/hhsc_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "hong-kong-velodrome",
+    "url": "https://www.lcsd.gov.hk/en/common/images/photo/facilities/SK/small/hkv_4.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tiu-keng-leng-sports-centre",
+    "url": "https://www.lcsd.gov.hk/en/common/images/photo/facilities/SK/tklsc_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "sai-kung-squash-courts",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SK/374_sai_kung_squash_courts.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tseung-kwan-o-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SK/382_DSCN9638.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "cheung-sha-wan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/cswsc_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "cornwall-street-squash-and-table-tennis-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/647_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "lai-chi-kok-park-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/lckpsc_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "po-wing-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ND/1147_PWRSC1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "pei-ho-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/phssc_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "po-on-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/porsc_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "sham-shui-po-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/2752_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "shek-kip-mei-park-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/693_01_.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "heng-on-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/395_Heng_On_SC_photo_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tsui-lam-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SK/383_t01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "po-lam-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SK/366_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "che-kung-temple-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/2259_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "hin-keng-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/396_Hin_Keng_SC_photo_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tung-chau-street-park-squash-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SSP/tcsp_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yuen-wo-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/448_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ma-on-shan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/411_Ma_On_Shan_SC_photo_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "mei-lam-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/414_Mei_Lam_SC_photo_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "sha-tin-jockey-club-public-squash-courts",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/423_Sha_Tin_Jockey_Club_Public_Squash_courts_photo_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "aberdeen-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SD/ASC%201.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "stanley-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SD/SSC%201.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ap-lei-chau-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SD/557_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "wong-chuk-hang-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SD/WCHSC%201.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yue-kwong-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SD/587_YKRSC1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "fu-heng-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TP/82_FHSC_Multi-purpose_activity_room.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "fu-shin-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TP/83_FSSC_Front_Door.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-po-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TP/95_TPSC_arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-wo-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TP/104_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-po-hui-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TP/TPHSC_Arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tsuen-king-circuit-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TW/TKCSC_multi%20arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tung-cheong-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TP/2722_TCSSC_Activity_Room.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tsuen-wan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TW/twsctw_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yeung-uk-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TW/639_YURSC_fitness%20room.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yuen-chau-kok-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ST/1312_Yuen_Chau_Kok_SC_photo_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "wai-tsuen-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TW/638_WTSC_multi_arena.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "leung-tin-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TM/TM_Leung%20Tin%20Sports%20Centre%20%281%29.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-hing-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TM/239_01.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "siu-lun-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TM/2190_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "the-jockey-club-tuen-mun-butterfly-beach-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TM/TM_The%20JC%20Tuem%20Mun%20Butterfly%20Beach%20Sports%20Centre%20%281%29.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yau-oi-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TM/272_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "lockhart-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WC/922_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "aberdeen-tennis-and-squash-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/SD/ATSC%201.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "harbour-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WC/Arena_HRSC.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "wong-nai-chung-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WC/935_001.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "choi-hung-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/719_Photo_Choi%20Hung%20Road%20Sports%20Centre%281%29.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "choi-hung-road-badminton-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/Photo_Choi%20Hung%20Road%20Badminton%20Centre%281%29.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tsuen-wan-west-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/TW/635_n1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "chuk-yuen-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/Photo_Chuk%20Yuen%20Sports%20Centre_1.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "kai-tak-east-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/Photo_Kai%20Tak%20Sports%20Centre_1.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "morse-park-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/Photo_Morse%20Park%20Sports%20Centre_1.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ngau-chi-wan-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/753_Photo_NCWSC_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ma-chai-hang-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/3169_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "boundary-street-sports-centre-no-2",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YTM/BSSC2_Activity%20Room.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "po-kong-village-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/WTS/Photo_Po%20Kong%20Village%20Road%20Sports%20Centre_1.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "boundary-street-sports-centre-no-1",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YTM/BSSC1_Arena.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "kwun-chung-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YTM/KCSC_Arena.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "fa-yuen-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YTM/512_FYSSC2.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "kowloon-park-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YTM/524_KPSC_ActivityRoom.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-kok-tsui-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YTM/TKTSC_Arena.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "fung-kam-street-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/149_01.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "long-ping-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/159_Front_door_LPSC.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "ping-shan-tin-shui-wai-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/1141_PSTSWSC1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "sir-denys-roberts-squash-courts",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/3055_3.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tin-fai-road-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/TFRSC1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tai-kiu-market-squash-courts",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/3057_1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "tin-shui-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/TSSC1.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yuen-long-jockey-club-squash-courts",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/3059_2.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "asap",
+    "url": "https://cdn.prod.website-files.com/691ebd3ca9220b5fcad24f71/69404319029b25351a3167db_f3c165866305dd0e3f455599a36bbf4e_ASAP%20-%2045%20IG%20POST%20%2812%29.avif",
+    "result": "200 image/avif",
+    "ok": true
+  },
+  {
+    "slug": "tin-shui-wai-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/195_TSWSC1.JPG",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "yuen-long-sports-centre",
+    "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/YL/YLSC1.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "acme-central",
+    "url": "https://visit-acme.com/cdn/shop/files/S10508396-Pano_highres.png?v=1709586127&width=1500",
+    "result": "200 image/png",
+    "ok": true
+  },
+  {
+    "slug": "the-ice-bath-club-kennedy-town",
+    "url": "https://cdn.sanity.io/images/p4tg2klf/production/0ff51ab2d09ae0ff66d64c6065419c3ee806fa12-2000x1429.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "recoveryhub",
+    "url": "https://static.wixstatic.com/media/9c59c8_dd3bc0678f49464283d967fe0a063438~mv2.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "attic-v-climbing",
+    "url": "https://static.wixstatic.com/media/044f1c_418685ebf8504a5bbc5c4529f9cb696e~mv2_d_3508_2038_s_2.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "the-player-climbingym",
+    "url": "https://static.wixstatic.com/media/f39dc5_dcd372d4054a41a7b2e468a1260d2314~mv2.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "mana-soho",
+    "url": "https://images.squarespace-cdn.com/content/v1/5f18f416d071533c5872a9a1/1596780267269-B7FN5V962MJJ9NI370EM/APC_0118.jpg?format=750w",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "saladstop-dorset-house",
+    "url": "https://saladstop.com.hk/wp-content/uploads/2024/05/IMG_1127-1024x683.jpg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "pure-yoga-apm",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143330/prime-location-apm-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-california-tower",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143352/prime-location-lkf-1-3.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "saladstop-exchange-square",
+    "url": "https://saladstop.com.hk/wp-content/uploads/2025/02/Image-1-1-scaled-e1738732471436-1024x723.jpeg",
+    "result": "200 image/jpeg",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-icbc-tower",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143336/prime-location-icbc-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-yoga-asia-standard-tower",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143333/prime-location-ast-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-ifc-mall",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143339/prime-location-ifc-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-yoga-langham-place",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143358/prime-location-lpy-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-k11-musea",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/25143621/prime-location-k11.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-lee-theatre-plaza",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143401/prime-location-ltp-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-kinwick-centre",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143346/prime-location-kin-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-langham-place",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143355/prime-location-lpf-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-yoga-lincoln-house",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143348/prime-location-lin-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  },
+  {
+    "slug": "pure-fitness-manulife-place",
+    "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/24143405/prime-location-mc5-r2-1-2.webp",
+    "result": "200 image/webp",
+    "ok": true
+  }
+]

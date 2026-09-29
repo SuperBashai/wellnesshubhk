@@ -1,0 +1,8 @@
+import { readFile, writeFile } from 'node:fs/promises';
+const candidates = JSON.parse(await readFile('data/image-candidates.json', 'utf8'));
+const selection = { 'kinship.hk': [0,1,2,3], 'comeasap.com': [5,7], 'recoveryhubhk.com': [0,1], 'visit-acme.com': [0,1,2], 'theicebathclubs.com': [0,7], 'coastalfitnesshk.com': [0], 'atticv.com.hk': [1], 'theplayerclimbing.com': [1], 'treehouse.eco/': [7,8,10], 'saladstop.com.hk': [2,3], 'mana.hk': [5,6] };
+const selected = Object.entries(selection).flatMap(([host, indices]) => { const entry = candidates.find((item) => item.source.includes(host)); return indices.map((index) => ({ ...entry.images[index], source: entry.source, index })); });
+const normalize = (url) => url.includes('wixstatic.com') ? url.split('/v1/')[0] : url.includes('/_next/image?') ? new URL(url).searchParams.get('url') : url.includes('squarespace-cdn') ? url.split('?')[0] + '?format=750w' : url;
+for (const photo of selected) photo.url = normalize(photo.url);
+await writeFile('data/selected-image-candidates.json', JSON.stringify(selected, null, 2));
+await writeFile('public/image-review.html', '<!doctype html><meta charset="utf-8"><title>Venue photo review</title><style>body{font:12px sans-serif;margin:20px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px}figure{margin:0}img{width:100%;height:170px;object-fit:contain;background:#eee}figcaption{height:34px}</style>' + selected.map((p, i) => `<figure><img src="${p.url.replaceAll('&','&amp;')}" referrerpolicy="no-referrer"><figcaption>${i}: ${new URL(p.source).hostname} / ${p.index}</figcaption></figure>`).join(''));

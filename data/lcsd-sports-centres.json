@@ -1,0 +1,5658 @@
+[
+  {
+    "name": {
+      "en": "Fat Kwong Street Sports Centre",
+      "zh-hk": "佛光街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kowloon City",
+      "zh-hk": "九龍城區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kowloon City. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於九龍城區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "9/F, Fat Kwong Street Sports Centre, 18 Good Shepherd Street, Ho Man Tin, Kowloon",
+      "zh-hk": "九龍何文田牧愛街18號佛光街體育館9樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2712 2652",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Ho Man Tin Sports Centre",
+      "zh-hk": "何文田體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "tennis",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kowloon City",
+      "zh-hk": "九龍城區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kowloon City. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於九龍城區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Fitness room",
+        "Table tennis",
+        "Tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "健身室",
+        "乒乓球",
+        "網球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1 Chung Yee Street, Ho Man Tin, Kowloon.",
+      "zh-hk": "九龍何文田忠義街1號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 2pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期二上午9時至下午2時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2762 7837",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hung Hom Municipal Services Building Sports Centre",
+      "zh-hk": "紅磡市政大廈體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kowloon City",
+      "zh-hk": "九龍城區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kowloon City. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於九龍城區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F, Hung Hom Municipal Services Building, 11 Ma Tau Wai Road, Hung Hom, Kowloon.",
+      "zh-hk": "紅磡馬頭圍道11號紅磡市政大廈3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2765 0586",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Kowloon City Sports Centre",
+      "zh-hk": "九龍城體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kowloon City",
+      "zh-hk": "九龍城區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kowloon City. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於九龍城區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F., Kowloon City Municipal Services Building, 100 Nga Tsin Wai Road, Kowloon City, Kowloon.",
+      "zh-hk": "九龍城衙前圍道100號九龍城市政大廈3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2716 1007",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "To Kwa Wan Sports Centre",
+      "zh-hk": "土瓜灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kowloon City",
+      "zh-hk": "九龍城區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kowloon City. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於九龍城區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "66 Ha Heung Road, To Kwa Wan, Kowloon.",
+      "zh-hk": "九龍土瓜灣下鄉道66號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2364 9285",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Fu Heng Sports Centre",
+      "zh-hk": "富亨體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tai Po",
+      "zh-hk": "大埔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tai Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於大埔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1/F, Fu Heng Shopping Centre, Fu Heng Estate, Tai Po.",
+      "zh-hk": "大埔富亨邨商場一樓富亨體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2665 2753",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Fu Shin Sports Centre",
+      "zh-hk": "富善體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tai Po",
+      "zh-hk": "大埔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tai Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於大埔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6/F, Multi-storey Car-park Building, Fu Shin Estate, Tai Po",
+      "zh-hk": "大埔富善邨多層停車場6樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2661 4144",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Po Hui Sports Centre",
+      "zh-hk": "大埔墟體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tai Po",
+      "zh-hk": "大埔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tai Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於大埔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6/F, Tai Po Complex, No. 8 Heung Sze Wui Street, Tai Po",
+      "zh-hk": "大埔鄉事會街8號大埔綜合大樓6樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "3183 9011",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Po Sports Centre",
+      "zh-hk": "大埔體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tai Po",
+      "zh-hk": "大埔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tai Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於大埔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.13, Ting Tai Road, Tai Po",
+      "zh-hk": "大 埔 汀 太 路 1 3 號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2664 7222",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Wo Sports Centre",
+      "zh-hk": "太和體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tai Po",
+      "zh-hk": "大埔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tai Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於大埔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Podium Level, Tai Wo Shopping Centre, Tai Wo Estate, Tai Po.",
+      "zh-hk": "大埔太和邨太和商場平台"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2656 3398",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hong Kong Park Sports Centre",
+      "zh-hk": "香港公園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Central & Western",
+      "zh-hk": "中西區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Central & Western. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於中西區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "29, Cotton Tree Drive, Central, Hong Kong.",
+      "zh-hk": "香港中環紅棉路29號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2521 5072",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hong Kong Squash Centre",
+      "zh-hk": "香港壁球中心"
+    },
+    "category": "movement",
+    "sports": [
+      "squash"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Central & Western",
+      "zh-hk": "中西區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Central & Western. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於中西區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "23, Cotton Tree Drive, Central, Hong Kong.",
+      "zh-hk": "香港中環紅棉路23號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily; Maintenance: No fixed maintenance day",
+      "zh-hk": "每日上午7時至晚上11時；保養時間：沒有固定保養日"
+    },
+    "phone": "2521 5072",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Shek Tong Tsui Sports Centre",
+      "zh-hk": "石塘咀體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Central & Western",
+      "zh-hk": "中西區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Central & Western. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於中西區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "5/F, Shek Tong Tsui Municipal Services Building, 470 Queen's Road West, Hong Kong",
+      "zh-hk": "香港皇后大道西470號，石塘咀市政大廈5樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2858 0541",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sheung Wan Sports Centre",
+      "zh-hk": "上環體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Central & Western",
+      "zh-hk": "中西區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Central & Western. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於中西區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Room 1104, 11/F Sheung Wan Municipal Services Building, No. 345 Queen's Road Central, Hong Kong",
+      "zh-hk": "上環皇后大道中345號上環市政大廈11樓1104室"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2853 2574",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Smithfield Sports Centre",
+      "zh-hk": "士美非路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Central & Western",
+      "zh-hk": "中西區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Central & Western. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於中西區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "4/F, Smithfield Municipal Services Building, 12K Smithfield, Kennedy Town, Hong Kong",
+      "zh-hk": "香港堅尼地城士美菲路12 K號士美非路市政大廈4樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期二上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2855 7321",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sun Yat Sen Memorial Park Sports Centre",
+      "zh-hk": "中山紀念公園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Central & Western",
+      "zh-hk": "中西區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Central & Western. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於中西區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Sun Yat Sen Memorial Park Sports Centre, 18 Eastern Street North, Sai Ying Pun, Hong Kong.",
+      "zh-hk": "西營盤東邊街北十八號 中山紀念公園體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) (All facilities (including the service counter, SmartPLAY Self-service Stations and Car Park) of Sun Yat Sen Memorial Park Sports Centre will be temporarily closed from 1 June 2025 to the first quarter of 2026. For details, please visit https://www.lcsd.gov.hk/en/facilities/facilitieslist.html ) ; Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外) (中山紀念公園體育館所有設施（包括服務櫃檯、康體通智能自助服務站及停車場）於2025年6月1日至2026年第一季期間暫停開放。詳情請瀏覽 https://www.lcsd.gov.hk/tc/facilities/facilitieslist.html ) ；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2858 2493",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Fung Kam Street Sports Centre",
+      "zh-hk": "鳳琴街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 20, Fung Yau Street North, Yuen Long, N.T.",
+      "zh-hk": "元朗鳳攸北街20號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2475 2334",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Long Ping Sports Centre",
+      "zh-hk": "朗屏體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Unit 202, Long Ping Commercial Centre, Long Ping Estate, Yuen Long",
+      "zh-hk": "元朗朗屏邨朗屏商場2樓202號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2475 2404",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tin Shui Sports Centre",
+      "zh-hk": "天瑞體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 7, Tin Shui Road, Tin Shui Wai, Yuen Long, N.T.",
+      "zh-hk": "天水圍天瑞路七號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2446 6609",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tin Shui Wai Sports Centre",
+      "zh-hk": "天水圍體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.1, Tin Pak Road, Tin Shui Wai, Yuen Long, N.T.",
+      "zh-hk": "天水圍天柏路一號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2446 4778",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Leung Tin Sports Centre",
+      "zh-hk": "良田體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tuen Mun",
+      "zh-hk": "屯門區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tuen Mun. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於屯門區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "4/F, Car Park Building, Tin King Estate, Tuen Mun",
+      "zh-hk": "屯門田景邨停車場4字樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2467 1594",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Hing Sports Centre",
+      "zh-hk": "大興體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tuen Mun",
+      "zh-hk": "屯門區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tuen Mun. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於屯門區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "38 Tsing Chung Koon Road, Tuen Mun",
+      "zh-hk": "新界屯門青松觀路38號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2463 1260",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "The Jockey Club Tuen Mun Butterfly Beach Sports Centre",
+      "zh-hk": "賽馬會屯門蝴蝶灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tuen Mun",
+      "zh-hk": "屯門區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tuen Mun. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於屯門區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 11 Wu Shan Road, Tuen Mun, N.T.",
+      "zh-hk": "新界屯門湖山路11號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2465 7610",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "TUEN MUN SWIMMING POOL SQUASH COURTS",
+      "zh-hk": "屯門游泳池壁球場"
+    },
+    "category": "movement",
+    "sports": [
+      "tennis",
+      "squash"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tuen Mun",
+      "zh-hk": "屯門區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tuen Mun. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於屯門區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "網球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "8, Hoi Wong Road, Tuen Mun, N.T.",
+      "zh-hk": "屯門海皇路八號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily; Maintenance: Depend on condition",
+      "zh-hk": "每日上午7時至晚上11時；保養時間：視乎需要而定"
+    },
+    "phone": "24517278",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yau Oi Sports Centre",
+      "zh-hk": "友愛體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tuen Mun",
+      "zh-hk": "屯門區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tuen Mun. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於屯門區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3 Hing On Lane, Tuen Mun",
+      "zh-hk": "新界屯門興安里3號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2450 8850",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Luen Wo Hui Sports Centre",
+      "zh-hk": "聯和墟體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "tennis",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "North",
+      "zh-hk": "北區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in North. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於北區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Fitness room",
+        "Tennis",
+        "Dance"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "健身室",
+        "網球",
+        "舞蹈"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F, 9 Wo Mun Street, Luen Wo Hui, Fanling, New Territories",
+      "zh-hk": "新界粉嶺聯和墟和滿街9號3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2677 5149",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Lung Sum Avenue Sports Centre",
+      "zh-hk": "龍琛路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "North",
+      "zh-hk": "北區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in North. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於北區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "155 Jockey Club Road, Sheung Shui, New Territories.",
+      "zh-hk": "新界上水馬會道155號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外) ；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2673 4433",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tin Ping Sports Centre",
+      "zh-hk": "天平體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "North",
+      "zh-hk": "北區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in North. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於北區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "網球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F, Tin Ping Shopping Centre, Tin Ping Estate, Sheung Shui",
+      "zh-hk": "上水天平邨天平商場3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2673 3699",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Wo Hing Sports Centre",
+      "zh-hk": "和興體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "North",
+      "zh-hk": "北區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in North. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於北區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.8 Wo Ming Lane, Fanling",
+      "zh-hk": "粉嶺和鳴里8號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2669 7057",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Po Lam Sports Centre",
+      "zh-hk": "寶林體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Po Lam Estate, Tseung Kwan O",
+      "zh-hk": "將軍澳寶林邨"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2701 5918",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sai Kung Squash Courts",
+      "zh-hk": "西貢壁球場"
+    },
+    "category": "movement",
+    "sports": [
+      "tennis",
+      "squash"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "網球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Wai Man Road, Sai Kung",
+      "zh-hk": "西貢惠民路"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily",
+      "zh-hk": "每日上午7時至晚上11時"
+    },
+    "phone": "2792 6459",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tseung Kwan O Sports Centre",
+      "zh-hk": "將軍澳體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "9 Wan Lung Road, Tseung Kwan O",
+      "zh-hk": "將軍澳運隆路9號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2701 2317",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tsui Lam Sports Centre",
+      "zh-hk": "翠林體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Tsui Lam Estate, Tseung Kwan O",
+      "zh-hk": "將軍澳翠林邨翠林體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2703 1137",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Heng On Sports Centre",
+      "zh-hk": "恆安體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "4/F Heng On Commercial Centre, Heng On Estate, Ma On Shan, Sha Tin",
+      "zh-hk": "沙田馬鞍山恆安邨恆安商場四樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2642 0203",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hin Keng Sports Centre",
+      "zh-hk": "顯徑體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Hin Keng Commercial Centre, Hin Keng Estate, Sha Tin",
+      "zh-hk": "沙田顯徑邨顯徑商場"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2605 8407",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Ma On Shan Sports Centre",
+      "zh-hk": "馬鞍山體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "14 On Chun Street, Ma On Shan, Sha Tin",
+      "zh-hk": "沙田馬鞍山鞍駿街14號"
+    },
+    "openingHours": {
+      "en": "7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2631 1597",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Mei Lam Sports Centre",
+      "zh-hk": "美林體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Mei Lam Estate Phase III, Tai Wai, Sha Tin",
+      "zh-hk": "沙田大圍美林邨第三期"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2695 9318",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sha Tin Jockey Club Public Squash Courts",
+      "zh-hk": "沙田賽馬會公眾壁球場"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "squash",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Table tennis",
+        "Dance"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "乒乓球",
+        "舞蹈"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.12 Yuen Wo Road ,Sha Tin , N.T.",
+      "zh-hk": "新界沙田源禾路12號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2604 7647",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yuen Wo Road Sports Centre",
+      "zh-hk": "源禾路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "8 Yuen Wo Road, Sha Tin, NT.",
+      "zh-hk": "新界沙田源禾路8號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2604 5987",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Chai Wan Sports Centre",
+      "zh-hk": "柴灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Eastern",
+      "zh-hk": "東區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Eastern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於東區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6 Yee Shun Street, Chai Wan, Hong Kong",
+      "zh-hk": "香港柴灣怡順街6號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2897 9144",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Island East Sports Centre",
+      "zh-hk": "港島東體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Eastern",
+      "zh-hk": "東區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Eastern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於東區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "52 Lei King Road, Sai Wan Ho, Hong Kong",
+      "zh-hk": "香港西灣河鯉景道52號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Wednesdays of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期三上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2151 4070",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Java Road Sports Centre",
+      "zh-hk": "渣華道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Eastern",
+      "zh-hk": "東區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Eastern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於東區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F, Java Road Municipal Services Building, 99 Java Road, North Point, Hong Kong.",
+      "zh-hk": "香港北角渣華道99號渣華道市政大廈3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2516 9415",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Quarry Bay Sports Centre",
+      "zh-hk": "鰂魚涌體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Eastern",
+      "zh-hk": "東區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Eastern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於東區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "7/F, Quarry Bay Municipal Services Building, 38 Quarry Bay Street, Hong Kong",
+      "zh-hk": "香港鰂魚涌街38號鰂魚涌市政大廈7樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期三上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2562 0374",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sai Wan Ho Sports Centre",
+      "zh-hk": "西灣河體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "squash",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Eastern",
+      "zh-hk": "東區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Eastern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於東區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2/F, 111 Shaukeiwan Road, Sai Wan Ho, Hong Kong.",
+      "zh-hk": "香港西灣河筲箕灣道111號2樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日"
+    },
+    "phone": "2569 7330",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Boundary Street Sports Centre No. 1",
+      "zh-hk": "界限街一號體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Yau Tsim Mong",
+      "zh-hk": "油尖旺區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yau Tsim Mong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於油尖旺區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "200 Sai Yee Street, Mong Kok, Kowloon",
+      "zh-hk": "九龍旺角洗衣街200號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 8am to 11am on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午8時至上午11時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2380 9751",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Boundary Street Sports Centre No. 2",
+      "zh-hk": "界限街二號體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Yau Tsim Mong",
+      "zh-hk": "油尖旺區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yau Tsim Mong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於油尖旺區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "200 Sai Yee Street, Mong Kok, Kowloon",
+      "zh-hk": "九龍旺角洗衣街200號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 11am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午11時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2380 9751",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Fa Yuen Street Sports Centre",
+      "zh-hk": "花園街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Yau Tsim Mong",
+      "zh-hk": "油尖旺區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yau Tsim Mong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於油尖旺區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "10-13/F., Fa Yuen Street Municipal Services Building, 123A Fa Yuen Street, Mong Kok, Kowloon",
+      "zh-hk": "九龍旺角花園街123A號花園街市政大廈十至十三樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2395 1501",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Kowloon Park Sports Centre",
+      "zh-hk": "九龍公園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Yau Tsim Mong",
+      "zh-hk": "油尖旺區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yau Tsim Mong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於油尖旺區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Kowloon Park Sports Centre 22 Austin Road, Tsim Sha Tsui, Kowloon",
+      "zh-hk": "九龍尖沙咀柯士甸道22號九龍公園體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2724 3120",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Kwun Chung Sports Centre",
+      "zh-hk": "官涌體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Yau Tsim Mong",
+      "zh-hk": "油尖旺區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yau Tsim Mong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於油尖旺區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6/F, Kwun Chung Municipal Services Building, 17 Bowring Street, Jordan, Kowloon",
+      "zh-hk": "九龍佐敦寶靈街17號官涌市政大廈6樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2302 1275",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Kok Tsui Sports Centre",
+      "zh-hk": "大角咀體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Yau Tsim Mong",
+      "zh-hk": "油尖旺區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yau Tsim Mong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於油尖旺區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6/F, Tai Kok Tsui Municipal Services Building, 63 Fuk Tsun Street, Tai Kok Tsui, Kowloon",
+      "zh-hk": "九龍大角咀褔全街63號大角咀市政大廈6樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2393 1084",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Aberdeen Sports Centre",
+      "zh-hk": "香港仔體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Southern",
+      "zh-hk": "南區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Southern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於南區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6 th Floor, Aberdeen Municipal Services Building, No. 203 Aberdeen Main Road, Aberdeen, Hong Kong",
+      "zh-hk": "香港香港仔大道203號香港仔巿政大廈6樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2555 8909",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Aberdeen Tennis and Squash Centre",
+      "zh-hk": "香港仔網球及壁球中心"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "tennis",
+      "squash",
+      "gym"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Southern",
+      "zh-hk": "南區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Southern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於南區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Fitness room",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "健身室",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 1 Aberdeen Praya Road, Aberdeen, Hong Kong.",
+      "zh-hk": "香港香港仔海傍道1號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9 am to 3 pm on the 1st & 3rd Tuesday of each month (except tennis courts, light refreshment restaurant and booking office) (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間： 每月第一及第三個星期二上午9時至下午3時 (網球場、小食食肆及訂場處除外) (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2553 6130",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Ap Lei Chau Sports Centre",
+      "zh-hk": "鴨脷洲體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Southern",
+      "zh-hk": "南區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Southern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於南區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1 st floor of Ap Lei Chau Municipal Services Building, No.8 Hung Shing Street, Ap Lei Chau, Hong Kong.",
+      "zh-hk": "香港鴨脷洲洪聖街8號，鴨脷洲市政大廈一樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2554 0832",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Stanley Sports Centre",
+      "zh-hk": "赤柱體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Southern",
+      "zh-hk": "南區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Southern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於南區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Table tennis",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "乒乓球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "UG/F, Stanley Municipal Services Building, No.6 Stanley Market Road, Hong Kong",
+      "zh-hk": "香港赤柱市場道6號赤柱市政大廈地面上層"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2813 5106",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Wong Chuk Hang Sports Centre",
+      "zh-hk": "黃竹坑體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Southern",
+      "zh-hk": "南區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Southern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於南區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Basketball",
+        "Dance"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "籃球",
+        "舞蹈"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 168 Wong Chuk Hang Road, Hong Kong",
+      "zh-hk": "香港黃竹坑道168號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2553 6663",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yue Kwong Road Sports Centre",
+      "zh-hk": "漁光道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Southern",
+      "zh-hk": "南區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Southern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於南區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Basketball",
+        "Dance"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "籃球",
+        "舞蹈"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 43 Yue Kwong Road, Aberdeen, Hong Kong",
+      "zh-hk": "香港香港仔漁光道43號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2554 9132",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tsuen King Circuit Sports Centre",
+      "zh-hk": "荃景圍體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tsuen Wan",
+      "zh-hk": "荃灣區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tsuen Wan. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於荃灣區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 38, Mei Wan Street, Tsuen Wan, N.T.",
+      "zh-hk": "荃灣美環街38號荃景圍體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2405 6960",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tsuen Wan West Sports Centre",
+      "zh-hk": "荃灣西約體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tsuen Wan",
+      "zh-hk": "荃灣區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tsuen Wan. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於荃灣區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.68, Hoi On Road, Tsuen Wan",
+      "zh-hk": "荃灣海安路68號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2412 0904",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Wai Tsuen Sports Centre",
+      "zh-hk": "蕙荃體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tsuen Wan",
+      "zh-hk": "荃灣區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tsuen Wan. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於荃灣區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No 6 Miu Kong Street, Tsuen Wan",
+      "zh-hk": "荃灣廟崗街6號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2415 2621",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yeung Uk Road Sports Centre",
+      "zh-hk": "楊屋道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tsuen Wan",
+      "zh-hk": "荃灣區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tsuen Wan. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於荃灣區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "4/F & 5/F, Yeung Uk Road Municipal Services Building, No. 45 Yeung Uk Road, Tsuen Wan",
+      "zh-hk": "荃灣楊屋道45號楊屋道市政大廈4樓"
+    },
+    "openingHours": {
+      "en": "7 am to 11 pm daily (except maintenance day); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2415 4445",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Cheung Sha Wan Sports Centre",
+      "zh-hk": "長沙灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Basketball",
+        "Tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "籃球",
+        "網球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "J/O Hing Wah Street and Cheung Sha Wan Road, Sham Shui Po, Kowloon",
+      "zh-hk": "九龍長沙灣道及興華街交界"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2741 7287",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Cornwall Street Squash and Table Tennis Centre",
+      "zh-hk": "歌和老街壁球及乒乓球中心"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "squash"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "17 Cornwall Street, Kowloon Tong",
+      "zh-hk": "九龍塘歌和老街17號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2337 4392",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Lai Chi Kok Park Sports Centre",
+      "zh-hk": "荔枝角公園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1 Lai Wan Road, Lai Chi Kok, Kowloon.",
+      "zh-hk": "九龍荔枝角荔灣道1號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2745 2796",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Pei Ho Street Sports Centre",
+      "zh-hk": "北河街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "6/F, Pei Ho Street Municipal Services Building, 333 Ki Lung Street, Sham Shui Po, Kowloon",
+      "zh-hk": "深水埗基隆街333 號北河街市政大廈6樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期三上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2729 1010",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Po On Road Sports Centre",
+      "zh-hk": "保安道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1/F, Po On Road Municipal Services Building, 325-329 Po On Road, Sham Shui Po, Kowloon.",
+      "zh-hk": "深水埗保安道325-329號保安道市政大廈2樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2729 4237",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Shek Kip Mei Park Sports Centre",
+      "zh-hk": "石硤尾公園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "290, Nam Cheong Street, Sham Shui Po, Kowloon.",
+      "zh-hk": "深水埗南昌街290 號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期二上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2784 7424",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tung Chau Street Park Squash Centre",
+      "zh-hk": "通州街公園壁球中心"
+    },
+    "category": "movement",
+    "sports": [
+      "tennis",
+      "squash"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "網球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Tung Chau Street, Sham Shui Po, Kowloon",
+      "zh-hk": "深水埗通洲街163 號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2728 4888",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Choi Hung Road Badminton Centre",
+      "zh-hk": "彩虹道羽毛球中心"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "150 Choi Hung Road, Wong Tai Sin",
+      "zh-hk": "黃大仙彩虹道150號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2326 2517",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Choi Hung Road Sports Centre",
+      "zh-hk": "彩虹道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 150 Choi Hung Road, Wong Tai Sin.",
+      "zh-hk": "黃大仙彩虹道150號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2326 2714",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Chuk Yuen Sports Centre",
+      "zh-hk": "竹園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Chuk Yuen Sports Centre, 10 Chuk Yuen Road, Kowloon",
+      "zh-hk": "九龍竹園道10號竹園體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2324 3960",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Kai Tak East Sports Centre",
+      "zh-hk": "東啟德體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "climbing"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "30 Luk Hop Street, San Po Kong, Kowloon",
+      "zh-hk": "九龍新蒲崗六合街30號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2326 9940",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Morse Park Sports Centre",
+      "zh-hk": "摩士公園體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Table tennis",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "乒乓球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "40 Fung Mo Street, Wong Tai Sin, Kowloon",
+      "zh-hk": "九龍黃大仙鳳舞街40號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2326 2207",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Ngau Chi Wan Sports Centre",
+      "zh-hk": "牛池灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Table tennis",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "乒乓球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1/F, Ngau Chi Wan Municipal Services Building, 11 Clear Water Bay Road, Kowloon",
+      "zh-hk": "九龍清水灣道11號牛池灣市政大廈1樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2327 4915",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Po Kong Village Road Sports Centre",
+      "zh-hk": "蒲崗村道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Wong Tai Sin",
+      "zh-hk": "黃大仙區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wong Tai Sin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於黃大仙區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "120 Po Kong Village Road, Tsz Wan Shan, Wong Tai Sin, Kowloon",
+      "zh-hk": "九龍黃大仙慈雲山蒲崗村道120號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) ; Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2325 3585",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Cheung Fat Sports Centre",
+      "zh-hk": "長發體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "4/F., Cheung Fat Plaza, Cheung Fat Estate, Tsing Yi, New Territories",
+      "zh-hk": "新界青衣長發邨長發廣場4字樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2433 5886",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Fung Shue Wo Sports Centre",
+      "zh-hk": "楓樹窩體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "10 Fung Shue Wo Road, Phase II, Tsing Yi Estate, Tsing Yi, New Territories",
+      "zh-hk": "新界青衣楓樹窩路10號青衣邨第2期"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2433 6523",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Lai King Sports Centre",
+      "zh-hk": "荔景體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "60 Lai Cho Road, Kwai Chung, New Territories",
+      "zh-hk": "新界葵涌麗祖路60號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2744 5678",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "North Kwai Chung Tang Shiu Kin Sports Centre",
+      "zh-hk": "北葵涌鄧肇堅體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "292 Wo Yi Hop Road, Kwai Chung, New Territories",
+      "zh-hk": "新界葵涌和宜合道292號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2426 3269",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Osman Ramju Sadick Memorial Sports Centre",
+      "zh-hk": "林士德體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.176, Hing Fong Road, Kwai Chung, New Territories",
+      "zh-hk": "新界葵涌興芳路176號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2422 5610",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Wo Hau Sports Centre",
+      "zh-hk": "大窩口體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "39 Tai Ha Street, Tai Wo Hau, Kwai Chung, New Territories",
+      "zh-hk": "新界葵涌大窩口大廈街39號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2920 2011",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tsing Yi Sports Centre",
+      "zh-hk": "青衣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2/F, Tsing Yi Municipal Services Building, 38 Tsing Luk Street, Tsing Yi, New Territories",
+      "zh-hk": "新界青衣青綠街38號青衣市政大廈2字樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2495 4631",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Cheung Chau Sports Centre",
+      "zh-hk": "長洲體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Islands",
+      "zh-hk": "離島區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Islands. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於離島區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No.3,Cheung Chau Hospital Road, Cheung Chau",
+      "zh-hk": "長洲醫院路三號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) (The following facilities in Cheung Chau Sports Centre will be temporarily closed for urgent repair works: Facilities Closed Period Basketball Court, No. 1 & 2 Badminton Court 13 August 2025 to&nbsp;25 September 2025 &nbsp; During the closure period, other facilities of the Sports Centre will remain open as usual. &nbsp; We apologize for any inconvenience caused. For enquiries, please contact the venue in-charge at 2981 6285.) (The following facility in Cheung Chau Sports Centre will be temporarily closed for urgent maintenance work: Facility Closure Period Multi-purpose Arena 1 September to 25 September 2025 During the closure period, other facilities of the Sports Centre will remain open as usual. We apologize for any inconvenience caused. For enquiries, please contact the venue in-charge on 2981 6285.) ; Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外) (長洲體育館部分設施將於下述期間暫停開放，以進行緊急維修工程： 設施 暫停開放日期 籃球場，1號及2號羽毛球場 由2025年8月13日至9月25日 &nbsp; 在上述設施關閉期間，體育館內其他設施將照常開放。不便之處，敬請原諒。 如有任何查詢，請致電2981 6285與場地主管聯絡。) (長洲體育館的部分設施將於下述期間暫停開放，以便進行緊急維修工程。 設施 暫停開放日期 多用途主場 2025年9月1日至9月25日 工程期間，體育館內其他設施會照常開放。不便之處，敬請原諒。 如有任何查詢，請致電2981 6285與場地主管聯絡。) ；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2981 6285",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Mui Wo Sports Centre",
+      "zh-hk": "梅窩體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Islands",
+      "zh-hk": "離島區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Islands. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於離島區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1/F Mui Wo Municipal Services Building, 9 Ngan Shek Street, Lantau Island",
+      "zh-hk": "大嶼山銀石街9號梅窩巿政大廈1樓"
+    },
+    "openingHours": {
+      "en": "8:30am to 10:30pm daily (except maintenance days); Maintenance: 7:30am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午8時30分至晚上10時30分(定期保養日除外)；保養時間：每月第二及第四個星期一上午8時30分至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2984 2334",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Peng Chau Sports Centre",
+      "zh-hk": "坪洲體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Islands",
+      "zh-hk": "離島區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Islands. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於離島區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "G/F, Peng Chau Municipal Services Building, 6 Po Peng Street, Peng Chau",
+      "zh-hk": "坪洲寶坪街6號坪洲巿政大廈地下"
+    },
+    "openingHours": {
+      "en": "8am to 11pm daily (except maintenance days); Maintenance: 8am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午8時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午8時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2983 8420",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Praya Street Sports Centre",
+      "zh-hk": "海傍街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "squash",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Islands",
+      "zh-hk": "離島區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Islands. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於離島區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1/F., Cheung Chau Municipal Services Building, 2 Tai Hing Tai Road, Cheung Chau",
+      "zh-hk": "長洲大興堤路2號長洲市政大廈1樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) (The following facility in Praya Street Sports Centre will be temporarily closed for renovation works : Facility Closure Period Activity Room 2 and the Corridor nearby 1 September 2025 to 30 November 2025 During the above period, other facilities in the Sports Centre will remain open as usual. We apologize for any inconvenience caused. For enquiries, please contact the venue in-charge at 2986 9861.) ; Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外) (海傍街體育館以下設施將於下述期間暫停開放，以便進行改善工程: 設施 暫停開放日期 活動室2 及 鄰近走廊 2025年9月1日至2025年11月30日 工程期間，體育館內其他設施會照常開放。不便之處，敬請原諒。 如有任何查詢，請致電2986 9861與場地主管聯絡。) ；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2981 5409",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Harbour Road Sports Centre",
+      "zh-hk": "港灣道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Wan Chai",
+      "zh-hk": "灣仔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wan Chai. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於灣仔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Harbour Road Sports Centre 27 Harbour Road, Wan Chai, Hong Kong",
+      "zh-hk": "香港灣仔港灣道27號港灣道體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 8am to 2pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午8時至下午2時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2827 9684",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Lockhart Road Sports Centre",
+      "zh-hk": "駱克道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Wan Chai",
+      "zh-hk": "灣仔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wan Chai. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於灣仔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Lockhart Road Sports Centre, 10/F, Lockhart Road Municipal Services Building, 225 Hennessy Road, Wan Chai, Hong Kong",
+      "zh-hk": "香港灣仔軒尼詩道225號駱克道市政大廈10樓 駱克道體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2879 5521",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Wong Nai Chung Sports Centre",
+      "zh-hk": "黃泥涌體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Wan Chai",
+      "zh-hk": "灣仔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Wan Chai. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於灣仔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Wong Nai Chung Sports Centre 4/F, Wong Nai Chung Municipal Services Building, 2 Yuk Sau Street, Wong Nai Chung, Hong Kong",
+      "zh-hk": "香港跑馬地毓秀街2號黃泥涌市政大廈4字樓 黃泥涌體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 8am to 2pm on the 1st & 3rd Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期三上午8時至下午2時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2891 8438",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Chun Wah Road Sports Centre",
+      "zh-hk": "振華道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Table tennis",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "乒乓球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Top Floor, Lok Nga Court Carpark, 50 Chun Wah Road, Ngau Tau Kok.",
+      "zh-hk": "牛頭角振華道50號樂雅苑停車場頂樓(毗鄰樂華&#58483;)"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日）"
+    },
+    "phone": "2318 1767",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hiu Kwong Street Sports Centre",
+      "zh-hk": "曉光街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2 Hiu Kwong Street, Kwun Tong, Kowloon",
+      "zh-hk": "九龍觀塘曉光街2號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2347 0384",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Kowloon Bay Sports Centre",
+      "zh-hk": "九龍灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "15 Kai Lok Street, Kowloon Bay",
+      "zh-hk": "九龍灣&#21855;樂街15號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2750 9539",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Lam Tin South Sports Centre",
+      "zh-hk": "藍田(南)體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "170 Pik Wan Road, Lam Tin, Kwun Tong, Kowloon",
+      "zh-hk": "九龍觀塘藍田碧雲道170號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期三上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2379 9254",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Lei Yue Mun Sports Centre",
+      "zh-hk": "鯉魚門體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2/F to 5/F of the Lei Yue Mun Municipal Services Building, Yau Tong, Kowloon",
+      "zh-hk": "九龍油塘鯉魚門市政大廈2樓至5樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時 至 下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2349 3954",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Ngau Tau Kok Road Sports Centre",
+      "zh-hk": "牛頭角道體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2/F to 4/F, Ngau Tau Kok Municipal Services Building, 183 Ngau Tau Kok Road, Kowloon",
+      "zh-hk": "九龍牛頭角道183號牛頭角市政大廈2樓至4樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2756 3466",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Shui Wo Street Sports Centre",
+      "zh-hk": "瑞和街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "squash",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "8/F & 9/F, Shui wo Street Municipal Services Building, 9 Shui Wo Street, Kwun Tong, Kowloon",
+      "zh-hk": "九龍觀塘瑞和街9號瑞和街市政大廈8樓至9樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2797 3350",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Shun Lee Tsuen Sports Centre",
+      "zh-hk": "順利邨體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "squash",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Squash"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "壁球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "No. 33, Shun Lee Tsuen Road, Kwun Tong, Kowloon",
+      "zh-hk": "九龍觀塘順利邨道33號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2951 4136",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tung Chung Man Tung Road Sports Centre",
+      "zh-hk": "東涌文東路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Islands",
+      "zh-hk": "離島區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Islands. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於離島區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "Tung Chung Man Tung Road Sports Centre, G/F., Tung Chung Municipal Services Building, 39 Man Tung Road, Tung Chung",
+      "zh-hk": "東涌文東路39號東涌市政大樓地下 東涌文東路體育館"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2109 2421",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Siu Sai Wan Sports Centre",
+      "zh-hk": "小西灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "dance"
+    ],
+    "territory": "island",
+    "area": {
+      "en": "Eastern",
+      "zh-hk": "東區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Eastern. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於東區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Table tennis",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "乒乓球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2/F Siu Sai Wan Complex, 15 Siu Sai Wan Road, Hong Kong",
+      "zh-hk": "香港小西灣道15號小西灣綜合大樓二樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "3427 3121",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hang Hau Sports Centre",
+      "zh-hk": "坑口體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1-3/F, Sai Kung Tseung Kwan O Government Complex, 38 Pui Shing Road, Tseung Kwan O",
+      "zh-hk": "將軍澳培成路38號西貢將軍澳政府綜合大樓1-3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外）；保養時間：每月第二及第四個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2623 5928",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Ping Shan Tin Shui Wai Sports Centre",
+      "zh-hk": "屏山天水圍體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Table tennis",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "乒乓球",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1 Tsui Sing Road, Tin Shui Wai",
+      "zh-hk": "天水圍聚星路1號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期三上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2350 9455",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Po Wing Road Sports Centre",
+      "zh-hk": "保榮路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "North",
+      "zh-hk": "北區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in North. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於北區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "19 Pak Wo Road, Sheung Shui, New Territories.",
+      "zh-hk": "新界上水百和路19號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2639 2979",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tin Fai Road Sports Centre",
+      "zh-hk": "天暉路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "63 Tin Shui Road, Tin Shui Wai, Yuen Long.",
+      "zh-hk": "天水圍天瑞路63號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期三上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2473 0229",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Hong Kong Velodrome",
+      "zh-hk": "香港單車館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "105-107 Po Hong Road, Tseung Kwan O",
+      "zh-hk": "將軍澳寶康路105-107號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時（定期保養日除外）；保養時間：每月第一及第三個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2878 8622",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tiu Keng Leng Sports Centre",
+      "zh-hk": "調景嶺體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sai Kung",
+      "zh-hk": "西貢區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sai Kung. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於西貢區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2 Chui Ling Road, Tseung Kwan O",
+      "zh-hk": "將軍澳翠嶺路2號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間：每月第二及第四個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2481 5033",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yuen Chau Kok Sports Centre",
+      "zh-hk": "圓洲角體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "35 Ngan Shing Street, Sha Tin, NT.",
+      "zh-hk": "新界沙田銀城街35號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Thursday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第一及第三個星期四上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2509 9108",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yuen Long Sports Centre",
+      "zh-hk": "元朗體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F Yuen Long Leisure and Cultural Building, 52 Ma Tin Road, Yuen Long",
+      "zh-hk": "元朗馬田路52號元朗文化康樂大樓3樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) ; Maintenance: 7am to 1pm on the 2nd & 4th Tuesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外) ；保養時間：每月第二及第四個星期二上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2891 9207",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tsing Yi Southwest Sports Centre",
+      "zh-hk": "青衣西南體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Kwai Tsing",
+      "zh-hk": "葵青區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwai Tsing. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於葵青區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "70 Chung Mei Road, Tsing Yi, New Territories",
+      "zh-hk": "新界青衣涌美路70號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時（定期保養日除外）；保養時間：每月第一及第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日）"
+    },
+    "phone": "2341 0102",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tsuen Wan Sports Centre",
+      "zh-hk": "荃灣體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tsuen Wan",
+      "zh-hk": "荃灣區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tsuen Wan. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於荃灣區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "53 Wing Shun Street, Tsuen Wan, N.T.",
+      "zh-hk": "新界荃灣永順街53號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) (The following facilities in Tsuen Wan Sports Centre will be temporarily closed for refurbishment works: Facilities Closed Period Secondary Hall on Ground Floor from 17 October 2025 to 24 October 2025 Main Arena on 2nd Floor from 6 October 2025 to 26 October 2025 During the work periods, other facilities in the Sports Centre will remain open as usual. We apologize for any inconvenience caused. For enquiries, please contact the venue in-charge at 2392 9570.) ; Maintenance: 7am to 1pm on the 1st & 3rd Thursday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外) (荃灣體育館的部份設施將於下述期間暫停開放，以便進行翻新工程: 設施 暫停開放日期 地下副場 2025年10月17日至2025年10月24日 二樓主場 2025年10月6日至2025年10月26日 在上述設施關閉期間，體育館內其他設施將會照常開放。不便之處，敬請原諒。 如有任何查詢，請致電2392 9570與場地主管聯絡。) ；保養時間：每月第一及第三個星期四上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2392 9570",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Siu Lun Sports Centre",
+      "zh-hk": "兆麟體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "climbing",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tuen Mun",
+      "zh-hk": "屯門區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tuen Mun. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於屯門區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F, Tuen Mun Siu Lun Government Complex, 19 Siu Lun Street, Tuen Mun, N.T.",
+      "zh-hk": "屯門兆麟街19號屯門兆麟政府綜合大樓3字樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st & 3nd Wednesday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外) ；保養時間： 每月第一及第三個星期三上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2659 2311",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Che Kung Temple Sports Centre",
+      "zh-hk": "車公廟體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Sha Tin",
+      "zh-hk": "沙田區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sha Tin. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於沙田區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "10 Sha Tin Tau Road, Sha Tin",
+      "zh-hk": "沙田沙田頭路10號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) ; Maintenance: 7am to 1pm on the 2nd & 4th Thursday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外) ；保養時間： 每月第二及第四個星期四上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2790 0221",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Choi Wing Road Sports Centre",
+      "zh-hk": "彩榮路體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Kwun Tong",
+      "zh-hk": "觀塘區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Kwun Tong. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於觀塘區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "58 Choi Wing Road, Kwun Tong",
+      "zh-hk": "觀塘彩榮路58號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) ; Maintenance: 9am to 3pm on the 1st & 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外) ；保養時間： 每月第一及第三個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日）"
+    },
+    "phone": "2721 5918",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tung Cheong Street Sports Centre",
+      "zh-hk": "東昌街體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "table-tennis",
+      "basketball",
+      "volleyball",
+      "gym"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Tai Po",
+      "zh-hk": "大埔區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Tai Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於大埔區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "3/F, Tai Po Tung Cheong Street Leisure Building, 25 Tung Cheong Street, Tai Po",
+      "zh-hk": "大埔東昌街 25 號大埔東昌街康體大樓 3 樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 1st and 3rd Thursday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第1及第3個星期四上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2691 2055",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sham Shui Po Sports Centre",
+      "zh-hk": "深水埗體育館"
+    },
+    "category": "movement",
+    "sports": [
+      "badminton",
+      "tennis",
+      "basketball",
+      "volleyball",
+      "gym",
+      "dance"
+    ],
+    "territory": "kowloon",
+    "area": {
+      "en": "Sham Shui Po",
+      "zh-hk": "深水埗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Sham Shui Po. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於深水埗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Badminton",
+        "Fitness room",
+        "Basketball"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "羽毛球",
+        "健身室",
+        "籃球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "2/F, Sham Shui Po Leisure and Cultural Building, 38 Sham Mong Road, Sham Shui Po, Kowloon",
+      "zh-hk": "深水埗深旺道38號深水埗康樂文化大樓2樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 9am to 3pm on the 2nd & 4th Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時 (定期保養日除外)；保養時間：每月第二及第四個星期一上午9時至下午3時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2360 2276",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Sir Denys Roberts Squash Courts",
+      "zh-hk": "羅弼時爵士壁球場"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "squash"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "1 Ping Fai Path, Ping Wu Street, Yuen Long",
+      "zh-hk": "元朗屏會街屏輝徑1號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) ; Maintenance: 7am to 1pm on the 1st Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外)；保養時間： 每月第一個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2479 2950",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Tai Kiu Market Squash Courts",
+      "zh-hk": "大橋街市壁球場"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "squash"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "M/F, Yuen Long Government Offices, 2 Kiu Lok Square, Yuen Long",
+      "zh-hk": "元朗橋樂坊2號元朗政府合署閣樓"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days); Maintenance: 7am to 1pm on the 2nd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外) ；保養時間： 每月第二個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2475 3620",
+    "source": "LCSD Sports Centres open dataset"
+  },
+  {
+    "name": {
+      "en": "Yuen Long Jockey Club Squash Courts",
+      "zh-hk": "元朗賽馬會壁球場"
+    },
+    "category": "movement",
+    "sports": [
+      "table-tennis",
+      "squash"
+    ],
+    "territory": "new-territories",
+    "area": {
+      "en": "Yuen Long",
+      "zh-hk": "元朗區"
+    },
+    "description": {
+      "en": "Public indoor sports facility in Yuen Long. Check LCSD for its courts, activity spaces and maintenance days.",
+      "zh-hk": "位於元朗區嘅公共室內運動設施。場地、活動空間及保養日詳情請參閱康文署資料。"
+    },
+    "tags": {
+      "en": [
+        "Public facility",
+        "Squash",
+        "Table tennis"
+      ],
+      "zh-hk": [
+        "公共設施",
+        "壁球",
+        "乒乓球"
+      ]
+    },
+    "url": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0",
+    "address": {
+      "en": "32 Kin Tak Street, Yuen Long",
+      "zh-hk": "元朗建德街32號"
+    },
+    "openingHours": {
+      "en": "7am to 11pm daily (except maintenance days) ; Maintenance: 7am to 1pm on the 3rd Monday of each month (If a maintenance day falls on a public holiday, it will be rescheduled to the next working day.)",
+      "zh-hk": "每日上午7時至晚上11時(定期保養日除外) ；保養時間： 每月第三個星期一上午7時至下午1時 (如該日為公眾假期，保養日則順延至下一個工作日)"
+    },
+    "phone": "2474 4913",
+    "source": "LCSD Sports Centres open dataset"
+  }
+]

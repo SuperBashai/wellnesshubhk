@@ -1,0 +1,428 @@
+{
+  "venues": 224,
+  "withPhotos": 140,
+  "photographs": 341,
+  "missing": [
+    {
+      "name": "IKIGAI Causeway Bay",
+      "slug": "ikigai-causeway-bay",
+      "source": "https://www.ikigai.hk/en/studios"
+    },
+    {
+      "name": "SpiceBox Organics — Kennedy Town",
+      "slug": "spicebox-organics-kennedy-town",
+      "source": "https://spiceboxorganics.com/home/"
+    },
+    {
+      "name": "Organic Mama",
+      "slug": "organic-mama",
+      "source": "https://www.organicmama.com.hk/en/"
+    },
+    {
+      "name": "GO PARK Sai Sha",
+      "slug": "go-park-sai-sha",
+      "source": "https://www.goparksaisha.hk/en/sports/"
+    },
+    {
+      "name": "Sauna Rituals at The Hideout",
+      "slug": "sauna-rituals-at-the-hideout",
+      "source": "https://thesaunarituals.com/"
+    },
+    {
+      "name": "Coastal Fitness Dream Room",
+      "slug": "coastal-fitness-dream-room",
+      "source": "https://www.coastalfitnesshk.com/the-dream-room"
+    },
+    {
+      "name": "ONYX Admiralty",
+      "slug": "onyx-admiralty",
+      "source": "https://www.go24fitness.com/en/look-inside/onyx-admiralty"
+    },
+    {
+      "name": "GO24 Fitness — Kennedy Town",
+      "slug": "go24-fitness-kennedy-town",
+      "source": "https://www.go24fitness.com/en/recovery"
+    },
+    {
+      "name": "Re:set by PURE — Lee Theatre Plaza",
+      "slug": "re-set-by-pure-lee-theatre-plaza",
+      "source": "https://www.pure-360.com.hk/en/contact-us/"
+    },
+    {
+      "name": "Re:set by PURE — LKF",
+      "slug": "re-set-by-pure-lkf",
+      "source": "https://www.pure-360.com.hk/en/contact-us/"
+    },
+    {
+      "name": "IKIGAI Central — Infrared Sauna",
+      "slug": "ikigai-central-infrared-sauna",
+      "source": "https://www.ikigai.hk/en/studios"
+    },
+    {
+      "name": "IKIGAI Central",
+      "slug": "ikigai-central",
+      "source": "https://www.ikigai.hk/en/studios"
+    },
+    {
+      "name": "IKIGAI Tsim Sha Tsui",
+      "slug": "ikigai-tsim-sha-tsui",
+      "source": "https://www.ikigai.hk/en/studios"
+    },
+    {
+      "name": "VEDA",
+      "slug": "veda",
+      "source": "https://www.ovolohotels.com/ovolo/central/veda/"
+    },
+    {
+      "name": "Slowood — Kennedy Town",
+      "slug": "slowood-kennedy-town",
+      "source": "https://www.slowood.hk/pages/connect-to-slowood"
+    },
+    {
+      "name": "Slowood — Central Market",
+      "slug": "slowood-central-market",
+      "source": "https://www.slowood.hk/pages/connect-to-slowood"
+    },
+    {
+      "name": "Slowood — Hysan Place",
+      "slug": "slowood-hysan-place",
+      "source": "https://www.slowood.hk/pages/connect-to-slowood"
+    },
+    {
+      "name": "Slowood — Hong Kong Airport",
+      "slug": "slowood-hong-kong-airport",
+      "source": "https://www.slowood.hk/pages/connect-to-slowood"
+    },
+    {
+      "name": "SpiceBox Organics — Mid-Levels",
+      "slug": "spicebox-organics-mid-levels",
+      "source": "https://spiceboxorganics.com/home/"
+    },
+    {
+      "name": "Live Zero",
+      "slug": "live-zero",
+      "source": "https://livezero.hk/pages/location"
+    },
+    {
+      "name": "FoodCraft",
+      "slug": "foodcraft",
+      "source": "https://www.foodcraft.hk/pages/contact-us"
+    },
+    {
+      "name": "Organic Plus — Caine Road",
+      "slug": "organic-plus-caine-road",
+      "source": "https://www.organicplus.com.hk/en/Store/Detail?shopid=655"
+    },
+    {
+      "name": "Bay Pickle — Tin Hau",
+      "slug": "bay-pickle-tin-hau",
+      "source": "https://thebaypickle.com/hk-island-tin-hau"
+    },
+    {
+      "name": "Bay Pickle — D·PARK",
+      "slug": "bay-pickle-d-park",
+      "source": "https://tsuenwan.thebaypickle.com/memberships/7377"
+    },
+    {
+      "name": "Bay Pickle — One Island South",
+      "slug": "bay-pickle-one-island-south",
+      "source": "https://thebaypickle.com/south-island"
+    },
+    {
+      "name": "Bay Pickle — MCP Discovery",
+      "slug": "bay-pickle-mcp-discovery",
+      "source": "https://www.metrocityplaza.com/en/discovery/shopping"
+    },
+    {
+      "name": "212HK",
+      "slug": "212hk",
+      "source": "https://212hk.com/about-us/"
+    },
+    {
+      "name": "Yama Pickleball Arena",
+      "slug": "yama-pickleball-arena",
+      "source": "https://yama-pickleball.com/"
+    },
+    {
+      "name": "Stackd Pickleball — Wan Chai",
+      "slug": "stackd-pickleball-wan-chai",
+      "source": "https://www.stackdpb.com/"
+    },
+    {
+      "name": "Pick & Match — MegaBox",
+      "slug": "pick-and-match-megabox",
+      "source": "https://www.pickandmatch.hk/"
+    },
+    {
+      "name": "Pickledise — Tsuen Wan",
+      "slug": "pickledise-tsuen-wan",
+      "source": "https://pickledise-hk.com/"
+    },
+    {
+      "name": "Pickledise — Kowloon Bay",
+      "slug": "pickledise-kowloon-bay",
+      "source": "https://pickledise-hk.com/"
+    },
+    {
+      "name": "Pickleland HK",
+      "slug": "pickleland-hk",
+      "source": "https://picklelandhk.com/"
+    },
+    {
+      "name": "Pickle City",
+      "slug": "pickle-city",
+      "source": "https://linktr.ee/picklecityhk"
+    },
+    {
+      "name": "PICKLE.READY — Tsuen Wan",
+      "slug": "pickle-ready-tsuen-wan",
+      "source": "https://www.theground.io/events/MjM0"
+    },
+    {
+      "name": "PICKLE.READY — Kowloon Bay",
+      "slug": "pickle-ready-kowloon-bay",
+      "source": "https://www.theground.io/events/MjM0"
+    },
+    {
+      "name": "Pickle & Club",
+      "slug": "pickle-and-club",
+      "source": "https://pickleand.club/pages/contact"
+    },
+    {
+      "name": "Hong Kong Gold Coast Hotel — Pickleball",
+      "slug": "hong-kong-gold-coast-hotel-pickleball",
+      "source": "https://web.sino-hotels.com/en/hk/gold-coast-hotel/facilities"
+    },
+    {
+      "name": "Club de Recreio — Badminton",
+      "slug": "club-de-recreio-badminton",
+      "source": "https://clubderecreio.org/badminton"
+    },
+    {
+      "name": "Aberdeen Marina Club — Badminton",
+      "slug": "aberdeen-marina-club-badminton",
+      "source": "https://www.aberdeenmarinaclub.com/sport_detail.php?id=3874158042"
+    },
+    {
+      "name": "YMCA of Hong Kong — Salisbury Road",
+      "slug": "ymca-of-hong-kong-salisbury-road",
+      "source": "https://www.ymcahk.org.hk/ms/en/our_facilities/tst_headquater/sports_and_recreation_facilities/index.html"
+    },
+    {
+      "name": "TennisLOFT",
+      "slug": "tennisloft",
+      "source": "https://tennislofthk.com/"
+    },
+    {
+      "name": "Thrive Body",
+      "slug": "thrive-body",
+      "source": "https://www.thrivebody.info/"
+    },
+    {
+      "name": "Ladies Recreation Club",
+      "slug": "ladies-recreation-club",
+      "source": "https://www.lrc.com.hk/"
+    },
+    {
+      "name": "The Dynasty Club",
+      "slug": "the-dynasty-club",
+      "source": "https://www.dynastyclub.com.hk/en/sport-recreations/facilities"
+    },
+    {
+      "name": "Jewish Community Centre Sports Club",
+      "slug": "jewish-community-centre-sports-club",
+      "source": "https://jcc.org.hk/pages/health-fitness"
+    },
+    {
+      "name": "The Country Club at Hong Lok Yuen",
+      "slug": "the-country-club-at-hong-lok-yuen",
+      "source": "https://www.cchly.com/"
+    },
+    {
+      "name": "United Services Recreation Club",
+      "slug": "united-services-recreation-club",
+      "source": "https://www.usrc.org.hk/our-facilities.html"
+    },
+    {
+      "name": "Hong Kong Football Club",
+      "slug": "hong-kong-football-club",
+      "source": "https://www.hkfc.com/facilities/"
+    },
+    {
+      "name": "Discovery Bay Recreation Club",
+      "slug": "discovery-bay-recreation-club",
+      "source": "https://www.dbrc.hk/en/sport.html?club=1&id=1438407458&type=1"
+    },
+    {
+      "name": "Police Officers’ Club",
+      "slug": "police-officers-club",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs"
+    },
+    {
+      "name": "Police Sports and Recreation Club",
+      "slug": "police-sports-and-recreation-club",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs"
+    },
+    {
+      "name": "YEARS — Sham Shui Po",
+      "slug": "years-sham-shui-po",
+      "source": "https://www.yearshk.com/pages/menu"
+    },
+    {
+      "name": "BE WITH YEARS — Whampoa",
+      "slug": "be-with-years-whampoa",
+      "source": "https://www.yearshk.com/pages/menu"
+    },
+    {
+      "name": "HERE WITH YEARS — Tai Koo Shing",
+      "slug": "here-with-years-tai-koo-shing",
+      "source": "https://www.yearshk.com/pages/menu"
+    },
+    {
+      "name": "PLAY WITH YEARS — West Kowloon",
+      "slug": "play-with-years-west-kowloon",
+      "source": "https://www.yearshk.com/pages/menu"
+    },
+    {
+      "name": "BEAR BY YEARS — Lai Chi Kok",
+      "slug": "bear-by-years-lai-chi-kok",
+      "source": "https://www.yearshk.com/pages/menu"
+    },
+    {
+      "name": "WANAKA — Blue House",
+      "slug": "wanaka-blue-house",
+      "source": "https://www.yearshk.com/pages/menu"
+    },
+    {
+      "name": "Green Concepts Health Shop",
+      "slug": "green-concepts-health-shop",
+      "source": "https://online.healthshop.com.hk/default/place-order"
+    },
+    {
+      "name": "Health Aims — Ma On Shan",
+      "slug": "health-aims-ma-on-shan",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Health Aims — Tai Po",
+      "slug": "health-aims-tai-po",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Health Aims — Tuen Mun",
+      "slug": "health-aims-tuen-mun",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Health Aims — Tin Shui Wai",
+      "slug": "health-aims-tin-shui-wai",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Solutions Health Care — Causeway Bay",
+      "slug": "solutions-health-care-causeway-bay",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Solutions Health Care — Happy Valley",
+      "slug": "solutions-health-care-happy-valley",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Solutions Health Care — Mong Kok",
+      "slug": "solutions-health-care-mong-kok",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Solutions Health Care — Cheung Sha Wan",
+      "slug": "solutions-health-care-cheung-sha-wan",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Solutions Health Care — Yuen Long",
+      "slug": "solutions-health-care-yuen-long",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Solutions Health Care — Sha Tin",
+      "slug": "solutions-health-care-sha-tin",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Energy Source — Wan Chai",
+      "slug": "energy-source-wan-chai",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations"
+    },
+    {
+      "name": "Bowen Road Temporary Playground",
+      "slug": "bowen-road-temporary-playground",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html"
+    },
+    {
+      "name": "Kwai Shing Circuit Playground",
+      "slug": "kwai-shing-circuit-playground",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html"
+    },
+    {
+      "name": "Ma Mei Ha Playground",
+      "slug": "ma-mei-ha-playground",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html"
+    },
+    {
+      "name": "Ta Kwu Ling Playground",
+      "slug": "ta-kwu-ling-playground",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html"
+    },
+    {
+      "name": "Tuen Mun Park — Badminton Courts",
+      "slug": "tuen-mun-park-badminton-courts",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html"
+    },
+    {
+      "name": "Canton Road Playground",
+      "slug": "canton-road-playground",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html"
+    },
+    {
+      "name": "Hu Fa Kuang Sports Centre",
+      "slug": "hu-fa-kuang-sports-centre",
+      "source": "https://www.cityu.edu.hk/sds/physical-education-wellness-and-sports/sports-and-recreation-facilities/general-information"
+    },
+    {
+      "name": "Hong Kong Park Sports Centre",
+      "slug": "hong-kong-park-sports-centre",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    },
+    {
+      "name": "Hong Kong Squash Centre",
+      "slug": "hong-kong-squash-centre",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    },
+    {
+      "name": "Shek Tong Tsui Sports Centre",
+      "slug": "shek-tong-tsui-sports-centre",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    },
+    {
+      "name": "Sheung Wan Sports Centre",
+      "slug": "sheung-wan-sports-centre",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    },
+    {
+      "name": "Smithfield Sports Centre",
+      "slug": "smithfield-sports-centre",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    },
+    {
+      "name": "Sun Yat Sen Memorial Park Sports Centre",
+      "slug": "sun-yat-sen-memorial-park-sports-centre",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    },
+    {
+      "name": "TUEN MUN SWIMMING POOL SQUASH COURTS",
+      "slug": "tuen-mun-swimming-pool-squash-courts",
+      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
+    }
+  ],
+  "rightsStatus": "Official source attribution recorded. Reuse permission has not been confirmed."
+}
