@@ -3146,13 +3146,19 @@
       "url": "https://images.squarespace-cdn.com/content/v1/664eae10f346835bdc10c019/f76a88cc-359c-4fa2-b978-3c90f191e77e/Clubhouse_Stills-49.jpeg",
       "source": "https://www.theclubhousehongkong.com/recharge",
       "credit": "The Clubhouse Hong Kong",
-      "alt": { "en": "The Clubhouse Recharge Suite", "zh-hk": "The Clubhouse Recharge Suite 恢復空間" }
+      "alt": {
+        "en": "The Clubhouse Recharge Suite",
+        "zh-hk": "The Clubhouse Recharge Suite 恢復空間"
+      }
     },
     {
       "url": "https://images.squarespace-cdn.com/content/v1/664eae10f346835bdc10c019/38b45329-37be-46a7-8796-3844e3aff355/Still+2025-08-27+120627_2.6.1.jpg",
       "source": "https://www.theclubhousehongkong.com/recharge",
       "credit": "The Clubhouse Hong Kong",
-      "alt": { "en": "Sauna and cold-plunge facilities at The Clubhouse", "zh-hk": "The Clubhouse 桑拿及冰浴設施" }
+      "alt": {
+        "en": "Sauna and cold-plunge facilities at The Clubhouse",
+        "zh-hk": "The Clubhouse 桑拿及冰浴設施"
+      }
     }
   ],
   "pickle-go-hk": [
@@ -3160,19 +3166,28 @@
       "url": "https://www.pickle-go.hk/wp-content/uploads/2025/11/service-image-6.jpg",
       "source": "https://www.pickle-go.hk/service/",
       "credit": "Pickle Go HK",
-      "alt": { "en": "Indoor pickleball court at Pickle Go HK", "zh-hk": "Pickle Go HK 室內匹克球場" }
+      "alt": {
+        "en": "Indoor pickleball court at Pickle Go HK",
+        "zh-hk": "Pickle Go HK 室內匹克球場"
+      }
     },
     {
       "url": "https://www.pickle-go.hk/wp-content/uploads/2025/11/service-image-5.jpg",
       "source": "https://www.pickle-go.hk/service/",
       "credit": "Pickle Go HK",
-      "alt": { "en": "Pickleball play at Pickle Go HK", "zh-hk": "Pickle Go HK 匹克球活動" }
+      "alt": {
+        "en": "Pickleball play at Pickle Go HK",
+        "zh-hk": "Pickle Go HK 匹克球活動"
+      }
     },
     {
       "url": "https://www.pickle-go.hk/wp-content/uploads/2025/11/service-image-4.jpg",
       "source": "https://www.pickle-go.hk/service/",
       "credit": "Pickle Go HK",
-      "alt": { "en": "Pickle Go HK venue facilities", "zh-hk": "Pickle Go HK 場地設施" }
+      "alt": {
+        "en": "Pickle Go HK venue facilities",
+        "zh-hk": "Pickle Go HK 場地設施"
+      }
     }
   ],
   "the-pickleball-lab-tuen-mun-town-plaza": [
@@ -3180,19 +3195,28 @@
       "url": "https://www.tmtp.com.hk/images/mainSite/tmtpCommons/tmtp_commons_banner_1920x906.jpg",
       "source": "https://www.tmtp.com.hk/en/TMTPCommons",
       "credit": "tmtplaza",
-      "alt": { "en": "tmtp commons indoor sports courts", "zh-hk": "tmtp commons 室內運動場" }
+      "alt": {
+        "en": "tmtp commons indoor sports courts",
+        "zh-hk": "tmtp commons 室內運動場"
+      }
     },
     {
       "url": "https://www.tmtp.com.hk/images/mainSite/tmtpCommons/tmtp_commons_1_20251118.jpg",
       "source": "https://www.tmtp.com.hk/en/TMTPCommons",
       "credit": "tmtplaza",
-      "alt": { "en": "The Pickleball Lab at tmtp commons", "zh-hk": "tmtp commons 匹克球場" }
+      "alt": {
+        "en": "The Pickleball Lab at tmtp commons",
+        "zh-hk": "tmtp commons 匹克球場"
+      }
     },
     {
       "url": "https://www.tmtp.com.hk/images/mainSite/tmtpCommons/tmtp_commons_2_20251118.jpg",
       "source": "https://www.tmtp.com.hk/en/TMTPCommons",
       "credit": "tmtplaza",
-      "alt": { "en": "Sports facilities at tmtp commons", "zh-hk": "tmtp commons 運動設施" }
+      "alt": {
+        "en": "Sports facilities at tmtp commons",
+        "zh-hk": "tmtp commons 運動設施"
+      }
     }
   ],
   "waterfall-olympic-club-pickleball": [
@@ -3200,13 +3224,19 @@
       "url": "https://waterfall.com.hk/wp-content/uploads/2025/07/waterfall1200.jpg",
       "source": "https://waterfall.com.hk/pickleball/",
       "credit": "Waterfall Sports & Wellness",
-      "alt": { "en": "Waterfall Olympic Club facilities", "zh-hk": "Waterfall Olympic Club 設施" }
+      "alt": {
+        "en": "Waterfall Olympic Club facilities",
+        "zh-hk": "Waterfall Olympic Club 設施"
+      }
     },
     {
       "url": "https://waterfall.com.hk/wp-content/uploads/2026/07/DSC00388.webp",
       "source": "https://waterfall.com.hk/pickleball/",
       "credit": "Waterfall Sports & Wellness",
-      "alt": { "en": "Pickleball at Waterfall", "zh-hk": "Waterfall 匹克球設施" }
+      "alt": {
+        "en": "Pickleball at Waterfall",
+        "zh-hk": "Waterfall 匹克球設施"
+      }
     }
   ],
   "waterfall-exquisite-wellness-tsim-sha-tsui": [
@@ -3214,13 +3244,19 @@
       "url": "https://waterfall.com.hk/wp-content/uploads/2026/07/DSC09099.webp",
       "source": "https://waterfall.com.hk/pickleball/",
       "credit": "Waterfall Sports & Wellness",
-      "alt": { "en": "Waterfall Exquisite Wellness facilities", "zh-hk": "Waterfall Exquisite Wellness 設施" }
+      "alt": {
+        "en": "Waterfall Exquisite Wellness facilities",
+        "zh-hk": "Waterfall Exquisite Wellness 設施"
+      }
     },
     {
       "url": "https://waterfall.com.hk/wp-content/uploads/2025/07/waterfall1200.jpg",
       "source": "https://waterfall.com.hk/pickleball/",
       "credit": "Waterfall Sports & Wellness",
-      "alt": { "en": "Waterfall gym and wellness facilities", "zh-hk": "Waterfall 健身及健康設施" }
+      "alt": {
+        "en": "Waterfall gym and wellness facilities",
+        "zh-hk": "Waterfall 健身及健康設施"
+      }
     }
   ],
   "dink-city": [
@@ -3228,19 +3264,28 @@
       "url": "https://www.dinkhk.com/attachment/banner/178419009861732.png",
       "source": "https://www.dinkhk.com/en/index.php",
       "credit": "Dink City",
-      "alt": { "en": "Dink City indoor pickleball club", "zh-hk": "Dink City 室內匹克球會" }
+      "alt": {
+        "en": "Dink City indoor pickleball club",
+        "zh-hk": "Dink City 室內匹克球會"
+      }
     },
     {
       "url": "https://www.dinkhk.com/attachment/banner/1784190167G1EiF.png",
       "source": "https://www.dinkhk.com/en/index.php",
       "credit": "Dink City",
-      "alt": { "en": "Pickleball courts at Dink City", "zh-hk": "Dink City 匹克球場" }
+      "alt": {
+        "en": "Pickleball courts at Dink City",
+        "zh-hk": "Dink City 匹克球場"
+      }
     },
     {
       "url": "https://www.dinkhk.com/attachment/home/about-img1.jpg",
       "source": "https://www.dinkhk.com/en/index.php",
       "credit": "Dink City",
-      "alt": { "en": "Dink City club interior", "zh-hk": "Dink City 球會內部" }
+      "alt": {
+        "en": "Dink City club interior",
+        "zh-hk": "Dink City 球會內部"
+      }
     }
   ],
   "kinship": [
@@ -3248,19 +3293,28 @@
       "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/3cd44da4-650f-4a5c-96b5-7e12ae0f18fc/Screenshot+2026-06-16+at+3.02.11%E2%80%AFPM.png",
       "source": "https://www.kinship.hk/",
       "credit": "Kinship",
-      "alt": { "en": "Kinship contrast-therapy space", "zh-hk": "Kinship 冷熱交替恢復空間" }
+      "alt": {
+        "en": "Kinship contrast-therapy space",
+        "zh-hk": "Kinship 冷熱交替恢復空間"
+      }
     },
     {
       "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/158ddb92-c01c-4567-88bd-9a95019e2b81/Screenshot+2026-08-03+at+6.33.47%E2%80%AFPM.png",
       "source": "https://www.kinship.hk/",
       "credit": "Kinship",
-      "alt": { "en": "Sauna and plunge facilities at Kinship", "zh-hk": "Kinship 桑拿及冰浴設施" }
+      "alt": {
+        "en": "Sauna and plunge facilities at Kinship",
+        "zh-hk": "Kinship 桑拿及冰浴設施"
+      }
     },
     {
       "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/2d49a135-cf6d-43df-a8e7-748c0a935d6c/picture+1.png",
       "source": "https://www.kinship.hk/",
       "credit": "Kinship",
-      "alt": { "en": "Kinship wellness venue interior", "zh-hk": "Kinship 健康空間內部" }
+      "alt": {
+        "en": "Kinship wellness venue interior",
+        "zh-hk": "Kinship 健康空間內部"
+      }
     }
   ],
   "treehouse-central": [
@@ -3268,13 +3322,19 @@
       "url": "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/c84c3400-9cd1-471d-b9f0-dcbc07b09aee/DSC03043.jpg",
       "source": "https://www.treehouse.eco/",
       "credit": "TREEHOUSE",
-      "alt": { "en": "TREEHOUSE plant-based dining", "zh-hk": "TREEHOUSE 植物為本餐飲" }
+      "alt": {
+        "en": "TREEHOUSE plant-based dining",
+        "zh-hk": "TREEHOUSE 植物為本餐飲"
+      }
     },
     {
       "url": "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/5eceed01-32af-410c-a3f3-c8c817e22ac5/A4.jpg",
       "source": "https://www.treehouse.eco/",
       "credit": "TREEHOUSE",
-      "alt": { "en": "Food served at TREEHOUSE", "zh-hk": "TREEHOUSE 健康餐點" }
+      "alt": {
+        "en": "Food served at TREEHOUSE",
+        "zh-hk": "TREEHOUSE 健康餐點"
+      }
     }
   ],
   "treehouse-causeway-bay": [
@@ -3282,13 +3342,19 @@
       "url": "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/3f75b0ab-7b1d-4072-96f5-095e2839b64c/DSC01899.jpg",
       "source": "https://www.treehouse.eco/",
       "credit": "TREEHOUSE",
-      "alt": { "en": "TREEHOUSE plant-based dining", "zh-hk": "TREEHOUSE 植物為本餐飲" }
+      "alt": {
+        "en": "TREEHOUSE plant-based dining",
+        "zh-hk": "TREEHOUSE 植物為本餐飲"
+      }
     },
     {
       "url": "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/543e37c0-b72e-45bb-a67a-2e0588309d84/DSC08217.jpg",
       "source": "https://www.treehouse.eco/",
       "credit": "TREEHOUSE",
-      "alt": { "en": "A plant-forward meal at TREEHOUSE", "zh-hk": "TREEHOUSE 植物餐點" }
+      "alt": {
+        "en": "A plant-forward meal at TREEHOUSE",
+        "zh-hk": "TREEHOUSE 植物餐點"
+      }
     }
   ],
   "treehouse-tsim-sha-tsui": [
@@ -3296,13 +3362,1864 @@
       "url": "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/c84c3400-9cd1-471d-b9f0-dcbc07b09aee/DSC03043.jpg",
       "source": "https://www.treehouse.eco/",
       "credit": "TREEHOUSE",
-      "alt": { "en": "TREEHOUSE plant-based dining", "zh-hk": "TREEHOUSE 植物為本餐飲" }
+      "alt": {
+        "en": "TREEHOUSE plant-based dining",
+        "zh-hk": "TREEHOUSE 植物為本餐飲"
+      }
     },
     {
       "url": "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/5eceed01-32af-410c-a3f3-c8c817e22ac5/A4.jpg",
       "source": "https://www.treehouse.eco/",
       "credit": "TREEHOUSE",
-      "alt": { "en": "Food served at TREEHOUSE", "zh-hk": "TREEHOUSE 健康餐點" }
+      "alt": {
+        "en": "Food served at TREEHOUSE",
+        "zh-hk": "TREEHOUSE 健康餐點"
+      }
+    }
+  ],
+  "ikigai-causeway-bay": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/7c64425f-d905-4ee7-adb0-e9e3179b3d15/WhatsApp%2BImage%2B2024-05-31%2Bat%2B08.42.30%2B%281%29.webp",
+      "source": "https://www.ikigai.hk/en/studios",
+      "credit": "IKIGAI Causeway Bay",
+      "alt": {
+        "en": "IKIGAI Causeway Bay — WhatsApp+Image+2024-05-31+at+08.42.30+(1).webp",
+        "zh-hk": "IKIGAI Causeway Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "ikigai-central-infrared-sauna": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/7c64425f-d905-4ee7-adb0-e9e3179b3d15/WhatsApp%2BImage%2B2024-05-31%2Bat%2B08.42.30%2B%281%29.webp",
+      "source": "https://www.ikigai.hk/en/studios",
+      "credit": "IKIGAI Central",
+      "alt": {
+        "en": "IKIGAI Central — Infrared Sauna — WhatsApp+Image+2024-05-31+at+08.42.30+(1).webp",
+        "zh-hk": "IKIGAI Central — Infrared Sauna — 官方網站圖片"
+      }
+    }
+  ],
+  "ikigai-central": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/7c64425f-d905-4ee7-adb0-e9e3179b3d15/WhatsApp%2BImage%2B2024-05-31%2Bat%2B08.42.30%2B%281%29.webp",
+      "source": "https://www.ikigai.hk/en/studios",
+      "credit": "IKIGAI Central",
+      "alt": {
+        "en": "IKIGAI Central — WhatsApp+Image+2024-05-31+at+08.42.30+(1).webp",
+        "zh-hk": "IKIGAI Central — 官方網站圖片"
+      }
+    }
+  ],
+  "ikigai-tsim-sha-tsui": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/7c64425f-d905-4ee7-adb0-e9e3179b3d15/WhatsApp%2BImage%2B2024-05-31%2Bat%2B08.42.30%2B%281%29.webp",
+      "source": "https://www.ikigai.hk/en/studios",
+      "credit": "IKIGAI Tsim Sha Tsui",
+      "alt": {
+        "en": "IKIGAI Tsim Sha Tsui — WhatsApp+Image+2024-05-31+at+08.42.30+(1).webp",
+        "zh-hk": "IKIGAI Tsim Sha Tsui — 官方網站圖片"
+      }
+    }
+  ],
+  "go-park-sai-sha": [
+    {
+      "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/10/hero2-2048x1120.jpg",
+      "source": "https://www.goparksaisha.hk/en/sports/",
+      "credit": "GO PARK Sai Sha",
+      "alt": {
+        "en": "GO PARK Sai Sha — image from the official website",
+        "zh-hk": "GO PARK Sai Sha — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/pickleball.png",
+      "source": "https://www.goparksaisha.hk/en/sports/",
+      "credit": "GO PARK Sai Sha",
+      "alt": {
+        "en": "GO PARK Sai Sha — image from the official website",
+        "zh-hk": "GO PARK Sai Sha — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/tennis.png",
+      "source": "https://www.goparksaisha.hk/en/sports/",
+      "credit": "GO PARK Sai Sha",
+      "alt": {
+        "en": "GO PARK Sai Sha — image from the official website",
+        "zh-hk": "GO PARK Sai Sha — 官方網站圖片"
+      }
+    }
+  ],
+  "coastal-fitness-dream-room": [
+    {
+      "url": "https://cdn.prod.website-files.com/65dbdd9543859d4ebf157c1b/666f9bef62fe41f9c7f829bf_WhatsApp%20Image%202024-06-13%20at%2013.30.43.jpeg",
+      "source": "https://www.coastalfitnesshk.com/the-dream-room",
+      "credit": "Coastal Fitness Dream Room",
+      "alt": {
+        "en": "Coastal Fitness Dream Room — image from the official website",
+        "zh-hk": "Coastal Fitness Dream Room — 官方網站圖片"
+      }
+    }
+  ],
+  "organic-plus-caine-road": [
+    {
+      "url": "https://file03.es.c01.co/upload/769CC75B9F0560CF/201807/5150834153146326939.jpg",
+      "source": "https://www.organicplus.com.hk/en/Store/Detail?shopid=655",
+      "credit": "Organic Plus",
+      "alt": {
+        "en": "Organic Plus — Caine Road — image from the official website",
+        "zh-hk": "Organic Plus — Caine Road — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://file04.es.c01.co/upload/769CC75B9F0560CF/201807/5218925887407775181.png",
+      "source": "https://www.organicplus.com.hk/en/Store/Detail?shopid=655",
+      "credit": "Organic Plus",
+      "alt": {
+        "en": "Organic Plus — Caine Road — Organic Plus",
+        "zh-hk": "Organic Plus — Caine Road — 官方網站圖片"
+      }
+    }
+  ],
+  "bay-pickle-tin-hau": [
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/5b7269cc-8dcb-49f8-afd0-aa5668c71385/WhatsApp%20Image%202024-07-12%20at%2022.49.06%20(1).jpeg/:/cr=t:5.56%25,l:0%25,w:100%25,h:88.89%25/rs=w:1240,h:620,cg:true",
+      "source": "https://thebaypickle.com/hk-island-tin-hau",
+      "credit": "Bay Pickle",
+      "alt": {
+        "en": "Bay Pickle — Tin Hau — Modern indoor pickleball court with seating and paddle storage.",
+        "zh-hk": "Bay Pickle — Tin Hau — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/5b7269cc-8dcb-49f8-afd0-aa5668c71385/openart-image_1772982805428_adea3e0f_177298280.png",
+      "source": "https://thebaypickle.com/hk-island-tin-hau",
+      "credit": "Bay Pickle",
+      "alt": {
+        "en": "Bay Pickle — Tin Hau — image from the official website",
+        "zh-hk": "Bay Pickle — Tin Hau — 官方網站圖片"
+      }
+    }
+  ],
+  "bay-pickle-one-island-south": [
+    {
+      "url": "https://img1.wsimg.com/isteam/ip/5b7269cc-8dcb-49f8-afd0-aa5668c71385/openart-image_1772982805428_adea3e0f_177298280.png",
+      "source": "https://thebaypickle.com/south-island",
+      "credit": "Bay Pickle",
+      "alt": {
+        "en": "Bay Pickle — One Island South — image from the official website",
+        "zh-hk": "Bay Pickle — One Island South — 官方網站圖片"
+      }
+    }
+  ],
+  "stackd-pickleball-wan-chai": [
+    {
+      "url": "https://www.stackdpb.com/cdn/shop/files/DSC01179-7.jpg?crop=center&height=500&v=1772554252&width=600",
+      "source": "https://www.stackdpb.com/",
+      "credit": "Stackd Pickleball",
+      "alt": {
+        "en": "Stackd Pickleball — Wan Chai — image from the official website",
+        "zh-hk": "Stackd Pickleball — Wan Chai — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.stackdpb.com/cdn/shop/files/SY5_4542.jpg?pad_color=fff&v=1789621449&width=2900",
+      "source": "https://www.stackdpb.com/",
+      "credit": "Stackd Pickleball",
+      "alt": {
+        "en": "Stackd Pickleball — Wan Chai — &lt;h2&gt;Bigger. Better. Stackd.&lt;/h2&gt;",
+        "zh-hk": "Stackd Pickleball — Wan Chai — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.stackdpb.com/cdn/shop/files/Paddle_wall_clean.jpg?pad_color=fff&v=1771735457&width=2900",
+      "source": "https://www.stackdpb.com/",
+      "credit": "Stackd Pickleball",
+      "alt": {
+        "en": "Stackd Pickleball — Wan Chai — &lt;h1&gt;The ultimate pickleball SHOP in Asia&lt;/h1&gt;&lt;h3&gt;&lt;span style=\"text-decoration:underline\"&",
+        "zh-hk": "Stackd Pickleball — Wan Chai — 官方網站圖片"
+      }
+    }
+  ],
+  "pick-and-match-megabox": [
+    {
+      "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780038625962-about-photo.png",
+      "source": "https://www.pickandmatch.hk/",
+      "credit": "Pick & Match",
+      "alt": {
+        "en": "Pick & Match — MegaBox — About Pick and Match",
+        "zh-hk": "Pick & Match — MegaBox — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780038982526-pickleball.png",
+      "source": "https://www.pickandmatch.hk/",
+      "credit": "Pick & Match",
+      "alt": {
+        "en": "Pick & Match — MegaBox — Pickleball",
+        "zh-hk": "Pick & Match — MegaBox — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1783067548811-article-1-image-1.jpg",
+      "source": "https://www.pickandmatch.hk/",
+      "credit": "Pick & Match",
+      "alt": {
+        "en": "Pick & Match — MegaBox — Spectators sitting courtside at a pickleball event",
+        "zh-hk": "Pick & Match — MegaBox — 官方網站圖片"
+      }
+    }
+  ],
+  "pickledise-tsuen-wan": [
+    {
+      "url": "https://img.boutirapp.com/i/KGcmMoW7IosGycEvcWJTS8Ov3pq6jcI3GijuXD6zWwl=sxxl",
+      "source": "https://pickledise-hk.com/",
+      "credit": "Pickledise",
+      "alt": {
+        "en": "Pickledise — Tsuen Wan — Desktop image",
+        "zh-hk": "Pickledise — Tsuen Wan — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://img.boutirapp.com/i/2fCLFTSzOovWixEaHp8hb04Mdhtv8cXS-gicuJ4Pisr=sxxl",
+      "source": "https://pickledise-hk.com/",
+      "credit": "Pickledise",
+      "alt": {
+        "en": "Pickledise — Tsuen Wan — Mobile image",
+        "zh-hk": "Pickledise — Tsuen Wan — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://img.boutirapp.com/i/Ro85aT4D-G36S7OuCHQaIpl9JR4ZTNfEgSoMLhf4SwQ",
+      "source": "https://pickledise-hk.com/",
+      "credit": "Pickledise",
+      "alt": {
+        "en": "Pickledise — Tsuen Wan — image from the official website",
+        "zh-hk": "Pickledise — Tsuen Wan — 官方網站圖片"
+      }
+    }
+  ],
+  "pickledise-kowloon-bay": [
+    {
+      "url": "https://img.boutirapp.com/i/KGcmMoW7IosGycEvcWJTS8Ov3pq6jcI3GijuXD6zWwl=sxxl",
+      "source": "https://pickledise-hk.com/",
+      "credit": "Pickledise",
+      "alt": {
+        "en": "Pickledise — Kowloon Bay — Desktop image",
+        "zh-hk": "Pickledise — Kowloon Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://img.boutirapp.com/i/2fCLFTSzOovWixEaHp8hb04Mdhtv8cXS-gicuJ4Pisr=sxxl",
+      "source": "https://pickledise-hk.com/",
+      "credit": "Pickledise",
+      "alt": {
+        "en": "Pickledise — Kowloon Bay — Mobile image",
+        "zh-hk": "Pickledise — Kowloon Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://img.boutirapp.com/i/Ro85aT4D-G36S7OuCHQaIpl9JR4ZTNfEgSoMLhf4SwQ",
+      "source": "https://pickledise-hk.com/",
+      "credit": "Pickledise",
+      "alt": {
+        "en": "Pickledise — Kowloon Bay — image from the official website",
+        "zh-hk": "Pickledise — Kowloon Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "pickleland-hk": [
+    {
+      "url": "https://picklelandhk.com/banner/shop/shop_banner_6a8ddbaf110ce8.04765294.png",
+      "source": "https://picklelandhk.com/",
+      "credit": "Pickleland HK",
+      "alt": {
+        "en": "Pickleland HK — Banner",
+        "zh-hk": "Pickleland HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://picklelandhk.com/banner/shop/shop_banner_6a85ec2c3d56e7.21631181.png",
+      "source": "https://picklelandhk.com/",
+      "credit": "Pickleland HK",
+      "alt": {
+        "en": "Pickleland HK — Banner",
+        "zh-hk": "Pickleland HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://picklelandhk.com/banner/shop/shop_banner_6a7e9d9c68e833.35319950.png",
+      "source": "https://picklelandhk.com/",
+      "credit": "Pickleland HK",
+      "alt": {
+        "en": "Pickleland HK — Banner",
+        "zh-hk": "Pickleland HK — 官方網站圖片"
+      }
+    }
+  ],
+  "pickle-ready-tsuen-wan": [
+    {
+      "url": "https://storage.googleapis.com/thegrind_videostorage/test/c6af50e8-0247-4963-94ca-2b3d02e3fa2ePickle%20Ready%20membership%20annoucement.png",
+      "source": "https://www.theground.io/events/MjM0",
+      "credit": "PICKLE.READY",
+      "alt": {
+        "en": "PICKLE.READY — Tsuen Wan — May/26 - Apr/27 PICKLE.READY 會員登記📝",
+        "zh-hk": "PICKLE.READY — Tsuen Wan — 官方網站圖片"
+      }
+    }
+  ],
+  "pickle-ready-kowloon-bay": [
+    {
+      "url": "https://storage.googleapis.com/thegrind_videostorage/test/c6af50e8-0247-4963-94ca-2b3d02e3fa2ePickle%20Ready%20membership%20annoucement.png",
+      "source": "https://www.theground.io/events/MjM0",
+      "credit": "PICKLE.READY",
+      "alt": {
+        "en": "PICKLE.READY — Kowloon Bay — May/26 - Apr/27 PICKLE.READY 會員登記📝",
+        "zh-hk": "PICKLE.READY — Kowloon Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "pickle-and-club": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0915/7197/8526/files/250411_-_Pickle__024r.jpg?v=1744816152",
+      "source": "https://pickleand.club/pages/contact",
+      "credit": "Pickle & Club",
+      "alt": {
+        "en": "Pickle & Club — image from the official website",
+        "zh-hk": "Pickle & Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pickleand.club/cdn/shop/files/250411_-_Pickle__099r.jpg?v=1745424606&width=3840",
+      "source": "https://pickleand.club/pages/contact",
+      "credit": "Pickle & Club",
+      "alt": {
+        "en": "Pickle & Club — image from the official website",
+        "zh-hk": "Pickle & Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pickleand.club/cdn/shop/files/HK_The_Westwood_mall_512.jpg?v=1741336477&width=3840",
+      "source": "https://pickleand.club/pages/contact",
+      "credit": "Pickle & Club",
+      "alt": {
+        "en": "Pickle & Club — image from the official website",
+        "zh-hk": "Pickle & Club — 官方網站圖片"
+      }
+    }
+  ],
+  "hong-kong-gold-coast-hotel-pickleball": [
+    {
+      "url": "https://assets.sino-hotels.com/sino-prod/media/images/fd2cb9bb-01a5-48c0-822f-b2d11eebee6d.jpg",
+      "source": "https://web.sino-hotels.com/en/hk/gold-coast-hotel/facilities",
+      "credit": "Hong Kong Gold Coast Hotel",
+      "alt": {
+        "en": "Hong Kong Gold Coast Hotel — Pickleball — Pickleball Court",
+        "zh-hk": "Hong Kong Gold Coast Hotel — Pickleball — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://assets.sino-hotels.com/sino-prod/media/images/df07e745-969d-499b-9424-7b8e489fea63.jpg",
+      "source": "https://web.sino-hotels.com/en/hk/gold-coast-hotel/facilities",
+      "credit": "Hong Kong Gold Coast Hotel",
+      "alt": {
+        "en": "Hong Kong Gold Coast Hotel — Pickleball — Pools and Waterslides",
+        "zh-hk": "Hong Kong Gold Coast Hotel — Pickleball — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://assets.sino-hotels.com/sino-prod/media/images/89732f8f-599d-4bfd-a1b2-f22d6e727485.jpg",
+      "source": "https://web.sino-hotels.com/en/hk/gold-coast-hotel/facilities",
+      "credit": "Hong Kong Gold Coast Hotel",
+      "alt": {
+        "en": "Hong Kong Gold Coast Hotel — Pickleball — Water Park",
+        "zh-hk": "Hong Kong Gold Coast Hotel — Pickleball — 官方網站圖片"
+      }
+    }
+  ],
+  "club-de-recreio-badminton": [
+    {
+      "url": "https://clubderecreio.org/img/badminton.jpg",
+      "source": "https://clubderecreio.org/badminton",
+      "credit": "Club de Recreio",
+      "alt": {
+        "en": "Club de Recreio — Badminton — image from the official website",
+        "zh-hk": "Club de Recreio — Badminton — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://clubderecreio.org/img/badminton2.jpg",
+      "source": "https://clubderecreio.org/badminton",
+      "credit": "Club de Recreio",
+      "alt": {
+        "en": "Club de Recreio — Badminton — image from the official website",
+        "zh-hk": "Club de Recreio — Badminton — 官方網站圖片"
+      }
+    }
+  ],
+  "aberdeen-marina-club-badminton": [
+    {
+      "url": "https://www.aberdeenmarinaclub.com/sport_slideshow-photo-1cde8b7e6a327f01c3fc9f8a5aa4156d.jpg",
+      "source": "https://www.aberdeenmarinaclub.com/sport_detail.php?id=3874158042",
+      "credit": "Aberdeen Marina Club",
+      "alt": {
+        "en": "Aberdeen Marina Club — Badminton — image from the official website",
+        "zh-hk": "Aberdeen Marina Club — Badminton — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.aberdeenmarinaclub.com//gallery-sport_slideshow-1cde8b7e6a327f01c3fc9f8a5aa4156d.jpg&shape=f&w=1128&h=680",
+      "source": "https://www.aberdeenmarinaclub.com/sport_detail.php?id=3874158042",
+      "credit": "Aberdeen Marina Club",
+      "alt": {
+        "en": "Aberdeen Marina Club — Badminton — image from the official website",
+        "zh-hk": "Aberdeen Marina Club — Badminton — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.aberdeenmarinaclub.com//gallery-sport_page-b1d16d0e8cffd0f4a98fe83520e874f8.jpg?w=660&h=480&shape=f",
+      "source": "https://www.aberdeenmarinaclub.com/sport_detail.php?id=3874158042",
+      "credit": "Aberdeen Marina Club",
+      "alt": {
+        "en": "Aberdeen Marina Club — Badminton — image from the official website",
+        "zh-hk": "Aberdeen Marina Club — Badminton — 官方網站圖片"
+      }
+    }
+  ],
+  "ymca-of-hong-kong-salisbury-road": [
+    {
+      "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF.jpg",
+      "source": "https://www.ymcahk.org.hk/ms/en/our_facilities/tst_headquater/sports_and_recreation_facilities/index.html",
+      "credit": "YMCA of Hong Kong",
+      "alt": {
+        "en": "YMCA of Hong Kong — Salisbury Road — image from the official website",
+        "zh-hk": "YMCA of Hong Kong — Salisbury Road — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF-1.jpg",
+      "source": "https://www.ymcahk.org.hk/ms/en/our_facilities/tst_headquater/sports_and_recreation_facilities/index.html",
+      "credit": "YMCA of Hong Kong",
+      "alt": {
+        "en": "YMCA of Hong Kong — Salisbury Road — image from the official website",
+        "zh-hk": "YMCA of Hong Kong — Salisbury Road — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF-2.jpg",
+      "source": "https://www.ymcahk.org.hk/ms/en/our_facilities/tst_headquater/sports_and_recreation_facilities/index.html",
+      "credit": "YMCA of Hong Kong",
+      "alt": {
+        "en": "YMCA of Hong Kong — Salisbury Road — image from the official website",
+        "zh-hk": "YMCA of Hong Kong — Salisbury Road — 官方網站圖片"
+      }
+    }
+  ],
+  "tennisloft": [
+    {
+      "url": "https://tennislofthk.com/wp-content/uploads/2025/11/d02bca18-6efc-424b-94d0-08c3d267dad1-1536x864.jpg",
+      "source": "https://tennislofthk.com/",
+      "credit": "TennisLOFT",
+      "alt": {
+        "en": "TennisLOFT — image from the official website",
+        "zh-hk": "TennisLOFT — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://tennislofthk.com/wp-content/uploads/2026/01/IMG_5215-2048x1536.jpg",
+      "source": "https://tennislofthk.com/",
+      "credit": "TennisLOFT",
+      "alt": {
+        "en": "TennisLOFT — image from the official website",
+        "zh-hk": "TennisLOFT — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://tennislofthk.com/wp-content/uploads/2025/11/08b40252-fd2e-4e7a-877e-e3374f4cb670-1152x1536.jpg",
+      "source": "https://tennislofthk.com/",
+      "credit": "TennisLOFT",
+      "alt": {
+        "en": "TennisLOFT — image from the official website",
+        "zh-hk": "TennisLOFT — 官方網站圖片"
+      }
+    }
+  ],
+  "thrive-body": [
+    {
+      "url": "https://www.thrivebody.info/images/optimised/home-bg-1.jpg",
+      "source": "https://www.thrivebody.info/",
+      "credit": "Thrive Body",
+      "alt": {
+        "en": "Thrive Body — Thrive Body Studio",
+        "zh-hk": "Thrive Body — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.thrivebody.info/images/optimised/home-bg-2.jpg",
+      "source": "https://www.thrivebody.info/",
+      "credit": "Thrive Body",
+      "alt": {
+        "en": "Thrive Body — Thrive Body Studio interior",
+        "zh-hk": "Thrive Body — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.thrivebody.info/images/optimised/service-3.jpg",
+      "source": "https://www.thrivebody.info/",
+      "credit": "Thrive Body",
+      "alt": {
+        "en": "Thrive Body — Outdoor sauna and ice bath Hong Kong",
+        "zh-hk": "Thrive Body — 官方網站圖片"
+      }
+    }
+  ],
+  "ladies-recreation-club": [
+    {
+      "url": "https://www.lrc.com.hk/storage/assets/a2158509-3a15-4d6e-b33a-16ba1b15be6c/10_Club-Main-Entrance-Night-View-3.jpg",
+      "source": "https://www.lrc.com.hk/",
+      "credit": "Ladies Recreation Club",
+      "alt": {
+        "en": "Ladies Recreation Club — image from the official website",
+        "zh-hk": "Ladies Recreation Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.lrc.com.hk/storage/assets/e41f84e3-ce79-46af-8a9f-20e374c6145b/26324.jpg",
+      "source": "https://www.lrc.com.hk/",
+      "credit": "Ladies Recreation Club",
+      "alt": {
+        "en": "Ladies Recreation Club — image from the official website",
+        "zh-hk": "Ladies Recreation Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.lrc.com.hk/storage/175-9.jpg",
+      "source": "https://www.lrc.com.hk/",
+      "credit": "Ladies Recreation Club",
+      "alt": {
+        "en": "Ladies Recreation Club — image from the official website",
+        "zh-hk": "Ladies Recreation Club — 官方網站圖片"
+      }
+    }
+  ],
+  "the-dynasty-club": [
+    {
+      "url": "https://www.dynastyclub.com.hk/storage/facilities/April2026/5Fi8HejdBFJGlhdBpJoI-cropped.jpg",
+      "source": "https://www.dynastyclub.com.hk/en/sport-recreations/facilities",
+      "credit": "The Dynasty Club",
+      "alt": {
+        "en": "The Dynasty Club — image from the official website",
+        "zh-hk": "The Dynasty Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.dynastyclub.com.hk/storage/facilities/August2022/Wop3UfFl0ucU0tJ597G7-cropped.jpg",
+      "source": "https://www.dynastyclub.com.hk/en/sport-recreations/facilities",
+      "credit": "The Dynasty Club",
+      "alt": {
+        "en": "The Dynasty Club — image from the official website",
+        "zh-hk": "The Dynasty Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.dynastyclub.com.hk/storage/facilities/March2022/n7gsh3TVEGVNDUJKlN2R-cropped.jpg",
+      "source": "https://www.dynastyclub.com.hk/en/sport-recreations/facilities",
+      "credit": "The Dynasty Club",
+      "alt": {
+        "en": "The Dynasty Club — image from the official website",
+        "zh-hk": "The Dynasty Club — 官方網站圖片"
+      }
+    }
+  ],
+  "jewish-community-centre-sports-club": [
+    {
+      "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.47.50_AM.png?v=1746748100&width=1500",
+      "source": "https://jcc.org.hk/pages/health-fitness",
+      "credit": "Jewish Community Centre Sports Club",
+      "alt": {
+        "en": "Jewish Community Centre Sports Club — image from the official website",
+        "zh-hk": "Jewish Community Centre Sports Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.31.49_AM.png?v=1746748064&width=3200",
+      "source": "https://jcc.org.hk/pages/health-fitness",
+      "credit": "Jewish Community Centre Sports Club",
+      "alt": {
+        "en": "Jewish Community Centre Sports Club — image from the official website",
+        "zh-hk": "Jewish Community Centre Sports Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.32.03_AM.png?v=1746748064&width=3200",
+      "source": "https://jcc.org.hk/pages/health-fitness",
+      "credit": "Jewish Community Centre Sports Club",
+      "alt": {
+        "en": "Jewish Community Centre Sports Club — image from the official website",
+        "zh-hk": "Jewish Community Centre Sports Club — 官方網站圖片"
+      }
+    }
+  ],
+  "the-country-club-at-hong-lok-yuen": [
+    {
+      "url": "https://www.cchly.com/wp-content/uploads/2024/06/iac-the_country_club_at_hong_lok_yuen-header_01-2000x1330-1.jpg",
+      "source": "https://www.cchly.com/",
+      "credit": "The Country Club at Hong Lok Yuen",
+      "alt": {
+        "en": "The Country Club at Hong Lok Yuen — image from the official website",
+        "zh-hk": "The Country Club at Hong Lok Yuen — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.cchly.com/wp-content/uploads/2023/10/Frame-10-600x386.jpg",
+      "source": "https://www.cchly.com/",
+      "credit": "The Country Club at Hong Lok Yuen",
+      "alt": {
+        "en": "The Country Club at Hong Lok Yuen — Country Club Hong Kong",
+        "zh-hk": "The Country Club at Hong Lok Yuen — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.cchly.com/wp-content/uploads/2023/10/2.-Bistro-600x388.jpg",
+      "source": "https://www.cchly.com/",
+      "credit": "The Country Club at Hong Lok Yuen",
+      "alt": {
+        "en": "The Country Club at Hong Lok Yuen — Country Club Hong Kong",
+        "zh-hk": "The Country Club at Hong Lok Yuen — 官方網站圖片"
+      }
+    }
+  ],
+  "united-services-recreation-club": [
+    {
+      "url": "https://www.usrc.org.hk/uploads/1/1/8/7/11871079/published/usrc-aerial-view.jpg?1526877912",
+      "source": "https://www.usrc.org.hk/our-facilities.html",
+      "credit": "United Services Recreation Club",
+      "alt": {
+        "en": "United Services Recreation Club — Picture",
+        "zh-hk": "United Services Recreation Club — 官方網站圖片"
+      }
+    }
+  ],
+  "police-officers-club": [
+    {
+      "url": "https://poc-psrc.com.hk/img/aboutus/img-about-poc@2x.png",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs",
+      "credit": "Police Officers’ Club",
+      "alt": {
+        "en": "Police Officers’ Club — About PSRC",
+        "zh-hk": "Police Officers’ Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://poc-psrc.com.hk/img/aboutus/img-about-thumbpoc@2x.png",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs",
+      "credit": "Police Officers’ Club",
+      "alt": {
+        "en": "Police Officers’ Club — About PSRC",
+        "zh-hk": "Police Officers’ Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://poc-psrc.com.hk/img/aboutus/img-about-psrc@2x.png",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs",
+      "credit": "Police Officers’ Club",
+      "alt": {
+        "en": "Police Officers’ Club — About PSRC",
+        "zh-hk": "Police Officers’ Club — 官方網站圖片"
+      }
+    }
+  ],
+  "police-sports-and-recreation-club": [
+    {
+      "url": "https://poc-psrc.com.hk/img/aboutus/img-about-poc@2x.png",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs",
+      "credit": "Police Sports and Recreation Club",
+      "alt": {
+        "en": "Police Sports and Recreation Club — About PSRC",
+        "zh-hk": "Police Sports and Recreation Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://poc-psrc.com.hk/img/aboutus/img-about-thumbpoc@2x.png",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs",
+      "credit": "Police Sports and Recreation Club",
+      "alt": {
+        "en": "Police Sports and Recreation Club — About PSRC",
+        "zh-hk": "Police Sports and Recreation Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://poc-psrc.com.hk/img/aboutus/img-about-psrc@2x.png",
+      "source": "https://poc-psrc.com.hk/Card/AboutUs",
+      "credit": "Police Sports and Recreation Club",
+      "alt": {
+        "en": "Police Sports and Recreation Club — About PSRC",
+        "zh-hk": "Police Sports and Recreation Club — 官方網站圖片"
+      }
+    }
+  ],
+  "years-sham-shui-po": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "YEARS",
+      "alt": {
+        "en": "YEARS — Sham Shui Po — image from the official website",
+        "zh-hk": "YEARS — Sham Shui Po — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "YEARS",
+      "alt": {
+        "en": "YEARS — Sham Shui Po — image from the official website",
+        "zh-hk": "YEARS — Sham Shui Po — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "YEARS",
+      "alt": {
+        "en": "YEARS — Sham Shui Po — image from the official website",
+        "zh-hk": "YEARS — Sham Shui Po — 官方網站圖片"
+      }
+    }
+  ],
+  "be-with-years-whampoa": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "BE WITH YEARS",
+      "alt": {
+        "en": "BE WITH YEARS — Whampoa — image from the official website",
+        "zh-hk": "BE WITH YEARS — Whampoa — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "BE WITH YEARS",
+      "alt": {
+        "en": "BE WITH YEARS — Whampoa — image from the official website",
+        "zh-hk": "BE WITH YEARS — Whampoa — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "BE WITH YEARS",
+      "alt": {
+        "en": "BE WITH YEARS — Whampoa — image from the official website",
+        "zh-hk": "BE WITH YEARS — Whampoa — 官方網站圖片"
+      }
+    }
+  ],
+  "here-with-years-tai-koo-shing": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "HERE WITH YEARS",
+      "alt": {
+        "en": "HERE WITH YEARS — Tai Koo Shing — image from the official website",
+        "zh-hk": "HERE WITH YEARS — Tai Koo Shing — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "HERE WITH YEARS",
+      "alt": {
+        "en": "HERE WITH YEARS — Tai Koo Shing — image from the official website",
+        "zh-hk": "HERE WITH YEARS — Tai Koo Shing — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "HERE WITH YEARS",
+      "alt": {
+        "en": "HERE WITH YEARS — Tai Koo Shing — image from the official website",
+        "zh-hk": "HERE WITH YEARS — Tai Koo Shing — 官方網站圖片"
+      }
+    }
+  ],
+  "play-with-years-west-kowloon": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "PLAY WITH YEARS",
+      "alt": {
+        "en": "PLAY WITH YEARS — West Kowloon — image from the official website",
+        "zh-hk": "PLAY WITH YEARS — West Kowloon — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "PLAY WITH YEARS",
+      "alt": {
+        "en": "PLAY WITH YEARS — West Kowloon — image from the official website",
+        "zh-hk": "PLAY WITH YEARS — West Kowloon — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "PLAY WITH YEARS",
+      "alt": {
+        "en": "PLAY WITH YEARS — West Kowloon — image from the official website",
+        "zh-hk": "PLAY WITH YEARS — West Kowloon — 官方網站圖片"
+      }
+    }
+  ],
+  "bear-by-years-lai-chi-kok": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "BEAR BY YEARS",
+      "alt": {
+        "en": "BEAR BY YEARS — Lai Chi Kok — image from the official website",
+        "zh-hk": "BEAR BY YEARS — Lai Chi Kok — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "BEAR BY YEARS",
+      "alt": {
+        "en": "BEAR BY YEARS — Lai Chi Kok — image from the official website",
+        "zh-hk": "BEAR BY YEARS — Lai Chi Kok — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "BEAR BY YEARS",
+      "alt": {
+        "en": "BEAR BY YEARS — Lai Chi Kok — image from the official website",
+        "zh-hk": "BEAR BY YEARS — Lai Chi Kok — 官方網站圖片"
+      }
+    }
+  ],
+  "wanaka-blue-house": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "WANAKA",
+      "alt": {
+        "en": "WANAKA — Blue House — image from the official website",
+        "zh-hk": "WANAKA — Blue House — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "WANAKA",
+      "alt": {
+        "en": "WANAKA — Blue House — image from the official website",
+        "zh-hk": "WANAKA — Blue House — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+      "source": "https://www.yearshk.com/pages/menu",
+      "credit": "WANAKA",
+      "alt": {
+        "en": "WANAKA — Blue House — image from the official website",
+        "zh-hk": "WANAKA — Blue House — 官方網站圖片"
+      }
+    }
+  ],
+  "health-aims-ma-on-shan": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Ma On Shan — image from the official website",
+        "zh-hk": "Health Aims — Ma On Shan — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Ma On Shan — image from the official website",
+        "zh-hk": "Health Aims — Ma On Shan — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Ma On Shan — image from the official website",
+        "zh-hk": "Health Aims — Ma On Shan — 官方網站圖片"
+      }
+    }
+  ],
+  "health-aims-tai-po": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tai Po — image from the official website",
+        "zh-hk": "Health Aims — Tai Po — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tai Po — image from the official website",
+        "zh-hk": "Health Aims — Tai Po — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tai Po — image from the official website",
+        "zh-hk": "Health Aims — Tai Po — 官方網站圖片"
+      }
+    }
+  ],
+  "health-aims-tuen-mun": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tuen Mun — image from the official website",
+        "zh-hk": "Health Aims — Tuen Mun — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tuen Mun — image from the official website",
+        "zh-hk": "Health Aims — Tuen Mun — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tuen Mun — image from the official website",
+        "zh-hk": "Health Aims — Tuen Mun — 官方網站圖片"
+      }
+    }
+  ],
+  "health-aims-tin-shui-wai": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tin Shui Wai — image from the official website",
+        "zh-hk": "Health Aims — Tin Shui Wai — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tin Shui Wai — image from the official website",
+        "zh-hk": "Health Aims — Tin Shui Wai — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Health Aims",
+      "alt": {
+        "en": "Health Aims — Tin Shui Wai — image from the official website",
+        "zh-hk": "Health Aims — Tin Shui Wai — 官方網站圖片"
+      }
+    }
+  ],
+  "solutions-health-care-causeway-bay": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Causeway Bay — image from the official website",
+        "zh-hk": "Solutions Health Care — Causeway Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Causeway Bay — image from the official website",
+        "zh-hk": "Solutions Health Care — Causeway Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Causeway Bay — image from the official website",
+        "zh-hk": "Solutions Health Care — Causeway Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "solutions-health-care-happy-valley": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Happy Valley — image from the official website",
+        "zh-hk": "Solutions Health Care — Happy Valley — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Happy Valley — image from the official website",
+        "zh-hk": "Solutions Health Care — Happy Valley — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Happy Valley — image from the official website",
+        "zh-hk": "Solutions Health Care — Happy Valley — 官方網站圖片"
+      }
+    }
+  ],
+  "solutions-health-care-mong-kok": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Mong Kok — image from the official website",
+        "zh-hk": "Solutions Health Care — Mong Kok — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Mong Kok — image from the official website",
+        "zh-hk": "Solutions Health Care — Mong Kok — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Mong Kok — image from the official website",
+        "zh-hk": "Solutions Health Care — Mong Kok — 官方網站圖片"
+      }
+    }
+  ],
+  "solutions-health-care-cheung-sha-wan": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Cheung Sha Wan — image from the official website",
+        "zh-hk": "Solutions Health Care — Cheung Sha Wan — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Cheung Sha Wan — image from the official website",
+        "zh-hk": "Solutions Health Care — Cheung Sha Wan — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Cheung Sha Wan — image from the official website",
+        "zh-hk": "Solutions Health Care — Cheung Sha Wan — 官方網站圖片"
+      }
+    }
+  ],
+  "solutions-health-care-yuen-long": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Yuen Long — image from the official website",
+        "zh-hk": "Solutions Health Care — Yuen Long — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Yuen Long — image from the official website",
+        "zh-hk": "Solutions Health Care — Yuen Long — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Yuen Long — image from the official website",
+        "zh-hk": "Solutions Health Care — Yuen Long — 官方網站圖片"
+      }
+    }
+  ],
+  "solutions-health-care-sha-tin": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Sha Tin — image from the official website",
+        "zh-hk": "Solutions Health Care — Sha Tin — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Sha Tin — image from the official website",
+        "zh-hk": "Solutions Health Care — Sha Tin — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Solutions Health Care",
+      "alt": {
+        "en": "Solutions Health Care — Sha Tin — image from the official website",
+        "zh-hk": "Solutions Health Care — Sha Tin — 官方網站圖片"
+      }
+    }
+  ],
+  "energy-source-wan-chai": [
+    {
+      "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Energy Source",
+      "alt": {
+        "en": "Energy Source — Wan Chai — image from the official website",
+        "zh-hk": "Energy Source — Wan Chai — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Energy Source",
+      "alt": {
+        "en": "Energy Source — Wan Chai — image from the official website",
+        "zh-hk": "Energy Source — Wan Chai — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+      "source": "https://www.healthygiant.hk/en/pages/store-locations",
+      "credit": "Energy Source",
+      "alt": {
+        "en": "Energy Source — Wan Chai — image from the official website",
+        "zh-hk": "Energy Source — Wan Chai — 官方網站圖片"
+      }
+    }
+  ],
+  "house-of-fitness": [
+    {
+      "url": "https://hof-redesign-preview.pages.dev/images/sc-08.jpg",
+      "source": "https://hofhk.com/",
+      "credit": "House of Fitness",
+      "alt": {
+        "en": "House of Fitness — A class in full swing at House of Fitness",
+        "zh-hk": "House of Fitness — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://hof-redesign-preview.pages.dev/images/sc-06.jpg",
+      "source": "https://hofhk.com/",
+      "credit": "House of Fitness",
+      "alt": {
+        "en": "House of Fitness — A full class in the studio",
+        "zh-hk": "House of Fitness — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://hof-home-preview.pages.dev/images/gym.jpg",
+      "source": "https://hofhk.com/",
+      "credit": "House of Fitness",
+      "alt": {
+        "en": "House of Fitness — image from the official website",
+        "zh-hk": "House of Fitness — 官方網站圖片"
+      }
+    }
+  ],
+  "fit01-training-club": [
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/IMG_8026_1.jpg?v=1700119235",
+      "source": "https://www.fit-01.com/pages/group-classes",
+      "credit": "FIT01 Training Club",
+      "alt": {
+        "en": "FIT01 Training Club — image from the official website",
+        "zh-hk": "FIT01 Training Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/fit01-web-thumbnail-weekend_sweats-3.png?v=1718088218",
+      "source": "https://www.fit-01.com/pages/group-classes",
+      "credit": "FIT01 Training Club",
+      "alt": {
+        "en": "FIT01 Training Club — image from the official website",
+        "zh-hk": "FIT01 Training Club — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/fit01-web-thumbnail-weekendsweats.png?v=1718088191",
+      "source": "https://www.fit-01.com/pages/group-classes",
+      "credit": "FIT01 Training Club",
+      "alt": {
+        "en": "FIT01 Training Club — image from the official website",
+        "zh-hk": "FIT01 Training Club — 官方網站圖片"
+      }
+    }
+  ],
+  "dbdb-training": [
+    {
+      "url": "https://media.base44.com/images/public/6a6f259f74a13ec27e4f113a/c56751696_generated_image.png",
+      "source": "https://dbdbtraining.com/",
+      "credit": "DBDB Training",
+      "alt": {
+        "en": "DBDB Training — image from the official website",
+        "zh-hk": "DBDB Training — 官方網站圖片"
+      }
+    }
+  ],
+  "anhao-wellness-mid-levels": [
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6296-2.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Mid-Levels — image from the official website",
+        "zh-hk": "Anhao Wellness — Mid-Levels — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6293-Edit-Enhanced-SR.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Mid-Levels — MGK_6293-Edit-Enhanced-SR",
+        "zh-hk": "Anhao Wellness — Mid-Levels — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6259.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Mid-Levels — MGK_6259",
+        "zh-hk": "Anhao Wellness — Mid-Levels — 官方網站圖片"
+      }
+    }
+  ],
+  "anhao-wellness-causeway-bay": [
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6296-2.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Causeway Bay — image from the official website",
+        "zh-hk": "Anhao Wellness — Causeway Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6293-Edit-Enhanced-SR.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Causeway Bay — MGK_6293-Edit-Enhanced-SR",
+        "zh-hk": "Anhao Wellness — Causeway Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6259.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Causeway Bay — MGK_6259",
+        "zh-hk": "Anhao Wellness — Causeway Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "anhao-wellness-tsim-sha-tsui": [
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6296-2.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Tsim Sha Tsui — image from the official website",
+        "zh-hk": "Anhao Wellness — Tsim Sha Tsui — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6293-Edit-Enhanced-SR.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Tsim Sha Tsui — MGK_6293-Edit-Enhanced-SR",
+        "zh-hk": "Anhao Wellness — Tsim Sha Tsui — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6259.jpg",
+      "source": "https://anhao-wellness.com/",
+      "credit": "Anhao Wellness",
+      "alt": {
+        "en": "Anhao Wellness — Tsim Sha Tsui — MGK_6259",
+        "zh-hk": "Anhao Wellness — Tsim Sha Tsui — 官方網站圖片"
+      }
+    }
+  ],
+  "flex-studio-central": [
+    {
+      "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/Reformer-class-small-2048x1366.jpeg",
+      "source": "https://flexhk.com/",
+      "credit": "FLEX Studio",
+      "alt": {
+        "en": "FLEX Studio — Central — image from the official website",
+        "zh-hk": "FLEX Studio — Central — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://flexstudiopilates.com/wp-content/uploads/2026/04/Mat_Pilates-1536x2048.jpg",
+      "source": "https://flexhk.com/",
+      "credit": "FLEX Studio",
+      "alt": {
+        "en": "FLEX Studio — Central — image from the official website",
+        "zh-hk": "FLEX Studio — Central — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://flexstudiopilates.com/wp-content/uploads/2026/04/Apparatus-class-small-2048x1366.jpeg",
+      "source": "https://flexhk.com/",
+      "credit": "FLEX Studio",
+      "alt": {
+        "en": "FLEX Studio — Central — image from the official website",
+        "zh-hk": "FLEX Studio — Central — 官方網站圖片"
+      }
+    }
+  ],
+  "flex-studio-one-island-south": [
+    {
+      "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/Reformer-class-small-2048x1366.jpeg",
+      "source": "https://flexhk.com/",
+      "credit": "FLEX Studio",
+      "alt": {
+        "en": "FLEX Studio — One Island South — image from the official website",
+        "zh-hk": "FLEX Studio — One Island South — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://flexstudiopilates.com/wp-content/uploads/2026/04/Mat_Pilates-1536x2048.jpg",
+      "source": "https://flexhk.com/",
+      "credit": "FLEX Studio",
+      "alt": {
+        "en": "FLEX Studio — One Island South — image from the official website",
+        "zh-hk": "FLEX Studio — One Island South — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://flexstudiopilates.com/wp-content/uploads/2026/04/Apparatus-class-small-2048x1366.jpeg",
+      "source": "https://flexhk.com/",
+      "credit": "FLEX Studio",
+      "alt": {
+        "en": "FLEX Studio — One Island South — image from the official website",
+        "zh-hk": "FLEX Studio — One Island South — 官方網站圖片"
+      }
+    }
+  ],
+  "senses-studio-central": [
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Pilate_Reformer.jpg?v=1768746843&width=1200",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Central — image from the official website",
+        "zh-hk": "Senses Studio — Central — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Kwun_Tong_Pilates_Studio_with_Sea_View-2.jpg?v=1764956686&width=2000",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Central — image from the official website",
+        "zh-hk": "Senses Studio — Central — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_49_For_Digital_Use.jpg?v=1765991083&width=1600",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Central — image from the official website",
+        "zh-hk": "Senses Studio — Central — 官方網站圖片"
+      }
+    }
+  ],
+  "senses-studio-causeway-bay": [
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Pilate_Reformer.jpg?v=1768746843&width=1200",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Causeway Bay — image from the official website",
+        "zh-hk": "Senses Studio — Causeway Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Kwun_Tong_Pilates_Studio_with_Sea_View-2.jpg?v=1764956686&width=2000",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Causeway Bay — image from the official website",
+        "zh-hk": "Senses Studio — Causeway Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_49_For_Digital_Use.jpg?v=1765991083&width=1600",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Causeway Bay — image from the official website",
+        "zh-hk": "Senses Studio — Causeway Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "senses-studio-quarry-bay": [
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Pilate_Reformer.jpg?v=1768746843&width=1200",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Quarry Bay — image from the official website",
+        "zh-hk": "Senses Studio — Quarry Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Kwun_Tong_Pilates_Studio_with_Sea_View-2.jpg?v=1764956686&width=2000",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Quarry Bay — image from the official website",
+        "zh-hk": "Senses Studio — Quarry Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_49_For_Digital_Use.jpg?v=1765991083&width=1600",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Quarry Bay — image from the official website",
+        "zh-hk": "Senses Studio — Quarry Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "senses-studio-lai-chi-kok": [
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Pilate_Reformer.jpg?v=1768746843&width=1200",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Lai Chi Kok — image from the official website",
+        "zh-hk": "Senses Studio — Lai Chi Kok — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Kwun_Tong_Pilates_Studio_with_Sea_View-2.jpg?v=1764956686&width=2000",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Lai Chi Kok — image from the official website",
+        "zh-hk": "Senses Studio — Lai Chi Kok — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_49_For_Digital_Use.jpg?v=1765991083&width=1600",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Lai Chi Kok — image from the official website",
+        "zh-hk": "Senses Studio — Lai Chi Kok — 官方網站圖片"
+      }
+    }
+  ],
+  "senses-studio-kwun-tong": [
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Pilate_Reformer.jpg?v=1768746843&width=1200",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Kwun Tong — image from the official website",
+        "zh-hk": "Senses Studio — Kwun Tong — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Kwun_Tong_Pilates_Studio_with_Sea_View-2.jpg?v=1764956686&width=2000",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Kwun Tong — image from the official website",
+        "zh-hk": "Senses Studio — Kwun Tong — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_49_For_Digital_Use.jpg?v=1765991083&width=1600",
+      "source": "https://senses-studio.co/pages/location",
+      "credit": "Senses Studio",
+      "alt": {
+        "en": "Senses Studio — Kwun Tong — image from the official website",
+        "zh-hk": "Senses Studio — Kwun Tong — 官方網站圖片"
+      }
+    }
+  ],
+  "absolute-boutique-fitness-malahon-centre": [
+    {
+      "url": "https://static1.squarespace.com/static/6539cc2324534e61c5795935/t/6539cc8a24534e61c579612a/1674980923673/DSC07835.jpg?format=1500w",
+      "source": "https://www.absoluteboutiquefitness.com.hk/",
+      "credit": "Absolute Boutique Fitness",
+      "alt": {
+        "en": "Absolute Boutique Fitness — Malahon Centre — image from the official website",
+        "zh-hk": "Absolute Boutique Fitness — Malahon Centre — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286730546-97WHQ36ONGS3F0PA3JKC/DSC07653.jpg",
+      "source": "https://www.absoluteboutiquefitness.com.hk/",
+      "credit": "Absolute Boutique Fitness",
+      "alt": {
+        "en": "Absolute Boutique Fitness — Malahon Centre — image from the official website",
+        "zh-hk": "Absolute Boutique Fitness — Malahon Centre — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286730539-IT6ZG2FSTOFFAL542D37/DSC07742.JPG",
+      "source": "https://www.absoluteboutiquefitness.com.hk/",
+      "credit": "Absolute Boutique Fitness",
+      "alt": {
+        "en": "Absolute Boutique Fitness — Malahon Centre — image from the official website",
+        "zh-hk": "Absolute Boutique Fitness — Malahon Centre — 官方網站圖片"
+      }
+    }
+  ],
+  "absolute-boutique-fitness-on-hing-building": [
+    {
+      "url": "https://static1.squarespace.com/static/6539cc2324534e61c5795935/t/6539cc8a24534e61c579612a/1674980923673/DSC07835.jpg?format=1500w",
+      "source": "https://www.absoluteboutiquefitness.com.hk/",
+      "credit": "Absolute Boutique Fitness",
+      "alt": {
+        "en": "Absolute Boutique Fitness — On Hing Building — image from the official website",
+        "zh-hk": "Absolute Boutique Fitness — On Hing Building — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286730546-97WHQ36ONGS3F0PA3JKC/DSC07653.jpg",
+      "source": "https://www.absoluteboutiquefitness.com.hk/",
+      "credit": "Absolute Boutique Fitness",
+      "alt": {
+        "en": "Absolute Boutique Fitness — On Hing Building — image from the official website",
+        "zh-hk": "Absolute Boutique Fitness — On Hing Building — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286730539-IT6ZG2FSTOFFAL542D37/DSC07742.JPG",
+      "source": "https://www.absoluteboutiquefitness.com.hk/",
+      "credit": "Absolute Boutique Fitness",
+      "alt": {
+        "en": "Absolute Boutique Fitness — On Hing Building — image from the official website",
+        "zh-hk": "Absolute Boutique Fitness — On Hing Building — 官方網站圖片"
+      }
+    }
+  ],
+  "pilates-sens": [
+    {
+      "url": "https://cdn-v2.auau.io/tenant-892f4c41-70ac-4c24-ba19-f81ab7c7d065/61adfd0e-767b-421d-b005-04688670d946/IMG0087.jpeg",
+      "source": "https://pilatessens.com/",
+      "credit": "Pilates SENS",
+      "alt": {
+        "en": "Pilates SENS — image from the official website",
+        "zh-hk": "Pilates SENS — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://cdn-v2.auau.io/tenant-892f4c41-70ac-4c24-ba19-f81ab7c7d065/c5ac6e8f-440e-4e0d-997e-040b18af9544/8C4EBBB8_881B_4932_ABF3_B1C8105EF59C.png",
+      "source": "https://pilatessens.com/",
+      "credit": "Pilates SENS",
+      "alt": {
+        "en": "Pilates SENS — image from the official website",
+        "zh-hk": "Pilates SENS — 官方網站圖片"
+      }
+    }
+  ],
+  "yoga-movement-hong-kong": [
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a165afcecd67a415b9791c2.png",
+      "source": "https://yogamovementhk.com/",
+      "credit": "Yoga Movement Hong Kong",
+      "alt": {
+        "en": "Yoga Movement Hong Kong — image from the official website",
+        "zh-hk": "Yoga Movement Hong Kong — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a165afcab53822e7effb41f.png",
+      "source": "https://yogamovementhk.com/",
+      "credit": "Yoga Movement Hong Kong",
+      "alt": {
+        "en": "Yoga Movement Hong Kong — image from the official website",
+        "zh-hk": "Yoga Movement Hong Kong — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/69ea86bc0d66f2a665a74575.png",
+      "source": "https://yogamovementhk.com/",
+      "credit": "Yoga Movement Hong Kong",
+      "alt": {
+        "en": "Yoga Movement Hong Kong — image from the official website",
+        "zh-hk": "Yoga Movement Hong Kong — 官方網站圖片"
+      }
+    }
+  ],
+  "anahata-yoga": [
+    {
+      "url": "https://www.anahatayoga.com.hk/wp-content/uploads/2024/08/Experience-an-Authentic-Yoga-Class-with-our-Professional-Yoga-Masters-Inner-Image.png",
+      "source": "https://www.anahatayoga.com.hk/",
+      "credit": "Anahata Yoga",
+      "alt": {
+        "en": "Anahata Yoga — Authentic yoga class with professional yoga masters at Anahata Yoga Hong Kong",
+        "zh-hk": "Anahata Yoga — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/Group-Class.png",
+      "source": "https://www.anahatayoga.com.hk/",
+      "credit": "Anahata Yoga",
+      "alt": {
+        "en": "Anahata Yoga — Group yoga classes Hong Kong - Hatha Vinyasa Yin Yoga at Anahata Yoga Central",
+        "zh-hk": "Anahata Yoga — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/Private-Class.png",
+      "source": "https://www.anahatayoga.com.hk/",
+      "credit": "Anahata Yoga",
+      "alt": {
+        "en": "Anahata Yoga — Private yoga sessions Hong Kong - one-on-one yoga classes at Anahata Yoga",
+        "zh-hk": "Anahata Yoga — 官方網站圖片"
+      }
+    }
+  ],
+  "a-yoga-studio-hk": [
+    {
+      "url": "https://static.wixstatic.com/media/a901db_a6b848e005e1466f8635e675539fb98a~mv2.jpg/v1/fill/w_1024,h_614,al_c/a901db_a6b848e005e1466f8635e675539fb98a~mv2.jpg",
+      "source": "https://www.ayogastudiohk.com/",
+      "credit": "A Yoga Studio HK",
+      "alt": {
+        "en": "A Yoga Studio HK — image from the official website",
+        "zh-hk": "A Yoga Studio HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://static.wixstatic.com/media/a901db_192693be98db474faf522633e95ae620~mv2.png",
+      "source": "https://www.ayogastudiohk.com/",
+      "credit": "A Yoga Studio HK",
+      "alt": {
+        "en": "A Yoga Studio HK — image from the official website",
+        "zh-hk": "A Yoga Studio HK — 官方網站圖片"
+      }
+    }
+  ],
+  "atsumaru-yoga": [
+    {
+      "url": "https://static.wixstatic.com/media/7719c6_7740234228e04cf5bb164a1c50007920~mv2.jpeg",
+      "source": "https://www.atsumaruyogahk.com/",
+      "credit": "ATSUMARU Yoga",
+      "alt": {
+        "en": "ATSUMARU Yoga — image from the official website",
+        "zh-hk": "ATSUMARU Yoga — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.atsumaruyogahk.com/quality_auto/IMG_3879_JPG.jpg",
+      "source": "https://www.atsumaruyogahk.com/",
+      "credit": "ATSUMARU Yoga",
+      "alt": {
+        "en": "ATSUMARU Yoga — IMG_3879.JPG",
+        "zh-hk": "ATSUMARU Yoga — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.atsumaruyogahk.com/quality_auto/atsumaru_1207-146.jpg",
+      "source": "https://www.atsumaruyogahk.com/",
+      "credit": "ATSUMARU Yoga",
+      "alt": {
+        "en": "ATSUMARU Yoga — atsumaru_1207-146.jpg",
+        "zh-hk": "ATSUMARU Yoga — 官方網站圖片"
+      }
+    }
+  ],
+  "enjoyoga": [
+    {
+      "url": "https://static.wixstatic.com/media/8315ba_9ec55689048c416f925758ae4f9a924d~mv2.jpg/v1/fill/w_2500,h_1665,al_c/8315ba_9ec55689048c416f925758ae4f9a924d~mv2.jpg",
+      "source": "https://www.enjoyoga.online/",
+      "credit": "Enjoyoga",
+      "alt": {
+        "en": "Enjoyoga — image from the official website",
+        "zh-hk": "Enjoyoga — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8315ba_cac5bcedc3f74a8d9c9350b477bcb670~mv2.jpg",
+      "source": "https://www.enjoyoga.online/",
+      "credit": "Enjoyoga",
+      "alt": {
+        "en": "Enjoyoga — image from the official website",
+        "zh-hk": "Enjoyoga — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://static.wixstatic.com/media/8315ba_0be8ed79c774430b985a15133eebdaea~mv2.jpg",
+      "source": "https://www.enjoyoga.online/",
+      "credit": "Enjoyoga",
+      "alt": {
+        "en": "Enjoyoga — image from the official website",
+        "zh-hk": "Enjoyoga — 官方網站圖片"
+      }
+    }
+  ],
+  "pause-health-and-wellness-mui-wo": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5ae2a9ef4eddec27ef607054/1559792292403-UM0167GJPWWMVKV0AI8Y/PAUSE-12.png",
+      "source": "https://www.pause.hk/find-us",
+      "credit": "PAUSE Health & Wellness",
+      "alt": {
+        "en": "PAUSE Health & Wellness — Mui Wo — image from the official website",
+        "zh-hk": "PAUSE Health & Wellness — Mui Wo — 官方網站圖片"
+      }
+    }
+  ],
+  "jesel-studio": [
+    {
+      "url": "https://static1.squarespace.com/static/65db05ebb5883330418dad25/t/65db196ce50d987df7f2ccf6/1708857708851/Screenshot+2024-02-25+at+6.40.49+PM.png?format=1500w",
+      "source": "https://www.jeselstudio.com/",
+      "credit": "Jesel Studio",
+      "alt": {
+        "en": "Jesel Studio — image from the official website",
+        "zh-hk": "Jesel Studio — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/00b387c1-7cd3-4d48-a2ba-bb28b9f98f34/WhatsApp+Image+2024-03-20+at+10.17.31.jpeg",
+      "source": "https://www.jeselstudio.com/",
+      "credit": "Jesel Studio",
+      "alt": {
+        "en": "Jesel Studio — image from the official website",
+        "zh-hk": "Jesel Studio — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/d51c9beb-cbe0-4f74-9c35-f5489be61a08/IMG_2024-07-04-093203.JPG",
+      "source": "https://www.jeselstudio.com/",
+      "credit": "Jesel Studio",
+      "alt": {
+        "en": "Jesel Studio — image from the official website",
+        "zh-hk": "Jesel Studio — 官方網站圖片"
+      }
+    }
+  ],
+  "212hk": [
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Facilities",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities3-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Facilities(3)",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Banner-2-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Banner",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    }
+  ],
+  "pickle-city": [
+    {
+      "url": "https://mkapi.nexposhk.com/picklecity/api/v3c/general/cl_view_upload.php?type=home_banner&file=home_banner_6a55e7c84f8e0_1784014792.png",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://linktr.ee/og/image/picklecityhk.jpg",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4&oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg&oe=6A8180C2&_nc_sid=5e03e0&_nc_cat=104",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
     }
   ]
 }

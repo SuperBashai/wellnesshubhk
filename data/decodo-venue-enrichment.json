@@ -1,0 +1,5584 @@
+{
+  "generatedAt": "2026-09-30T09:56:49.344Z",
+  "sources": {
+    "https://www.kinship.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511000765859642369",
+      "venues": [
+        {
+          "slug": "kinship",
+          "name": "Kinship",
+          "needsImages": false,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "http://static1.squarespace.com/static/6944d804739523146479bbf8/t/6944d805739523146479bc8d/1727886313125/Tempo_Dance_511853-min.jpg?format=1500w",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://static1.squarespace.com/static/6944d804739523146479bbf8/t/6aaf8e13131c9343583ea2ce/1789888810204/",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/158ddb92-c01c-4567-88bd-9a95019e2b81/Screenshot+2026-08-03+at+6.33.47%E2%80%AFPM.png",
+          "kind": "img",
+          "label": "",
+          "width": 2285,
+          "height": 1606,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/2d49a135-cf6d-43df-a8e7-748c0a935d6c/picture+1.png",
+          "kind": "img",
+          "label": "",
+          "width": 5605,
+          "height": 3843,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/bdda8080-473b-444e-bcba-a456597fa19f/picture+2.png",
+          "kind": "img",
+          "label": "",
+          "width": 2500,
+          "height": 2000,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/4f6d371b-945d-4a98-849d-bbb33bc846d7/picture+4.png",
+          "kind": "img",
+          "label": "",
+          "width": 4672,
+          "height": 4662,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/d4939e37-1533-4ab3-b081-866bd94af175/picture+1.png",
+          "kind": "img",
+          "label": "",
+          "width": 2000,
+          "height": 1600,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/3763bbc1-106f-4085-b180-509aae97a39a/picture+2.png",
+          "kind": "img",
+          "label": "",
+          "width": 2071,
+          "height": 1380,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/3c7f7afc-0960-4e23-a6c7-c0ed7f1c363e/Screenshot+2026-08-03+at+6.34.02%E2%80%AFPM.png",
+          "kind": "img",
+          "label": "",
+          "width": 2238,
+          "height": 1604,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6944d804739523146479bbf8/3d1d5cc9-6200-4077-a606-294593e645a4/picture+3.png",
+          "kind": "img",
+          "label": "",
+          "width": 825,
+          "height": 1440,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.ikigai.hk/en/studios": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511000779247874049",
+      "venues": [
+        {
+          "slug": "ikigai-causeway-bay",
+          "name": "IKIGAI Causeway Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ikigai-central-infrared-sauna",
+          "name": "IKIGAI Central — Infrared Sauna",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ikigai-central",
+          "name": "IKIGAI Central",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ikigai-tsim-sha-tsui",
+          "name": "IKIGAI Tsim Sha Tsui",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/1561442565504-NC9J2H1K3PN852850KRG/Ikigai-Orange.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://static1.squarespace.com/static/5d11b829ee1230000146fdeb/t/5d11b9044836d10001793d35/1790680142075/",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/1612686633846-8A3MPNHYY6YOO89MQ0DL/Ikigai_White-01.png",
+          "kind": "img",
+          "label": "",
+          "width": 2500,
+          "height": 1768,
+          "score": 62
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/b5c367d9-570f-4b41-9182-1bea5e24abe3/Ikigai_White-01.png?format=2500w",
+          "kind": "img",
+          "label": "IKIGAI",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/1561442565504-NC9J2H1K3PN852850KRG/Ikigai-Orange.png?format=1500w",
+          "kind": "img",
+          "label": "IKIGAI",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/1619843029570-85NBJGOZ57S319UZ3IPE/App+Visual.jpg?format=1500w",
+          "kind": "img",
+          "label": "IKIGAI App",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5d11b829ee1230000146fdeb/7c64425f-d905-4ee7-adb0-e9e3179b3d15/WhatsApp%2BImage%2B2024-05-31%2Bat%2B08.42.30%2B%281%29.webp",
+          "kind": "img",
+          "label": "WhatsApp+Image+2024-05-31+at+08.42.30+(1).webp",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 9013 3701"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://spiceboxorganics.com/home/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511000794829709314",
+      "venues": [
+        {
+          "slug": "spicebox-organics-kennedy-town",
+          "name": "SpiceBox Organics — Kennedy Town",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "spicebox-organics-mid-levels",
+          "name": "SpiceBox Organics — Mid-Levels",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Ayurveda-Health-Supplements-300x225.jpg",
+          "kind": "img",
+          "label": "Ayurveda & Health Supplements",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Bath-Body-Care-300x225.jpg",
+          "kind": "img",
+          "label": "Bath and Body Care",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2017/09/Bulk.png",
+          "kind": "img",
+          "label": "Bulk Buys",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Cereals-Grains-Legumes-300x225.jpg",
+          "kind": "img",
+          "label": "Cereals, Grains & Legumes",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Fresh-Produce-300x225.jpg",
+          "kind": "img",
+          "label": "Fresh Produce",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Gluten-Free-300x225.jpg",
+          "kind": "img",
+          "label": "Gluten Free",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Home-Cleaning-300x225.jpg",
+          "kind": "img",
+          "label": "Home Cleaning & Care",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2025/05/instagram-post-8-300x300.png",
+          "kind": "img",
+          "label": "Natural Organic Skincare",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/11/IMG_6063-231x300.jpg",
+          "kind": "img",
+          "label": "Gifts & Gift Baskets",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Oils-Butter-300x225.jpg",
+          "kind": "img",
+          "label": "Oils & Butter",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Seeds-Nuts-Snacks-300x225.jpg",
+          "kind": "img",
+          "label": "Seeds, Nuts, Dried Fruits & Snacks",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://spiceboxorganics.com/wp-content/uploads/2023/08/Spices-Herbs-Blends-300x225.jpg",
+          "kind": "img",
+          "label": "Spices, Herbs & Blends",
+          "width": 300,
+          "height": 300,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 2559 9887",
+          "+852 2191 0886"
+        ],
+        "hourSnippets": [
+          "Monday of every month TASTY ● HEALTHY ● NUTRITIOUS FOOD OPTIONS Check out our café menu View Menu Looking for wholesome and nutritious food for your next event? Vegetarian, Organic and Vegan options available for groups of 30,"
+        ]
+      }
+    },
+    "https://www.organicmama.com.hk/en/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001104449062913",
+      "venues": [
+        {
+          "slug": "organic-mama",
+          "name": "Organic Mama",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://img.shoplineapp.com/media/image_clips/6a2782cabc0b271cb5c7a0d4/original.png?1780974282=&owner_id=5dd74a72d9d3e300123900ee",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6abb86127a1137e3bd47d8f6/1080x.png?",
+          "kind": "img",
+          "label": "Better Than Foods Organic Pasta Spaghetti (385g) (163629)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6abb8632f6c20ddecb688ae6/3860x.png?",
+          "kind": "img",
+          "label": "Better Than Foods Organic Pasta Spaghetti (385g) (163629)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a964f2b590f556e7edd2048/1080x.png?",
+          "kind": "img",
+          "label": "Better than foods Organic High Protein Rice (500g) (163625)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a9646b61ecb7aba935f6154/3860x.jpg?",
+          "kind": "img",
+          "label": "Better than foods Organic High Protein Rice (500g) (163625)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a94fe9146c68b73caf27b69/1080x.png?",
+          "kind": "img",
+          "label": "Urtekram Organic Aloe Vera Crystal Deo (50mL) (AC368)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72f837e9321e12c0b7e9a6/1080x.png?",
+          "kind": "img",
+          "label": "Boons Organic High Protein Chickpea Brown Rice Cracker (60g) (163311)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72b9575781d2422863b9cf/3860x.jpg?",
+          "kind": "img",
+          "label": "Boons Organic High Protein Chickpea Brown Rice Cracker (60g) (163311)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72f82a24f03de4b794d1e4/1080x.png?",
+          "kind": "img",
+          "label": "BOONS Organic High Protein Mung Bean Brown Rice Cracker (60g) (163310)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72b5ecea535a3138e95e55/3860x.jpg?",
+          "kind": "img",
+          "label": "BOONS Organic High Protein Mung Bean Brown Rice Cracker (60g) (163310)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a4ca68c5bfa005283e3e222/375x.jpg?",
+          "kind": "img",
+          "label": "BECKS COCOA - LOW-FAT GLUTEN-FREE ORGANIC CRIOLLO COCOA POWDERED  (200g) (24002)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a4cab95f953a93332f10606/3860x.png?",
+          "kind": "img",
+          "label": "BECKS COCOA - LOW-FAT GLUTEN-FREE ORGANIC CRIOLLO COCOA POWDERED  (200g) (24002)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 3179 4623",
+          "+852 2575 1688"
+        ],
+        "hourSnippets": [
+          "mone-free Boneless Chicken Thigh Leg (2kg) (MA270) HK$158",
+          "Monk Fruit Erythritol Blend 1kg （84302） HK$96",
+          "mone-free Frozen Products 🐷🐔🐮 ADD TO CART Caseificio Valcolatte Frozen Burrata (125g) (MA271) HK$42",
+          "mon Wild Canadian Sockeye Salmon (6 x 400g) (MA021HK6) HK$866",
+          "Satay Sliced Chicken (Frozen -18°C) (250g) (42510) HK$58",
+          "mongrass Chicken Skewers (Frozen -18°C) (280g) (42516) HK$68",
+          "Monk Fruit and Stevia Sweetener (Can increased 100g) (300g) (82002) HK$125",
+          "Monk Fruit and Stevia Sweetener (2g x 40包) (82001) HK$100",
+          "Monk Fruit Sweetener Syrup (500g) (82304) HK$69",
+          "Monk Fruit and Stevia Sweetener (500g) (82009) HK$169",
+          "Daily Extra Probiotic 30 capsule (L054) HK$128",
+          "Daily Probiotic 30 capsule (L053) HK$93"
+        ]
+      }
+    },
+    "https://www.goparksaisha.hk/en/sports/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001138318072833",
+      "venues": [
+        {
+          "slug": "go-park-sai-sha",
+          "name": "GO PARK Sai Sha",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/10/hero2-2048x1120.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/balance-bike.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/cycling.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/football.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/golf.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/lacrosse.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/padel.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/pickleball.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/rugby.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/running.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/tennis.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.goparksaisha.hk/wp-content/uploads/2024/11/basketball.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Friendly The Point Visit GO PARK About GO PARK Sai Sha Explore Sai Sha Follow Us Register As The Point Member Contact Us Disclaimer Promotion Terms & Conditions Privacy policy Other SHKP projects © 2026 Sun Hung Kai Propert"
+        ]
+      }
+    },
+    "https://thesaunarituals.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001150842256385",
+      "venues": [
+        {
+          "slug": "sauna-rituals-at-the-hideout",
+          "name": "Sauna Rituals at The Hideout",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.coastalfitnesshk.com/the-dream-room": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001167925663745",
+      "venues": [
+        {
+          "slug": "coastal-fitness-dream-room",
+          "name": "Coastal Fitness Dream Room",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/65dbdd9543859d4ebf157c1b/65de8e3be9d9b351217af0f3_White%20Menu.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65dbdd9543859d4ebf157c1b/666f9bef62fe41f9c7f829bf_WhatsApp%20Image%202024-06-13%20at%2013.30.43.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65dbdd9543859d4ebf157c1b/65e13d30fe2aee91037abcfe_apple-podcasts.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/65dbdd9543859d4ebf157c1b/65dbdd9543859d4ebf157c8b_loader.gif",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85229891900",
+          "+852 2989 1900"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.go24fitness.com/en/look-inside/onyx-admiralty": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001179334129665",
+      "venues": [
+        {
+          "slug": "onyx-admiralty",
+          "name": "ONYX Admiralty",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/6f8/91e/c0c/thumb__600_350_0_0_crop.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/ONYX%20Admiralty/DSC08497.jpg",
+          "kind": "img",
+          "label": "ONYX Admiralty group reformer pilates",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/ONYX%20Admiralty/DSC08490.jpg",
+          "kind": "img",
+          "label": "ONYX Admiralty powerlifting weightlifting platform barbell",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/ONYX%20Admiralty/DSC08502.jpg",
+          "kind": "img",
+          "label": "ONYX Admiralty HYROX rowing ski sled",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/gympics/ADM/11a0ef62-41c0-46d5-a86a-e307c1dae933.jpg",
+          "kind": "img",
+          "label": "ONYX Admiralty recovery hub, infrared sauna, cold plunge",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/6f8/91e/c0c/thumb__900_350_0_0_crop.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/uploaded-files/20260420-popup-6.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "67787100"
+        ],
+        "hourSnippets": [
+          "Mong Kok GO24 North Point GO24 Shau Kei Wan GO24 Tsuen Wan GO24 Wong Tai Sin GO24 Yuen Long ONYX - Admiralty ONYX - Central ONYX - Central (LHT Tower) ONYX - Central East (Bank of America Tower) ONYX - Taikoo Place ONYX - W"
+        ]
+      }
+    },
+    "https://www.go24fitness.com/en/recovery": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001193351504897",
+      "venues": [
+        {
+          "slug": "go24-fitness-kennedy-town",
+          "name": "GO24 Fitness — Kennedy Town",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/4d4/bd4/14a/thumb__600_350_0_0_crop.jpg",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/brand/20260402-comb-go24-on.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/874/e88/ec8/thumb__400_0_0_0_auto.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/596/bfb/d05/thumb__400_0_0_0_auto.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/12a/bb4/03a/thumb__400_0_0_0_auto.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/uploads/public/5f1/855/684/thumb__400_0_0_0_auto.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.go24fitness.com/storage/app/media/uploaded-files/20260420-popup-6.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Mong Kok GO24 North Point GO24 Shau Kei Wan GO24 Tsuen Wan GO24 Wong Tai Sin GO24 Yuen Long ONYX - Admiralty ONYX - Central ONYX - Central (LHT Tower) ONYX - Central East (Bank of America Tower) ONYX - Taikoo Place ONYX - W"
+        ]
+      }
+    },
+    "https://www.pure-360.com.hk/en/contact-us/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001206991368193",
+      "venues": [
+        {
+          "slug": "re-set-by-pure-lee-theatre-plaza",
+          "name": "Re:set by PURE — Lee Theatre Plaza",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "re-set-by-pure-lkf",
+          "name": "Re:set by PURE — LKF",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://assets.pure-360.com.hk/wp-content/uploads/2026/03/30123600/Club-Etiquette-hero.webp",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 8178 0000",
+          "+852 82000032",
+          "+852 81055588",
+          "+852 81020033",
+          "+852 21808088",
+          "+852 81292828",
+          "+852 2298 5143",
+          "+852 3691 3691",
+          "+852 8196 0000",
+          "+852 21224386",
+          "+852 8129 1188",
+          "+852 81055888"
+        ],
+        "hourSnippets": [
+          "Monday - Friday: 6 am–10:30 pm Saturday: 9 am–8 pm Sunday & public holidays: 8:30 am–8 pm 14/f California Tower, 32 D’Aguilar Street, Central, Hong Kong View On Map Hours today: Monday - Friday: Sat, Sun & public holidays: 19/",
+          "Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & public holidays: 8 am–10 pm 3/F, ICBC Tower, 3 Garden Road, Central, Hong Kong View On Map +852 81055588 Hours today: 6 am–12 am Monday - Friday: 6 am–12 am Saturday: 6",
+          "Sunday & public holidays: 8 am–10 pm 6/F, K11 MUSEA, Victoria Dockside, 18 Salisbury Road, Tsim Sha Tsui, Kowloon View On Map +852 81020033 Hours today: 6 am–12 am Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & publ",
+          "Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & public holidays: 8 am–10 pm 7/F, Langham Place Office Tower, 8 Argyle St, Mong Kok, Kowloon View On Map +852 81292828 Hours today: 6 am–12 am Monday - Friday: 6 am–12 a",
+          "Saturday: 6 am–12 am Sunday & public holidays: 8 am–10 pm 9/f, Langham Place Office Tower, 8 Argyle Street, Mong Kok, Kowloon View On Map +852 2298 5143 Hours today: Monday - Friday: Sat, Sun & public holidays: 9/f, Langham Plac",
+          "Mong Kok, Kowloon View On Map +852 3691 3691 Hours today: 6:30 am–11:00 pm Monday - Friday: 6:30 am–11:00 pm Sat, Sun & public holidays: 8:00 am–8:00 pm 15/F, Lee Theatre Plaza, 99 Percival Street, Causeway Bay, Hong Kong V",
+          "Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & public holidays: 8 am–10 pm 11/F, Lee Theatre Plaza, 99 Percival Street, Causeway Bay, Hong Kong View On Map +852 21224386 Hours today: Monday - Friday: Sat, Sun & publ",
+          "Monday: 6:30 am–11 pm Tuesday: 7 am–11 pm Wednesday: 6:30 am–11 pm Thursday: 7 am–11 pm Friday: 6:30 am–10:30 pm Saturday: 8:30 am–8 pm Sunday: 8:30 am–8 pm Public holidays: 1/F & 2/F, Manulife Place, 348 Kwun Tong Road, Kwun",
+          "Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & public holidays: 8 am–10 pm 1/F & 2/F One Hennessy, 1 Hennessy Road, Wan Chai, Hong Kong View On Map +852 81020812 Hours today: 6 am–12 am Monday - Friday: 6 am–12 am S",
+          "Sunday & public holidays: 8 am–10 pm 2/F, One Taikoo Place, 979 King's Road, Quarry Bay , Hong Kong View On Map +852 8100 8330 Hours today: 6 am–12 am Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & public holidays:",
+          "Monday - Friday: Sat, Sun & public holidays: 5/F, PCCW Tower, Taikoo Place, 979 King's Road, Quarry Bay, Hong Kong View On Map +852 81055538 Hours today: 6 am–12 am Monday - Friday: 6 am–12 am Saturday: 6 am–12 am Sunday & pub",
+          "Monday - Friday: 6:30am - 10:30pm Saturday: 8:30 am–8 pm Sunday: 8:30 am–8 pm Public holidays: 25/f, Soundwill Plaza, 38 Russell Street, Causeway Bay, Hong Kong View On Map +852 2970 2299 Hours today: 6:30 am–10:30pm Monday -"
+        ]
+      }
+    },
+    "https://www.ovolohotels.com/ovolo/central/veda/": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "veda",
+          "name": "VEDA",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "error": "Target returned 400"
+    },
+    "https://www.slowood.hk/pages/connect-to-slowood": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001262263912449",
+      "venues": [
+        {
+          "slug": "slowood-kennedy-town",
+          "name": "Slowood — Kennedy Town",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "slowood-central-market",
+          "name": "Slowood — Central Market",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "slowood-hysan-place",
+          "name": "Slowood — Hysan Place",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "slowood-hong-kong-airport",
+          "name": "Slowood — Hong Kong Airport",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.slowood.hk/cdn/shop/products/nb-almond-front.png?v=1617946540&width=900",
+          "kind": "img",
+          "label": "Organic Unsweetened Activated Almond Milk - Slowood",
+          "width": 900,
+          "height": 2604.5016077170417,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/files/nb-almond-front_f4f9a133-b090-4330-a041-1e1678208c71.png?v=1713844494&width=1000",
+          "kind": "img",
+          "label": "Organic Unsweetened Almond Milk - Slowood",
+          "width": 1000,
+          "height": 2893.8906752411576,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/products/palo_santo_-_9102270300062-1_948a8cda-6ccd-4aef-9385-38df718b27ee.jpg?v=1764146427&width=900",
+          "kind": "img",
+          "label": "Palo Santo Sticks per 50g bundles - Slowood",
+          "width": 900,
+          "height": 900,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/files/20210301-bestsellerslide_palosantoincensesticks780x850px.png?v=1764146427&width=1000",
+          "kind": "img",
+          "label": "Palo Santo Sticks per 50g bundles - Slowood",
+          "width": 1000,
+          "height": 1089.1758917589175,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/files/7942e107-fa82-4e05-9f02-7fc140387743.jpg?v=1754984545&width=900",
+          "kind": "img",
+          "label": "U01 - Unscented Dish Soap Refill Box - Slowood",
+          "width": 900,
+          "height": 900,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/products/img_7546_900x_6e9034b8-f967-41ed-8e6a-87f95018a8fb.jpg?v=1629064757&width=900",
+          "kind": "img",
+          "label": "Dish washing Sponges (3pcs) - Slowood",
+          "width": 900,
+          "height": 900,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/files/407f173e-c673-4f30-af35-9abcf7007e61.jpg?v=1785990098&width=900",
+          "kind": "img",
+          "label": "",
+          "width": 900,
+          "height": 900,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/products/palo_santo_-_9102270300062-1_948a8cda-6ccd-4aef-9385-38df718b27ee.jpg?v=1764146427&width=4200",
+          "kind": "img",
+          "label": "Sustainable Living",
+          "width": 4200,
+          "height": 4200,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/products/e151.jpg?v=1648453938&width=5760",
+          "kind": "img",
+          "label": "On sale",
+          "width": 8320,
+          "height": 8320,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/files/9ee4407a-fe96-4f3d-9b27-eff702fc0354.jpg?v=1789986533&width=2000",
+          "kind": "img",
+          "label": "New Arrivals",
+          "width": 2000,
+          "height": 2000,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/products/nb-almond-front.png?v=1617946540&width=3732",
+          "kind": "img",
+          "label": "Organic Grocery",
+          "width": 3732,
+          "height": 10800,
+          "score": 62
+        },
+        {
+          "url": "https://www.slowood.hk/cdn/shop/files/7942e107-fa82-4e05-9f02-7fc140387743.jpg?v=1754984545&width=4096",
+          "kind": "img",
+          "label": "Our B Corp Parnters",
+          "width": 4096,
+          "height": 4096,
+          "score": 62
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "",
+          "9855 1128",
+          "6468 6128",
+          "9860 7047",
+          "6309 1559"
+        ],
+        "hourSnippets": [
+          "mond Milk Nutty Bruce from $36 00 from $36",
+          "Wedding Voucher In-store Voucher E-Voucher Quick shop Add to cart Palo Santo Sticks per 50g bundles Slowood $65 00 $65",
+          "Opening Hours: Mon to Sun 07:00 - 23:00 Phone: 9855 1128 Kennedy Town Venue: Shop 2-3, G/F, The Hudson, 11 Davis Street, Kennedy Town, Hong Kong Opening Hours: Mon to Sun 11:00 - 21:00 Phone: 6468 6128 ----- Central Market Venue: Sho",
+          "Opening Hours: Mon to Thur, Sun 11am - 9pm Fri, Sat, Eve of Public Holidays 11am - 10pm Phone: 9860 7047 ----- Causeway Bay Venue: Shop No",
+          "Opening Hours: Mon to Sun 11:00 - 21:30 Phone: 6309 1559 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -- Press & Media: hello@slowood"
+        ]
+      }
+    },
+    "https://livezero.hk/pages/location": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001275513748481",
+      "venues": [
+        {
+          "slug": "live-zero",
+          "name": "Live Zero",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/2360/9975/files/live-zero-vector-smalle_04ee5b68-95cf-4ad6-b420-7913a4066ebd.png?height=628&pad_color=ffffff&v=1613520160&width=1200",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://livezero.hk/cdn/shop/files/live-zero-vector-smalle_x100@2x.png?v=1613519047",
+          "kind": "img",
+          "label": "Live zero",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://livezero.hk/cdn/shop/t/25/assets/grabbing.png?v=162995541551579154171756460755",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 9433 3394",
+          "+852 94333394"
+        ],
+        "hourSnippets": [
+          "Monday: Closed Tuesday - Saturday: 10am - 7pm, Sunday: 10am - 6pm Closed for lunch: 2-3pm Public holidays: Usually early close or closed"
+        ]
+      }
+    },
+    "https://www.foodcraft.hk/pages/contact-us": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001307751171073",
+      "venues": [
+        {
+          "slug": "foodcraft",
+          "name": "FoodCraft",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.foodcraft.hk/cdn/shop/files/FC_sourdough.jpg?v=1658886033",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://www.foodcraft.hk/cdn/shop/files/FC_sourdough.jpg?v=1658886033",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://www.foodcraft.hk/pages/$%7BparseHtmlStringContent(",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 5917 1181",
+          "852 5917 1181"
+        ],
+        "hourSnippets": [
+          "Opening Hours: Mon-Fri 2pm-5pm | Closed on Sat, Sun & PH Collection from Store: Monday to Friday, 2-5pm (if option is not displayed during checkout, please notify us along with your Order# The shipping fee will be refunded upon your"
+        ]
+      }
+    },
+    "https://www.organicplus.com.hk/en/Store/Detail?shopid=655": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001321974025217",
+      "venues": [
+        {
+          "slug": "organic-plus-caine-road",
+          "name": "Organic Plus — Caine Road",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://file04.es.c01.co/upload/769CC75B9F0560CF/201807/5218925887407775181.png",
+          "kind": "img",
+          "label": "Organic Plus",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://file03.es.c01.co/upload/769CC75B9F0560CF/201807/5150834153146326939.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://file03.es.c01.co/upload/769CC75B9F0560CF/202608/5325103339497933362.png_150x150.ashx",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://file04.es.c01.co/upload/769CC75B9F0560CF/202608/5056248385254708564.png_150x150.ashx",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "6323 1646",
+          "27551880"
+        ],
+        "hourSnippets": [
+          "Business Hours： 10:30am-7:30pm Phone： 6323 1646 Email： caine@organicplus"
+        ]
+      }
+    },
+    "https://thebaypickle.com/hk-island-tin-hau": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001343096530945",
+      "venues": [
+        {
+          "slug": "bay-pickle-tin-hau",
+          "name": "Bay Pickle — Tin Hau",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://img1.wsimg.com/isteam/ip/5b7269cc-8dcb-49f8-afd0-aa5668c71385/openart-image_1772982805428_adea3e0f_177298280.png",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://img1.wsimg.com/isteam/ip/5b7269cc-8dcb-49f8-afd0-aa5668c71385/WhatsApp%20Image%202024-07-12%20at%2022.49.06%20(1).jpeg/:/cr=t:5.56%25,l:0%25,w:100%25,h:88.89%25/rs=w:1240,h:620,cg:true",
+          "kind": "img",
+          "label": "Modern indoor pickleball court with seating and paddle storage.",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://tsuenwan.thebaypickle.com/memberships/7377": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "bay-pickle-d-park",
+          "name": "Bay Pickle — D·PARK",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "error": "Target returned 404"
+    },
+    "https://thebaypickle.com/south-island": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001367058585601",
+      "venues": [
+        {
+          "slug": "bay-pickle-one-island-south",
+          "name": "Bay Pickle — One Island South",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://img1.wsimg.com/isteam/ip/5b7269cc-8dcb-49f8-afd0-aa5668c71385/openart-image_1772982805428_adea3e0f_177298280.png",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "friendly programs 📍 Location: G shop 1, One Island South, Wong Chuk Hang, Hong Kong Contact Wong Chuk Hang Copyright © 2026 thebaypickle"
+        ]
+      }
+    },
+    "https://www.metrocityplaza.com/en/discovery/shopping": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001379234666498",
+      "venues": [
+        {
+          "slug": "bay-pickle-mcp-discovery",
+          "name": "Bay Pickle — MCP Discovery",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "http://www.metrocityplaza.com/en/assets/discovery/images/other/FB-MCP3.jpg",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://212hk.com/about-us/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001397362481153",
+      "venues": [
+        {
+          "slug": "212hk",
+          "name": "212HK",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/04/Vector-1.png",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/05/s-6-768x512.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 800,
+          "height": 533,
+          "score": 62
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/05/s-5-768x512.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 800,
+          "height": 533,
+          "score": 62
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/05/s-3-768x512.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 800,
+          "height": 533,
+          "score": 62
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/05/s-1-1-200x300.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 533,
+          "height": 800,
+          "score": 54
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/05/s-2-200x300.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 533,
+          "height": 800,
+          "score": 54
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/05/s-4-200x300.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 533,
+          "height": 800,
+          "score": 54
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
+          "kind": "img",
+          "label": "Facilities",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities3-scaled.jpg",
+          "kind": "img",
+          "label": "Facilities(3)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/04/Banner-2-scaled.jpg",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/04/width_800-1.jpg",
+          "kind": "img",
+          "label": "width_800-1.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://212hk.com/wp-content/uploads/2026/04/ico-01-300x280.png",
+          "kind": "img",
+          "label": "",
+          "width": 441,
+          "height": 412,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85295009074",
+          "95009074"
+        ],
+        "hourSnippets": [
+          "Friendly Coaching 4 Pickleball Courts Paddle for Rent Courtside Seating Gear Shop Dine-In Restaurant Parking Space Our Elite Academy Our academy has the ambitious goal of training the next generation of Hong Kong’s top pick",
+          "thusiasts, Naveed’s passion and entrepreneurial spirit led to the establishment of 212HK",
+          "Sunday to Thursday - 09:00am to 11:00pm Friday and Saturday - 09:00am to 3:00am Address S22, 15th and 16th floors, 22 Heung Yip Rd, Wong Chuk Hang Contact enquiry@212hk",
+          "Sunday to Thursday - 09:00am to 11:00pm Friday and Saturday - 09:00am till late Address S22, 15th and 16th floors, 22 Heung Yip Rd, Wong Chuk Hang Contact enquiry@212hk"
+        ]
+      }
+    },
+    "https://yama-pickleball.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001414345186305",
+      "venues": [
+        {
+          "slug": "yama-pickleball-arena",
+          "name": "Yama Pickleball Arena",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/1.png",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/1-600x480.png",
+          "kind": "img",
+          "label": "1",
+          "width": 1000,
+          "height": 800,
+          "score": 62
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/2-600x480.png",
+          "kind": "img",
+          "label": "2",
+          "width": 1000,
+          "height": 800,
+          "score": 62
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/3-600x480.png",
+          "kind": "img",
+          "label": "3",
+          "width": 1000,
+          "height": 800,
+          "score": 62
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/05/PHOTO-2026-04-27-12-08-05.jpg",
+          "kind": "img",
+          "label": "PHOTO 2026 04 27 12 08 05 819x1024",
+          "width": 819,
+          "height": 1024,
+          "score": 62
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/IMG_4821.jpg",
+          "kind": "img",
+          "label": "IMG 4821 1536x864",
+          "width": 1536,
+          "height": 864,
+          "score": 62
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2025/08/ce893b95b51983d29ef11ad2f9c403af9e09a74c.jpg",
+          "kind": "img",
+          "label": "Ce893b95b51983d29ef11ad2f9c403af9e09a74c 1024x683",
+          "width": 1024,
+          "height": 683,
+          "score": 62
+        },
+        {
+          "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/Website-1-2.png",
+          "kind": "img",
+          "label": "Website 1 2 1024x419",
+          "width": 1024,
+          "height": 419,
+          "score": 56
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85298560168",
+          "+852 98560168"
+        ],
+        "hourSnippets": [
+          "Opening Hours Monday – Sunday: 10:00 – 23:00 Address 9/F, Landmark South, 39 Yip Kan Street, Wong Chuk Hang, Hong Kong Contact Tel: +852 98560168 general@yama-pickleball"
+        ]
+      }
+    },
+    "https://www.stackdpb.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001501846772737",
+      "venues": [
+        {
+          "slug": "stackd-pickleball-wan-chai",
+          "name": "Stackd Pickleball — Wan Chai",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/DSC01179-7.jpg?crop=center&height=500&v=1772554252&width=600",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/SY5_4542.jpg?pad_color=fff&v=1789621449&width=2900",
+          "kind": "img",
+          "label": "&lt;h2&gt;Bigger. Better. Stackd.&lt;/h2&gt;",
+          "width": 700,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Jelly_Bean_2.png?pad_color=fff&v=1789621292&width=1066",
+          "kind": "img",
+          "label": "&lt;h2&gt;11six24 Jelly Bean 2&lt;/h2&gt;",
+          "width": 700,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Aurelius_C45.webp?pad_color=fff&v=1782293719&width=1280",
+          "kind": "img",
+          "label": "&lt;h2&gt;Franklin Aurelius&lt;/h2&gt;",
+          "width": 700,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Turbo_-_Hero_Banner.png?pad_color=fff&v=1774676955&width=1400",
+          "kind": "img",
+          "label": "&lt;h2&gt;Enhance Turbo - EPP & MPP&lt;/h2&gt;",
+          "width": 700,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Paddle_wall_clean.jpg?pad_color=fff&v=1771735457&width=2900",
+          "kind": "img",
+          "label": "&lt;h1&gt;The ultimate pickleball SHOP in Asia&lt;/h1&gt;&lt;h3&gt;&lt;span style=\"text-decoration:underline\"&gt;Online & in-person&lt;/span&gt;&lt;/h3&gt;",
+          "width": 700,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/W.O.O.F_x_Stackd_all_clothing.jpg?pad_color=fff&v=1771735432&width=1066",
+          "kind": "img",
+          "label": "",
+          "width": 640,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Joola_Pro_V.jpg?pad_color=fff&v=1772096017&width=1400",
+          "kind": "img",
+          "label": "&lt;h2&gt;Joola Pro V&lt;/h2&gt;",
+          "width": 700,
+          "height": 530,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Paddle_tap.jpg?pad_color=fff&v=1771056120&width=1700",
+          "kind": "img",
+          "label": "&lt;h2&gt;Every paddle is different, but one thing is certain. They deserve a pair of fast hands.&lt;/h2&gt;",
+          "width": 620,
+          "height": 700,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/On_court_-_Black_Drift.jpg?pad_color=fff&v=1771055541&width=1700",
+          "kind": "img",
+          "label": "&lt;h2&gt;Stackd DRIFT &lt;br/&gt;&lt;span style=\"text-decoration:underline\"&gt;Elevated performance & long lasting&lt;/span&gt;&lt;/h2&gt;",
+          "width": 620,
+          "height": 700,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/Our_Team_is_Stackd.jpg?pad_color=fff&v=1771055717&width=1700",
+          "kind": "img",
+          "label": "&lt;h2&gt;Sketch series&lt;br/&gt;&lt;span style=\"text-decoration:underline\"&gt;Off-court drip, everyday&lt;/span&gt;&lt;/h2&gt;",
+          "width": 620,
+          "height": 700,
+          "score": 54
+        },
+        {
+          "url": "https://www.stackdpb.com/cdn/shop/files/prof16lh_front.jpg?pad_color=fff&v=1771468248&width=720",
+          "kind": "img",
+          "label": "Vatic Vsol Pro",
+          "width": 430,
+          "height": 430,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Month's Obsession Add to cart Vatic Pro Vsol Pro $860"
+        ]
+      }
+    },
+    "https://www.pickandmatch.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001528988135425",
+      "venues": [
+        {
+          "slug": "pick-and-match-megabox",
+          "name": "Pick & Match — MegaBox",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780038625962-about-photo.png",
+          "kind": "img",
+          "label": "About Pick and Match",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780038982526-pickleball.png",
+          "kind": "img",
+          "label": "Pickleball",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1783067548811-article-1-image-1.jpg",
+          "kind": "img",
+          "label": "Spectators sitting courtside at a pickleball event",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1783067553003-article-3-image-1.jpg",
+          "kind": "img",
+          "label": "Player holding a paddle during a pickleball event",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028636903-bg-texture.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028638670-hero-book-now.png",
+          "kind": "img",
+          "label": "Book Now",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028639464-arrow-down.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028639172-hero-photo-mask.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028639710-fb.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028639964-ig.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028640221-whatsapp.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://pnm-2026-storage.parallel-technology.com/uat/assets/1780028640487-email.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://pickledise-hk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001540933465089",
+      "venues": [
+        {
+          "slug": "pickledise-tsuen-wan",
+          "name": "Pickledise — Tsuen Wan",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "pickledise-kowloon-bay",
+          "name": "Pickledise — Kowloon Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://img.boutirapp.com/i/Ro85aT4D-G36S7OuCHQaIpl9JR4ZTNfEgSoMLhf4SwQ",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://pickledise-hk.com/R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+          "kind": "img",
+          "label": "pickledise.hk",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://img.boutirapp.com/i/Ro85aT4D-G36S7OuCHQaIpl9JR4ZTNfEgSoMLhf4SwQ=sxxl",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://img.boutirapp.com/i/KGcmMoW7IosGycEvcWJTS8Ov3pq6jcI3GijuXD6zWwl=sxxl",
+          "kind": "img",
+          "label": "Desktop image",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://img.boutirapp.com/i/2fCLFTSzOovWixEaHp8hb04Mdhtv8cXS-gicuJ4Pisr=sxxl",
+          "kind": "img",
+          "label": "Mobile image",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.boutir.com/themes/modern/images/d79d796.png",
+          "kind": "img",
+          "label": "Instagram",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.boutir.com/themes/modern/images/e21731d.png",
+          "kind": "img",
+          "label": "fps",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.boutir.com/themes/modern/images/1c8790d.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.boutir.com/themes/modern/images/d8eb052.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://picklelandhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001559287757825",
+      "venues": [
+        {
+          "slug": "pickleland-hk",
+          "name": "Pickleland HK",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a8ddbaf110ce8.04765294.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a85ec2c3d56e7.21631181.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a7e9d9c68e833.35319950.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a890ea5471cf1.94400464.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a37fea59a9029.19885081.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a65ccd8418208.98994839.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a60ea77855d92.95856978.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/banner/shop/shop_banner_6a56e336e20089.95812825.png",
+          "kind": "img",
+          "label": "Banner",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/sponsor/selkirk.png",
+          "kind": "img",
+          "label": "Selkirk",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://picklelandhk.com/sponsor/PCI.png",
+          "kind": "img",
+          "label": "Pickleball Coaching International (PCI)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://linktr.ee/picklecityhk": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001578329923585",
+      "venues": [
+        {
+          "slug": "pickle-city",
+          "name": "Pickle City",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://linktr.ee/og/image/picklecityhk.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://mkapi.nexposhk.com/picklecity/api/v3c/general/cl_view_upload.php?type=home_banner\\u0026file=home_banner_6a55e7c84f8e0_1784014792.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://assets.reclub.co/share/groups/164b.png?17866",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4\\u0026oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg\\u0026oe=6A8180C2\\u0026_nc_sid=5e03e0\\u0026_nc_cat=104",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://lh5.googleusercontent.com/Q7eihLZUBOBqaAq8niOqiY6OKfKX9_C_ud5F88iOZIVLSaAIuPZ-3MR8OF8-4v6OE_KiyYCYgyBwCWc=w1200-h630-p",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/hulu.webp",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/hellofresh.webp",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/savage-x-fenty.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/armra.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/omnilux-led.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/ritual.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://assets.production.linktr.ee/soco/sponsorship-banners/factor.webp",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "5273 1223"
+        ],
+        "hourSnippets": [
+          "星期六）晚上 10 時或之前填妥並提交此表格報名選拔",
+          "months and joined in November 2025"
+        ]
+      }
+    },
+    "https://www.theground.io/events/MjM0": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001590988327937",
+      "venues": [
+        {
+          "slug": "pickle-ready-tsuen-wan",
+          "name": "PICKLE.READY — Tsuen Wan",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "pickle-ready-kowloon-bay",
+          "name": "PICKLE.READY — Kowloon Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thegrind_videostorage/test/c6af50e8-0247-4963-94ca-2b3d02e3fa2ePickle%20Ready%20membership%20annoucement.png",
+          "kind": "img",
+          "label": "May/26 - Apr/27 PICKLE.READY 會員登記📝",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://storage.googleapis.com/thegrind_videostorage/test/68349f18-e688-4c86-ad97-ac8459fadea3images%20(7).png",
+          "kind": "img",
+          "label": "Organizer",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://storage.googleapis.com/thegrind_videostorage/test/6260b298-f14e-495b-8350-e64384ee80341000025939.png",
+          "kind": "img",
+          "label": "TheGround Team",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85244248842",
+          "+852 4424 8842"
+        ],
+        "hourSnippets": [
+          "Sun, May 31, 2026 23:59 Sun, May 31, 2026 23:59 Location TBA 20/20 people 300 HKD This event has ended Share with friends May/26 - Apr/27 PICKLE",
+          "Sun, May 31, 2026 23:59 Sun, May 31, 2026 23:59 Location TBA 20/20 people 300 HKD Event details Venue No location provided Hosted by HL Hin Leung Organizer TheGround Team Organizer Who's going View all jc +19 Contact inform"
+        ]
+      }
+    },
+    "https://pickleand.club/pages/contact": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001642058180609",
+      "venues": [
+        {
+          "slug": "pickle-and-club",
+          "name": "Pickle & Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "http://pickleand.club/cdn/shop/files/Pand-Social.png?v=1741598221",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://pickleand.club/cdn/shop/files/Pand-Social.png?v=1741598221",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0915/7197/8526/files/250411_-_Pickle__024r.jpg?v=1744816152",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://pickleand.club/cdn/shop/files/250411_-_Pickle__099r.jpg?v=1745424606&width=3840",
+          "kind": "img",
+          "label": "",
+          "width": 1800,
+          "height": 1200,
+          "score": 62
+        },
+        {
+          "url": "https://pickleand.club/cdn/shop/files/HK_The_Westwood_mall_512.jpg?v=1741336477&width=3840",
+          "kind": "img",
+          "label": "",
+          "width": 1024,
+          "height": 768,
+          "score": 62
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Mon — Sun, 10am — 10pm First name Enter your email address Phone number Comment Send message PICKLE & CLUB UG01, The Westwood, Belcher's St, Kennedy Town, HK Mon - Fri, 10am - 10pm Saturday, 10am - 10pm Sunday, 10am - 10pm"
+        ]
+      }
+    },
+    "https://web.sino-hotels.com/en/hk/gold-coast-hotel/facilities": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001665902772225",
+      "venues": [
+        {
+          "slug": "hong-kong-gold-coast-hotel-pickleball",
+          "name": "Hong Kong Gold Coast Hotel — Pickleball",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/08eab388-f7ea-42e9-b2a6-e0d412b926b4",
+          "kind": "img",
+          "label": "Digital Gashapon",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/fd2cb9bb-01a5-48c0-822f-b2d11eebee6d.jpg",
+          "kind": "img",
+          "label": "Pickleball Court",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/767f794e-721b-453e-a6fb-7f766de70718.jpg",
+          "kind": "img",
+          "label": "Muslim-friendly Hotel",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/66722252-0e70-4ac4-a365-6505851d3983.jpg",
+          "kind": "img",
+          "label": "\"Sharks and Pirates\" Adventure Zone",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/df07e745-969d-499b-9424-7b8e489fea63.jpg",
+          "kind": "img",
+          "label": "Pools and Waterslides",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/89732f8f-599d-4bfd-a1b2-f22d6e727485.jpg",
+          "kind": "img",
+          "label": "Water Park",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/a38f520c-ee44-48f2-9d0c-0df704e08e6a.jpg",
+          "kind": "img",
+          "label": "Gymnasium",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/76d3d436-470b-4843-bea8-ba9c84fcb8ce.jpg",
+          "kind": "img",
+          "label": "Mini Train Ride",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/05f71e62-a1e5-4336-af18-4adcd8089f19.jpg",
+          "kind": "img",
+          "label": "Gold Coast Ziplines",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/ac4fbb20-617c-460b-860a-9fb33d9584da.jpg",
+          "kind": "img",
+          "label": "Ceramics Academy",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/5e52ed6a-8341-418b-9dab-79c1003f6bb4",
+          "kind": "img",
+          "label": "Baking Academy",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://assets.sino-hotels.com/sino-prod/media/images/ca2c2f26-2ab6-4d6d-9892-a9ba169d020c.jpg",
+          "kind": "img",
+          "label": "Gold Coast Farm",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85224528888",
+          "+852 2452 8888",
+          "+852 2440 7368"
+        ],
+        "hourSnippets": [
+          "Tuen Mun, Hong Kong&#x27;s Only Beachfront Resort GALLERY LOCATION Book Room 简 Reserve Table Book Room ABOUT US ROOM FOOD & BEVERAGE OFFERS & PACKAGES EVENTS FACILITIES GREEN JOURNEY INSIDER&#x27;S GUIDE ABOUT US ROOM FOOD",
+          "friendly Hotel Hong Kong Gold Coast Hotel is an accredited Muslim‑friendly hotel and has been awarded a CrescentRating of 5 by a globally recognised Muslim‑friendly travel authority",
+          "Weddings & Celebrations Insider&#x27;s Guide SINO HOTELS About Sino Hotels Careers NEWSLETTER SUBSCRIPTION Sign up now to receive special offers and promotions"
+        ]
+      }
+    },
+    "https://clubderecreio.org/badminton": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001737369494529",
+      "venues": [
+        {
+          "slug": "club-de-recreio-badminton",
+          "name": "Club de Recreio — Badminton",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://clubderecreio.org/uploadfiles/4CmQNRRf5zbMpWRXTRJPd2mrDHJ4TiNuikheAzYh.png?v=1.0.6",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://clubderecreio.org/img/badminton.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://clubderecreio.org/img/badminton2.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2388 8194"
+        ],
+        "hourSnippets": [
+          "daily from 0900 to 2300 and can be used for badminton activities and special functions",
+          "Mondays, Wednesdays, Thursdays Fridays and Saturdays: 9AM – 12NOON (If these sessions are not booked, the hours will revert for Multi-Purpose Hall usage, and can also be booked by members for badminton",
+          "Tuesdays and Thursdays : 5PM – 11PM Saturday, Sunday & Public Holidays : 1PM – 6PM Members who wish to make bookings outside from the allocated booking hours may contact the management office for assistance i",
+          "Tuesday Sessions 9AM – 1PM Monday and Friday sessions 5PM – 11PM Charges: Members $15"
+        ]
+      }
+    },
+    "https://www.aberdeenmarinaclub.com/sport_detail.php?id=3874158042": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001754918466561",
+      "venues": [
+        {
+          "slug": "aberdeen-marina-club-badminton",
+          "name": "Aberdeen Marina Club — Badminton",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.aberdeenmarinaclub.com/sport_slideshow-photo-1cde8b7e6a327f01c3fc9f8a5aa4156d.jpg",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 108
+        },
+        {
+          "url": "https://www.aberdeenmarinaclub.com//gallery-sport_slideshow-1cde8b7e6a327f01c3fc9f8a5aa4156d.jpg&shape=f&w=1128&h=680",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.aberdeenmarinaclub.com//gallery-sport_page-b1d16d0e8cffd0f4a98fe83520e874f8.jpg?w=660&h=480&shape=f",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.aberdeenmarinaclub.com//gallery-sport_page-3d63c8a7200bbd48c0ef7fb3ef4b5d42.jpg?w=426&h=480&shape=f",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://aberdeenmarinaclub.com/images/Store/IOS.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://aberdeenmarinaclub.com/images/Store/Android.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85228141222",
+          "+85225558321",
+          "24133823",
+          "37511570",
+          "80261154",
+          "80881667",
+          "96241215",
+          "+852 2814 1222",
+          "+852 2555 8321"
+        ],
+        "hourSnippets": [
+          "Weddings Meetings Social Gatherings Venues li]:mb-[25px]\" x-bind:class=\"{ 'show': submenu=='venues' }\"> back Grand Ballroom Portside Tropical Poolside Chairman’s Room President’s Room Governor’s Room Board Room Marina Suite",
+          "Monday to Sunday: 7am to 10pm",
+          "Daily from 9:00 AM - 9:00 PM Location p]:mb-8 text-amcgray\"> 5th Floor, Marina Tower Service & Amenities p]:mb-8 text-amcgray\"> Arrival: You are invited to arrive 15 minutes prior to your scheduled appointment for you to chan",
+          "daily basis, please check in at the 5th Floor Health Club Counter"
+        ]
+      }
+    },
+    "https://www.ymcahk.org.hk/ms/en/our_facilities/tst_headquater/sports_and_recreation_facilities/index.html": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001773188869121",
+      "venues": [
+        {
+          "slug": "ymca-of-hong-kong-salisbury-road",
+          "name": "YMCA of Hong Kong — Salisbury Road",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF-1.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF-2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ymcahk.org.hk/ms/filemanager/en/content_854/SRF-3.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2268 7087"
+        ],
+        "hourSnippets": [
+          "Monday to Friday 5:30p",
+          "Saturday, Sunday and Public Holiday 7:30a",
+          "Monday to Friday 7:30a",
+          "Monday to Sunday 9:30 a"
+        ]
+      }
+    },
+    "https://tennislofthk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001783859177473",
+      "venues": [
+        {
+          "slug": "tennisloft",
+          "name": "TennisLOFT",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://tennislofthk.com/wp-content/uploads/2025/11/d02bca18-6efc-424b-94d0-08c3d267dad1-1536x864.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 2048,
+          "height": 1152,
+          "score": 62
+        },
+        {
+          "url": "https://tennislofthk.com/wp-content/uploads/2025/11/30326709-ef40-4ba0-8fcf-181b1cfcc0dd-864x1536.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 900,
+          "height": 1600,
+          "score": 62
+        },
+        {
+          "url": "https://tennislofthk.com/wp-content/uploads/2026/01/IMG_5215-2048x1536.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 2560,
+          "height": 1920,
+          "score": 62
+        },
+        {
+          "url": "https://tennislofthk.com/wp-content/uploads/2025/11/08b40252-fd2e-4e7a-877e-e3374f4cb670-1152x1536.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 1200,
+          "height": 1600,
+          "score": 62
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Opening Hours Monday to Friday 10:00 am - 10:30 pm Saturday and Sunday 9:00 am - 10:30 pm Home Our Place Book A Court Package Plans / Classes Terms & Conditions Contact Us Address 12A, Kin Teck Industrial Building, 26 Wong Chuk Hang"
+        ]
+      }
+    },
+    "https://www.thrivebody.info/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001820274099201",
+      "venues": [
+        {
+          "slug": "thrive-body",
+          "name": "Thrive Body",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.thrivebody.info/images/optimised/home-bg-1.jpg",
+          "kind": "img",
+          "label": "Thrive Body Studio",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/home-bg-2.jpg",
+          "kind": "img",
+          "label": "Thrive Body Studio interior",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/service-1.jpg",
+          "kind": "img",
+          "label": "Personal Training at Thrive Body Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/service-2.jpg",
+          "kind": "img",
+          "label": "Physiotherapy and sports massage Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/service-3.jpg",
+          "kind": "img",
+          "label": "Outdoor sauna and ice bath Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/service-4.jpg",
+          "kind": "img",
+          "label": "Yoga and mobility Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/service-5.jpg",
+          "kind": "img",
+          "label": "Nutrition coaching Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/service-6.jpg",
+          "kind": "img",
+          "label": "Thrive Clinic health services Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.thrivebody.info/images/optimised/home-bg-3.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85254210621",
+          "+852 5421 0621"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.lrc.com.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001840092232705",
+      "venues": [
+        {
+          "slug": "ladies-recreation-club",
+          "name": "Ladies Recreation Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.lrc.com.hk/storage/assets/a2158509-3a15-4d6e-b33a-16ba1b15be6c/10_Club-Main-Entrance-Night-View-3.jpg",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 108
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/161-13.jpg",
+          "kind": "img",
+          "label": "hero",
+          "width": 1038,
+          "height": 1038,
+          "score": 44
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/162-12.jpg",
+          "kind": "img",
+          "label": "hero",
+          "width": 1474,
+          "height": 1104,
+          "score": 44
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/155-2.jpg",
+          "kind": "img",
+          "label": "hero",
+          "width": 500,
+          "height": 500,
+          "score": 36
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/159-6.jpg",
+          "kind": "img",
+          "label": "hero",
+          "width": 500,
+          "height": 500,
+          "score": 36
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/160-7.jpg",
+          "kind": "img",
+          "label": "hero",
+          "width": 500,
+          "height": 500,
+          "score": 36
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/assets/e41f84e3-ce79-46af-8a9f-20e374c6145b/26324.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 302,
+          "height": 402,
+          "score": 30
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/175-9.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 302,
+          "height": 402,
+          "score": 30
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/176-10.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 302,
+          "height": 402,
+          "score": 30
+        },
+        {
+          "url": "https://www.lrc.com.hk/storage/177-11.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 302,
+          "height": 402,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85231993500",
+          "+852 3199 3500"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.dynastyclub.com.hk/en/sport-recreations/facilities": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001855699248129",
+      "venues": [
+        {
+          "slug": "the-dynasty-club",
+          "name": "The Dynasty Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/settings/February2022/3qq2Ok8H2iE4NGOKbrPt.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/settings/February2022/glU59kAqASIha29mK0Qm.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/April2026/5Fi8HejdBFJGlhdBpJoI-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/August2022/Wop3UfFl0ucU0tJ597G7-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/March2022/n7gsh3TVEGVNDUJKlN2R-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/March2022/01621GcKgBr2ORzVc9dE-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/March2026/pZ24WANq8XpAEzjICkXn-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/March2026/cGbDAutl0bFO2bvjFPEl-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/September2022/ZZQm3ZRphN5Jp1oqpFQg-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/April2026/q8mkVJSfWteBZEh5WiEE-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/March2022/tAUHVLFfzzxOFDWypyRY-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.dynastyclub.com.hk/storage/facilities/September2023/a2aOyytwPcfOm8c1HaHV-cropped.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2829 7979"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://jcc.org.hk/pages/health-fitness": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001869699803138",
+      "venues": [
+        {
+          "slug": "jewish-community-centre-sports-club",
+          "name": "Jewish Community Centre Sports Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "http://jcc.org.hk/cdn/shop/files/Screenshot_2025-04-05_at_9.50.07_PM_4026644d-816b-498e-aeb6-e1a94a5b8d08.png?v=1749378094",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-04-05_at_9.50.07_PM_4026644d-816b-498e-aeb6-e1a94a5b8d08.png?v=1749378094",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.47.50_AM.png?v=1746748100&width=1500",
+          "kind": "img",
+          "label": "",
+          "width": 1500,
+          "height": 1233,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.31.49_AM.png?v=1746748064&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 2335,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.32.03_AM.png?v=1746748064&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 1860,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.32.31_AM.png?v=1746748063&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 1787,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.32.23_AM.png?v=1746748063&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 1791,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.33.15_AM.png?v=1746748351&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 4479,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.33.44_AM.png?v=1746748727&width=3840",
+          "kind": "img",
+          "label": "",
+          "width": 2872,
+          "height": 642,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/SWIMMING_POOL_NEW_HOURS_JUNE_2026.png?v=1782373902&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 4528,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.34.08_AM.png?v=1746748724&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 2660,
+          "score": 44
+        },
+        {
+          "url": "https://jcc.org.hk/cdn/shop/files/Screenshot_2025-05-09_at_7.34.17_AM.png?v=1746748723&width=3200",
+          "kind": "img",
+          "label": "",
+          "width": 3200,
+          "height": 4813,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 2801 5440"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.cchly.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001921478472705",
+      "venues": [
+        {
+          "slug": "the-country-club-at-hong-lok-yuen",
+          "name": "The Country Club at Hong Lok Yuen",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2024/06/iac-the_country_club_at_hong_lok_yuen-header_01-2000x1330-1.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/Frame-10-600x386.jpg",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 649,
+          "height": 418,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/2.-Bistro-600x388.jpg",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 650,
+          "height": 420,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/6.-The-Generals-Bar-600x388.jpg",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 650,
+          "height": 420,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/1.-Hong-Lok-Lau-Chinese-Restaurant-1-600x388.jpg",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 650,
+          "height": 420,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/5.-The-Juice-Bar-600x388.jpg",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 650,
+          "height": 420,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/4.-The-Poolside-Deck-600x388.jpeg",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 650,
+          "height": 420,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2023/10/28a9e2b8c10992ffa3d179c10cf8b6a5.png",
+          "kind": "img",
+          "label": "Country Club Hong Kong",
+          "width": 648,
+          "height": 417,
+          "score": 48
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/themes/cchly-child/images/phone.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2024/06/Swimming-Pool-scaled.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2024/06/Entrance-001.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.cchly.com/wp-content/uploads/2024/06/Seb_square-scaled.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85226578899",
+          "85226578899",
+          "+852 2657 8899",
+          "2657 8899"
+        ],
+        "hourSnippets": [
+          "friends since 1904",
+          "Sat, Oct 3rd The Last Saturday Splash Date: Sat, 3 Oct 2026 Time: 05:30 pm to 08:30 pm Learn More Sat, Oct 24th Halloween Carnival & Dinner Buffet Date: Sat, 24 Oct 2026 Time: 06:00 pm to 11:00 pm Learn More Fri, Oct 30th H",
+          "Fri, 30 Oct 2026 Time: 06:00 pm to 09:00 pm Learn More Sat, Oct 3rd The Last Saturday Splash Date: Sat, 3 Oct 2026 Time: 05:30 pm to 08:30 pm Learn More Sat, Oct 24th Halloween Carnival & Dinner Buffet Date: Sat, 24 Oct 202",
+          "Fri, Oct 30th Halloween Trick-or-Treat Walk & Light Buffet Date: Fri, 30 Oct 2026 Time: 06:00 pm to 09:00 pm Learn More Sat, Oct 3rd The Last Saturday Splash Date: Sat, 3 Oct 2026 Time: 05:30 pm to 08:30 pm Learn More Sat,",
+          "Sat, 24 Oct 2026 Time: 06:00 pm to 11:00 pm Learn More Fri, Oct 30th Halloween Trick-or-Treat Walk & Light Buffet Date: Fri, 30 Oct 2026 Time: 06:00 pm to 09:00 pm Learn More Sat, Oct 3rd The Last Saturday Splash Date: Sat,",
+          "Sat, Oct 24th Halloween Carnival & Dinner Buffet Date: Sat, 24 Oct 2026 Time: 06:00 pm to 11:00 pm Learn More Fri, Oct 30th Halloween Trick-or-Treat Walk & Light Buffet Date: Fri, 30 Oct 2026 Time: 06:00 pm to 09:00 pm Lear",
+          "Monthly OnGoing Special Events CCHLY Homemade Condiments + Uncle Mike’s Hot Sauce Mid-Autumn Mooncakes 2026 GO PARK Sports x The Country Club at Hong Lok Yuen: Reciprocal Member Privilege Program 2026 Early Bird Yum Cha 15%"
+        ]
+      }
+    },
+    "https://www.usrc.org.hk/our-facilities.html": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001943087532033",
+      "venues": [
+        {
+          "slug": "united-services-recreation-club",
+          "name": "United Services Recreation Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.usrc.org.hk/uploads/1/1/8/7/11871079/published/usrc-aerial-view.jpg?1526877912",
+          "kind": "img",
+          "label": "Picture",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 3966 8600"
+        ],
+        "hourSnippets": [
+          "Opening Hours Mon-Thur: 7:00am to 12:00mn Fri, Sat, Sun: 7:00am to 1:00am Telephone +852 3966 8600 Email [email protected] About Us Our Facilities Notices Opening Hours Our History Club News Our F&B Outlets F&B Promotions Banyan Room"
+        ]
+      }
+    },
+    "https://www.hkfc.com/facilities/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001961957721089",
+      "venues": [
+        {
+          "slug": "hong-kong-football-club",
+          "name": "Hong Kong Football Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.hkfc.com/media/klsjmlew/club-shop_2024.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkfc.com/media/kglhvaai/nav-hockey.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/elgeu3cz/nav-lawnbowls.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/nh2bxfyx/nav-rugby.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/sy4pkeuh/nav-soccer.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/a1klcura/nav-squash.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/0hil2ge2/nav-netball.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/iuhf4jtw/nav-badminton.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/45uj40mg/nav-golf.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/pbhdfeua/nav-tennis.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/30tfcm0c/nav-swimming.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkfc.com/media/1s3pqrkz/nav-bowling.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2830 9500",
+          "2830 9587"
+        ],
+        "hourSnippets": [
+          "Opening Hours Monday to Friday: 10:00am - 6:00pm Saturday, Sunday and Public Holidays: 9:00am - 7:00pm (During summer holidays) The Club has two separate Children’s Playrooms located on the first floor",
+          "Opening Hours Daily, 7:00am to 11:00pm Sauna and Steam Room Opening Hours Daily, 7:00am to 11:00pm There are three separate sets of male and female changing rooms, in three main sports areas of the Club: For outdoor sports near the I",
+          "Opening Hours Monday to Friday: 10:30am to 8:30pm (Lunch hour: 2:30pm – 3:30pm) Saturday: 10am to 8pm Sunday & Public Holidays: 9:30am to 7:30pm Located on the Ground Floor within the reception area, the Club Shop caters for every sp",
+          "Opening Hours Monday to Friday: 10:30am to 8:30pm Saturday: 10am to 8pm Sunday & Public Holidays: 9:30am to 7:30pm The 182-square-metre Library has more than 18,000 books for members to borrow",
+          "Opening Hours Monday to Friday: 10:30 -8:30pm Saturday: 10:00 -8:00pm Sunday & Public Holiday: 9:30 – 7:30pm Booking & Enquiries Tel: 2830 9587 Email: library@hkfc"
+        ]
+      }
+    },
+    "https://www.dbrc.hk/en/sport.html?club=1&id=1438407458&type=1": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511001989392674817",
+      "venues": [
+        {
+          "slug": "discovery-bay-recreation-club",
+          "name": "Discovery Bay Recreation Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.dbrc.hk/img/pop_close.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/img/bnt_img.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/img/sport_img_2.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/img/sport_slide.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-b13ce89765ee5f3085be279ba498f998.jpg?w=723&h=484",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-833543b2119ef71f28ab6ca7ae95afb8.jpg?w=723&h=484",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-7239541a28ab421c50572cb36e6f9d76.jpg?w=723&h=484",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/newsletter-photo-e5fc21d4f09c0a5a218ca7cd3bdc8bc8.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/img/up2top.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/img/sport_banner.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "29877381",
+          "2987 7381"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://poc-psrc.com.hk/Card/AboutUs": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002045378201601",
+      "venues": [
+        {
+          "slug": "police-officers-club",
+          "name": "Police Officers’ Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "police-sports-and-recreation-club",
+          "name": "Police Sports and Recreation Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-about-poc@2x.png",
+          "kind": "img",
+          "label": "About PSRC",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-about-thumbpoc@2x.png",
+          "kind": "img",
+          "label": "About PSRC",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-poc-walking@2x.png",
+          "kind": "img",
+          "label": "walking direction picture",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-poc-driving@2x.png",
+          "kind": "img",
+          "label": "deiving direction picture",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-about-psrc@2x.png",
+          "kind": "img",
+          "label": "About PSRC",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-about-thumbpsrc@2x.png",
+          "kind": "img",
+          "label": "About PSRC",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-map-poc@2x.png",
+          "kind": "img",
+          "label": "Picture showing the location of POC",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://poc-psrc.com.hk/img/aboutus/img-map-psrc@2x.png",
+          "kind": "img",
+          "label": "Picture showing the location of PSRC",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2948 5200",
+          "2607 4530",
+          "2607 4531",
+          "2778 0082",
+          "2788 2706"
+        ],
+        "hourSnippets": [
+          "Opening Hours : 0700 – 2300 hours Enquiry Number : 2607 4530 Opening Hours : 0700 – 2300 hours --> Enquiry Number : 2607 4530 Facilities booking : 2607 4531 Catering Services : 2948 5200 --> PSRC View on Map Address : No",
+          "Opening Hours : 0700 – 2300 hours Enquiry Number : 2778 0082 PSRC 430 Sai Yeung Choi Street North, Kowloon, HK Opening Hours : 0700 – 2300 hours Enquiry Number : 2778 0082 Fax No : 2788 2706 &nbsp; &nbsp; --> &copy; 2026 Social Ameni"
+        ]
+      }
+    },
+    "https://www.yearshk.com/pages/menu": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002055121622017",
+      "venues": [
+        {
+          "slug": "years-sham-shui-po",
+          "name": "YEARS — Sham Shui Po",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "be-with-years-whampoa",
+          "name": "BE WITH YEARS — Whampoa",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "here-with-years-tai-koo-shing",
+          "name": "HERE WITH YEARS — Tai Koo Shing",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "play-with-years-west-kowloon",
+          "name": "PLAY WITH YEARS — West Kowloon",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "bear-by-years-lai-chi-kok",
+          "name": "BEAR BY YEARS — Lai Chi Kok",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "wanaka-blue-house",
+          "name": "WANAKA — Blue House",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/51d886e2-9e8a-42bc-ab68-a27231ddd229.jpg?v=1715577612",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2025-12-10at17.45.35.jpg?v=1767676995",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/products/15F974FF-6DCE-41F3-BAD3-E2ED471A0C8D.jpg?v=1673573800",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsApp_Image_2026-06-13_at_20.39.52.jpg?v=1781368885",
+          "kind": "img",
+          "label": "",
+          "width": 347,
+          "height": 521,
+          "score": 36
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/441A1E32-633A-4DE6-A0CB-AE69C149BD94_480x480.jpg?v=1666512815",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/BE_shop_front.jpg?v=1748688584",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/Screen_Shot_2024-08-05_at_7.53.24_PM_480x480.png?v=1722858838",
+          "kind": "img",
+          "label": "",
+          "width": 358,
+          "height": 437,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/IMG_1162.heic?v=1757216129",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0248/8657/5170/files/WhatsAppImage2023-07-18at3.19.46PM_1_480x480.jpg?v=1690004474",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "6338203719",
+          "+852209366203261",
+          "+852206601209577",
+          "+852209390205310",
+          "+852206080208251",
+          "+852 6338 3719",
+          "+852 9366 3261",
+          "+852 6601 9577",
+          "+852 9390 5310",
+          "+852 5336 4000",
+          "+852 6080 8251",
+          "+852 5294 9232"
+        ],
+        "hourSnippets": [
+          "Daily: 12pm -10pm (Last Call at 9pm) WEEKDAY LUNCH MENU WEEKDAY DINNER & WEEKEND MENU BE WITH YEARS G27 Pebbles World Whampoa Garden Kowloon Hong Kong 紅磡黃埔天地百寶坊(第3期)地下G27號舖 +852 9366 3261 Sunday - Thursday: 1130am - 930pm (La",
+          "Friday - Saturday: 1130am - 10pm (Last Call at 9pm) WEEKDAY & WEEKEND LUNCH MENU WEEKDAY & WEEKEND DINNER MENU VEGAN PASTRY MENU HAPPY DRINKS & VEGAN GELATO MENU HERE WITH YEARS G517 Ko On Mansion 9 Tai Yu Avenue Tai Koo Shing",
+          "Daily : 11:30am - 9:30pm (Last Call at 8:30pm) WEEKDAY LUNCH MENU (Available at 11:30am-3pm on weekdays) WEEKDAY & WEEKEND MENU (Available at Weekends and after 3pm on Weekdays) AFTERNOON TEA MENU (Available at 3pm-5:30pm on",
+          "Daily: 8am-9pm(Last Call at 8:00PM) BREAKFAST MENU (8AM-11AM Daily) MAIN MENU (11AM Onwards) DRINK MENU BEAR BY YEARS Shop 2, Ground Floor Billion Plaza 2 Cheung Yue Street Lai Chi Kok Kowloon 荔枝角長裕街億京廣場二期地下2號舖 +852 5336 4000",
+          "Daily : 8am - 10pm (Last Call at 9pm) BREAKFAST MENU (Available at 8am-11:30am on weekdays) LUNCH & DINNER MENU (Available daily after 11:30am) DRINK MENU WANAKA 8 King Sing Street Blue House Wan Chai Hong Kong 灣仔藍屋景星街8號 +852",
+          "Daily: 8am-9pm(Last Call at 8PM) MAIN MENU Subscribe to our emails Subscribe to our mailing list for insider news, product launches, and more"
+        ]
+      }
+    },
+    "https://online.healthshop.com.hk/default/place-order": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002084074867713",
+      "venues": [
+        {
+          "slug": "green-concepts-health-shop",
+          "name": "Green Concepts Health Shop",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [],
+      "contacts": {
+        "phones": [
+          "2882-4848",
+          "6464 2217",
+          "2890-8469",
+          "6464-2217"
+        ],
+        "hourSnippets": [
+          "mone Support - - - - Eye Support - - - - Pets Products - - Filter Systems - - - - Water Filter - - - - Air Filter - - Discount Zone Search Call Support (852) 2882-4848 Shopping Cart 0 HK$0",
+          "Monday to Friday, 10:00am to 7:00pm Saturday, 9:00am to 2:00pm Sunday & All Public Holidays CLOSE (3) WALK IN Green Concepts Health Shop 2/F, Prosperous Commercial Building, 54 - 58 Jardine's Bazaar, Causeway Bay, H",
+          "Opening Hours : 10:00am - 7:00pm (Mon - Fri) 9:00am - 2:00pm (Sat) Sunday & All Public Holidays CLOSE ↑ Back to Top Follow Us Facebook Shopping Guide Terms of Service Place Order Delivery & Payment Privacy Policy Quick Link My Accoun",
+          "Opening Hours : 10am - 7pm (Mon - Fri) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9am - 2pm (Sat) Closed on Sunday&nbsp;and public holidays Tel : 2882-4848 Fax : 2890-8469"
+        ]
+      }
+    },
+    "https://www.healthygiant.hk/en/pages/store-locations": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002131147577345",
+      "venues": [
+        {
+          "slug": "health-aims-ma-on-shan",
+          "name": "Health Aims — Ma On Shan",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "health-aims-tai-po",
+          "name": "Health Aims — Tai Po",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "health-aims-tuen-mun",
+          "name": "Health Aims — Tuen Mun",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "health-aims-tin-shui-wai",
+          "name": "Health Aims — Tin Shui Wai",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "solutions-health-care-causeway-bay",
+          "name": "Solutions Health Care — Causeway Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "solutions-health-care-happy-valley",
+          "name": "Solutions Health Care — Happy Valley",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "solutions-health-care-mong-kok",
+          "name": "Solutions Health Care — Mong Kok",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "solutions-health-care-cheung-sha-wan",
+          "name": "Solutions Health Care — Cheung Sha Wan",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "solutions-health-care-yuen-long",
+          "name": "Solutions Health Care — Yuen Long",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "solutions-health-care-sha-tin",
+          "name": "Solutions Health Care — Sha Tin",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "energy-source-wan-chai",
+          "name": "Energy Source — Wan Chai",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://img.shoplineapp.com/media/image_clips/61e526f23983de002f649e54/original.png?1642407665",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e526f23983de002f649e54/1200x.webp?source_format=png",
+          "kind": "img",
+          "label": "",
+          "width": 684,
+          "height": 696,
+          "score": 54
+        },
+        {
+          "url": "https://shoplineimg.com/616e89dc8f40e2000d6e7dfe/61e4dfe9231cb6001193e052/450x.webp?source_format=png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 696,
+          "score": 54
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "8100 9979",
+          "8100 7788",
+          "8100 0747",
+          "8100 8840",
+          "2273 8239",
+          "2273 8231",
+          "2273 8232",
+          "2273 8234",
+          "2273 8230",
+          "2273 8235",
+          "2157 8590",
+          "2180 7129"
+        ],
+        "hourSnippets": [
+          "Tuen Mun Branch | (852) 8100 0747 | Shop no",
+          "Tuen Mun ‧ Tin Shui Wai Branch | (852) 8100 8840 | N209A, 2/F, T Town North, Tin Yuet Estate, Tin Shui Wai Solutions Health Care Products & Services Ltd",
+          "Mongkok&nbsp; Branch&nbsp; | (852) 2273 8232 | 1/F, 168 Fa Yuen Street, Mongkok, H"
+        ]
+      }
+    },
+    "https://www.lcsd.gov.hk/en/facilities/facilitieslist/landsports/freeoutdoor/opening_up_badminton_courts.html": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "bowen-road-temporary-playground",
+          "name": "Bowen Road Temporary Playground",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "kwai-shing-circuit-playground",
+          "name": "Kwai Shing Circuit Playground",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ma-mei-ha-playground",
+          "name": "Ma Mei Ha Playground",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ta-kwu-ling-playground",
+          "name": "Ta Kwu Ling Playground",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "tuen-mun-park-badminton-courts",
+          "name": "Tuen Mun Park — Badminton Courts",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "canton-road-playground",
+          "name": "Canton Road Playground",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "error": "HTTP 400: {\"status\":\"failed\",\"message\":\"Url is not supported.\"}"
+    },
+    "https://www.cityu.edu.hk/sds/physical-education-wellness-and-sports/sports-and-recreation-facilities/general-information": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002149917064193",
+      "venues": [
+        {
+          "slug": "hu-fa-kuang-sports-centre",
+          "name": "Hu Fa Kuang Sports Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.ursusfitness.com/hyrox-training-club": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "ursus-fitness",
+          "name": "URSUS Fitness",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": true
+        }
+      ],
+      "error": "Target returned 404"
+    },
+    "https://hofhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002172394312705",
+      "venues": [
+        {
+          "slug": "house-of-fitness",
+          "name": "House of Fitness",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://hof-redesign-preview.pages.dev/images/sc-08.jpg",
+          "kind": "img",
+          "label": "A class in full swing at House of Fitness",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hof-redesign-preview.pages.dev/images/decide-90.jpg",
+          "kind": "img",
+          "label": "Member at House of Fitness",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hof-redesign-preview.pages.dev/images/sc-06.jpg",
+          "kind": "img",
+          "label": "A full class in the studio",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-redesign-preview.pages.dev/images/pt-coach.jpg",
+          "kind": "img",
+          "label": "Coach assessing a member",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/story.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/gym.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/notsure.jpg",
+          "kind": "img",
+          "label": "Strength training",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/hiit.jpg",
+          "kind": "img",
+          "label": "HIIT class",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/hyrox.jpg",
+          "kind": "img",
+          "label": "HYROX training",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/runclub.jpg",
+          "kind": "img",
+          "label": "Run club",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hof-home-preview.pages.dev/images/strength.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://hofhk.com/wp-content/uploads/2025/12/5A9AAA02-0C7D-451F-BA94-C182CD3D33A3.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85260452325",
+          "+852 6045 2325"
+        ],
+        "hourSnippets": [
+          "daily or space them out across the week The HK$499 comes off any pack the day you join Start your 7-day trial First-timers only",
+          "Mon to Fri, 06:30 to 22:00 Sat, Sun & holidays, 09:00 to 17:00 ★ 4",
+          "Wednesday – Interval Training Saturday – Zone 2 LSD Training Race SIMULATION Our Race Simulation puts you through the full HYROX flow"
+        ]
+      }
+    },
+    "https://www.fit-01.com/pages/group-classes": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002190991861761",
+      "venues": [
+        {
+          "slug": "fit01-training-club",
+          "name": "FIT01 Training Club",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/fit01-web-thumbnail-weekend_sweats-3.png?v=1718088218",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/fit01-web-thumbnail-weekendsweats.png?v=1718088191",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/fit01-web-thumbnail-femfit_a56dfe20-dbe5-41d2-9441-8c2c3581d3c1.png?v=1718088146",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/fit01-web-thumbnail-landminemastery-2.png?v=1718088106",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0676/1526/0979/files/IMG_8026_1.jpg?v=1700119235",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/fit01-web-thumbnail-weekend_sweats.png?v=1718087927&width=1420",
+          "kind": "img",
+          "label": "",
+          "width": 1420,
+          "height": 1893,
+          "score": 62
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/FIT01-ad-caroulsel_ad_4_202308.png?v=1700465064&width=1420",
+          "kind": "img",
+          "label": "",
+          "width": 1420,
+          "height": 1420,
+          "score": 62
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/fit01-web-thumbnail-weekendsweats-2.png?v=1718088064&width=1946",
+          "kind": "img",
+          "label": "",
+          "width": 1946,
+          "height": 2595,
+          "score": 62
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/fit01-web-thumbnail-weekendsweats-2.png?v=1718088064",
+          "kind": "img",
+          "label": "Hyrox Training",
+          "width": 1100,
+          "height": 1467,
+          "score": 62
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/fit01-web-thumbnail-weekendsweats.png?v=1718088191&width=1946",
+          "kind": "img",
+          "label": "",
+          "width": 1946,
+          "height": 2595,
+          "score": 62
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/fit01-web-thumbnail-weekendsweats.png?v=1718088191",
+          "kind": "img",
+          "label": "Beginner Fitness",
+          "width": 1100,
+          "height": 1467,
+          "score": 62
+        },
+        {
+          "url": "https://www.fit-01.com/cdn/shop/files/fit01-web-thumbnail-landminemastery-2.png?v=1718088106&width=1946",
+          "kind": "img",
+          "label": "",
+          "width": 1946,
+          "height": 2595,
+          "score": 62
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 90942306"
+        ],
+        "hourSnippets": [
+          "Saturday: 1630-1745 8-person max",
+          "saturday: 1500-1615 8-person max",
+          "friday 1700-1800 3-person max"
+        ]
+      }
+    },
+    "https://dbdbtraining.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002203570604033",
+      "venues": [
+        {
+          "slug": "dbdb-training",
+          "name": "DBDB Training",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://media.base44.com/images/public/6a6f259f74a13ec27e4f113a/c56751696_generated_image.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://anhao-wellness.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002216614862849",
+      "venues": [
+        {
+          "slug": "anhao-wellness-mid-levels",
+          "name": "Anhao Wellness — Mid-Levels",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "anhao-wellness-causeway-bay",
+          "name": "Anhao Wellness — Causeway Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "anhao-wellness-tsim-sha-tsui",
+          "name": "Anhao Wellness — Tsim Sha Tsui",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6296-2.jpg",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6293-Edit-Enhanced-SR.jpg",
+          "kind": "img",
+          "label": "MGK_6293-Edit-Enhanced-SR",
+          "width": 914,
+          "height": 1024,
+          "score": 62
+        },
+        {
+          "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6259.jpg",
+          "kind": "img",
+          "label": "MGK_6259",
+          "width": 1024,
+          "height": 682,
+          "score": 62
+        },
+        {
+          "url": "https://anhao-wellness.com/wp-content/uploads/2024/07/Anhao_-03.png",
+          "kind": "img",
+          "label": "Anhao Wellness",
+          "width": 887,
+          "height": 303,
+          "score": 56
+        },
+        {
+          "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6407.jpg",
+          "kind": "img",
+          "label": "MGK_6407",
+          "width": 682,
+          "height": 1024,
+          "score": 54
+        },
+        {
+          "url": "https://anhao-wellness.com/wp-content/uploads/2024/05/MGK_6101-682x1024.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "month 1 Class Private session All Locations Get In Touch Classes Private Anhao private class is ideal for people who are want to work one-on-one with our experienced Pilates instructors to set intentional goals and achieve"
+        ]
+      }
+    },
+    "https://www.orin.com.hk/pilates/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002252836886529",
+      "venues": [
+        {
+          "slug": "o-rin-central",
+          "name": "O:RIN — Central",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "o-rin-quarry-bay",
+          "name": "O:RIN — Quarry Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "o-rin-tsim-sha-tsui",
+          "name": "O:RIN — Tsim Sha Tsui",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-scaled.webp",
+          "kind": "img",
+          "label": "Pilates studios 普拉提",
+          "width": 2560,
+          "height": 1303,
+          "score": 44
+        },
+        {
+          "url": "https://scontent-sin2-2.cdninstagram.com/v/t51.82787-15/784606615_18147075115536325_6485604088863519862_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=0kSKPoIzCkkQ7kNvwFJjQ6g&_nc_oc=AdrRRqqqhD1DGky6lkaTXwDqbxuQzoL-ZRl-jEmVDke8oZX0RYe7ltjg7EWFyfzxh0I&_nc_zt=23&_nc_ht=scontent-sin2-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uz0KcrIWGf3hLtRCvyqUlA&_nc_tpa=Q5bMBQIWl5SSyNO0XBhbqughmHdikyLwAW2xg25qAGeKRe1m_QWo8_b9A4WqGERDlTmcwD9pqTB7x_0E&oh=00_AQPxSdrI0ygDhMJbPJqds6e3gOlysqbvpR9bongi8inWCQ&oe=6AC15927",
+          "kind": "img",
+          "label": "O:RIN Central is the fourth studio built by Karen, our studio owner. Every color, tile, slab of stone and wood in the space were chosen intentionally and she always learnt somethin",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-15/787044911_18147075124536325_7756172596573283235_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=16Q2qXq4ag8Q7kNvwF7DyXV&_nc_oc=Adr8DBnTec5V_OxvDEwRK7qn6-Hcq-DCxrwojxfG2BjThFyAeaYBFAeB7QoDBSgp-o8&_nc_zt=23&_nc_ht=scontent-sin11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uz0KcrIWGf3hLtRCvyqUlA&_nc_tpa=Q5bMBQLRixyKEwWg1pYoIoL6huyitf5Q3OrWFZQvDn4jEioqK_iorWyoQzeF9iHXr4bZQF-v2NLRJKBM&oh=00_AQPQcbYIn5syb01wqaIY5iZBnr4Tp02S6gGNOBxf5-_TyA&oe=6AC15597",
+          "kind": "img",
+          "label": "O:RIN Central is the fourth studio built by Karen, our studio owner. Every color, tile, slab of stone and wood in the space were chosen intentionally and she always learnt somethin",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-900x458.webp",
+          "kind": "img",
+          "label": "Pilates studios 普拉提",
+          "width": 2560,
+          "height": 1303,
+          "score": 44
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2024/05/ORIN-Website-Banner.png",
+          "kind": "img",
+          "label": "O:RIN",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2020/03/821405125_18150057085536325_3186972216623355843_n.jpg",
+          "kind": "img",
+          "label": "O:RIN stems from “ORIGINAL” — staying authentic and true to our roots. In Chinese, it signifies 初心 (Cantonese: co1 sam1, Mandarin: chu xin), keeping a beginner’s mind to stay curio",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-15/818443102_18149818417536325_382165230474356064_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=G_q0cW2_TW8Q7kNvwEQdqCJ&_nc_oc=AdqqPdPtDzvmaMEj5_W_n8UiOfqreEoZCAuxRjsadeWbaCtLlsRwfpNjuMKeNmZZN50&_nc_zt=23&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uz0KcrIWGf3hLtRCvyqUlA&_nc_tpa=Q5bMBQIgbtQO0gj5YKo6WHzK13jXnXn0n1RB7VdGmNCQur19SonmOTajYYAt2TkTkCifG3E7S4OQUh8e&oh=00_AQPOcCS7C81X-atwFoUECr0XB57O6e36YZIm7SynD9UG-w&oe=6AC15F7C",
+          "kind": "img",
+          "label": "This September, O:RIN turns 7 🥳 To thank you for being part of our journey, we’re offering 12% off all regular packages—available to both existing and new clients. Come celebrate ",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-15/794946805_18149818426536325_1310306601352585676_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=TAV6DKpBNBoQ7kNvwEr1rwz&_nc_oc=Adots2B4kI4K_UCsWEZryWtDEOCwZp7BNFlsb4hurSNx_E0-p_zL1EYIXM0Ab3KXLmI&_nc_zt=23&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=uz0KcrIWGf3hLtRCvyqUlA&_nc_tpa=Q5bMBQLlNKdDJAkADdNQoo9-FSZfFDzLkAd9t7yprJEEIdO-CaEdsTi6PTSpHDQFwvUVahl0P5mAKphg&oh=00_AQOEdZn6E_vGeBq5Uoer9gd0A5cLAFm7aQUdwb9uzuCSMQ&oe=6AC15FB3",
+          "kind": "img",
+          "label": "This September, O:RIN turns 7 🥳 To thank you for being part of our journey, we’re offering 12% off all regular packages—available to both existing and new clients. Come celebrate ",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2020/05/791143534_18149619838536325_3548471274276079319_n.jpg",
+          "kind": "img",
+          "label": "“You have to expose yourself to the chance that you will do something wrong.” — Master Trainer Abel Horvath, at the end of our GYROTONIC® Foundation Course.\nNot “get it right the f",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2020/05/806298880_1414128763999697_7039242230811331893_n.jpg",
+          "kind": "img",
+          "label": "GYROTONIC® Applications for Dancers Level - August 2027\nRegistration is now open.\nDancer Level 1 was about understanding the principles, Level 2 is about applying them. No dance ba",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2020/05/802503989_18148697764536325_4046715966363282798_n.jpg",
+          "kind": "img",
+          "label": "Private one-on-one class means every cue, every adjustment, every breath is for you alone. We move at your body’s pace — easing tight spots, restoring range, and helping you feel m",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.orin.com.hk/wp-content/uploads/2020/05/797597295_18148350373536325_5694719547375804055_n.jpg",
+          "kind": "img",
+          "label": "Choosing Hong Kong as O:RIN’s home was an easy decision for our founder, Karen —— it’s a city where cultures meet and inspire, and our team fully embraces that same vibrant diversi",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Wednesday of each month at 4:00 PM — all studios, same time",
+          "星期三下午 4:00 上載，所有分店同步開放預約",
+          "month ago View on Instagram | 8/9 &bull; Follow O:RIN Central is the fourth studio built by Karen, our studio owner",
+          "month ago View on Instagram | 9/9 @orin_hk_ Join the O:RIN community Subscribe to stay connected and hear about classes, events and offers"
+        ]
+      }
+    },
+    "https://flexhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002270964699137",
+      "venues": [
+        {
+          "slug": "flex-studio-central",
+          "name": "FLEX Studio — Central",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "flex-studio-one-island-south",
+          "name": "FLEX Studio — One Island South",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/06/share-image.png",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 108
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/Reformer-class-small-2048x1366.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 2560,
+          "height": 1708,
+          "score": 62
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/04/Mat_Pilates-1536x2048.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 1764,
+          "height": 2352,
+          "score": 62
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/04/Apparatus-class-small-2048x1366.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 2560,
+          "height": 1708,
+          "score": 62
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/xtend-barre-flex-768x725.png",
+          "kind": "img",
+          "label": "",
+          "width": 1440,
+          "height": 1360,
+          "score": 62
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/yamuna-body-rolling-flex-768x725.png",
+          "kind": "img",
+          "label": "",
+          "width": 1440,
+          "height": 1360,
+          "score": 62
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/yoga-heather-thomas-768x725.png",
+          "kind": "img",
+          "label": "",
+          "width": 1440,
+          "height": 1360,
+          "score": 62
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/Intensives-576x1024.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 720,
+          "height": 1280,
+          "score": 54
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/03/DSC_9374-150x150.jpeg",
+          "kind": "img",
+          "label": "Guest Instructors / Workshops",
+          "width": 542,
+          "height": 542,
+          "score": 54
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/03/Untitled-design-10-150x150.png",
+          "kind": "img",
+          "label": "Promotions",
+          "width": 542,
+          "height": 542,
+          "score": 54
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/01/HK-DSC_1768-2048x1365.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 768,
+          "height": 512,
+          "score": 54
+        },
+        {
+          "url": "https://flexstudiopilates.com/wp-content/uploads/2026/02/HK-DSCF8317-2048x1365.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 768,
+          "height": 512,
+          "score": 54
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 5740 5103",
+          "+852 5740 9420",
+          "9016 3539",
+          "27715068"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://senses-studio.co/pages/location": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002293056066562",
+      "venues": [
+        {
+          "slug": "senses-studio-central",
+          "name": "Senses Studio — Central",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        },
+        {
+          "slug": "senses-studio-causeway-bay",
+          "name": "Senses Studio — Causeway Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        },
+        {
+          "slug": "senses-studio-quarry-bay",
+          "name": "Senses Studio — Quarry Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        },
+        {
+          "slug": "senses-studio-lai-chi-kok",
+          "name": "Senses Studio — Lai Chi Kok",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        },
+        {
+          "slug": "senses-studio-kwun-tong",
+          "name": "Senses Studio — Kwun Tong",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Pilate_Reformer.jpg?v=1768746843&width=1200",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 108
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Kwun_Tong_Pilates_Studio_with_Sea_View-2.jpg?v=1764956686&width=2000",
+          "kind": "img",
+          "label": "",
+          "width": 2048,
+          "height": 1365,
+          "score": 62
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_49_For_Digital_Use.jpg?v=1765991083&width=1600",
+          "kind": "img",
+          "label": "",
+          "width": 1667,
+          "height": 2500,
+          "score": 62
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Entrance_in_Causeway_Bay_Studio.jpg?v=1765991147&width=1600",
+          "kind": "img",
+          "label": "Yoga Senses & Pilates Entrance in Causeway Bay Studio",
+          "width": 1667,
+          "height": 2500,
+          "score": 62
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/DSCF9022-2.jpg?v=1686665297&width=5760",
+          "kind": "img",
+          "label": "",
+          "width": 6000,
+          "height": 2786,
+          "score": 62
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Full_1_brown.png?v=1773112284&width=1100",
+          "kind": "img",
+          "label": "",
+          "width": 1181,
+          "height": 231,
+          "score": 56
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Full_1.png?v=1773112301&width=1100",
+          "kind": "img",
+          "label": "",
+          "width": 1181,
+          "height": 231,
+          "score": 56
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/central_studio.png?v=1789368473&width=1600",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_1-2_For_Digital_Use_v2.jpg?v=1765991081&width=1600",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Quarry_Bay_A_Well-equipped_Yoga_Room.jpg?v=1765991584&width=1600",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/Yoga_Senses_Pilates_Lai_Chi_Kok_Yoga_Studio_2.jpg?v=1765991147&width=1600",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://senses-studio.co/cdn/shop/files/7A0A7735_5125d0d2-619a-4a32-b8c6-76985f20a4ad.jpg?v=1766121271&width=1600",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.absoluteboutiquefitness.com.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002325855529985",
+      "venues": [
+        {
+          "slug": "absolute-boutique-fitness-malahon-centre",
+          "name": "Absolute Boutique Fitness — Malahon Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "absolute-boutique-fitness-on-hing-building",
+          "name": "Absolute Boutique Fitness — On Hing Building",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "http://static1.squarespace.com/static/6539cc2324534e61c5795935/t/6539cc8a24534e61c579612a/1674980923673/DSC07835.jpg?format=1500w",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1702298708588-OKXFV2DU8ETGR7EGYLA3/image-asset.jpeg",
+          "kind": "img",
+          "label": "Did you know we offer different levels of classes to cater to your fitness progress?\n\nRead more on about our classes on our website. Click the link in our bio!",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1702292743163-S5YP9JEMB1J75MQMPN57/image-asset.jpeg",
+          "kind": "img",
+          "label": "You have much to be happy about!\n\nAbsolute was built with the everyday person in mind. Made to be have fitness &amp; wellness accessible to as many people as possible, enjoy fairly",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1701849323270-TC5VWRRUDP1J29B2BG9M/image-asset.jpeg",
+          "kind": "img",
+          "label": "In 2010, Absolute engineered and pioneered in the Large Group Reformer Teaching format. \n\nOur Pilates Instructors have been trained to guide and pay attention to a large group in t",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/544d1bc0-9438-401a-97c9-669e892f30cf/2.png",
+          "kind": "img",
+          "label": "",
+          "width": 3750,
+          "height": 1450,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/d1966896-f4f5-41f4-bc04-8d0b6b6a9db9/3.png",
+          "kind": "img",
+          "label": "",
+          "width": 3750,
+          "height": 1450,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/9cc9eb14-131b-4fe8-9a04-a03d67f82172/4.png",
+          "kind": "img",
+          "label": "",
+          "width": 3750,
+          "height": 1450,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/573c7f78-f924-4274-8cc7-8ae2516ccfd3/5.png",
+          "kind": "img",
+          "label": "",
+          "width": 3750,
+          "height": 1450,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/694bc58c-3fc7-4343-8386-1f5dea061f4e/6.png",
+          "kind": "img",
+          "label": "",
+          "width": 3750,
+          "height": 1450,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286730546-97WHQ36ONGS3F0PA3JKC/DSC07653.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 4000,
+          "height": 6000,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286730539-IT6ZG2FSTOFFAL542D37/DSC07742.JPG",
+          "kind": "img",
+          "label": "",
+          "width": 6000,
+          "height": 4000,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/6539cc2324534e61c5795935/1698286749437-PV16TKKXLSPP232DD4DY/DOM_2123.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 1827,
+          "height": 1218,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://pilatessens.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002348441873409",
+      "venues": [
+        {
+          "slug": "pilates-sens",
+          "name": "Pilates SENS",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn-v2.auau.io/tenant-892f4c41-70ac-4c24-ba19-f81ab7c7d065/c5ac6e8f-440e-4e0d-997e-040b18af9544/8C4EBBB8_881B_4932_ABF3_B1C8105EF59C.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn-v2.auau.io/tenant-892f4c41-70ac-4c24-ba19-f81ab7c7d065/61adfd0e-767b-421d-b005-04688670d946/IMG0087.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn-v2.auau.io/image-preview.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "67181828"
+        ],
+        "hourSnippets": [
+          "Sunday | 11:30-12:25 10/04/2026, Sunday 11:30-12:25 Multi - Level ( Reformer ) 沙田 立即預約 10/05/2026, Monday | 18:30-19:25 10/05/2026, Monday 18:30-19:25 Basic ( Reformer ) 沙田 立即預約 10/05/2026, Monday | 19:30-20:25 10/05/2026, Mon"
+        ]
+      }
+    },
+    "https://yogamovementhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002369216248833",
+      "venues": [
+        {
+          "slug": "yoga-movement-hong-kong",
+          "name": "Yoga Movement Hong Kong",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/69eaad079fe87a99947a94f6.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a165afcecd67a415b9791c2.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a165afcab53822e7effb41f.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/69ea86bc0d66f2a665a74575.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a1654a2449f78709ee0cc69.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a1654a2ab53822e7eff3716.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a165c98ebdb915d9a6f9533.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/69ebc4e89a82ea51cf757603.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a1a71cfff82912d65a3562a.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a05674260b8c350d3f9ae0a.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a1a731dff82912d65a3634c.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/T4SeufIaoOev4oTUP98n/media/6a165c98ebdb915d9a6f9534.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "85291696799"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.beearth.com.hk/studio/central": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "be-earth-central",
+          "name": "Be Earth — Central",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "error": "Target returned no content"
+    },
+    "https://www.anahatayoga.com.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002519397494785",
+      "venues": [
+        {
+          "slug": "anahata-yoga",
+          "name": "Anahata Yoga",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.anahatayoga.com.hk/wp-content/uploads/2024/08/cropped-Anahata-Yoga-Hong-Kong-Website-.png",
+          "kind": "img",
+          "label": "Anahata Yoga – Yoga from the heart",
+          "width": 1406,
+          "height": 821,
+          "score": 62
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/cropped-Anahata-Yoga-Hong-Kong-Website-.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://www.anahatayoga.com.hk/wp-content/uploads/2024/08/Experience-an-Authentic-Yoga-Class-with-our-Professional-Yoga-Masters-Inner-Image.png",
+          "kind": "img",
+          "label": "Authentic yoga class with professional yoga masters at Anahata Yoga Hong Kong",
+          "width": 288,
+          "height": 200,
+          "score": 48
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/Group-Class.png",
+          "kind": "img",
+          "label": "Group yoga classes Hong Kong - Hatha Vinyasa Yin Yoga at Anahata Yoga Central",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/Private-Class.png",
+          "kind": "img",
+          "label": "Private yoga sessions Hong Kong - one-on-one yoga classes at Anahata Yoga",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/Teacher-Training.png",
+          "kind": "img",
+          "label": "Yoga teacher training Hong Kong - RYT 200 500 accredited courses at Anahata Yoga",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/Home-Private.png",
+          "kind": "img",
+          "label": "Corporate and home private yoga classes Hong Kong - Anahata Yoga",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/08/KidsYoga.png",
+          "kind": "img",
+          "label": "Kids yoga classes Hong Kong - children yoga program at Anahata Yoga",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://sgp1.digitaloceanspaces.com/anahatayoga/wp-content/uploads/2024/09/Online-Yoga.png",
+          "kind": "img",
+          "label": "Online yoga classes Hong Kong - live streaming yoga at Yogi.live by Anahata Yoga",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://anahatayoga.com.hk/wp-content/uploads/2024/08/9385289.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.anahatayoga.com.hk/wp-content/themes/vsion/assets/images/background-1.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.anahatayoga.com.hk/wp-content/uploads/2024/08/Experience-an-Authentic-Yoga-Class-with-our-Professional-Yoga-Masters.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85229051822",
+          "+852 5614 8323",
+          "+852 56148323",
+          "+852 2905 1822"
+        ],
+        "hourSnippets": [
+          "Tue & Thu 6",
+          "Sat, Sun & Public Holidays, 10",
+          "month membership --> Short Term / Coupon Package - 10, 20 class coupons, 1,3 month membership PURCHASE 1 to 1 Private Class Package - 10, 20 sessions --> 1 to 1 Private Class Package - 10, 20 sessions PURCHASE TESTIMONIALS"
+        ]
+      }
+    },
+    "https://www.ayogastudiohk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002543300838401",
+      "venues": [
+        {
+          "slug": "a-yoga-studio-hk",
+          "name": "A Yoga Studio HK",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/a901db_a6b848e005e1466f8635e675539fb98a~mv2.jpg/v1/fill/w_1024,h_614,al_c/a901db_a6b848e005e1466f8635e675539fb98a~mv2.jpg",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://static.wixstatic.com/media/a901db_192693be98db474faf522633e95ae620~mv2.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://www.ayogastudiohk.com/quality_auto/2026%20Timetable%20(1).png",
+          "kind": "img",
+          "label": "2026 Timetable.png",
+          "width": 305,
+          "height": 305,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/792820578_17968527984155810_2230325091050747374_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KVPHxNbkZpUQ7kNvwHv02c3&_nc_oc=AdpJbin5Gb8lST8Qi5n-zITBRW-uIj7yhBSFcG6T-RSMoPzSwjsfILvfWSNSA8UU09c&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQJ08SDQqUV54aWkgRLV8ATX4P-u9Bd8h0zqwZ-pc5WeQ1VzhweduLu4bu0r0_p5gQZYzzQE9kkN&oh=00_AQPLWi46w8hextuJoC1pVX_k1FP8rbZ6kOvaKjy9FPhCEw&oe=6AC2A302",
+          "kind": "img",
+          "label": "Navigating urban life, slow mornings are precious. \n\nAs always, we’re here for you. \n\nWelcome @beans.retreat to our studio, for bringing us a harmonious blend of movement and match",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/789388284_17968223550155810_6862290431424499605_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=oBvG8hJutekQ7kNvwEupJ8n&_nc_oc=AdrQSJhxDrl7ghZyoEFd6mv8fXaCPDzVJDenfoXuBLvIop-GGXgHCnOuBf4_CV6JfkY&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQIyKndaDrCofMhjGSgUjnyh1MD4PhXR3xDSq1iwObj7DyueP6AqkKTjG6GbhD0f4SZcwSZA3WLC&oh=00_AQMgi_n1IKlJBdoI9mnbj6iv-REtcPd7By2MOOL19eV0Vw&oe=6AC2B640",
+          "kind": "img",
+          "label": "I promise I will shut up and give you a moment of peace and quietness. 🌟 -Anna xo\n\nLunch Yoga\nMon 12:45pm - Hatha by Janice\nTue 12:45pm - Yin by Margaret\nWed 12:45pm - Yoga Bou by",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/786914263_17967472719155810_8907203882018681691_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7SJz9llU0FwQ7kNvwEcnW3q&_nc_oc=AdpOZV57dNTC_U3nzlYOfR5I9QaNQh7noTaQnIfprip4uu0W-GD54-ZUp-kfFZd9nk0&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQLdQ_EP2niV-Xmw952tlEPnaymMiIksjRw_ChhJdUqiQSAnmbfX3SRzx_TfST0dEhOymBvvuwEZ&oh=00_AQOF1ns4Xus1iLk5MmB8LIagB_sI68pjyXJ6EdJbIt1Ynw&oe=6AC2B6D1",
+          "kind": "img",
+          "label": "Sunday 2pm Yoga Bou is back. What theme should I teach in Sep? Let me know below. ⬇️",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/783374655_17966930427155810_5077773061132785299_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Bt_P_cJt7vUQ7kNvwGIGTUk&_nc_oc=AdpjurYOfnqRt3uy2QiJ-hqyAfgDSzncdrZHOHYykvFW72pD1JLUwke3thbW4zDqfrA&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQLv9YzVmVvIEtPUKPdYhM1ug_Y4oB0lGuDgPtcoHXJ1hI08bLLM4XWLAtfA2CPa2vJ8If19Bbxv&oh=00_AQPt4e8Yk0b00muHrEjajn2HwYGehUHaZrKT4srcQM-m7g&oe=6AC29E87",
+          "kind": "img",
+          "label": "First, we work hard on the physical body; then we work hard on calming the mind. \n\nYin-Yang ☯️ \nTuesday 8:00pm\nThursday 12:45pm \n\n陰陽瑜伽\nYin Yang Yoga",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/756603822_17962823964155810_5570645625071045792_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vfImGxbA3EIQ7kNvwGZ4UJA&_nc_oc=Adqnf1W7n8V_xPbmRIFNbdsAHFLJA79DUk-OGOGkn2bIJVSnppKpzn2-pi77cUfgYmM&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQJBMMbq7O408x9ID2O0V-n9jMv8OeeR43IpGeWsQL-ZpCjE09SecOvEZngrubP03aHcZI2VPrSx&oh=00_AQMiq6FlPqvyf99xnkAzc4y4jw_LEvETH5rP_Kh-s_CvOg&oe=6AC2B88E",
+          "kind": "img",
+          "label": "Sowwy I am late! ⏰😓 \n\nThu (30:7) 7:00pm 🌕 Yoga Nidra w/ Singing Bowl \n\n7月盛夏的滿月，選在周中跟大家一聚。今次準備題材的時候我在想最近自己缺乏的是甚麼，最後就想到我還是非常在意事情不如自己想要的方向發展，包括時間點、方式，甚至自己對事情的感受都好像有一種「我沒辦法控制」的感覺。這其實",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.82787-15/723066655_17956022568155810_7796140287323997902_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cGHe69q8m-AQ7kNvwH2WDwl&_nc_oc=AdpwdxqR2Ie3zrdKjmt4EvCIm1JFFzUtStT29NPA8PEWQfdfmEbtDnWIs0l9BSPUc1s&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQLCv8LhLDYIN8zFlkWnGGO2_ntE2uzkLl-o-qCje8WclSxXGjUJWZ5xgwkq652ZxbfOQhKYz4Kb&oh=00_AQM8YyPCEQxkWIyXhxrv4p9YMkYqsPDDZJPqpCGH5UQI3A&oe=6AC2CB79",
+          "kind": "img",
+          "label": "Bad news - We are bidding goodbye to ClassPass this end of June. A heartfelt thank you from our team, it’s been a pleasure having all of you. 🩵 (Good news is coming.👇🏼)\n\nCommitt",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.71878-15/718935463_866359293187200_394820416185404061_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_a7GG1o746EQ7kNvwEcztRU&_nc_oc=AdqchNzXv8ItkTvV1RQdzARGZ52r1CqPmlZKS8G4JtvP2yzLTrA1dyYup0KwnKMn1Lk&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQLqLlG2pS9yyYlBcqVlfPQ-28OfKj0X57lDwmSBBb6EaV_Y-tecp5Aipq3HJ8UZRQAWH64cAls2&oh=00_AQPhds__EU9DLdrW0N0Yj-TE_-3iIn4sk7_BqiuAnAdDIw&oe=6AC2C9F4",
+          "kind": "img",
+          "label": "Yoga is the cessation of the fluctuations of the mind. - Yoga Sutras 1.2\n\n瑜伽是平靜心識的波動。\n- 《瑜伽經》第1章第2節\n\nThe practice is never about physical movement, but through a state of stillness",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.71878-15/708468526_1012487387898188_920204155049748475_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Bn5j6yKbPFoQ7kNvwGf4Bns&_nc_oc=AdqD49vXH5MxbOepWYXwhf9BhNzfdlAqfI6NP8qbj3WTK0THS8_Pa0j6xudVEQEry0s&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQI6ef4yCG0LWMvErNEvLz3QHbf0aM5bk_76W5kpkOMhqvWklYXzLs3ur9McQ7KfEtplYze2LaGQ&oh=00_AQO7g8sbcseDaQJUiqGU6PbwDZ2j1RTRV81d-8hGBvfOeA&oe=6AC2C89D",
+          "kind": "img",
+          "label": "(廣東話👇🏼 ）Vinyasa is hard because it’s too fast? Hatha is hard because teacher said 5 breaths to you seems like 12? Yin is boring because there’s no joy when the stretch is intense",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://scontent-den2-1.cdninstagram.com/v/t51.71878-15/707415167_1770244447507406_6047106132690842166_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=97yMUvJ1D9AQ7kNvwFl0Vgc&_nc_oc=AdrgnzBx9pATlLeEtAeDmYgHBTK1Qi2VkdVBfLHu_Z6-Pi5zZRcGuctpBAslklx-C-I&_nc_zt=23&_nc_ht=scontent-den2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nY818FXbrEtIuwNGEOk6pg&_nc_tpa=Q5bMBQINbKM5dT_kXIA2sFADUUMT3RtpOW5zOY22FBKL4Dh19X3ob1iGs6MnBHcHK6bMtfaveUjGEIan&oh=00_AQMX_AJaz_aJ06NOYRY8uNUhaIrJKKcLx3PauXDFtLk2Qg&oe=6AC2BCB2",
+          "kind": "img",
+          "label": "A yoga pose should be stable, comfortable, breathable. 有時你做瑜伽做得唔夠隔離同學優雅，未必係因為你渣，而係因為你唔識運用呼吸啫，嚟我個工作坊一齊研究下。And if you want to know how to breathe well in a yoga class? Come join our ",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "852-9016 6057",
+          "+852 9016 6057"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.atsumaruyogahk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002578621051906",
+      "venues": [
+        {
+          "slug": "atsumaru-yoga",
+          "name": "ATSUMARU Yoga",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/7719c6_7740234228e04cf5bb164a1c50007920~mv2.jpeg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://static.wixstatic.com/media/4c6feb_0e158f2a2ac142b4aedde9663b21f6f3~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c6feb_0e158f2a2ac142b4aedde9663b21f6f3~mv2.jpg",
+          "kind": "img",
+          "label": "atsumaru_1207-004",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://static.wixstatic.com/media/4c6feb_6c30781a8b874e959803a622c72fb67e~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c6feb_6c30781a8b874e959803a622c72fb67e~mv2.jpg",
+          "kind": "img",
+          "label": "atsumaru_1207-145",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://static.wixstatic.com/media/4c6feb_bf2bdf030a784b6b86db6654381b3e57~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c6feb_bf2bdf030a784b6b86db6654381b3e57~mv2.jpg",
+          "kind": "img",
+          "label": "atsumaru_1207-052",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.atsumaruyogahk.com/quality_auto/IMG_3879_JPG.jpg",
+          "kind": "img",
+          "label": "IMG_3879.JPG",
+          "width": 304,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://www.atsumaruyogahk.com/quality_auto/atsumaru_1207-146.jpg",
+          "kind": "img",
+          "label": "atsumaru_1207-146.jpg",
+          "width": 304,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://www.atsumaruyogahk.com/quality_auto/ATSUMARU%20FOTO.jpg",
+          "kind": "img",
+          "label": "ATSUMARU FOTO.jpg",
+          "width": 304,
+          "height": 300,
+          "score": 48
+        },
+        {
+          "url": "https://static.wixstatic.com/media/4c6feb_7c53e019cdd04878a95e6582c05fac1a~mv2.jpg/v1/fill/w_133,h_88,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/4c6feb_7c53e019cdd04878a95e6582c05fac1a~mv2.jpg",
+          "kind": "img",
+          "label": "DSC07074-HDR.jpg",
+          "width": 980,
+          "height": 589,
+          "score": 44
+        },
+        {
+          "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/tiny_arrows.d77e491d.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.3214ce8e.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+85298725268",
+          "9872 5268"
+        ],
+        "hourSnippets": [
+          "營業時間 BUSINESS HOURS 場地｜每日 24 小時 客服｜每日 10:00&ndash;22:00 VENUE &middot; OPEN 24 HOURS SERVICE &middot; 10:00&ndash;22:00 ​聯絡方式 CONTACT ​電話 Tel: ( 852) 9872 5268 ​ ​電郵 Email： connectpoint@atsumaruhk"
+        ]
+      }
+    },
+    "https://www.enjoyoga.online/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002595096305665",
+      "venues": [
+        {
+          "slug": "enjoyoga",
+          "name": "Enjoyoga",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_9ec55689048c416f925758ae4f9a924d~mv2.jpg/v1/fill/w_2500,h_1665,al_c/8315ba_9ec55689048c416f925758ae4f9a924d~mv2.jpg",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_cac5bcedc3f74a8d9c9350b477bcb670~mv2.jpg",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_0be8ed79c774430b985a15133eebdaea~mv2.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_d789659df8e64e9887a61df6837ac6ab~mv2.png/v1/fill/w_60,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/8315ba_d789659df8e64e9887a61df6837ac6ab~mv2.png",
+          "kind": "img",
+          "label": "P1010831.png",
+          "width": 1201,
+          "height": 654,
+          "score": 44
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_360e4af19bf74a36bba890816a571509~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_360e4af19bf74a36bba890816a571509~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_8ae113990abe49e1bab095e1238c4ab7~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_8ae113990abe49e1bab095e1238c4ab7~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_9ec55689048c416f925758ae4f9a924d~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_9ec55689048c416f925758ae4f9a924d~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_cac5bcedc3f74a8d9c9350b477bcb670~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_cac5bcedc3f74a8d9c9350b477bcb670~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_3f69b1946d2a4637b2debf797ba82f2a~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_3f69b1946d2a4637b2debf797ba82f2a~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_c5227db2cd14475f8f4b07c47fe43b4b~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_c5227db2cd14475f8f4b07c47fe43b4b~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_feba1c979c5645a6bc76aec2ec98cca1~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_feba1c979c5645a6bc76aec2ec98cca1~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/8315ba_8becf169bc644cbd9a607a739e31b68f~mv2.jpg/v1/fit/w_960,h_721,q_90,enc_avif,quality_auto/8315ba_8becf169bc644cbd9a607a739e31b68f~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.pause.hk/find-us": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002610384529409",
+      "venues": [
+        {
+          "slug": "pause-health-and-wellness-mui-wo",
+          "name": "PAUSE Health & Wellness — Mui Wo",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5ae2a9ef4eddec27ef607054/1559792292403-UM0167GJPWWMVKV0AI8Y/PAUSE-12.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 93
+        },
+        {
+          "url": "https://static1.squarespace.com/static/5ae2a9ef4eddec27ef607054/t/5cf88aa2b02bea0001dd9289/1757563998324/",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5ae2a9ef4eddec27ef607054/1559792292403-UM0167GJPWWMVKV0AI8Y/PAUSE-12.png?format=2500w",
+          "kind": "img",
+          "label": "PAUSE Health &amp; Wellness",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5ae2a9ef4eddec27ef607054/1527493842817-BJ3DVDNREE5NK1YSRXWA/annie-spratt-42051-unsplash.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5ae2a9ef4eddec27ef607054/1681877192973-BS8QAF64FBWC31I3V8S4/HongKong+-+Colored.png",
+          "kind": "img",
+          "label": "HongKong - Colored.png",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.jeselstudio.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511002633595819009",
+      "venues": [
+        {
+          "slug": "jesel-studio",
+          "name": "Jesel Studio",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "http://static1.squarespace.com/static/65db05ebb5883330418dad25/t/65db196ce50d987df7f2ccf6/1708857708851/Screenshot+2024-02-25+at+6.40.49+PM.png?format=1500w",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/3fbc530a-dd90-4cdf-b7c6-6f92a8ef3c86/Screenshot+2024-02-25+at+6.40.49+PM.png",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/3fbc530a-dd90-4cdf-b7c6-6f92a8ef3c86/Screenshot+2024-02-25+at+6.40.49+PM.png?format=1500w",
+          "kind": "img",
+          "label": "JeSeL Studio",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/00b387c1-7cd3-4d48-a2ba-bb28b9f98f34/WhatsApp+Image+2024-03-20+at+10.17.31.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 2773,
+          "height": 4160,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/d51c9beb-cbe0-4f74-9c35-f5489be61a08/IMG_2024-07-04-093203.JPG",
+          "kind": "img",
+          "label": "",
+          "width": 1080,
+          "height": 720,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/65db05ebb5883330418dad25/f290d1b0-d9a5-49ca-b7c0-f39e47cd834e/IMG_2024-07-04-093543.JPG",
+          "kind": "img",
+          "label": "",
+          "width": 1080,
+          "height": 757,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852-94273284"
+        ],
+        "hourSnippets": [
+          "Opening Hours: Weekdays: 7:30am - 9:00pm Weekends: 8:00am - 6:00pm FAQs Pilates Yoga and Wellness"
+        ]
+      }
+    },
+    "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "hong-kong-park-sports-centre",
+          "name": "Hong Kong Park Sports Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "hong-kong-squash-centre",
+          "name": "Hong Kong Squash Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "shek-tong-tsui-sports-centre",
+          "name": "Shek Tong Tsui Sports Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "sheung-wan-sports-centre",
+          "name": "Sheung Wan Sports Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "smithfield-sports-centre",
+          "name": "Smithfield Sports Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "sun-yat-sen-memorial-park-sports-centre",
+          "name": "Sun Yat Sen Memorial Park Sports Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "tuen-mun-swimming-pool-squash-courts",
+          "name": "TUEN MUN SWIMMING POOL SQUASH COURTS",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "error": "HTTP 400: {\"status\":\"failed\",\"message\":\"Url is not supported.\"}"
+    }
+  }
+}

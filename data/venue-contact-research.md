@@ -1,15 +1,24 @@
 # Venue contact research
 
-Last checked: 2026-09-08 (Hong Kong time)
+Last checked: 2026-09-30 (Hong Kong time)
 
 ## Coverage
 
-- 217 unique venue pages reviewed.
-- 216 have a published opening-hours record or an explicit operator booking schedule.
-- 215 have a published venue or operator telephone/WhatsApp contact.
-- 215 have both fields.
+- 252 unique venue pages reviewed.
+- 250 have a published opening-hours record or an explicit operator booking schedule.
+- 248 have a published venue or operator telephone/WhatsApp contact.
+- 247 have both fields.
 - Kinship publishes an address and email but no phone or opening hours on its website.
 - Re:set by PURE — LKF publishes its location and booking availability, but its current official contact directory leaves the phone field blank.
+- URSUS Fitness publishes its telephone number and live class schedule, but not general opening hours.
+- Enjoyoga and PAUSE Health & Wellness — Mui Wo publish addresses and booking information, but no phone number on their official pages.
+- Senses Studio publishes a shared WhatsApp contact, +852 9881 0801, across its Hong Kong locations.
+
+## Decodo enrichment
+
+- Decodo Web Scraping API pass completed 30 September 2026 across 63 previously inaccessible official source pages.
+- 60 pages returned structured content, producing 459 image candidates for manual filtering.
+- Only stable official-source images were retained; logos, temporary social-media URLs, generic mall artwork and blocked image hosts were excluded.
 
 The venue page intentionally renders “not published” for a missing field. A missing value is never inferred from another unrelated venue.
 

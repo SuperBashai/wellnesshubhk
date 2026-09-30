@@ -7,7 +7,11 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "decodo:test": "node --env-file=.env.local scripts/test-decodo.mjs"
+    "decodo:test": "node --env-file=.env.local scripts/test-decodo.mjs",
+    "decodo:enrich": "node --env-file=.env.local scripts/decodo-enrich-venues.mjs",
+    "decodo:merge-images": "node scripts/merge-decodo-images.mjs",
+    "images:check": "node scripts/check-venue-images.mjs",
+    "images:coverage": "node scripts/image-coverage.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "2.117.2",
