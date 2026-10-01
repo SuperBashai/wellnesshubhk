@@ -5164,64 +5164,6 @@
       }
     }
   ],
-  "212hk": [
-    {
-      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
-      "source": "https://212hk.com/about-us/",
-      "credit": "212HK",
-      "alt": {
-        "en": "212HK — Facilities",
-        "zh-hk": "212HK — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities3-scaled.jpg",
-      "source": "https://212hk.com/about-us/",
-      "credit": "212HK",
-      "alt": {
-        "en": "212HK — Facilities(3)",
-        "zh-hk": "212HK — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://212hk.com/wp-content/uploads/2026/04/Banner-2-scaled.jpg",
-      "source": "https://212hk.com/about-us/",
-      "credit": "212HK",
-      "alt": {
-        "en": "212HK — Banner",
-        "zh-hk": "212HK — 官方網站圖片"
-      }
-    }
-  ],
-  "pickle-city": [
-    {
-      "url": "https://mkapi.nexposhk.com/picklecity/api/v3c/general/cl_view_upload.php?type=home_banner&file=home_banner_6a55e7c84f8e0_1784014792.png",
-      "source": "https://linktr.ee/picklecityhk",
-      "credit": "Pickle City",
-      "alt": {
-        "en": "Pickle City — image from the official website",
-        "zh-hk": "Pickle City — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://linktr.ee/og/image/picklecityhk.jpg",
-      "source": "https://linktr.ee/picklecityhk",
-      "credit": "Pickle City",
-      "alt": {
-        "en": "Pickle City — image from the official website",
-        "zh-hk": "Pickle City — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4&oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg&oe=6A8180C2&_nc_sid=5e03e0&_nc_cat=104",
-      "source": "https://linktr.ee/picklecityhk",
-      "credit": "Pickle City",
-      "alt": {
-        "en": "Pickle City — image from the official website",
-        "zh-hk": "Pickle City — 官方網站圖片"
-      }
-    }
-  ],
   "smash-factor": [
     {
       "url": "https://smashfactor.hk/wp-content/uploads/2024/11/practice-golf-like-a-professional-768x576.webp",
@@ -5622,6 +5564,856 @@
       "alt": {
         "en": "Hong Kong Golf & Tennis Academy — official venue image",
         "zh-hk": "Hong Kong Golf & Tennis Academy — 官方場地圖片"
+      }
+    }
+  ],
+  "212hk": [
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Facilities",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities3-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Facilities(3)",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Banner-2-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Banner",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    }
+  ],
+  "pickle-city": [
+    {
+      "url": "https://mkapi.nexposhk.com/picklecity/api/v3c/general/cl_view_upload.php?type=home_banner&file=home_banner_6a55e7c84f8e0_1784014792.png",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://linktr.ee/og/image/picklecityhk.jpg",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4&oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg&oe=6A8180C2&_nc_sid=5e03e0&_nc_cat=104",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    }
+  ],
+  "pickabowl-d2-place": [
+    {
+      "url": "https://framerusercontent.com/images/qJypDYbWClOVhMPCGxLDBgxlgM.jpg?width=500&height=628",
+      "source": "https://www.pickabowl.com.hk/en/location",
+      "credit": "Pickabowl",
+      "alt": {
+        "en": "Pickabowl — D2 Place — Lai Chi Kok D2 Place | Pickabowl",
+        "zh-hk": "Pickabowl — D2 Place — 官方場地圖片"
+      }
+    }
+  ],
+  "pickabowl-citywalk-2": [
+    {
+      "url": "https://framerusercontent.com/images/vYeWGl318zS09Q7lwKAdmp1grJY.jpg?width=500&height=620",
+      "source": "https://www.pickabowl.com.hk/en/location",
+      "credit": "Pickabowl",
+      "alt": {
+        "en": "Pickabowl — Citywalk 2 — Tsuen Wan Citywalk2 | Pickabowl",
+        "zh-hk": "Pickabowl — Citywalk 2 — 官方場地圖片"
+      }
+    }
+  ],
+  "pickabowl-kings-wing-plaza-2": [
+    {
+      "url": "https://framerusercontent.com/images/jcvVlAlNvIa9zT5W3LK18vegm0.jpg?width=500&height=620",
+      "source": "https://www.pickabowl.com.hk/en/location",
+      "credit": "Pickabowl",
+      "alt": {
+        "en": "Pickabowl — Kings Wing Plaza 2 — Shek Mun Kings Wing Plaza | Pickabowl",
+        "zh-hk": "Pickabowl — Kings Wing Plaza 2 — 官方場地圖片"
+      }
+    }
+  ],
+  "pickabowl-airside": [
+    {
+      "url": "https://framerusercontent.com/images/21SFhbTpVeN5wfelrfBYULa5pU.jpg?width=500&height=620",
+      "source": "https://www.pickabowl.com.hk/en/location",
+      "credit": "Pickabowl",
+      "alt": {
+        "en": "Pickabowl — AIRside — Kai Tak Airside | Pickabowl",
+        "zh-hk": "Pickabowl — AIRside — 官方場地圖片"
+      }
+    }
+  ],
+  "pokeworld-sheung-wan": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1475774730698-V6XILMCMOKRDJ1XY4ASR/Pokeworld_Hero+Photo.jpg",
+      "source": "https://www.pokeworldhk.com/",
+      "credit": "Pokéworld",
+      "alt": {
+        "en": "Pokéworld — Sheung Wan — Pokeworld_Hero Photo.jpg",
+        "zh-hk": "Pokéworld — Sheung Wan — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188704720-A01JPZ97WWWS3VIQD7RU/Pok%C3%A9world_21.jpg",
+      "source": "https://www.pokeworldhk.com/",
+      "credit": "Pokéworld",
+      "alt": {
+        "en": "Pokéworld — Sheung Wan — Pokéworld_21.jpg",
+        "zh-hk": "Pokéworld — Sheung Wan — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188705365-WH7QSN1XF91R9VI6L3ZX/Pok%C3%A9world_23.jpg",
+      "source": "https://www.pokeworldhk.com/",
+      "credit": "Pokéworld",
+      "alt": {
+        "en": "Pokéworld — Sheung Wan — Pokéworld_23.jpg",
+        "zh-hk": "Pokéworld — Sheung Wan — 官方場地圖片"
+      }
+    }
+  ],
+  "pokeworld-kwun-tong": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1475774730698-V6XILMCMOKRDJ1XY4ASR/Pokeworld_Hero+Photo.jpg",
+      "source": "https://www.pokeworldhk.com/",
+      "credit": "Pokéworld",
+      "alt": {
+        "en": "Pokéworld — Kwun Tong — Pokeworld_Hero Photo.jpg",
+        "zh-hk": "Pokéworld — Kwun Tong — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188606762-ENJ4WBVVOVX6AN1Z8260/Pok%C3%A9world_15.jpg",
+      "source": "https://www.pokeworldhk.com/",
+      "credit": "Pokéworld",
+      "alt": {
+        "en": "Pokéworld — Kwun Tong — Pokéworld_15.jpg",
+        "zh-hk": "Pokéworld — Kwun Tong — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188625082-A6Y3KK8S4652A86M3RTA/Pok%C3%A9world_19.jpg",
+      "source": "https://www.pokeworldhk.com/",
+      "credit": "Pokéworld",
+      "alt": {
+        "en": "Pokéworld — Kwun Tong — Pokéworld_19.jpg",
+        "zh-hk": "Pokéworld — Kwun Tong — 官方場地圖片"
+      }
+    }
+  ],
+  "heybo-dorset-house": [
+    {
+      "url": "https://heybo.hk/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2024-09-05-at-13.24.22-scaled-qtndsgkabwlwr9cfd0b3oy899sd001e1me51wvwk0g.jpeg",
+      "source": "https://heybo.hk/locations/",
+      "credit": "Heybo",
+      "alt": {
+        "en": "Heybo — Dorset House — WhatsApp Image 2024-09-05 at 13.24.22",
+        "zh-hk": "Heybo — Dorset House — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://heybo.hk/wp-content/uploads/2024/09/ourlocs-banner-HKv2-2048x743.jpg",
+      "source": "https://heybo.hk/locations/",
+      "credit": "Heybo",
+      "alt": {
+        "en": "Heybo — Dorset House — official venue image",
+        "zh-hk": "Heybo — Dorset House — 官方場地圖片"
+      }
+    }
+  ],
+  "heybo-jardine-house": [
+    {
+      "url": "https://heybo.hk/wp-content/uploads/elementor/thumbs/jardine-house-scaled-qtiy4xpaw6ojg3xzv3y7vtgpsr6an949qsgq47tcnk.jpeg",
+      "source": "https://heybo.hk/locations/",
+      "credit": "Heybo",
+      "alt": {
+        "en": "Heybo — Jardine House — jardine house",
+        "zh-hk": "Heybo — Jardine House — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://heybo.hk/wp-content/uploads/2024/09/ourlocs-banner-HKv2-2048x743.jpg",
+      "source": "https://heybo.hk/locations/",
+      "credit": "Heybo",
+      "alt": {
+        "en": "Heybo — Jardine House — official venue image",
+        "zh-hk": "Heybo — Jardine House — 官方場地圖片"
+      }
+    }
+  ],
+  "ovo-cafe-wan-chai": [
+    {
+      "url": "https://ovo.com.hk/cdn/shop/files/contact-us_1.webp?v=1776312932&width=1080",
+      "source": "https://ovo.com.hk/pages/contact",
+      "credit": "OVO Cafe",
+      "alt": {
+        "en": "OVO Cafe — Wan Chai — Wan Chai | OVO",
+        "zh-hk": "OVO Cafe — Wan Chai — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://ovo.com.hk/cdn/shop/files/background.webp?v=1770706696&width=2560",
+      "source": "https://ovo.com.hk/pages/contact",
+      "credit": "OVO Cafe",
+      "alt": {
+        "en": "OVO Cafe — Wan Chai — official venue image",
+        "zh-hk": "OVO Cafe — Wan Chai — 官方場地圖片"
+      }
+    }
+  ],
+  "ovo-cafe-horizon-plaza": [
+    {
+      "url": "https://ovo.com.hk/cdn/shop/files/contact-us_2.webp?v=1776312984&width=1080",
+      "source": "https://ovo.com.hk/pages/contact",
+      "credit": "OVO Cafe",
+      "alt": {
+        "en": "OVO Cafe — Horizon Plaza — Horizon Plaza| OVO",
+        "zh-hk": "OVO Cafe — Horizon Plaza — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://ovo.com.hk/cdn/shop/files/background.webp?v=1770706696&width=2560",
+      "source": "https://ovo.com.hk/pages/contact",
+      "credit": "OVO Cafe",
+      "alt": {
+        "en": "OVO Cafe — Horizon Plaza — official venue image",
+        "zh-hk": "OVO Cafe — Horizon Plaza — 官方場地圖片"
+      }
+    }
+  ],
+  "ovo-cafe-the-peninsula": [
+    {
+      "url": "https://ovo.com.hk/cdn/shop/files/contact-us_3.webp?v=1776313017&width=1080",
+      "source": "https://ovo.com.hk/pages/contact",
+      "credit": "OVO Cafe",
+      "alt": {
+        "en": "OVO Cafe — The Peninsula — The Peninsula | OVO",
+        "zh-hk": "OVO Cafe — The Peninsula — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://ovo.com.hk/cdn/shop/files/background.webp?v=1770706696&width=2560",
+      "source": "https://ovo.com.hk/pages/contact",
+      "credit": "OVO Cafe",
+      "alt": {
+        "en": "OVO Cafe — The Peninsula — official venue image",
+        "zh-hk": "OVO Cafe — The Peninsula — 官方場地圖片"
+      }
+    }
+  ],
+  "lockcha-tea-house-hong-kong-park": [
+    {
+      "url": "https://images.ctfassets.net/o0crhmcwhbe1/4tYhtd1oFubSMzNL9t5npp/63fb6ec6ef0bb0dc033b0b5e119328b9/location-admiralty.jpg?w=480&h=480&fl=progressive&q=50&fm=jpg",
+      "source": "https://www.lockcha.com/locations/",
+      "credit": "LockCha Tea House",
+      "alt": {
+        "en": "LockCha Tea House — Hong Kong Park — Lockcha Hong Kong Park (Teahouse)",
+        "zh-hk": "LockCha Tea House — Hong Kong Park — 官方場地圖片"
+      }
+    }
+  ],
+  "south-lane-shek-tong-tsui": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/03128023-64f7-4af1-9d13-7a9f179dc75d/SOUTH+LANE_Avocado+Chilli+Fried+Egg.jpg",
+      "source": "https://www.southlane.co/",
+      "credit": "SOUTH LANE",
+      "alt": {
+        "en": "SOUTH LANE — Shek Tong Tsui — official venue image",
+        "zh-hk": "SOUTH LANE — Shek Tong Tsui — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/ee0c16e3-008e-41ec-8a4b-0326555a794f/0J4A0001.jpg",
+      "source": "https://www.southlane.co/",
+      "credit": "SOUTH LANE",
+      "alt": {
+        "en": "SOUTH LANE — Shek Tong Tsui — official venue image",
+        "zh-hk": "SOUTH LANE — Shek Tong Tsui — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/ad4960d6-00c2-441f-8ac0-e74ccaaf9d73/0J4A0137.jpg",
+      "source": "https://www.southlane.co/",
+      "credit": "SOUTH LANE",
+      "alt": {
+        "en": "SOUTH LANE — Shek Tong Tsui — official venue image",
+        "zh-hk": "SOUTH LANE — Shek Tong Tsui — 官方場地圖片"
+      }
+    }
+  ],
+  "south-lane-at-blueprint": [
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/706560b6-e3ed-493b-a18c-46af678ab64a/0J4A1381.jpg",
+      "source": "https://www.southlane.co/quarry-bay",
+      "credit": "SOUTH LANE at Blueprint",
+      "alt": {
+        "en": "SOUTH LANE at Blueprint — official venue image",
+        "zh-hk": "SOUTH LANE at Blueprint — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/332018ba-646a-4e7d-8435-642c4e863572/0J4A1289.jpg",
+      "source": "https://www.southlane.co/quarry-bay",
+      "credit": "SOUTH LANE at Blueprint",
+      "alt": {
+        "en": "SOUTH LANE at Blueprint — official venue image",
+        "zh-hk": "SOUTH LANE at Blueprint — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/bd6afa54-ecac-44df-87c8-a4724ffb7f2b/0J4A1370.jpg",
+      "source": "https://www.southlane.co/quarry-bay",
+      "credit": "SOUTH LANE at Blueprint",
+      "alt": {
+        "en": "SOUTH LANE at Blueprint — official venue image",
+        "zh-hk": "SOUTH LANE at Blueprint — 官方場地圖片"
+      }
+    }
+  ],
+  "eat-well-cafe-at-kadoorie-farm": [
+    {
+      "url": "https://www.kfbg.org/upload/Ivan/eat/IMG_0835.jpg",
+      "source": "https://www.kfbg.org/en/attractions/Eat-Well-Cafe/",
+      "credit": "Eat Well Café at Kadoorie Farm",
+      "alt": {
+        "en": "Eat Well Café at Kadoorie Farm — The Eat Well Caf&eacute; kiosk at KFBG, with its service window and hanging bilingual signboard, backed by hil",
+        "zh-hk": "Eat Well Café at Kadoorie Farm — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.kfbg.org/upload/Ivan/eat/20251025_044017421_iOS1.jpg",
+      "source": "https://www.kfbg.org/en/attractions/Eat-Well-Cafe/",
+      "credit": "Eat Well Café at Kadoorie Farm",
+      "alt": {
+        "en": "Eat Well Café at Kadoorie Farm — A sourdough burger served with roasted potato wedges and a dip",
+        "zh-hk": "Eat Well Café at Kadoorie Farm — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.kfbg.org/upload/Ivan/eat/20250706_033243318_iOS2.jpg",
+      "source": "https://www.kfbg.org/en/attractions/Eat-Well-Cafe/",
+      "credit": "Eat Well Café at Kadoorie Farm",
+      "alt": {
+        "en": "Eat Well Café at Kadoorie Farm — Penne in tomato sauce with vegan meatballs, cherry tomatoes and fresh basil",
+        "zh-hk": "Eat Well Café at Kadoorie Farm — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-kowloon-hospital": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/KH_rehab_shop_photo.jpg?v=1753332460&width=580",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — Kowloon Hospital — official venue image",
+        "zh-hk": "cafe330 — Kowloon Hospital — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/KH_west_wing_shop_photo.jpg?v=1753332898&width=580",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — Kowloon Hospital — official venue image",
+        "zh-hk": "cafe330 — Kowloon Hospital — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-kwong-wah-hospital": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/cafe330_KWH_-_copy.jpg?v=1709004407&width=580",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — Kwong Wah Hospital — official venue image",
+        "zh-hk": "cafe330 — Kwong Wah Hospital — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-caritas-medical-centre": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/2016-Caritas_Cafe330-12_1.jpg?v=1691748719&width=580",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — Caritas Medical Centre — official venue image",
+        "zh-hk": "cafe330 — Caritas Medical Centre — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-the-university-of-hong-kong": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/107_510173841.jpg?v=1691748504&width=580",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — The University of Hong Kong — official venue image",
+        "zh-hk": "cafe330 — The University of Hong Kong — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-the-chinese-university-of-hong-kong": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/13719475_169990890085638_710217918982483037_o.jpg?v=1753343098&width=1240",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — The Chinese University of Hong Kong — official venue image",
+        "zh-hk": "cafe330 — The Chinese University of Hong Kong — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-inno330-at-cuhk": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/inno330-1.jpg?v=1753342600&width=1240",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — inno330 at CUHK — official venue image",
+        "zh-hk": "cafe330 — inno330 at CUHK — 官方場地圖片"
+      }
+    }
+  ],
+  "cafe330-so330": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/so330.jpg?v=1753329975&width=1240",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — so330 — official venue image",
+        "zh-hk": "cafe330 — so330 — 官方場地圖片"
+      }
+    }
+  ],
+  "nood-food-asia-standard-tower": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Asia Standard Tower — official food image",
+        "zh-hk": "NOOD Food — Asia Standard Tower — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Asia Standard Tower — official food image",
+        "zh-hk": "NOOD Food — Asia Standard Tower — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Asia Standard Tower — official food image",
+        "zh-hk": "NOOD Food — Asia Standard Tower — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-world-trade-centre": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — World Trade Centre — official food image",
+        "zh-hk": "NOOD Food — World Trade Centre — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — World Trade Centre — official food image",
+        "zh-hk": "NOOD Food — World Trade Centre — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — World Trade Centre — official food image",
+        "zh-hk": "NOOD Food — World Trade Centre — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-pccw-tower": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — PCCW Tower — official food image",
+        "zh-hk": "NOOD Food — PCCW Tower — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — PCCW Tower — official food image",
+        "zh-hk": "NOOD Food — PCCW Tower — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — PCCW Tower — official food image",
+        "zh-hk": "NOOD Food — PCCW Tower — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-icbc-tower": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — ICBC Tower — official food image",
+        "zh-hk": "NOOD Food — ICBC Tower — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — ICBC Tower — official food image",
+        "zh-hk": "NOOD Food — ICBC Tower — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — ICBC Tower — official food image",
+        "zh-hk": "NOOD Food — ICBC Tower — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-kinwick-centre": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Kinwick Centre — official food image",
+        "zh-hk": "NOOD Food — Kinwick Centre — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Kinwick Centre — official food image",
+        "zh-hk": "NOOD Food — Kinwick Centre — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Kinwick Centre — official food image",
+        "zh-hk": "NOOD Food — Kinwick Centre — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-starstreet-precinct": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Starstreet Precinct — official food image",
+        "zh-hk": "NOOD Food — Starstreet Precinct — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Starstreet Precinct — official food image",
+        "zh-hk": "NOOD Food — Starstreet Precinct — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Starstreet Precinct — official food image",
+        "zh-hk": "NOOD Food — Starstreet Precinct — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-pacific-place": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Pacific Place — official food image",
+        "zh-hk": "NOOD Food — Pacific Place — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Pacific Place — official food image",
+        "zh-hk": "NOOD Food — Pacific Place — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Pacific Place — official food image",
+        "zh-hk": "NOOD Food — Pacific Place — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-lee-theatre-plaza": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Lee Theatre Plaza — official food image",
+        "zh-hk": "NOOD Food — Lee Theatre Plaza — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Lee Theatre Plaza — official food image",
+        "zh-hk": "NOOD Food — Lee Theatre Plaza — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Lee Theatre Plaza — official food image",
+        "zh-hk": "NOOD Food — Lee Theatre Plaza — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-ifc-mall": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — ifc mall — official food image",
+        "zh-hk": "NOOD Food — ifc mall — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — ifc mall — official food image",
+        "zh-hk": "NOOD Food — ifc mall — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — ifc mall — official food image",
+        "zh-hk": "NOOD Food — ifc mall — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-langham-place": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Langham Place — official food image",
+        "zh-hk": "NOOD Food — Langham Place — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Langham Place — official food image",
+        "zh-hk": "NOOD Food — Langham Place — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Langham Place — official food image",
+        "zh-hk": "NOOD Food — Langham Place — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-one-hennessy": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — One Hennessy — official food image",
+        "zh-hk": "NOOD Food — One Hennessy — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — One Hennessy — official food image",
+        "zh-hk": "NOOD Food — One Hennessy — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — One Hennessy — official food image",
+        "zh-hk": "NOOD Food — One Hennessy — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-manulife-place": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Manulife Place — official food image",
+        "zh-hk": "NOOD Food — Manulife Place — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Manulife Place — official food image",
+        "zh-hk": "NOOD Food — Manulife Place — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Manulife Place — official food image",
+        "zh-hk": "NOOD Food — Manulife Place — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-k11-musea": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — K11 MUSEA — official food image",
+        "zh-hk": "NOOD Food — K11 MUSEA — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — K11 MUSEA — official food image",
+        "zh-hk": "NOOD Food — K11 MUSEA — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — K11 MUSEA — official food image",
+        "zh-hk": "NOOD Food — K11 MUSEA — 官方餐飲圖片"
+      }
+    }
+  ],
+  "nood-food-re-set-by-pure": [
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Re:set by PURE — official food image",
+        "zh-hk": "NOOD Food — Re:set by PURE — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Re:set by PURE — official food image",
+        "zh-hk": "NOOD Food — Re:set by PURE — 官方餐飲圖片"
+      }
+    },
+    {
+      "url": "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+      "source": "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/",
+      "credit": "NOOD Food / PURE",
+      "alt": {
+        "en": "NOOD Food — Re:set by PURE — official food image",
+        "zh-hk": "NOOD Food — Re:set by PURE — 官方餐飲圖片"
       }
     }
   ]

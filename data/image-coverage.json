@@ -1,7 +1,7 @@
 {
-  "venues": 274,
-  "withPhotos": 229,
-  "photographs": 571,
+  "venues": 315,
+  "withPhotos": 265,
+  "photographs": 651,
   "missing": [
     {
       "name": "SpiceBox Organics — Kennedy Town",
@@ -192,6 +192,31 @@
       "name": "Discovery Bay Golf Club",
       "slug": "discovery-bay-golf-club",
       "source": "https://www.dbgc.hk/"
+    },
+    {
+      "name": "Fete Up — BaseHall 2",
+      "slug": "fete-up-basehall-2",
+      "source": "https://feteup.com/location/"
+    },
+    {
+      "name": "Fete Up — Causeway Bay",
+      "slug": "fete-up-causeway-bay",
+      "source": "https://feteup.com/location/"
+    },
+    {
+      "name": "LockCha Tea House — Tai Kwun",
+      "slug": "lockcha-tea-house-tai-kwun",
+      "source": "https://www.lockcha.com/locations/"
+    },
+    {
+      "name": "Adventist Restaurant — Tsuen Wan",
+      "slug": "adventist-restaurant-tsuen-wan",
+      "source": "https://www.twah.org.hk/en/ancillary-services/adventist-restaurant"
+    },
+    {
+      "name": "cafe330 — Kwai Chung Hospital",
+      "slug": "cafe330-kwai-chung-hospital",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup"
     },
     {
       "name": "Hong Kong Park Sports Centre",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:04:50.881Z",
+  "generatedAt": "2026-10-01T14:26:58.277Z",
   "sources": {
     "https://www.kinship.hk/": {
       "ok": true,
@@ -872,7 +872,9 @@
       }
     },
     "https://www.ovolohotels.com/ovolo/central/veda/": {
-      "ok": false,
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431475112221697",
       "venues": [
         {
           "slug": "veda",
@@ -882,7 +884,28 @@
           "needsHours": false
         }
       ],
-      "error": "Target returned 400"
+      "images": [
+        {
+          "url": "http://veda.hk/cdn/shop/files/Untitled_design_15.png?height=628&pad_color=ffffff&v=1715848868&width=1200",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://veda.hk/cdn/shop/files/Untitled_design_15.png?height=628&pad_color=ffffff&v=1715848868&width=1200",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
     },
     "https://www.slowood.hk/pages/connect-to-slowood": {
       "ok": true,
@@ -5781,15 +5804,15 @@
           "slug": "hi-tee-golf-san-po-kong",
           "name": "Hi Tee Golf — San Po Kong",
           "needsImages": true,
-          "needsPhone": true,
-          "needsHours": true
+          "needsPhone": false,
+          "needsHours": false
         },
         {
           "slug": "hi-tee-golf-quarry-bay",
           "name": "Hi Tee Golf — Quarry Bay",
           "needsImages": true,
-          "needsPhone": true,
-          "needsHours": true
+          "needsPhone": false,
+          "needsHours": false
         }
       ],
       "error": "Target returned 404"
@@ -6477,8 +6500,8 @@
           "slug": "jockey-club-kau-sai-chau-public-golf-course",
           "name": "Jockey Club Kau Sai Chau Public Golf Course",
           "needsImages": true,
-          "needsPhone": true,
-          "needsHours": true
+          "needsPhone": false,
+          "needsHours": false
         }
       ],
       "error": "Target returned no content"
@@ -6900,6 +6923,1180 @@
         "phones": [
           "23456789"
         ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.pickabowl.com.hk/en/location": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431879388593153",
+      "venues": [
+        {
+          "slug": "pickabowl-d2-place",
+          "name": "Pickabowl — D2 Place",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": true
+        },
+        {
+          "slug": "pickabowl-citywalk-2",
+          "name": "Pickabowl — Citywalk 2",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": true
+        },
+        {
+          "slug": "pickabowl-kings-wing-plaza-2",
+          "name": "Pickabowl — Kings Wing Plaza 2",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": true
+        },
+        {
+          "slug": "pickabowl-airside",
+          "name": "Pickabowl — AIRside",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/qJypDYbWClOVhMPCGxLDBgxlgM.jpg?width=500&height=628",
+          "kind": "img",
+          "label": "Lai Chi Kok D2 Place | Pickabowl",
+          "width": 500,
+          "height": 628,
+          "score": 54
+        },
+        {
+          "url": "https://framerusercontent.com/images/vYeWGl318zS09Q7lwKAdmp1grJY.jpg?width=500&height=620",
+          "kind": "img",
+          "label": "Tsuen Wan Citywalk2 | Pickabowl",
+          "width": 500,
+          "height": 620,
+          "score": 54
+        },
+        {
+          "url": "https://framerusercontent.com/images/jcvVlAlNvIa9zT5W3LK18vegm0.jpg?width=500&height=620",
+          "kind": "img",
+          "label": "Shek Mun Kings Wing Plaza | Pickabowl",
+          "width": 500,
+          "height": 620,
+          "score": 54
+        },
+        {
+          "url": "https://framerusercontent.com/images/21SFhbTpVeN5wfelrfBYULa5pU.jpg?width=500&height=620",
+          "kind": "img",
+          "label": "Kai Tak Airside | Pickabowl",
+          "width": 500,
+          "height": 620,
+          "score": 54
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "25909606",
+          "25909330",
+          "63609732",
+          "26869993",
+          "51021729"
+        ],
+        "hourSnippets": [
+          "Daily Menu Online Ordering About Us Select Language ENGLISH EN Select Language ENGLISH EN Select Language ENGLISH EN Store Location Lai Chi Kok D2 Place Store Address: Shop 112, 1/F, D2 Place One, Lai Chi Kok, Kowloon Phone:",
+          "Daily Online Ordering Store Location Follow Pickabowl Instagram Facebook HKTVmall Contact Us Contact Form Contact Form DM on Instagram © 2025 — All rights reserved | Powered by Pickabowl little bits of freshness Quick link Me",
+          "Daily Online Ordering Store Location Follow Pickabowl Instagram Facebook HKTVmall Contact Us Contact Form Contact Form DM on Instagram © 2025 — All rights reserved | Powered by Pickabowl"
+        ]
+      }
+    },
+    "https://www.pokeworldhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431897268918273",
+      "venues": [
+        {
+          "slug": "pokeworld-sheung-wan",
+          "name": "Pokéworld — Sheung Wan",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "pokeworld-kwun-tong",
+          "name": "Pokéworld — Kwun Tong",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1480315197666-73M1KNEIWKREJLZVZV6F/Slide1.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://static1.squarespace.com/static/5794804f6a49633f949a0fc5/t/583bd0dc37c581cc4542a51b/1684725141266/",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1480315197666-73M1KNEIWKREJLZVZV6F/Slide1.jpg?format=1500w",
+          "kind": "img",
+          "label": "Pokéworld",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1475774730698-V6XILMCMOKRDJ1XY4ASR/Pokeworld_Hero+Photo.jpg",
+          "kind": "img",
+          "label": "Pokeworld_Hero Photo.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188704720-A01JPZ97WWWS3VIQD7RU/Pok%C3%A9world_21.jpg",
+          "kind": "img",
+          "label": "Pokéworld_21.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188606762-ENJ4WBVVOVX6AN1Z8260/Pok%C3%A9world_15.jpg",
+          "kind": "img",
+          "label": "Pokéworld_15.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1475774707685-86SFIEQBWPJA7INDJEB6/Pokeworld_sushi+roll+salmon.jpg",
+          "kind": "img",
+          "label": "Pokeworld_sushi roll salmon.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188705365-WH7QSN1XF91R9VI6L3ZX/Pok%C3%A9world_23.jpg",
+          "kind": "img",
+          "label": "Pokéworld_23.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188625082-A6Y3KK8S4652A86M3RTA/Pok%C3%A9world_19.jpg",
+          "kind": "img",
+          "label": "Pokéworld_19.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1474188528961-TWMJ57X18XKNQJR7GLXL/Pok%C3%A9world_12.jpg",
+          "kind": "img",
+          "label": "Pokéworld_12.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1617732006926-HN7Z5CWCAVGL5UB5XFG5/image-asset.jpeg",
+          "kind": "img",
+          "label": "Got Easter plans? Roll in and try our signature pokiritto! We customize it just the way you want it 🌯😋 \n.\nOur Sheung wan branch is open throughout the Easter weekend as usual. We",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5794804f6a49633f949a0fc5/1622584654202-368WADHF3O94O7YH79A0/image-asset.jpeg",
+          "kind": "img",
+          "label": "Happy Lunar New Year of the OX! \n\nHere is our opening hours for the holidays: \n\nSheung Wan: \nFeb 11th - close at 3:30pm \nFeb 12th to 15th - closed \n\nKwun Tong: \nFeb 11th - close at",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2811 2115",
+          "2652 2233"
+        ],
+        "hourSnippets": [
+          "satisfy your stomach and enlighten your day :) &nbsp; OUR FINEST POKÉ SELECTION ESPECIALLY CATERED TO YOUR TASTE&nbsp; Innovative Poke Menu × Personal Choices &nbsp;MENU 1",
+          "mon | Salmon Belly | Tuna | Marlin |&nbsp;Octopus | Cooked Prawn | Smoked Chicken | Tofu 3",
+          "SaT &nbsp;12:00- 16:30 Sun &nbsp; closed &nbsp;&nbsp; TEL: 2811 2115 EMAIL: INFO@POKEWORLDHK",
+          "SaT & SuN &nbsp;Closed &nbsp;&nbsp; TEL: 2652 2233 EMAIL: INFO@POKEWORLDHK"
+        ]
+      }
+    },
+    "https://heybo.hk/locations/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431911919590401",
+      "venues": [
+        {
+          "slug": "heybo-dorset-house",
+          "name": "Heybo — Dorset House",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        },
+        {
+          "slug": "heybo-jardine-house",
+          "name": "Heybo — Jardine House",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://heybo.hk/wp-content/uploads/2024/07/HB-Main.png",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://heybo.hk/wp-content/uploads/2024/09/ourlocs-banner-HKv2-2048x743.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 2560,
+          "height": 929,
+          "score": 62
+        },
+        {
+          "url": "https://heybo.hk/wp-content/uploads/elementor/thumbs/WhatsApp-Image-2024-09-05-at-13.24.22-scaled-qtndsgkabwlwr9cfd0b3oy899sd001e1me51wvwk0g.jpeg",
+          "kind": "img",
+          "label": "WhatsApp Image 2024-09-05 at 13.24.22",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://heybo.hk/wp-content/uploads/elementor/thumbs/jardine-house-scaled-qtiy4xpaw6ojg3xzv3y7vtgpsr6an949qsgq47tcnk.jpeg",
+          "kind": "img",
+          "label": "jardine house",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Mon – Fri: 8am – 8pm Sat, Sun: Closed Heybo Jardine Area 1, Shop 7, L G/F, Jardine House, 1 Connaught Place, Central Mon – Fri: 8am – 8pm Sat, Sun: Closed grab lunch with us today pre-order now! Menu Rewards Careers Contact"
+        ]
+      }
+    },
+    "https://feteup.com/location/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431931012100097",
+      "venues": [
+        {
+          "slug": "fete-up-basehall-2",
+          "name": "Fete Up — BaseHall 2",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        },
+        {
+          "slug": "fete-up-causeway-bay",
+          "name": "Fete Up — Causeway Bay",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://feteup.howssg.com/wp-content/uploads/2020/04/contact.jpg?id=193",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "92687393",
+          "52002268"
+        ],
+        "hourSnippets": [
+          "Mon-Fri 11:00am – 21:00pm Sat 11:00am – 19:00pm Closed on Sun & PH Shop C2 G/F, B1-3 1/F, Dragon Rise 9-11 Pennington Street Causeway Bay, Hong Kong 92687393 Mon-Fri 11:00am – 8:15pm Sat: 10:00am – 6",
+          "Sun & PH CONTACT Room 2, 12F Block B Hoi Bun Industrial Building, 6 Wing Yip Street, Kwun Tong Call (852) 52002268 Email contactus@feteup"
+        ]
+      }
+    },
+    "https://ovo.com.hk/pages/contact": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431948737235969",
+      "venues": [
+        {
+          "slug": "ovo-cafe-wan-chai",
+          "name": "OVO Cafe — Wan Chai",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ovo-cafe-horizon-plaza",
+          "name": "OVO Cafe — Horizon Plaza",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "ovo-cafe-the-peninsula",
+          "name": "OVO Cafe — The Peninsula",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://ovo.com.hk/cdn/shop/files/contact-us_1.webp?v=1776312932&width=1080",
+          "kind": "img",
+          "label": "Wan Chai | OVO",
+          "width": 1080,
+          "height": 773,
+          "score": 62
+        },
+        {
+          "url": "https://ovo.com.hk/cdn/shop/files/contact-us_2.webp?v=1776312984&width=1080",
+          "kind": "img",
+          "label": "Horizon Plaza| OVO",
+          "width": 1080,
+          "height": 773,
+          "score": 62
+        },
+        {
+          "url": "https://ovo.com.hk/cdn/shop/files/contact-us_3.webp?v=1776313017&width=1080",
+          "kind": "img",
+          "label": "The Peninsula | OVO",
+          "width": 1080,
+          "height": 772,
+          "score": 62
+        },
+        {
+          "url": "https://ovo.com.hk/cdn/shop/files/background.webp?v=1770706696&width=2560",
+          "kind": "img",
+          "label": "",
+          "width": 2560,
+          "height": 872,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2527 6088",
+          "6426 8290",
+          "2529 8168",
+          "6638 0204",
+          "2529 6099",
+          "5629 6426",
+          "5327 9166",
+          "2529 7828",
+          "6142 7263",
+          "+852 2527 6088",
+          "+852 2529 8168",
+          "+852 2529 6099"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.lockcha.com/locations/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431961089459201",
+      "venues": [
+        {
+          "slug": "lockcha-tea-house-tai-kwun",
+          "name": "LockCha Tea House — Tai Kwun",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "lockcha-tea-house-hong-kong-park",
+          "name": "LockCha Tea House — Hong Kong Park",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/o0crhmcwhbe1/4tYhtd1oFubSMzNL9t5npp/63fb6ec6ef0bb0dc033b0b5e119328b9/location-admiralty.jpg?w=240&h=240&fl=progressive&q=50&fm=jpg",
+          "kind": "img",
+          "label": "Lockcha Hong Kong Park (Teahouse)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://images.ctfassets.net/o0crhmcwhbe1/4tYhtd1oFubSMzNL9t5npp/63fb6ec6ef0bb0dc033b0b5e119328b9/location-admiralty.jpg?w=480&h=480&fl=progressive&q=50&fm=jpg",
+          "kind": "img",
+          "label": "Lockcha Hong Kong Park (Teahouse)",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 2276-5777",
+          "+852 2801-7177",
+          "2003-2025"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://www.southlane.co/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511431980173542401",
+      "venues": [
+        {
+          "slug": "south-lane-shek-tong-tsui",
+          "name": "SOUTH LANE — Shek Tong Tsui",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static1.squarespace.com/static/5fc1ac7616f6d44b07c432d1/t/63d121882d5fdf64ed75b239/1786450148568/",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/03128023-64f7-4af1-9d13-7a9f179dc75d/SOUTH+LANE_Avocado+Chilli+Fried+Egg.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 6500,
+          "height": 4335,
+          "score": 62
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/1611845662891-QOHMTSW9HYYN2389FZLK/SOUTH+LANE_Menu",
+          "kind": "img",
+          "label": "",
+          "width": 2356,
+          "height": 1569,
+          "score": 62
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/77db70c1-5de6-49b3-b7e4-97be14cb170e/SOUTH+LANE+%2F+CATERING+-+Menu+2023",
+          "kind": "img",
+          "label": "",
+          "width": 2192,
+          "height": 1462,
+          "score": 62
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/ee0c16e3-008e-41ec-8a4b-0326555a794f/0J4A0001.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/1607330934917-DOSA1E0Z3NV4JB24GEFI/IMG_9681.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 1125,
+          "height": 1116,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/d9725f6f-a4de-49fa-913a-7af0420c59b2/Sweet+Potato+Pancake+%28Summer+2020%29.png",
+          "kind": "img",
+          "label": "",
+          "width": 952,
+          "height": 1184,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/a2fb0a18-f25e-4a72-970d-4fd1c8662f19/0J4A0640.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/bc901e16-eccf-431a-83d0-315eb9f5ed9e/0j3A9991.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/9fa153e4-7a07-4c83-b903-9875afb62e55/DM3A0364.JPG",
+          "kind": "img",
+          "label": "",
+          "width": 4480,
+          "height": 6720,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/ad4960d6-00c2-441f-8ac0-e74ccaaf9d73/0J4A0137.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/1607331245802-JKJSH99PJKRP18TML3CK/IMG_1347.JPG",
+          "kind": "img",
+          "label": "",
+          "width": 2500,
+          "height": 3333,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "5744 8390",
+          "57448390"
+        ],
+        "hourSnippets": [
+          "Daily 8:00-17:30 (Last Order 16:30) Tel: 5744 8390 Reservations and walk-ins are welcomed",
+          "Mon~Fri 11:30-14:30 (Closed on Public Holidays) Counter Service, free seating available FAQs Do we take reservations? We now take reservations for any group size"
+        ]
+      }
+    },
+    "https://www.southlane.co/quarry-bay": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511432008564788225",
+      "venues": [
+        {
+          "slug": "south-lane-at-blueprint",
+          "name": "SOUTH LANE at Blueprint",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static1.squarespace.com/static/5fc1ac7616f6d44b07c432d1/t/63d121882d5fdf64ed75b239/1786450148568/",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/706560b6-e3ed-493b-a18c-46af678ab64a/0J4A1381.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 2500,
+          "height": 1667,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/057f5e87-46c3-4069-916c-c87066239d92/0J4A1268.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/efd06ac6-4d73-41c8-96d0-09823275f1cd/0J4A2616.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/332018ba-646a-4e7d-8435-642c4e863572/0J4A1289.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 8192,
+          "height": 5464,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/bd6afa54-ecac-44df-87c8-a4724ffb7f2b/0J4A1370.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 8192,
+          "height": 5464,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/413b8c1c-453d-4bbf-bd5f-3c83a67f7008/0J4A1301.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/ad4960d6-00c2-441f-8ac0-e74ccaaf9d73/0J4A0137.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/036592d9-1ee0-4960-8633-e44bb8c59817/0J4A2629.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/88f15672-9a00-489f-b499-705f9d718489/0J4A1296.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 5464,
+          "height": 8192,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/1727706280105-9YWTG6KK8ZYHG93T040K/WhatsApp%2BImage%2B2024-09-30%2Bat%2B22.20.43.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 2326,
+          "height": 3101,
+          "score": 44
+        },
+        {
+          "url": "https://images.squarespace-cdn.com/content/v1/5fc1ac7616f6d44b07c432d1/4c2097e1-5925-49e2-bd61-1ecba20e404e/100+x+50.png",
+          "kind": "img",
+          "label": "",
+          "width": 3771,
+          "height": 1696,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Monday to Friday 11:30 AM - 2:30 PM"
+        ]
+      }
+    },
+    "https://www.kfbg.org/en/attractions/Eat-Well-Cafe/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511432033269221378",
+      "venues": [
+        {
+          "slug": "eat-well-cafe-at-kadoorie-farm",
+          "name": "Eat Well Café at Kadoorie Farm",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.kfbg.org/images/attraction/cacbd33a5cff3a58.jpg",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 100
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/IMG_0835.jpg",
+          "kind": "img",
+          "label": "The Eat Well Caf&eacute; kiosk at KFBG, with its service window and hanging bilingual signboard, backed by hillside forest",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/IMG_0822.jpg",
+          "kind": "img",
+          "label": "The Eat Well Caf&eacute; window sign, showing the opening hours, telephone number and email address",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/IMG_0901.jpg",
+          "kind": "img",
+          "label": "The Eat Well Caf&eacute; vegan menu board, listing the organic sourdough series, organic snacks, organic drinks, organic sweets, organic coffee and soymilk, and the daily specials,",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kfbg.org/images/bg/visit.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/IMG_3601.jpg",
+          "kind": "img",
+          "label": "A member of Caf&eacute; staff at work by the window, looking out over the hillside",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/IMG_3570.jpg",
+          "kind": "img",
+          "label": "Caf&eacute; staff portioning snacks into glass cups behind the counter",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/20251025_044017421_iOS1.jpg",
+          "kind": "img",
+          "label": "A sourdough burger served with roasted potato wedges and a dip",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.kfbg.org/upload/Ivan/eat/20250706_033243318_iOS2.jpg",
+          "kind": "img",
+          "label": "Penne in tomato sauce with vegan meatballs, cherry tomatoes and fresh basil",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2483 7218",
+          "2483 7200"
+        ],
+        "hourSnippets": [
+          "Opening hours 9:00 AM &ndash; 4:30 PM Open daily"
+        ]
+      }
+    },
+    "https://www.twah.org.hk/en/ancillary-services/adventist-restaurant": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511432148050515969",
+      "venues": [
+        {
+          "slug": "adventist-restaurant-tsuen-wan",
+          "name": "Adventist Restaurant — Tsuen Wan",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-social-dp-fb.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-social-velvet-fb.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-social-dp-youtube.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-social-velvet-youtube.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-social-whatsapp.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-social-whatsapp-hover.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/resized/2557/160x160/IMG_4409-2.JPG",
+          "kind": "img",
+          "label": "IMG_4409",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/resized/2682/160x160/shutterstock_2265681939.jpg",
+          "kind": "img",
+          "label": "shutterstock_2265681939",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Centers",
+          "kind": "img",
+          "label": "Untitled Design (4)",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/resized/2559/1100x/Untitled",
+          "kind": "img",
+          "label": "Untitled Design1",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/JCI_Seal_Accredited_6in_RGB.2026",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.twah.org.hk/storage/media/Footer/footer-credit-internation_network_of_hphhs@2x.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "85222756688",
+          "85222756690",
+          "2275 6688",
+          "2275 6690",
+          "5400 7202"
+        ],
+        "hourSnippets": [
+          "monella strains is significantly reduced by 25 times on non-cage egg farms compared to cage farms",
+          "Opening Hours 6:30a"
+        ]
+      }
+    },
+    "https://www.eshop330.hk/pages/in-store-pickup": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511432170385207297",
+      "venues": [
+        {
+          "slug": "cafe330-kowloon-hospital",
+          "name": "cafe330 — Kowloon Hospital",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-kwong-wah-hospital",
+          "name": "cafe330 — Kwong Wah Hospital",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-caritas-medical-centre",
+          "name": "cafe330 — Caritas Medical Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-the-university-of-hong-kong",
+          "name": "cafe330 — The University of Hong Kong",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-the-chinese-university-of-hong-kong",
+          "name": "cafe330 — The Chinese University of Hong Kong",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-inno330-at-cuhk",
+          "name": "cafe330 — inno330 at CUHK",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-so330",
+          "name": "cafe330 — so330",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "cafe330-kwai-chung-hospital",
+          "name": "cafe330 — Kwai Chung Hospital",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/cafe330_KWH_-_copy.jpg?v=1709004407&width=580",
+          "kind": "img",
+          "label": "",
+          "width": 1023,
+          "height": 674,
+          "score": 62
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/2016-Caritas_Cafe330-12_1.jpg?v=1691748719&width=580",
+          "kind": "img",
+          "label": "",
+          "width": 900,
+          "height": 601,
+          "score": 62
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/inno330-1.jpg?v=1753342600&width=1240",
+          "kind": "img",
+          "label": "",
+          "width": 2253,
+          "height": 1200,
+          "score": 62
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/so330.jpg?v=1753329975&width=1240",
+          "kind": "img",
+          "label": "",
+          "width": 2870,
+          "height": 1542,
+          "score": 62
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/Gift330_PeanutBottle_1_1_800x@2x.jpg?v=1690617045",
+          "kind": "img",
+          "label": "",
+          "width": 800,
+          "height": 800,
+          "score": 44
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/KH_rehab_shop_photo.jpg?v=1753332460&width=580",
+          "kind": "img",
+          "label": "",
+          "width": 1000,
+          "height": 666,
+          "score": 44
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/KH_west_wing_shop_photo.jpg?v=1753332898&width=580",
+          "kind": "img",
+          "label": "",
+          "width": 1000,
+          "height": 666,
+          "score": 44
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/107_510173841.jpg?v=1691748504&width=580",
+          "kind": "img",
+          "label": "",
+          "width": 1200,
+          "height": 900,
+          "score": 44
+        },
+        {
+          "url": "https://www.eshop330.hk/cdn/shop/files/13719475_169990890085638_710217918982483037_o.jpg?v=1753343098&width=1240",
+          "kind": "img",
+          "label": "",
+          "width": 2253,
+          "height": 1200,
+          "score": 44
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2389 2286",
+          "2194 6115",
+          "2194 6992",
+          "2637 3112",
+          "2834 2991",
+          "2351 5611",
+          "2794 3778",
+          "2395 3818",
+          "2393 0426"
+        ],
+        "hourSnippets": [
+          "Wedding Gifts Baby Gifts Birthday Gifts Housewarming Gifts Graduation Gifts HK Souvenirs Corporate Gifts Social Giving 1+1 Gift Voucher Organic/Healthy Food Organic/Healthy Food Grocery Snack & Biscuits Beverage Vegetarian",
+          "Wedding Gifts Baby Gifts Birthday Gifts Housewarming Gifts Graduation Gifts HK Souvenirs Corporate Gifts Social Giving 1+1 Gift Voucher Organic/Healthy Food Grocery Snack & Biscuits Beverage Vegetarian Chilled/Frozen Organi",
+          "Opening Hours: 8:00am - 8:30pm (Daily) Tel: 2194 6115 View Google Map New Life Convenience Store - West Wing Kowloon Hospital G/F, West Wing, Kowloon Hospital, 147A Argyle Street, Kowloon Opening Hours: 8:00am - 8:30pm (Daily) Tel: 2",
+          "Opening Hours: 7:00am - 8:00pm (Daily) Tel: 2637 3112 View Google Map cafe330 - Kwong Wah Hospital Portion of G/F, Kwong Wah Hospital, 25 Waterloo Road, Yau Ma Tei, Kowloon Opening Hours: 7:00am – 8:30pm (Mon-Sat) Close on Sunday & P",
+          "Opening Hours: 7:30am - 8:30pm (Daily) Tel: 2351 5611 View Google Map cafe330 - The University of Hong Kong Room 203, 2/F",
+          "Opening Hours: 7:30am – 8:30pm (Mon-Fri) 10:00am – 6:00pm (Sat & Public Holiday) Close on Sunday Tel: 2794 3778 View Google Map inno330 - The Chinese University of Hong Kong Unit B, LG/F, InnoPort, the Chinese University of Hong Kong",
+          "Opening Hours: 8:00am – 8:00pm (Mon-Fri) 8:00am – 6:00pm (Sat, Sun & Public Holiday) Tel: 2395 3818 View Google Map so330 Shop A-C, G/F, Tai Yuen Court, 38 Tai Yuen Street, Wan Chai, HK Opening Hours: 7:30am – 6:30pm (Mon-Fri) 10:00a",
+          "Sat, Sun & Public Holiday) Tel: 2393 0426 View Google Map eshop330 BUSINESS HOURS Online Orders Handling: Monday - Friday (Sat, Sun & Public Holidays Off) 9:00am - 1:00 pm; 2:00 pm- 5:30pm CONTACT US Email: eshop330@nlpra"
+        ]
+      }
+    },
+    "https://www.allnood.com/locations": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511432185082072065",
+      "venues": [
+        {
+          "slug": "nood-food-asia-standard-tower",
+          "name": "NOOD Food — Asia Standard Tower",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-world-trade-centre",
+          "name": "NOOD Food — World Trade Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-pccw-tower",
+          "name": "NOOD Food — PCCW Tower",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-icbc-tower",
+          "name": "NOOD Food — ICBC Tower",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-kinwick-centre",
+          "name": "NOOD Food — Kinwick Centre",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-starstreet-precinct",
+          "name": "NOOD Food — Starstreet Precinct",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-pacific-place",
+          "name": "NOOD Food — Pacific Place",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-lee-theatre-plaza",
+          "name": "NOOD Food — Lee Theatre Plaza",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-ifc-mall",
+          "name": "NOOD Food — ifc mall",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-langham-place",
+          "name": "NOOD Food — Langham Place",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-one-hennessy",
+          "name": "NOOD Food — One Hennessy",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-manulife-place",
+          "name": "NOOD Food — Manulife Place",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-k11-musea",
+          "name": "NOOD Food — K11 MUSEA",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        },
+        {
+          "slug": "nood-food-re-set-by-pure",
+          "name": "NOOD Food — Re:set by PURE",
+          "needsImages": true,
+          "needsPhone": false,
+          "needsHours": false
+        }
+      ],
+      "images": [],
+      "contacts": {
+        "phones": [],
         "hourSnippets": []
       }
     }

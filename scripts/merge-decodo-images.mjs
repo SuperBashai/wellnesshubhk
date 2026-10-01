@@ -73,6 +73,41 @@ const golfSelectionsBySlug = {
   "hong-kong-golf-and-tennis-academy": ["https://www.hkgta.com/", [5, 4]],
 };
 
+// Healthy-dining pages often share one operator URL. These reviewed selections keep
+// branch-specific storefronts with their own venue while reusing food photography
+// only when the official site does not publish a separate branch gallery.
+const healthyDiningSelectionsBySlug = {
+  "pickabowl-d2-place": ["https://www.pickabowl.com.hk/en/location", [0]],
+  "pickabowl-citywalk-2": ["https://www.pickabowl.com.hk/en/location", [1]],
+  "pickabowl-kings-wing-plaza-2": ["https://www.pickabowl.com.hk/en/location", [2]],
+  "pickabowl-airside": ["https://www.pickabowl.com.hk/en/location", [3]],
+  "pokeworld-sheung-wan": ["https://www.pokeworldhk.com/", [3, 4, 7]],
+  "pokeworld-kwun-tong": ["https://www.pokeworldhk.com/", [3, 5, 8]],
+  "heybo-dorset-house": ["https://heybo.hk/locations/", [2, 1]],
+  "heybo-jardine-house": ["https://heybo.hk/locations/", [3, 1]],
+  "ovo-cafe-wan-chai": ["https://ovo.com.hk/pages/contact", [0, 3]],
+  "ovo-cafe-horizon-plaza": ["https://ovo.com.hk/pages/contact", [1, 3]],
+  "ovo-cafe-the-peninsula": ["https://ovo.com.hk/pages/contact", [2, 3]],
+  "lockcha-tea-house-hong-kong-park": ["https://www.lockcha.com/locations/", [1]],
+  "south-lane-shek-tong-tsui": ["https://www.southlane.co/", [1, 4, 10]],
+  "south-lane-at-blueprint": ["https://www.southlane.co/quarry-bay", [1, 4, 5]],
+  "eat-well-cafe-at-kadoorie-farm": ["https://www.kfbg.org/en/attractions/Eat-Well-Cafe/", [1, 7, 8]],
+  "cafe330-kowloon-hospital": ["https://www.eshop330.hk/pages/in-store-pickup", [5, 6]],
+  "cafe330-kwong-wah-hospital": ["https://www.eshop330.hk/pages/in-store-pickup", [0]],
+  "cafe330-caritas-medical-centre": ["https://www.eshop330.hk/pages/in-store-pickup", [1]],
+  "cafe330-the-university-of-hong-kong": ["https://www.eshop330.hk/pages/in-store-pickup", [7]],
+  "cafe330-the-chinese-university-of-hong-kong": ["https://www.eshop330.hk/pages/in-store-pickup", [8]],
+  "cafe330-inno330-at-cuhk": ["https://www.eshop330.hk/pages/in-store-pickup", [2]],
+  "cafe330-so330": ["https://www.eshop330.hk/pages/in-store-pickup", [3]],
+};
+
+const noodOfficialPhotos = [
+  "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
+  "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
+  "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19104450/KIN-nood.jpg",
+];
+const noodPhotoSource = "https://www.pure-360.com.hk/en/happenings/nood_food_delectable_2-dish_rice/";
+
 let added = 0;
 for (const slug of [
   "go24-fitness-kennedy-town",
@@ -130,6 +165,36 @@ for (const [slug, [source, indices]] of Object.entries(golfSelectionsBySlug)) {
       en: item.label ? `${venue.name} — ${item.label.replace(/<[^>]+>/g, "").slice(0, 110)}` : `${venue.name} — official venue image`,
       "zh-hk": `${venue.name} — 官方場地圖片`,
     },
+  }));
+  added += 1;
+}
+
+for (const [slug, [source, indices]] of Object.entries(healthyDiningSelectionsBySlug)) {
+  const scraped = enrichment.sources[source];
+  if (!scraped?.ok) continue;
+  const venue = scraped.venues.find((entry) => entry.slug === slug);
+  const selected = indices.map((index) => scraped.images[index]).filter(Boolean);
+  if (!venue || !selected.length || galleries[slug]?.length) continue;
+  const credit = venue.name.split(" — ")[0];
+  galleries[slug] = selected.map((item) => ({
+    url: item.url.replaceAll("\\u0026", "&").replace(/^http:/, "https:"),
+    source,
+    credit,
+    alt: {
+      en: item.label ? `${venue.name} — ${item.label.replace(/<[^>]+>/g, "").slice(0, 110)}` : `${venue.name} — official venue image`,
+      "zh-hk": `${venue.name} — 官方場地圖片`,
+    },
+  }));
+  added += 1;
+}
+
+for (const venue of enrichment.sources["https://www.allnood.com/locations"]?.venues ?? []) {
+  if (!venue.slug.startsWith("nood-food-") || galleries[venue.slug]?.length) continue;
+  galleries[venue.slug] = noodOfficialPhotos.map((url) => ({
+    url,
+    source: noodPhotoSource,
+    credit: "NOOD Food / PURE",
+    alt: { en: `${venue.name} — official food image`, "zh-hk": `${venue.name} — 官方餐飲圖片` },
   }));
   added += 1;
 }

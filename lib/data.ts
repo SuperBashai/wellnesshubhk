@@ -8,6 +8,7 @@ import { venueUpdatesSeptember2026 } from "@/lib/venue-updates-2026-09";
 import { hyroxListings } from "@/lib/hyrox-listings";
 import { pilatesYogaListings } from "@/lib/pilates-yoga-listings";
 import { golfListings } from "@/lib/golf-listings";
+import { healthyDiningListings } from "@/lib/healthy-dining-listings";
 import type { SportId } from "./sports";
 
 export type Locale = "en" | "zh-hk";
@@ -162,6 +163,7 @@ export const listings: Listing[] = [
   ...hyroxListings,
   ...pilatesYogaListings,
   ...golfListings,
+  ...healthyDiningListings,
   ...(lcsdSportsCentres as Listing[]),
 ].filter((listing, index, all) =>
   all.findIndex((candidate) => listingName(candidate, "en") === listingName(listing, "en")) === index,
