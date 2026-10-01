@@ -1,5 +1,6 @@
 import type { LocalText } from "./data";
 import { editorialFieldNotes, editorialLongform } from "./editorial-longform";
+import { newEditorials } from "./editorials-new";
 
 export type Editorial = {
   slug: string;
@@ -25,10 +26,10 @@ const shortEditorials: Editorial[] = [
     number: "01",
     format: { en: "Feature", "zh-hk": "專題" },
     category: { en: "City life", "zh-hk": "城市生活" },
-    title: { en: "Convenience is the real wellness luxury.", "zh-hk": "方便，先係真正嘅健康生活奢侈品。" },
+    title: { en: "The kindest routine is usually the closest one.", "zh-hk": "最體貼自己嘅習慣，通常就喺附近。" },
     deck: {
-      en: "The best routine is rarely the most impressive one. It is the one close enough to survive a rainy Tuesday and a late meeting.",
-      "zh-hk": "最好嘅習慣通常唔係最矚目嗰個，而係落雨星期二、開會超時之後，仍然方便做到嗰個。",
+      en: "The routine that stays with us is rarely the most impressive one. It is the one close enough for a rainy Tuesday and gentle enough for a tired evening.",
+      "zh-hk": "真正陪得我哋耐嘅習慣，通常唔係最矚目嗰個，而係落雨星期二、攰攰哋嘅晚上，仍然去得到嗰個。",
     },
     date: { en: "21 September 2026", "zh-hk": "2026年9月21日" },
     readTime: { en: "12 min read", "zh-hk": "閱讀約12分鐘" },
@@ -56,11 +57,13 @@ const shortEditorials: Editorial[] = [
     number: "02",
     format: { en: "Opinion", "zh-hk": "觀點" },
     category: { en: "Movement", "zh-hk": "運動" },
-    title: { en: "Hong Kong does not need more punishing workouts.", "zh-hk": "香港唔需要更多懲罰式運動。" },
-    deck: { en: "Movement should give something back. Exhaustion is not the only proof that exercise counted.", "zh-hk": "運動應該令你有所得着。筋疲力盡，唔係證明運動有效嘅唯一方法。" },
+    title: { en: "Movement can leave something in the tank.", "zh-hk": "做完運動，都可以留返少少力畀生活。" },
+    deck: { en: "Exercise can challenge us and still give something back. Some days, leaving with more energy is the whole point.", "zh-hk": "運動可以有挑戰，亦可以畀返啲嘢我哋。有啲日子，離開時多咗精神，就已經係全部意義。" },
     date: { en: "14 September 2026", "zh-hk": "2026年9月14日" },
     readTime: { en: "11 min read", "zh-hk": "閱讀約11分鐘" },
     accent: "blue",
+    coverImage: "/editorial-joyful-movement.jpg",
+    coverAlt: { en: "Two friends laughing between games of badminton in a Hong Kong sports hall", "zh-hk": "兩位朋友喺香港體育館打羽毛球期間輕鬆笑談" },
     sections: [
       {
         paragraphs: [
@@ -81,11 +84,13 @@ const shortEditorials: Editorial[] = [
     number: "03",
     format: { en: "Review", "zh-hk": "評評" },
     category: { en: "Recovery", "zh-hk": "恢復" },
-    title: { en: "Cold-plunge culture, reviewed.", "zh-hk": "冰浴文化，值得點評。" },
-    deck: { en: "The ritual can feel brilliant. The performance around it is less convincing. Our verdict on Hong Kong’s cold-plunge moment.", "zh-hk": "個儀式可以好正，圍繞住佢嘅表演就未必。點睇香港而家嘅冰浴熱潮。" },
+    title: { en: "What we hope to feel after a cold plunge.", "zh-hk": "冰浴之後，我哋其實想感受到啲咩？" },
+    deck: { en: "The ritual can feel bright and clarifying. It becomes more useful when we set down the performance and listen to our own response.", "zh-hk": "個儀式可以令人醒神而清晰。放低表演，聽返自己身體反應，先更有意思。" },
     date: { en: "7 September 2026", "zh-hk": "2026年9月7日" },
     readTime: { en: "12 min read", "zh-hk": "閱讀約12分鐘" },
     accent: "blue",
+    coverImage: "/editorial-cold-plunge.jpg",
+    coverAlt: { en: "A relaxed moment beside a cold plunge overlooking Hong Kong", "zh-hk": "在香港城市景色旁冰浴後放鬆片刻" },
     sections: [
       {
         paragraphs: [
@@ -111,6 +116,8 @@ const shortEditorials: Editorial[] = [
     date: { en: "31 August 2026", "zh-hk": "2026年8月31日" },
     readTime: { en: "11 min read", "zh-hk": "閱讀約11分鐘" },
     accent: "clay",
+    coverImage: "/editorial-hong-kong-table.jpg",
+    coverAlt: { en: "Friends sharing a nourishing Hong Kong meal around a wooden table", "zh-hk": "朋友圍坐木枱分享一頓有香港味道嘅滋養飯菜" },
     sections: [
       {
         paragraphs: [
@@ -131,11 +138,13 @@ const shortEditorials: Editorial[] = [
     number: "05",
     format: { en: "Feature", "zh-hk": "專題" },
     category: { en: "The city", "zh-hk": "城市" },
-    title: { en: "Public sports centres are wellness infrastructure.", "zh-hk": "公共體育館，就係健康生活基建。" },
-    deck: { en: "Wellbeing is not only built in boutique studios. It is built in affordable courts, pools and rooms people can reach.", "zh-hk": "健康唔只喺精品工作室建立，亦喺人人去得到、負擔得起嘅球場、泳池同活動室建立。" },
+    title: { en: "The places already helping Hong Kong move.", "zh-hk": "一直陪住香港郁動嘅地方。" },
+    deck: { en: "Wellbeing also grows in familiar courts, pools and activity rooms—the affordable places woven quietly into neighbourhood life.", "zh-hk": "健康亦喺熟悉嘅球場、泳池同活動室生長。呢啲負擔得到嘅地方，一直靜靜織入社區生活。" },
     date: { en: "24 August 2026", "zh-hk": "2026年8月24日" },
     readTime: { en: "12 min read", "zh-hk": "閱讀約12分鐘" },
     accent: "jade",
+    coverImage: "/editorial-public-pool.jpg",
+    coverAlt: { en: "Families arriving at a Hong Kong public pool and sports centre at dusk", "zh-hk": "黃昏時分到達香港公共泳池及體育館嘅家庭" },
     sections: [
       {
         paragraphs: [
@@ -161,6 +170,8 @@ const shortEditorials: Editorial[] = [
     date: { en: "17 August 2026", "zh-hk": "2026年8月17日" },
     readTime: { en: "10 min read", "zh-hk": "閱讀約10分鐘" },
     accent: "clay",
+    coverImage: "/editorial-rest-rainy-day.jpg",
+    coverAlt: { en: "A quiet rainy afternoon at home overlooking Hong Kong", "zh-hk": "在家望住雨中香港嘅安靜午後" },
     sections: [
       {
         paragraphs: [
@@ -178,7 +189,7 @@ const shortEditorials: Editorial[] = [
   },
 ];
 
-export const editorials: Editorial[] = shortEditorials.map((article) => ({
+export const editorials: Editorial[] = [...shortEditorials, ...newEditorials].map((article) => ({
   ...article,
   sections: [...article.sections, ...(editorialLongform[article.slug] ?? []), ...(editorialFieldNotes[article.slug] ?? [])],
 }));
