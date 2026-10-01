@@ -32,5 +32,5 @@ export const metadata: Metadata = {
 
 export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   const locale = (await headers()).get("x-wellness-locale") ?? "en";
-  return <html lang={locale}><body>{children}</body></html>;
+  return <html lang={locale} data-scroll-behavior="smooth"><body>{children}</body></html>;
 }
