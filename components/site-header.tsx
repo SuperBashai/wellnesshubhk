@@ -10,7 +10,7 @@ export function SiteHeader({ locale, page = "home", alternatePath }: { locale: L
   const otherLocale = locale === "en" ? "zh-hk" : "en";
   const suffix = alternatePath ?? (page === "guide" ? "/editorial" : "");
   const categoryItems = [
-    { href: `/${locale}/places`, label: locale === "en" ? "All categories" : "全部分類", description: locale === "en" ? "Browse the complete directory" : "瀏覽完整場地目錄" },
+    { href: `/${locale}/places`, label: locale === "en" ? "All activities" : "全部活動", description: locale === "en" ? "Browse the complete directory" : "瀏覽完整場地目錄" },
     ...categories.map((item) => ({ href: `/${locale}/places?category=${item.id}`, label: item.label[locale], description: item.detail[locale] })),
   ];
   const areaItems = [
@@ -27,7 +27,7 @@ export function SiteHeader({ locale, page = "home", alternatePath }: { locale: L
         </Link>
         <nav className="primary-nav" aria-label={locale === "en" ? "Primary navigation" : "主要導覽"}>
           <Link href={`/${locale}#discover`}>{t.navDiscover}</Link>
-          <HeaderDropdown label={locale === "en" ? "Categories" : "分類"} ariaLabel={locale === "en" ? "Browse by category" : "按分類瀏覽"} items={categoryItems} />
+          <HeaderDropdown label={locale === "en" ? "Activities" : "活動"} ariaLabel={locale === "en" ? "Browse by activity" : "按活動瀏覽"} items={categoryItems} />
           <HeaderDropdown label={locale === "en" ? "Areas" : "地區"} ariaLabel={locale === "en" ? "Browse by area" : "按地區瀏覽"} items={areaItems} />
           <Link href={`/${locale}/editorial`}>{t.navGuide}</Link>
         </nav>

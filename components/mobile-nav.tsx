@@ -13,7 +13,7 @@ export function MobileNav({ locale, labels }: { locale: Locale; labels: { discov
         <Link href={`/${locale}/editorial`}>{labels.guide}</Link>
       </div>
       <div className="mobile-nav-group">
-        <strong>{locale === "en" ? "Categories" : "分類"}</strong>
+        <strong>{locale === "en" ? "Activities" : "活動"}</strong>
         {categories.map((item) => <Link key={item.id} href={`/${locale}/places?category=${item.id}`}>{item.label[locale]}</Link>)}
       </div>
       <div className="mobile-nav-group">
