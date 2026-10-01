@@ -36,7 +36,7 @@ The current review experience is a front-end prototype. Reviews and attached ima
 
 ## Venue photography
 
-`data/venue-images.json` maps venue slugs to official-source photo URLs, bilingual alt text and credits. The gallery keeps original remote hosting, supports keyboard-accessible photo selection, and skips images that fail to load. `data/image-coverage.json` lists the venues still needing confirmed photography. Finding an image on an official website does not establish reuse permission; permission status is recorded as unconfirmed.
+`data/venue-images.json` maps venue slugs to official-source photo URLs, bilingual alt text and credits. The gallery keeps original remote hosting, supports keyboard-accessible photo selection, and skips images that fail to load. When no verified venue photograph is available—or every remote image fails—the UI uses clearly labelled, local category artwork from `public/venue-fallbacks/`; it is never presented as venue photography. `data/image-coverage.json` separates official-photo coverage from fallback-artwork coverage. Finding an image on an official website does not establish reuse permission; permission status is recorded as unconfirmed.
 
 Research utilities: `scripts/find-venue-images.mjs` extracts LCSD galleries and collects private-source candidates; `scripts/review-venue-images.mjs` makes a temporary visual review sheet; `scripts/select-venue-images.mjs` applies reviewed private selections and branch-specific PURE photos. Run `scripts/check-venue-images.mjs` to check cover-image URLs and `scripts/image-coverage.mjs` to refresh the coverage report. Candidate files are research records and are not imported into the public site.
 - English and Cantonese wellness guide

@@ -10,6 +10,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { VenueThumbnail } from "@/components/venue-thumbnail";
 import { listingCategories } from "@/lib/listing-categories";
 import { sports, listingSports, type SportId } from "@/lib/sports";
+import { venueFallbacks } from "@/lib/venue-fallbacks";
 
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
 
@@ -142,7 +143,7 @@ export function VenueDirectory({ locale, covers, initialCategory, initialTerrito
             const Icon = categoryIcons[listing.category];
             const name = listingName(listing, locale);
             return <article className="listing-row" key={listingName(listing, "en")}>
-              <div className={`listing-icon icon-${listing.category}`}><VenueThumbnail src={covers[listingSlug(listing)]} fallback={<Icon size={32} strokeWidth={1.5} />} /></div>
+              <div className={`listing-icon icon-${listing.category}`}><VenueThumbnail src={covers[listingSlug(listing)]} fallbackSrc={venueFallbacks[listing.category]} fallback={<Icon size={32} strokeWidth={1.5} />} /></div>
               <div className="listing-main">
                 <div className="listing-meta"><span>{listing.area[locale]}</span><i /><span>{listingCategories(listing).map((id) => categories.find((item) => item.id === id)?.label[locale]).join(" · ")}</span></div>
                 <h3><Link href={`/${locale}/venues/${listingSlug(listing)}`}>{name}</Link></h3><p>{listing.description[locale]}</p>

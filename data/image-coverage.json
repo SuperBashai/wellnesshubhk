@@ -1,8 +1,10 @@
 {
   "venues": 315,
-  "withPhotos": 265,
-  "photographs": 651,
-  "missing": [
+  "visualCoverage": 315,
+  "withOfficialPhotos": 273,
+  "withCategoryArtwork": 42,
+  "photographs": 671,
+  "missingOfficialPhotos": [
     {
       "name": "SpiceBox Organics — Kennedy Town",
       "slug": "spicebox-organics-kennedy-town",
@@ -19,16 +21,6 @@
       "source": "https://thesaunarituals.com/"
     },
     {
-      "name": "ONYX Admiralty",
-      "slug": "onyx-admiralty",
-      "source": "https://www.go24fitness.com/en/look-inside/onyx-admiralty"
-    },
-    {
-      "name": "GO24 Fitness — Kennedy Town",
-      "slug": "go24-fitness-kennedy-town",
-      "source": "https://www.go24fitness.com/en/recovery"
-    },
-    {
       "name": "Re:set by PURE — Lee Theatre Plaza",
       "slug": "re-set-by-pure-lee-theatre-plaza",
       "source": "https://www.pure-360.com.hk/en/contact-us/"
@@ -37,11 +29,6 @@
       "name": "Re:set by PURE — LKF",
       "slug": "re-set-by-pure-lkf",
       "source": "https://www.pure-360.com.hk/en/contact-us/"
-    },
-    {
-      "name": "VEDA",
-      "slug": "veda",
-      "source": "https://www.ovolohotels.com/ovolo/central/veda/"
     },
     {
       "name": "Slowood — Kennedy Town",
@@ -87,11 +74,6 @@
       "name": "Bay Pickle — MCP Discovery",
       "slug": "bay-pickle-mcp-discovery",
       "source": "https://www.metrocityplaza.com/en/discovery/shopping"
-    },
-    {
-      "name": "Yama Pickleball Arena",
-      "slug": "yama-pickleball-arena",
-      "source": "https://yama-pickleball.com/"
     },
     {
       "name": "Hong Kong Football Club",
@@ -149,21 +131,6 @@
       "source": "https://www.ursusfitness.com/hyrox-training-club"
     },
     {
-      "name": "O:RIN — Central",
-      "slug": "o-rin-central",
-      "source": "https://www.orin.com.hk/pilates/"
-    },
-    {
-      "name": "O:RIN — Quarry Bay",
-      "slug": "o-rin-quarry-bay",
-      "source": "https://www.orin.com.hk/pilates/"
-    },
-    {
-      "name": "O:RIN — Tsim Sha Tsui",
-      "slug": "o-rin-tsim-sha-tsui",
-      "source": "https://www.orin.com.hk/pilates/"
-    },
-    {
       "name": "Be Earth — Central",
       "slug": "be-earth-central",
       "source": "https://www.beearth.com.hk/studio/central"
@@ -214,11 +181,6 @@
       "source": "https://www.twah.org.hk/en/ancillary-services/adventist-restaurant"
     },
     {
-      "name": "cafe330 — Kwai Chung Hospital",
-      "slug": "cafe330-kwai-chung-hospital",
-      "source": "https://www.eshop330.hk/pages/in-store-pickup"
-    },
-    {
       "name": "Hong Kong Park Sports Centre",
       "slug": "hong-kong-park-sports-centre",
       "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
@@ -254,5 +216,5 @@
       "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
     }
   ],
-  "rightsStatus": "Official source attribution recorded. Reuse permission has not been confirmed."
+  "rightsStatus": "Official source attribution recorded. Reuse permission has not been confirmed. Category artwork is clearly labelled and is not presented as venue photography."
 }

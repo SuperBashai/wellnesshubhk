@@ -5567,64 +5567,6 @@
       }
     }
   ],
-  "212hk": [
-    {
-      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
-      "source": "https://212hk.com/about-us/",
-      "credit": "212HK",
-      "alt": {
-        "en": "212HK — Facilities",
-        "zh-hk": "212HK — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities3-scaled.jpg",
-      "source": "https://212hk.com/about-us/",
-      "credit": "212HK",
-      "alt": {
-        "en": "212HK — Facilities(3)",
-        "zh-hk": "212HK — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://212hk.com/wp-content/uploads/2026/04/Banner-2-scaled.jpg",
-      "source": "https://212hk.com/about-us/",
-      "credit": "212HK",
-      "alt": {
-        "en": "212HK — Banner",
-        "zh-hk": "212HK — 官方網站圖片"
-      }
-    }
-  ],
-  "pickle-city": [
-    {
-      "url": "https://mkapi.nexposhk.com/picklecity/api/v3c/general/cl_view_upload.php?type=home_banner&file=home_banner_6a55e7c84f8e0_1784014792.png",
-      "source": "https://linktr.ee/picklecityhk",
-      "credit": "Pickle City",
-      "alt": {
-        "en": "Pickle City — image from the official website",
-        "zh-hk": "Pickle City — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://linktr.ee/og/image/picklecityhk.jpg",
-      "source": "https://linktr.ee/picklecityhk",
-      "credit": "Pickle City",
-      "alt": {
-        "en": "Pickle City — image from the official website",
-        "zh-hk": "Pickle City — 官方網站圖片"
-      }
-    },
-    {
-      "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4&oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg&oe=6A8180C2&_nc_sid=5e03e0&_nc_cat=104",
-      "source": "https://linktr.ee/picklecityhk",
-      "credit": "Pickle City",
-      "alt": {
-        "en": "Pickle City — image from the official website",
-        "zh-hk": "Pickle City — 官方網站圖片"
-      }
-    }
-  ],
   "pickabowl-d2-place": [
     {
       "url": "https://framerusercontent.com/images/qJypDYbWClOVhMPCGxLDBgxlgM.jpg?width=500&height=628",
@@ -6414,6 +6356,260 @@
       "alt": {
         "en": "NOOD Food — Re:set by PURE — official food image",
         "zh-hk": "NOOD Food — Re:set by PURE — 官方餐飲圖片"
+      }
+    }
+  ],
+  "veda": [
+    {
+      "url": "https://veda.hk/cdn/shop/files/Untitled_design_15.png?height=628&pad_color=ffffff&v=1715848868&width=1200",
+      "source": "https://www.ovolohotels.com/ovolo/central/veda/",
+      "credit": "VEDA",
+      "alt": {
+        "en": "VEDA — image from the official website",
+        "zh-hk": "VEDA — 官方網站圖片"
+      }
+    }
+  ],
+  "cafe330-kwai-chung-hospital": [
+    {
+      "url": "https://www.eshop330.hk/cdn/shop/files/cafe330_KWH_-_copy.jpg?v=1709004407&width=580",
+      "source": "https://www.eshop330.hk/pages/in-store-pickup",
+      "credit": "cafe330",
+      "alt": {
+        "en": "cafe330 — Kwai Chung Hospital — image from the official website",
+        "zh-hk": "cafe330 — Kwai Chung Hospital — 官方網站圖片"
+      }
+    }
+  ],
+  "212hk": [
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Facilities",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities3-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Facilities(3)",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://212hk.com/wp-content/uploads/2026/04/Banner-2-scaled.jpg",
+      "source": "https://212hk.com/about-us/",
+      "credit": "212HK",
+      "alt": {
+        "en": "212HK — Banner",
+        "zh-hk": "212HK — 官方網站圖片"
+      }
+    }
+  ],
+  "pickle-city": [
+    {
+      "url": "https://mkapi.nexposhk.com/picklecity/api/v3c/general/cl_view_upload.php?type=home_banner&file=home_banner_6a55e7c84f8e0_1784014792.png",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://linktr.ee/og/image/picklecityhk.jpg",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4&oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg&oe=6A8180C2&_nc_sid=5e03e0&_nc_cat=104",
+      "source": "https://linktr.ee/picklecityhk",
+      "credit": "Pickle City",
+      "alt": {
+        "en": "Pickle City — image from the official website",
+        "zh-hk": "Pickle City — 官方網站圖片"
+      }
+    }
+  ],
+  "onyx-admiralty": [
+    {
+      "url": "https://www.go24fitness.com/storage/app/media/ONYX%20Admiralty/DSC08497.jpg",
+      "source": "https://www.go24fitness.com/en/look-inside/onyx-admiralty",
+      "credit": "ONYX Admiralty",
+      "alt": {
+        "en": "ONYX Admiralty — ONYX Admiralty group reformer pilates",
+        "zh-hk": "ONYX Admiralty — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.go24fitness.com/storage/app/media/ONYX%20Admiralty/DSC08490.jpg",
+      "source": "https://www.go24fitness.com/en/look-inside/onyx-admiralty",
+      "credit": "ONYX Admiralty",
+      "alt": {
+        "en": "ONYX Admiralty — ONYX Admiralty powerlifting weightlifting platform barbell",
+        "zh-hk": "ONYX Admiralty — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.go24fitness.com/storage/app/media/gympics/ADM/11a0ef62-41c0-46d5-a86a-e307c1dae933.jpg",
+      "source": "https://www.go24fitness.com/en/look-inside/onyx-admiralty",
+      "credit": "ONYX Admiralty",
+      "alt": {
+        "en": "ONYX Admiralty — ONYX Admiralty recovery hub, infrared sauna, cold plunge",
+        "zh-hk": "ONYX Admiralty — 官方網站圖片"
+      }
+    }
+  ],
+  "go24-fitness-kennedy-town": [
+    {
+      "url": "https://www.go24fitness.com/storage/app/uploads/public/4d4/bd4/14a/thumb__600_350_0_0_crop.jpg",
+      "source": "https://www.go24fitness.com/en/recovery",
+      "credit": "GO24 Fitness",
+      "alt": {
+        "en": "GO24 Fitness — Kennedy Town — image from the official website",
+        "zh-hk": "GO24 Fitness — Kennedy Town — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.go24fitness.com/storage/app/uploads/public/874/e88/ec8/thumb__400_0_0_0_auto.jpg",
+      "source": "https://www.go24fitness.com/en/recovery",
+      "credit": "GO24 Fitness",
+      "alt": {
+        "en": "GO24 Fitness — Kennedy Town — image from the official website",
+        "zh-hk": "GO24 Fitness — Kennedy Town — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.go24fitness.com/storage/app/uploads/public/596/bfb/d05/thumb__400_0_0_0_auto.jpg",
+      "source": "https://www.go24fitness.com/en/recovery",
+      "credit": "GO24 Fitness",
+      "alt": {
+        "en": "GO24 Fitness — Kennedy Town — image from the official website",
+        "zh-hk": "GO24 Fitness — Kennedy Town — 官方網站圖片"
+      }
+    }
+  ],
+  "yama-pickleball-arena": [
+    {
+      "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/1-600x480.png",
+      "source": "https://yama-pickleball.com/",
+      "credit": "Yama Pickleball Arena",
+      "alt": {
+        "en": "Yama Pickleball Arena — 1",
+        "zh-hk": "Yama Pickleball Arena — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/2-600x480.png",
+      "source": "https://yama-pickleball.com/",
+      "credit": "Yama Pickleball Arena",
+      "alt": {
+        "en": "Yama Pickleball Arena — 2",
+        "zh-hk": "Yama Pickleball Arena — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://yama-pickleball.com/wp-content/uploads/2026/02/3-600x480.png",
+      "source": "https://yama-pickleball.com/",
+      "credit": "Yama Pickleball Arena",
+      "alt": {
+        "en": "Yama Pickleball Arena — 3",
+        "zh-hk": "Yama Pickleball Arena — 官方網站圖片"
+      }
+    }
+  ],
+  "o-rin-central": [
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-scaled.webp",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Central — Pilates studios 普拉提",
+        "zh-hk": "O:RIN — Central — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-900x458.webp",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Central — Pilates studios 普拉提",
+        "zh-hk": "O:RIN — Central — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2024/05/ORIN-Website-Banner.png",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Central — O:RIN",
+        "zh-hk": "O:RIN — Central — 官方網站圖片"
+      }
+    }
+  ],
+  "o-rin-quarry-bay": [
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-scaled.webp",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Quarry Bay — Pilates studios 普拉提",
+        "zh-hk": "O:RIN — Quarry Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-900x458.webp",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Quarry Bay — Pilates studios 普拉提",
+        "zh-hk": "O:RIN — Quarry Bay — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2024/05/ORIN-Website-Banner.png",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Quarry Bay — O:RIN",
+        "zh-hk": "O:RIN — Quarry Bay — 官方網站圖片"
+      }
+    }
+  ],
+  "o-rin-tsim-sha-tsui": [
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-scaled.webp",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Tsim Sha Tsui — Pilates studios 普拉提",
+        "zh-hk": "O:RIN — Tsim Sha Tsui — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2022/07/Pilates-Banner-900x458.webp",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Tsim Sha Tsui — Pilates studios 普拉提",
+        "zh-hk": "O:RIN — Tsim Sha Tsui — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://www.orin.com.hk/wp-content/uploads/2024/05/ORIN-Website-Banner.png",
+      "source": "https://www.orin.com.hk/pilates/",
+      "credit": "O:RIN",
+      "alt": {
+        "en": "O:RIN — Tsim Sha Tsui — O:RIN",
+        "zh-hk": "O:RIN — Tsim Sha Tsui — 官方網站圖片"
       }
     }
   ]

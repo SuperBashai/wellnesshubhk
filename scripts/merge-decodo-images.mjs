@@ -101,6 +101,19 @@ const healthyDiningSelectionsBySlug = {
   "cafe330-so330": ["https://www.eshop330.hk/pages/in-store-pickup", [3]],
 };
 
+// Additional official-source galleries recovered during the full missing-image
+// audit. Each selection was checked to exclude logos, icons and unrelated art.
+const recoveredSelectionsBySlug = {
+  "onyx-admiralty": ["https://www.go24fitness.com/en/look-inside/onyx-admiralty", [1, 2, 4]],
+  "go24-fitness-kennedy-town": ["https://www.go24fitness.com/en/recovery", [0, 2, 3]],
+  "veda": ["https://www.ovolohotels.com/ovolo/central/veda/", [1]],
+  "yama-pickleball-arena": ["https://yama-pickleball.com/", [1, 2, 3]],
+  "o-rin-central": ["https://www.orin.com.hk/pilates/", [0, 3, 4]],
+  "o-rin-quarry-bay": ["https://www.orin.com.hk/pilates/", [0, 3, 4]],
+  "o-rin-tsim-sha-tsui": ["https://www.orin.com.hk/pilates/", [0, 3, 4]],
+  "cafe330-kwai-chung-hospital": ["https://www.eshop330.hk/pages/in-store-pickup", [0]],
+};
+
 const noodOfficialPhotos = [
   "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19093755/page-banner-6.jpg",
   "https://assets.pure-360.com.hk/wp-content/uploads/2025/11/19113537/banner_742x507.jpg",
@@ -183,6 +196,25 @@ for (const [slug, [source, indices]] of Object.entries(healthyDiningSelectionsBy
     alt: {
       en: item.label ? `${venue.name} — ${item.label.replace(/<[^>]+>/g, "").slice(0, 110)}` : `${venue.name} — official venue image`,
       "zh-hk": `${venue.name} — 官方場地圖片`,
+    },
+  }));
+  added += 1;
+}
+
+for (const [slug, [source, indices]] of Object.entries(recoveredSelectionsBySlug)) {
+  const scraped = enrichment.sources[source];
+  if (!scraped?.ok) continue;
+  const venue = scraped.venues.find((entry) => entry.slug === slug);
+  const selected = indices.map((index) => scraped.images[index]).filter(Boolean);
+  if (!venue || !selected.length || galleries[slug]?.length) continue;
+  const credit = venue.name.split(" — ")[0];
+  galleries[slug] = selected.map((item) => ({
+    url: item.url.replaceAll("\\u0026", "&").replace(/^http:/, "https:"),
+    source,
+    credit,
+    alt: {
+      en: item.label ? `${venue.name} — ${item.label.replace(/<[^>]+>/g, "").slice(0, 110)}` : `${venue.name} — image from the official website`,
+      "zh-hk": `${venue.name} — 官方網站圖片`,
     },
   }));
   added += 1;

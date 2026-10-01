@@ -12,6 +12,7 @@ import { listingCategories } from "@/lib/listing-categories";
 import { sports, listingSports } from "@/lib/sports";
 import { categories, getListingBySlug, listingName, listingSlug, listings, territories, type CategoryId, type Locale } from "@/lib/data";
 import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
+import { venueFallbackPhoto } from "@/lib/venue-fallbacks";
 
 const locales: Locale[] = ["en", "zh-hk"];
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
@@ -82,6 +83,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
   const name = listingName(listing, locale);
   const venueCategories = categories.filter((item) => listingCategories(listing).includes(item.id));
   const photos = (venueImages as Record<string, VenuePhoto[]>)[slug] ?? [];
+  const fallbackPhoto = venueFallbackPhoto(listing.category);
   const activities = listingSports(listing);
   const territory = territories.find((item) => item.id === listing.territory)!;
   const Icon = categoryIcons[listing.category as CategoryId];
@@ -118,7 +120,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
         <header className="venue-hero">
           <div className="shell">
             <Link className="venue-back" href={`/${locale}/places`}><ArrowLeft size={16} />{t.back}</Link>
-            <div className={`venue-hero-grid${photos.length ? " has-photos" : ""}`}>
+            <div className="venue-hero-grid has-photos">
               <div className="venue-title-block">
                 <span className="eyebrow"><span />{venueCategories.map((item) => item.label[locale]).join(" · ")} · {listing.area[locale]}</span>
                 <h1>{name}</h1>
@@ -129,7 +131,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
                   <span><Check size={15} />{t.verified}</span>
                 </div>
               </div>
-              {photos.length ? <VenueGallery photos={photos} locale={locale} /> : <div className={`venue-symbol icon-${listing.category}`}><Icon size={78} strokeWidth={1.1} /><small>WELL / HK</small></div>}
+              <VenueGallery photos={photos} fallbackPhoto={fallbackPhoto} locale={locale} />
             </div>
           </div>
         </header>
