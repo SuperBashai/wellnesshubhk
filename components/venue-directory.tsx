@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
 import { ArrowDown, ArrowRight, ArrowUpRight, Dumbbell, Flame, Leaf, MapPin, Search, ShoppingBasket, Snowflake, X } from "lucide-react";
 import { categories, copy, listingName, listingSlug, listings, territories, type CategoryId, type Locale, type TerritoryId } from "@/lib/data";
 import { SiteHeader } from "@/components/site-header";
@@ -12,13 +13,20 @@ import { sports, listingSports, type SportId } from "@/lib/sports";
 
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
 
+function normalize(value: string) {
+  return value.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase().trim();
+}
+
 export function VenueDirectory({ locale, covers, initialCategory, initialTerritory, initialQuery }: { locale: Locale; covers: Record<string, string>; initialCategory: CategoryId | "all"; initialTerritory: TerritoryId | "all"; initialQuery: string }) {
+  const router = useRouter();
   const t = copy[locale];
   const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState<CategoryId | "all">(initialCategory);
   const [territory, setTerritory] = useState<TerritoryId | "all">(initialTerritory);
   const [visibleCount, setVisibleCount] = useState(20);
   const [sport, setSport] = useState<SportId | "all">("all");
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [activeSuggestion, setActiveSuggestion] = useState(-1);
 
   const filtered = useMemo(() => {
     const term = query.trim().toLocaleLowerCase();
@@ -29,12 +37,52 @@ export function VenueDirectory({ locale, covers, initialCategory, initialTerrito
     });
   }, [category, locale, query, territory, sport]);
 
+  const searchSuggestions = useMemo(() => {
+    const term = normalize(query);
+    if (!term) return [];
+    return filtered
+      .map((listing, originalIndex) => {
+        const name = normalize(listingName(listing, locale));
+        const alternateName = normalize(listingName(listing, locale === "en" ? "zh-hk" : "en"));
+        const area = normalize(listing.area[locale]);
+        const score = name.startsWith(term) ? 0 : name.includes(term) ? 1 : alternateName.startsWith(term) ? 2 : alternateName.includes(term) ? 3 : area.startsWith(term) ? 4 : area.includes(term) ? 5 : 6;
+        return { listing, originalIndex, score };
+      })
+      .sort((a, b) => a.score - b.score || a.originalIndex - b.originalIndex)
+      .slice(0, 6)
+      .map(({ listing }) => listing);
+  }, [filtered, locale, query]);
+
+  const showSearchSuggestions = searchOpen && query.trim().length > 0 && searchSuggestions.length > 0;
+
+  function handleSearchKeyDown(event: React.KeyboardEvent<HTMLInputElement>) {
+    if (!showSearchSuggestions) {
+      if (event.key === "Escape") setSearchOpen(false);
+      return;
+    }
+    if (event.key === "ArrowDown") {
+      event.preventDefault();
+      setActiveSuggestion((index) => (index + 1) % searchSuggestions.length);
+    } else if (event.key === "ArrowUp") {
+      event.preventDefault();
+      setActiveSuggestion((index) => (index <= 0 ? searchSuggestions.length - 1 : index - 1));
+    } else if (event.key === "Enter" && activeSuggestion >= 0) {
+      event.preventDefault();
+      router.push(`/${locale}/venues/${listingSlug(searchSuggestions[activeSuggestion])}`);
+      setSearchOpen(false);
+    } else if (event.key === "Escape") {
+      setSearchOpen(false);
+    }
+  }
+
   function clearFilters() {
     setQuery("");
     setCategory("all");
     setTerritory("all");
     setVisibleCount(20);
     setSport("all");
+    setSearchOpen(false);
+    setActiveSuggestion(-1);
   }
 
   return (
@@ -44,7 +92,44 @@ export function VenueDirectory({ locale, covers, initialCategory, initialTerrito
         <div className="shell">
           <div className="section-heading directory-heading"><div><span className="eyebrow"><span />{t.featuredEyebrow}</span><h1>{t.featuredTitle}</h1><p>{t.featuredBody}</p></div><strong className="result-count">{String(filtered.length).padStart(2, "0")}<small>{locale === "en" ? "places" : "個地方"}</small></strong></div>
           <div className="directory-search">
-            <label><Search size={18} /><span className="sr-only">{locale === "en" ? "Search directory" : "搜尋目錄"}</span><input placeholder={t.searchPlaceholder} value={query} onChange={(event) => { setQuery(event.target.value); setVisibleCount(20); }} /></label>
+            <div
+              className="directory-search-combobox"
+              onFocus={() => setSearchOpen(true)}
+              onBlur={(event) => {
+                if (!event.currentTarget.contains(event.relatedTarget)) setSearchOpen(false);
+              }}
+            >
+              <label htmlFor="directory-venue-search"><Search size={18} /><span className="sr-only">{locale === "en" ? "Search directory" : "搜尋目錄"}</span><input
+                id="directory-venue-search"
+                placeholder={t.searchPlaceholder}
+                value={query}
+                autoComplete="off"
+                role="combobox"
+                aria-autocomplete="list"
+                aria-expanded={showSearchSuggestions}
+                aria-controls="directory-search-suggestions"
+                aria-activedescendant={activeSuggestion >= 0 ? `directory-suggestion-${activeSuggestion}` : undefined}
+                onChange={(event) => { setQuery(event.target.value); setVisibleCount(20); setSearchOpen(true); setActiveSuggestion(-1); }}
+                onKeyDown={handleSearchKeyDown}
+              /></label>
+              {showSearchSuggestions ? <div className="hero-search-menu directory-search-menu" id="directory-search-suggestions" role="listbox" aria-label={locale === "en" ? "Venue suggestions" : "場地建議"}>
+                {searchSuggestions.map((listing, index) => {
+                  const name = listingName(listing, locale);
+                  const href = `/${locale}/venues/${listingSlug(listing)}`;
+                  const categoryLabel = categories.find((item) => item.id === listing.category)?.label[locale] ?? "";
+                  return <Link
+                    id={`directory-suggestion-${index}`}
+                    role="option"
+                    aria-selected={activeSuggestion === index}
+                    className={activeSuggestion === index ? "active" : ""}
+                    href={href}
+                    key={href}
+                    onMouseEnter={() => setActiveSuggestion(index)}
+                    onClick={() => setSearchOpen(false)}
+                  ><span><strong>{name}</strong><small>{listing.area[locale]} · {categoryLabel}</small></span><ArrowRight size={16} /></Link>;
+                })}
+              </div> : null}
+            </div>
             <label><MapPin size={18} /><span className="sr-only">{locale === "en" ? "Filter by region" : "按區域篩選"}</span><select value={territory} onChange={(event) => { setTerritory(event.target.value as TerritoryId | "all"); setVisibleCount(20); }}><option value="all">{t.allAreas}</option>{territories.map((item) => <option key={item.id} value={item.id}>{item.label[locale]}</option>)}</select></label>
           </div>
           <div className="filter-bar" aria-label="Directory filters">

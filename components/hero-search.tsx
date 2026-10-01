@@ -40,7 +40,17 @@ export function HeroSearch({ locale, suggestions, territories, labels }: HeroSea
   const matches = useMemo(() => {
     const term = normalize(query);
     if (!term) return [];
-    return suggestions.filter((item) => normalize(item.searchText).includes(term)).slice(0, 6);
+    return suggestions
+      .filter((item) => normalize(item.searchText).includes(term))
+      .map((item, originalIndex) => {
+        const name = normalize(item.name);
+        const area = normalize(item.area);
+        const score = name.startsWith(term) ? 0 : name.includes(term) ? 1 : area.startsWith(term) ? 2 : area.includes(term) ? 3 : 4;
+        return { item, originalIndex, score };
+      })
+      .sort((a, b) => a.score - b.score || a.originalIndex - b.originalIndex)
+      .slice(0, 6)
+      .map(({ item }) => item);
   }, [query, suggestions]);
 
   const showSuggestions = open && query.trim().length > 0;
