@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:56:49.344Z",
+  "generatedAt": "2026-10-01T09:04:50.881Z",
   "sources": {
     "https://www.kinship.hk/": {
       "ok": true,
@@ -5579,6 +5579,1329 @@
         }
       ],
       "error": "HTTP 400: {\"status\":\"failed\",\"message\":\"Url is not supported.\"}"
+    },
+    "https://smashfactor.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350733212528641",
+      "venues": [
+        {
+          "slug": "smash-factor",
+          "name": "Smash Factor",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2026/09/homepage-share.webp",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 108
+        },
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2024/11/practice-golf-like-a-professional-768x576.webp",
+          "kind": "img",
+          "label": "Practice golf with data",
+          "width": 1080,
+          "height": 810,
+          "score": 62
+        },
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2023/06/SF-VIProom-768x432.webp",
+          "kind": "img",
+          "label": "Indoor Golf Simulator in Hong Kong",
+          "width": 1280,
+          "height": 720,
+          "score": 62
+        },
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2023/11/Hong-kong-Indoor-Golf-group-class-schedule-1536x1038.webp",
+          "kind": "img",
+          "label": "Hong kong Indoor Golf group class schedule",
+          "width": 2000,
+          "height": 1352,
+          "score": 62
+        },
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2024/11/Powered-by-Trackman-2.webp",
+          "kind": "img",
+          "label": "Powered by Trackman 2",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2024/11/Smart2Move-1.webp",
+          "kind": "img",
+          "label": "Smart2Move 1",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://smashfactor.hk/wp-content/uploads/2024/11/SportsBoxAiGolf.webp",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.ogp.hk/service/indoorgolf-simulators": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350777386915841",
+      "venues": [
+        {
+          "slug": "optimus-golf-performance",
+          "name": "Optimus Golf Performance",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.ogp.hk/web/image/1649-b47711f1/AF1QipMidCrSPZZ-0x4QiKS5V4tH9KXhQUURWK2l5hIww900-h900-k-no-p1.webp",
+          "kind": "img",
+          "label": "Simulator Golf Bay",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1650-883afe30/About-Us-Zen-Banner-WEBP-scaled.webp",
+          "kind": "img",
+          "label": "Golf Simulator Zen",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1651-b47711f1/AF1QipMidCrSPZZ-0x4QiKS5V4tH9KXhQUURWK2l5hIww900-h900-k-no-p1.webp",
+          "kind": "img",
+          "label": "Golf Simulator Bay",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1652-b7aa9066/BigTilt-Well-line.webp",
+          "kind": "img",
+          "label": "Golf Putting Projection",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1653-3d9f830b/2.webp",
+          "kind": "img",
+          "label": "Golf Private Room",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1656-16ce3d1f/4.webp",
+          "kind": "img",
+          "label": "Golf Chipping Green",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1655-802325fe/1.webp",
+          "kind": "img",
+          "label": "Golf Bunker",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1654-ff7ecefa/IMG-20260604-WA0020.webp",
+          "kind": "img",
+          "label": "Golf Zen",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1657-011a9b94/AF1QipMidCrSPZZ-0x4QiKS5V4tH9KXhQUURWK2l5hIww900-h900-k-no-p1.webp",
+          "kind": "img",
+          "label": "Golf Simulation Indoor",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1658-00ced0ce/WP2.webp",
+          "kind": "img",
+          "label": "Golf Course",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1659-1802a313/DrivingRange.webp",
+          "kind": "img",
+          "label": "Golf Driving Range",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.ogp.hk/web/image/1661-37070d68/fb27ec_fb20a4d7ef9040619f55603e25ce14c5mv2.webp",
+          "kind": "img",
+          "label": "Golf Putting Green",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "friendly game with friends (up to 3&nbsp;players per bay or 4 per private room) Practicing specific holes that give you trouble \"Walk the fairways -&nbsp;Then back to your desk 15 minutes later"
+        ]
+      }
+    },
+    "https://hiteegolf.com/contact_us/": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "hi-tee-golf-san-po-kong",
+          "name": "Hi Tee Golf — San Po Kong",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        },
+        {
+          "slug": "hi-tee-golf-quarry-bay",
+          "name": "Hi Tee Golf — Quarry Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "error": "Target returned 404"
+    },
+    "https://www.golfzonhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350803391622145",
+      "venues": [
+        {
+          "slug": "golfzon-causeway-bay",
+          "name": "GOLFZON — Causeway Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        },
+        {
+          "slug": "golfzon-admiralty",
+          "name": "GOLFZON — Admiralty",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        },
+        {
+          "slug": "golfzon-lai-chi-kok",
+          "name": "GOLFZON — Lai Chi Kok",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        },
+        {
+          "slug": "golfzon-tsim-sha-tsui-east",
+          "name": "GOLFZON — Tsim Sha Tsui East",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        },
+        {
+          "slug": "golfzon-kowloon-bay",
+          "name": "GOLFZON — Kowloon Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/about_us-1024x574.webp",
+          "kind": "img",
+          "label": "About us",
+          "width": 1024,
+          "height": 574,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/store_laichikok.webp",
+          "kind": "img",
+          "label": "Store laichikok",
+          "width": 1034,
+          "height": 715,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/store_causewaybay.webp",
+          "kind": "img",
+          "label": "Store causewaybay",
+          "width": 1034,
+          "height": 715,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/store_hongtai.webp",
+          "kind": "img",
+          "label": "Store hongtai",
+          "width": 1034,
+          "height": 715,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/12/Untitled-design.webp",
+          "kind": "img",
+          "label": "GOLFZON TST",
+          "width": 1034,
+          "height": 715,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2025/06/Untitled-design-2.webp",
+          "kind": "img",
+          "label": "GOLFZON Kowloon Bay",
+          "width": 1034,
+          "height": 715,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/golf_course-1024x577.webp",
+          "kind": "img",
+          "label": "Golf course",
+          "width": 1024,
+          "height": 577,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/google_play.png",
+          "kind": "img",
+          "label": "Google play",
+          "width": 2351,
+          "height": 713,
+          "score": 62
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2026/09/19c34cf9-1321-4637-b056-2ff46edb42b9-768x960.webp",
+          "kind": "img",
+          "label": "19c34cf9 1321 4637 b056 2ff46edb42b9",
+          "width": 768,
+          "height": 960,
+          "score": 54
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2026/06/DS100008-768x512.webp",
+          "kind": "img",
+          "label": "Ds100008",
+          "width": 768,
+          "height": 512,
+          "score": 54
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2026/06/DS100002-768x512.webp",
+          "kind": "img",
+          "label": "Ds100002",
+          "width": 768,
+          "height": 512,
+          "score": 54
+        },
+        {
+          "url": "https://www.golfzonhk.com/wp-content/uploads/2026/06/DS100852-768x512.webp",
+          "kind": "img",
+          "label": "Ds100852",
+          "width": 768,
+          "height": 512,
+          "score": 54
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "852 2593 6888",
+          "852 2593 6988",
+          "852 3751 7088",
+          "852 3104 1045",
+          "852 2567 2888"
+        ],
+        "hourSnippets": [
+          "Business Hours : &nbsp; (Sun – Sat) 10:00 – 00:00 Tel : 852 2593 6888 BOOK NOW Whatsapp CAUSEWAY BAY 2/F, SCAA Sports Complex, 88 Caroline Hill Road, Hong Kong Business Hours : (Sun – Thur) 10:00 – 00:00 ; (Fri & Sat) 10:00 – 01:00 Te",
+          "Business Hours : (Mon – Fri) 10:00 – 23:00 ; (Sat & Sun) 09:00 – 22:00 Tel : 852 3751 7088 BOOK NOW Whatsapp TSIM SHA TSUI EAST Shops 147-153, 155 & 156, 1/F, New Mandarin Plaza Shopping Centre, 14 Science Museum Road, Tsim Sha Tsui,",
+          "Business Hours : (Sun – Sat) 10:00 – 00:00 Tel : 852 3104 1045 BOOK NOW Whatsapp KOWLOON BAY Shop 11, 1/F, 77 Hoi Bun Road, The Quayside, Kowloon East Business Hours : (Sun – Sat) 10:00 – 00:00 Tel : 852 2567 2888 BOOK NOW Whatsapp In",
+          "daily) LEARN MORE News and Promotion Promotion 01-10-2026 GOLFZON HK 12th Anniversary 🎉 GOLFZON HK 12th Anniversary Celebration To celebrate the 12th anniversary of GOLFZON HK, we are launching a series of limited-time&helli",
+          "friendly, competitive environment and have the chance to win generous prizes! GOLFZON HK GOLF TOUR Season 10 Highlights See All Our Pass Season Tours Pricing Plan We offer a comfortable and convenient indoor golf practice f",
+          "Months 2,980 GOLFZON DOLLAR $2,980 3 DAYS Priority Booking BUSINESS CLASS Perpaid Card for 12 Months 18,800 GOLFZON DOLLAR $18,800 10 DAYS Priority Booking FIRST CLASS Perpaid Card for 24 Months 29,800 GOLFZON DOLLAR $29,80"
+        ]
+      }
+    },
+    "https://shots-factory.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350877672713217",
+      "venues": [
+        {
+          "slug": "shots-factory-hku",
+          "name": "Shots Factory — HKU",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        },
+        {
+          "slug": "shots-factory-wan-chai",
+          "name": "Shots Factory — Wan Chai",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://shots-factory.com/images/misc/Share-Image.png",
+          "kind": "og",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 118
+        },
+        {
+          "url": "https://shots-factory.com/images/locations/Wanchai-S7.jpg",
+          "kind": "img",
+          "label": "Shots Factory Wanchai indoor golf simulator bay with TrackMan driving range alternative in Hong Kong",
+          "width": 600,
+          "height": 400,
+          "score": 48
+        },
+        {
+          "url": "https://shots-factory.com/images/products/Takomo-301CB.jpg",
+          "kind": "img",
+          "label": "Takomo 301CB Iron Set",
+          "width": 500,
+          "height": 667,
+          "score": 54
+        },
+        {
+          "url": "https://shots-factory.com/images/locations/HKU-S3.jpg",
+          "kind": "img",
+          "label": "Shots Factory HKU indoor golf simulator studio with TrackMan technology in Hong Kong",
+          "width": 600,
+          "height": 400,
+          "score": 48
+        },
+        {
+          "url": "https://shots-factory.com/images/instructors/golfer.png",
+          "kind": "img",
+          "label": "Golfer at top of backswing",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 9537 7585"
+        ],
+        "hourSnippets": [
+          "Wedge Ignis D2 Fairway Book a Demo Buy Now More Info Pricing Pricing & Packages Passes and Plans grant members 24/7 self-service access to both studios",
+          "months HKD 3,900 10 hours of sim ( HKD 390/hour ) 24/7/365 access, all locations Get Started 20 Hour Pass Valid for 6 months HKD 6,800 20 hours of sim ( HKD 340/hour ) 24/7/365 access, all locations Get Started Best Value 5",
+          "months HKD 14,500 50 hours of sim ( HKD 290/hour ) 24/7/365 access, all locations 50% off bag storage — 1 bag Get Started Validity period of Simulator Passes can be extended one time by purchasing an Extension Pass",
+          "months HKD 7,250 5 hours of lessons ( HKD 1,450/hour ) Light tune up Get Started 10 Hour Pass Valid for 6 months HKD 13,500 10 hours of lessons ( HKD 1,350/hour ) Make a lasting change Get Started Best Value 20 Hour Pass Va",
+          "months HKD 25,000 20 hours of lessons ( HKD 1,250/hour ) Overhaul your swing 50% off bag storage — 1 bag Get Started Validity period of Lesson Passes can be extended one time by purchasing an Extension Pass",
+          "months, flexibly top up any number of hours at the Plan's rates HKD 18,800 20 hours of sim ( HKD 290/hour ) 10 hours of lessons ( HKD 1,300/hour ) 20% off bag storage — 1 bag Get Started Most Popular Blue Tee Valid for 12 m",
+          "months, flexibly top up any number of hours at the Plan's rates HKD 60,800 80 hours of sim ( HKD 210/hour ) 40 hours of lessons ( HKD 1,100/hour ) 12 months free bag storage — 1 bag 10% discount on retail Get Started Annual"
+        ]
+      }
+    },
+    "https://www.7ironhk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350884345878529",
+      "venues": [
+        {
+          "slug": "7iron-hk-wong-chuk-hang",
+          "name": "7Iron HK — Wong Chuk Hang",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://usercontent.one/wp/www.7ironhk.com/wp-content/uploads/2023/04/HEADER-WCH-1-uai-258x172.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://usercontent.one/wp/www.7ironhk.com/wp-content/uploads/2021/07/HOME-SIGNUP-uai-258x172.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://usercontent.one/wp/www.7ironhk.com/wp-content/uploads/2021/07/QUOTE-BG-3-uai-258x143.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": [
+          "Tuesday - Sunday 10am - 10pm BOOK NOW EXPERIENCE We have created a relaxed but innovative and fun environment for all ages and skill level",
+          "Tuesday - Sunday 10am - 10pm BOOK NOW In the area"
+        ]
+      }
+    },
+    "https://www.golfpartners.com.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350905120241665",
+      "venues": [
+        {
+          "slug": "golf-partners",
+          "name": "Golf Partners",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.golfpartners.com.hk/images/hero-studio.jpg",
+          "kind": "img",
+          "label": "Golf Partners indoor simulator studio in Central, Hong Kong",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.golfpartners.com.hk/images/kk-miura-signed.jpg",
+          "kind": "img",
+          "label": "Golf Partners founder KK with master craftsman Katsuhiro Miura at the Miura Giken workshop in Japan",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.golfpartners.com.hk/images/studio-bay.jpg",
+          "kind": "img",
+          "label": "Hitting bay and launch monitor at Golf Partners",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.golfpartners.com.hk/images/studio-interior.jpg",
+          "kind": "img",
+          "label": "Interior of the Golf Partners studio in Central",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.golfpartners.com.hk/images/studio-sim-bay.jpg",
+          "kind": "img",
+          "label": "Simulator hitting bay with launch monitor and Miura bag at Golf Partners",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.golfpartners.com.hk/images/studio-practice-bays.jpg",
+          "kind": "img",
+          "label": "Multiple practice mats and hitting bays inside the Golf Partners studio",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.golfpartners.com.hk/images/studio-putting-area.jpg",
+          "kind": "img",
+          "label": "Practice area with simulator screen and golf bags at Golf Partners",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "852 9456 6935"
+        ],
+        "hourSnippets": [
+          "months later I played my first full 18 holes — and loved every minute"
+        ]
+      }
+    },
+    "https://www.tourmechanicshk.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350920555326465",
+      "venues": [
+        {
+          "slug": "tour-mechanics",
+          "name": "Tour Mechanics",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/969270_d0f93ea41e854251aba44576f5d0759e%7Emv2.png/v1/fit/w_2500,h_1330,al_c/969270_d0f93ea41e854251aba44576f5d0759e%7Emv2.png",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_09d5e36c4ece40468f81306697c9b343~mv2.jpeg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_60a343c82e7f47e49cdbe2abcfdc0f52~mv2.jpg/v1/fill/w_288,h_144,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/969270_60a343c82e7f47e49cdbe2abcfdc0f52~mv2.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 1920,
+          "height": 1920,
+          "score": 44
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_0a96e0cb23a84fe29837718a4c4b6d94f000.jpg/v1/fill/w_125,h_70,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/969270_0a96e0cb23a84fe29837718a4c4b6d94f000.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 980,
+          "height": 468,
+          "score": 38
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_1eec3e00f8a44aa1a8ed5eaf01d22d7e~mv2.jpg/v1/fill/w_119,h_179,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/969270_1eec3e00f8a44aa1a8ed5eaf01d22d7e~mv2.jpg",
+          "kind": "img",
+          "label": "Trusted by the best_2018_4000 x 6000_highres.jpg",
+          "width": 490,
+          "height": 715,
+          "score": 36
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_0aae3c599e35476394b8d9b43bda4e62~mv2.png/v1/fill/w_254,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/969270_0aae3c599e35476394b8d9b43bda4e62~mv2.webp",
+          "kind": "img",
+          "label": "2024 Lunar New Year Holidays Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_0aae3c599e35476394b8d9b43bda4e62~mv2.png/v1/fill/w_71,h_70,fp_0.50_0.50,q_95,enc_avif,quality_auto/969270_0aae3c599e35476394b8d9b43bda4e62~mv2.webp",
+          "kind": "img",
+          "label": "2024 Lunar New Year Holidays Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_6369261222b8434ab5aedab0f330b971~mv2.png/v1/fill/w_254,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/969270_6369261222b8434ab5aedab0f330b971~mv2.webp",
+          "kind": "img",
+          "label": "2023 New Year&#x27;s Eve & 2024 New Year’s Day Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_6369261222b8434ab5aedab0f330b971~mv2.png/v1/fill/w_71,h_70,fp_0.50_0.50,q_95,enc_avif,quality_auto/969270_6369261222b8434ab5aedab0f330b971~mv2.webp",
+          "kind": "img",
+          "label": "2023 New Year&#x27;s Eve & 2024 New Year’s Day Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_e57eb2b684a14b698d125fac7168cda8~mv2.png/v1/fill/w_250,h_250,fp_0.50_0.50,q_35,blur_30,enc_avif,quality_auto/969270_e57eb2b684a14b698d125fac7168cda8~mv2.webp",
+          "kind": "img",
+          "label": "2023 Lunar New Year Holidays Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_e57eb2b684a14b698d125fac7168cda8~mv2.png/v1/fill/w_70,h_70,fp_0.50_0.50,q_95,enc_avif,quality_auto/969270_e57eb2b684a14b698d125fac7168cda8~mv2.webp",
+          "kind": "img",
+          "label": "2023 Lunar New Year Holidays Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://static.wixstatic.com/media/969270_dc6dd8b3091f491b8debc56d22bcf3c4~mv2.jpg/v1/fill/w_254,h_250,fp_0.50_0.50,q_30,blur_30,enc_avif,quality_auto/969270_dc6dd8b3091f491b8debc56d22bcf3c4~mv2.webp",
+          "kind": "img",
+          "label": "2022 New Year&#x27;s Eve & 2023 New Year’s Day Arrangement",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2024 2023",
+          "2023 2023",
+          "2023 2022",
+          "9517-7780"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://golftec.com.hk/golf-lessons/hong-kong": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350937634529282",
+      "venues": [
+        {
+          "slug": "golftec-hong-kong",
+          "name": "GOLFTEC Hong Kong",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d5f3/687e7b44f908b0aea350d886_GTJourney.avif",
+          "kind": "img",
+          "label": "Symble for the journey to better golf with GOLFTEC.",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc68_golf-ball%20(1).svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc7d_golf-club%20(2).svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc64_barcode.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc67_virtual.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc7c_motion-tracking.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc65_golf%20(1).svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e7b44f908b0aea350dc66_video.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e98309cea14c3946ca3c6_GT%20HK%20Building.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 614,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e98362ae8dd4ce55c956b_GT%20HK.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 614,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e97ef079d67dc7fc98039_GTHK%20HERO.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 614,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e984287490117ce33a5c7_GTHK.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 614,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+971555336711",
+          "+85225600300",
+          "8774465383",
+          "+852 2560 0300"
+        ],
+        "hourSnippets": [
+          "Monday 8:00 AM – 10:00 PM Tuesday 8:00 AM – 8:00 AM Wednesday 8:00 AM – 10:00 PM Thursday 8:00 AM – 10:00 PM Friday 8:00 AM – 10:00 PM Saturday 8:00 AM – 6:00 PM Sunday 8:00 AM – 6:00 PM Book a Service +852 2560 0300 Services",
+          "Monitors Custom Club Fitting Golf Club Shaft Wall Golf Simulator Bays OPTIMOTION Technology Putting Practice Area Video Analysis Why choose Golftec? 7 + Shots Saved 20",
+          "Month Plans Golf Clubs & Fitting We carry the best brands in golf! GOLFTEC Hong Kong COMING SOON Book a Service Play Better! Talk to a Coach Hours of Operation Monday 8:00 AM – 10:00 PM Tuesday 8:00 AM – 10:00 PM Wednesday",
+          "Thursday 8:00 AM – 10:00 PM Friday 8:00 AM – 10:00 PM Saturday 8:00 AM – 6:00 PM Sunday 8:00 AM – 6:00 PM 4/F Admiralty Centre, Tower II, 18 Harcourt Rd, Admiralty – Hong Kong Get Directions Personalized Coaching Advanced Techno"
+        ]
+      }
+    },
+    "https://www.thegolfbay.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511350957238663169",
+      "venues": [
+        {
+          "slug": "the-golf-bay",
+          "name": "The Golf Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/3a50fc_19e13f1baeb741c297787aadaf0a5bf3%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/3a50fc_19e13f1baeb741c297787aadaf0a5bf3%7Emv2.jpg",
+          "kind": "twitter",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 90
+        },
+        {
+          "url": "https://static.wixstatic.com/media/3a50fc_7f924bdecb8f456ba141d422be4eec48~mv2.jpg",
+          "kind": "jsonld",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 75
+        },
+        {
+          "url": "https://static.wixstatic.com/media/3a50fc_5e49fbfb4f5f458eb6fb2b036343076a~mv2.jpeg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/3a50fc_5e49fbfb4f5f458eb6fb2b036343076a~mv2.jpeg",
+          "kind": "img",
+          "label": "The Golf Bay .jpeg",
+          "width": 980,
+          "height": 805,
+          "score": 62
+        },
+        {
+          "url": "https://static.wixstatic.com/media/3a50fc_5e49fbfb4f5f458eb6fb2b036343076a~mv2.jpeg/v1/fill/w_162,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/3a50fc_5e49fbfb4f5f458eb6fb2b036343076a~mv2.jpeg",
+          "kind": "img",
+          "label": "",
+          "width": 900,
+          "height": 600,
+          "score": 44
+        },
+        {
+          "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/sloppyframe.3214ce8e.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "+852 2856 5188"
+        ],
+        "hourSnippets": [
+          "months Buy Now Bay 2 - Right Hand Players Only Bay 1 - Left and Right Hand Players 20 Hour Hitting Bay HK$ 5,950 5,950HK$ Even more savings! Valid for 12 months Buy Now Bay 1 - Left and Right Hand Players Bay 2 - Right Hand",
+          "months Buy Now Individual Lesson HK$ 1,200 1,200HK$ 1-on-1 Lesson (1 hour) Valid for 12 months Buy Now Bay rental is included, along with a professional instructor 5 Lessons & 10 Hours Practice HK$ 8,900 8,900HK$ Package of",
+          "months Buy Now Bay 1 - Left and Right Hand Players Bay 2 - Right Hand Players Only 10 Lessons & 20 hours Practice HK$ 16,450 16,450HK$ Package of 10 Lessons (HKD 1,050/lesson) + 20 hours Bay Rental Valid for 12 months Buy N",
+          "months Buy Now Contact THE GOLF BAY Shop 104A, 1/F DB North Plaza 92 Siena Avenue Discovery Bay, HK ​ info@thegolfbay",
+          "Opening hours Monday - Sunday &nbsp; &nbsp;9am - 9pm Name Last Name Email Subject Message Submit Thanks for submitting! &copy;2022 by The Golf Bay"
+        ]
+      }
+    },
+    "https://www.kscgolf.org.hk/eng/": {
+      "ok": false,
+      "venues": [
+        {
+          "slug": "jockey-club-kau-sai-chau-public-golf-course",
+          "name": "Jockey Club Kau Sai Chau Public Golf Course",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "error": "Target returned no content"
+    },
+    "https://hkgolfclub.org/public-golfing-access": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511351069272758273",
+      "venues": [
+        {
+          "slug": "hong-kong-golf-club-fanling",
+          "name": "Hong Kong Golf Club — Fanling",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://hkgolfclub.org/navigation-portlet/images/next.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/HKGC-Old-10-resized.jpg/05526335-d17b-5d68-b46c-8e82cb46bbd2?t=1665498965249",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/DWB-Clubhouse%281%29.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/Common-Birdwing-%281%29.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/Futsal.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/HKO.jpg/e6027318-d3f4-1808-461b-86c95b4a4c9e?t=1663143208098",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/View.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234158/Halfway+House.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/68285/hk-public-golfing-access-1-640x368.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/o/HongKongClub-theme/images/club-images/back_to_top.png",
+          "kind": "img",
+          "label": "Back To Top Button",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/244013/Download+icpn+Google.png",
+          "kind": "img",
+          "label": "Google Play",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/244013/DownloadFrom_x3_OL-modified.png",
+          "kind": "img",
+          "label": "APK",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2670 1211",
+          "2670 0647",
+          "2812 7070",
+          "2812 0334"
+        ],
+        "hourSnippets": []
+      }
+    },
+    "https://hkgolfclub.org/course": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511351082732280833",
+      "venues": [
+        {
+          "slug": "hong-kong-golf-club-deep-water-bay",
+          "name": "Hong Kong Golf Club — Deep Water Bay",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://hkgolfclub.org/navigation-portlet/images/next.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/HKGC-Old-10-resized.jpg/05526335-d17b-5d68-b46c-8e82cb46bbd2?t=1665498965249",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/DWB-Clubhouse%281%29.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/Common-Birdwing-%281%29.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/Futsal.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/HKO.jpg/e6027318-d3f4-1808-461b-86c95b4a4c9e?t=1663143208098",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234640/View.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/234158/Halfway+House.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/o/HongKongClub-theme/images/club-images/back_to_top.png",
+          "kind": "img",
+          "label": "Back To Top Button",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/244013/Download+icpn+Google.png",
+          "kind": "img",
+          "label": "Google Play",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://hkgolfclub.org/documents/20124/244013/DownloadFrom_x3_OL-modified.png",
+          "kind": "img",
+          "label": "APK",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2670 1211",
+          "2670 0647",
+          "2812 7070",
+          "2812 0334"
+        ],
+        "hourSnippets": [
+          "Mon, 5 Oct 2026: Course closed for maintenance until 12:30pm Tue, 6 Oct 2026: Wednesday Afternoon Golf Society - 10:00am - 1:00pm Wed, 7 Oct 2026: Ladies Section - Golfers' Workshop - 9:00am - 11:00am Fri, 9 Oct 2026: Zetla",
+          "Mon, 12 Oct 2026: Course closed for maintenance until 12:30pm Thu, 15 Oct 2026: AIA Junior Golf Series #5 - 7:40am - TBC Fri, 16 Oct 2026: Kellett Golf Society - 10:00am - 1:00pm Mon, 26 Oct 2026: HK Seniors Golf Society -",
+          "Tue, 27 Oct 2026: Ladies Section - Chinese Cup - 7:20am - TBC (36 Holes) Fri, 30 Oct 2026: Misfits Golf Society - 10:00am - 1:00pm   DWB Night Range is opened from Monday to Friday except Public Holidays between 6:30pm and",
+          "Mondays & Tuesdays: One accompanied guest per Membership account is allowed )     Updated : Monday, 28 Sep 2026 - 11:30am Download Scorecard Contact - Fanling Lot No"
+        ]
+      }
+    },
+    "https://www.cwbgolf.org/golf-club/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511351102428691457",
+      "venues": [
+        {
+          "slug": "the-clearwater-bay-golf-and-country-club",
+          "name": "The Clearwater Bay Golf & Country Club",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.cwbgolf.org/wp-content/uploads/2024/08/PCOA_ASIA_PACIFIC_CMYK-1-e1723111147653.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 962,
+          "height": 1024,
+          "score": 62
+        },
+        {
+          "url": "https://www.cwbgolf.org/wp-content/uploads/2023/10/Good-MPF-Employer-2024-25-Full-Colour_CMYK-410x153.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 788,
+          "height": 295,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "85223353888",
+          "+85223353700",
+          "2335 3888",
+          "2335 3700"
+        ],
+        "hourSnippets": [
+          "Wednesday) with tee-off time from 9:30am to 11:30am",
+          "months) may drive a golf cart with a valid international driving permit or domestic driving permit/licence, provided that they are 18 years and above"
+        ]
+      }
+    },
+    "https://www.dbgc.hk/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511351134225710081",
+      "venues": [
+        {
+          "slug": "discovery-bay-golf-club",
+          "name": "Discovery Bay Golf Club",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [],
+      "contacts": {
+        "phones": [],
+        "hourSnippets": []
+      }
+    },
+    "https://www.hkgta.com/": {
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511351158544328706",
+      "venues": [
+        {
+          "slug": "hong-kong-golf-and-tennis-academy",
+          "name": "Hong Kong Golf & Tennis Academy",
+          "needsImages": true,
+          "needsPhone": true,
+          "needsHours": true
+        }
+      ],
+      "images": [
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/pin/pin_golf.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/pin/pin_golf_active.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/pin/pin_tennis.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/pin/pin_tennis_active.svg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/golf.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/golf@2x.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/academy_lounge.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/academy_lounge@2x.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/tennis.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/tennis@2x.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/map_pinned.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/bg/map_bg@2x.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "23456789"
+        ],
+        "hourSnippets": []
+      }
     }
   }
 }

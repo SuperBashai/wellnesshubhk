@@ -37,13 +37,13 @@ function venueIntro(listing: NonNullable<ReturnType<typeof getListingBySlug>>, l
 
 const venueCopy = {
   en: {
-    back: "Back to directory", verified: "Source checked September 2026", visit: "Visit official website", overview: "Venue overview",
+    back: "Back to directory", verified: "Sources checked October 2026", visit: "Visit official website", overview: "Venue overview",
     about: "Plan your visit", aboutBody: "Check the location and facilities, then visit the official website for current opening hours, prices and bookings.",
     area: "Neighbourhood", address: "Address", hours: "Opening hours", phone: "Phone", hoursUnavailable: "Not published — check the official website before visiting.", phoneUnavailable: "Not published — contact via the official website.", territory: "Region", offers: "What you'll find", source: "Official source", sourceBody: "We link directly to the venue or public-facility source and do not invent ratings.",
     relatedEyebrow: "Keep exploring", relatedTitle: "More places in this category", view: "View venue", directory: "Browse all places",
   },
   "zh-hk": {
-    back: "返回目錄", verified: "資料於2026年9月查閱", visit: "前往官方網站", overview: "場地簡介",
+    back: "返回目錄", verified: "資料於2026年10月查閱", visit: "前往官方網站", overview: "場地簡介",
     about: "安排你嘅行程", aboutBody: "睇吓位置同設施，再到官方網站查閱最新開放時間、收費同預約詳情。",
     area: "地區", address: "地址", hours: "營業時間", phone: "電話", hoursUnavailable: "官方未有公布，出發前請查看官方網站。", phoneUnavailable: "官方未有公布，請經官方網站聯絡。", territory: "區域", offers: "場地特色", source: "官方資料來源", sourceBody: "我哋會直接連結場地或公共設施官方資料，亦唔會虛構評分。",
     relatedEyebrow: "繼續探索", relatedTitle: "同類型其他地方", view: "查看場地", directory: "瀏覽全部地方",

@@ -2,6 +2,7 @@ import type { Listing, LocalText } from "./data";
 import { listingCategories } from "./listing-categories";
 
 export const sports = [
+  { id: "golf", label: { en: "Golf", "zh-hk": "高爾夫球" }, tags: ["golf", "indoor golf", "golf simulator", "driving range"] },
   { id: "hyrox", label: { en: "HYROX", "zh-hk": "HYROX 混合體能賽" }, tags: ["hyrox", "hyrox training"] },
   { id: "pickleball", label: { en: "Pickleball", "zh-hk": "匹克球" }, tags: ["pickleball"] },
   { id: "badminton", label: { en: "Badminton", "zh-hk": "羽毛球" }, tags: ["badminton"] },

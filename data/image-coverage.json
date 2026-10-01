@@ -1,7 +1,7 @@
 {
-  "venues": 252,
-  "withPhotos": 212,
-  "photographs": 530,
+  "venues": 274,
+  "withPhotos": 229,
+  "photographs": 571,
   "missing": [
     {
       "name": "SpiceBox Organics — Kennedy Town",
@@ -167,6 +167,31 @@
       "name": "Be Earth — Central",
       "slug": "be-earth-central",
       "source": "https://www.beearth.com.hk/studio/central"
+    },
+    {
+      "name": "Hi Tee Golf — San Po Kong",
+      "slug": "hi-tee-golf-san-po-kong",
+      "source": "https://hiteegolf.com/contact_us/"
+    },
+    {
+      "name": "Hi Tee Golf — Quarry Bay",
+      "slug": "hi-tee-golf-quarry-bay",
+      "source": "https://hiteegolf.com/contact_us/"
+    },
+    {
+      "name": "Jockey Club Kau Sai Chau Public Golf Course",
+      "slug": "jockey-club-kau-sai-chau-public-golf-course",
+      "source": "https://www.kscgolf.org.hk/eng/"
+    },
+    {
+      "name": "The Clearwater Bay Golf & Country Club",
+      "slug": "the-clearwater-bay-golf-and-country-club",
+      "source": "https://www.cwbgolf.org/golf-club/"
+    },
+    {
+      "name": "Discovery Bay Golf Club",
+      "slug": "discovery-bay-golf-club",
+      "source": "https://www.dbgc.hk/"
     },
     {
       "name": "Hong Kong Park Sports Centre",

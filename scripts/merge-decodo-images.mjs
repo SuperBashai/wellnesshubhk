@@ -51,6 +51,28 @@ const selections = {
   "https://www.jeselstudio.com/": [0, 3, 4],
 };
 
+// Branch-specific golf imagery recovered from official venue pages with Decodo.
+// Shared operator pages need per-slug selections so each branch gets its own photograph.
+const golfSelectionsBySlug = {
+  "smash-factor": ["https://smashfactor.hk/", [1, 2, 4]],
+  "optimus-golf-performance": ["https://www.ogp.hk/service/indoorgolf-simulators", [0, 3, 4]],
+  "golfzon-causeway-bay": ["https://www.golfzonhk.com/", [2, 0, 6]],
+  "golfzon-admiralty": ["https://www.golfzonhk.com/", [3, 0, 6]],
+  "golfzon-lai-chi-kok": ["https://www.golfzonhk.com/", [1, 0, 6]],
+  "golfzon-tsim-sha-tsui-east": ["https://www.golfzonhk.com/", [4, 0, 6]],
+  "golfzon-kowloon-bay": ["https://www.golfzonhk.com/", [5, 0, 6]],
+  "shots-factory-hku": ["https://shots-factory.com/", [3, 0]],
+  "shots-factory-wan-chai": ["https://shots-factory.com/", [1, 0]],
+  "7iron-hk-wong-chuk-hang": ["https://www.7ironhk.com/", [0, 1]],
+  "golf-partners": ["https://www.golfpartners.com.hk/", [0, 2, 3]],
+  "tour-mechanics": ["https://www.tourmechanicshk.com/", [0, 1]],
+  "golftec-hong-kong": ["https://golftec.com.hk/golf-lessons/hong-kong", [10, 9, 8]],
+  "the-golf-bay": ["https://www.thegolfbay.hk/", [0, 1]],
+  "hong-kong-golf-club-fanling": ["https://hkgolfclub.org/public-golfing-access", [1]],
+  "hong-kong-golf-club-deep-water-bay": ["https://hkgolfclub.org/course", [2]],
+  "hong-kong-golf-and-tennis-academy": ["https://www.hkgta.com/", [5, 4]],
+};
+
 let added = 0;
 for (const slug of [
   "go24-fitness-kennedy-town",
@@ -91,6 +113,25 @@ for (const [source, indices] of Object.entries(selections)) {
     }));
     added += 1;
   }
+}
+
+for (const [slug, [source, indices]] of Object.entries(golfSelectionsBySlug)) {
+  const scraped = enrichment.sources[source];
+  if (!scraped?.ok) continue;
+  const venue = scraped.venues.find((entry) => entry.slug === slug);
+  const selected = indices.map((index) => scraped.images[index]).filter(Boolean);
+  if (!venue || !selected.length || galleries[slug]?.length) continue;
+  const credit = venue.name.split(" — ")[0];
+  galleries[slug] = selected.map((item) => ({
+    url: item.url.replaceAll("\\u0026", "&").replace(/^http:/, "https:"),
+    source,
+    credit,
+    alt: {
+      en: item.label ? `${venue.name} — ${item.label.replace(/<[^>]+>/g, "").slice(0, 110)}` : `${venue.name} — official venue image`,
+      "zh-hk": `${venue.name} — 官方場地圖片`,
+    },
+  }));
+  added += 1;
 }
 
 await writeFile("data/venue-images.json", JSON.stringify(galleries, null, 2) + "\n");

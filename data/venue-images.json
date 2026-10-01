@@ -5221,5 +5221,408 @@
         "zh-hk": "Pickle City — 官方網站圖片"
       }
     }
+  ],
+  "smash-factor": [
+    {
+      "url": "https://smashfactor.hk/wp-content/uploads/2024/11/practice-golf-like-a-professional-768x576.webp",
+      "source": "https://smashfactor.hk/",
+      "credit": "Smash Factor",
+      "alt": {
+        "en": "Smash Factor — Practice golf with data",
+        "zh-hk": "Smash Factor — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://smashfactor.hk/wp-content/uploads/2023/06/SF-VIProom-768x432.webp",
+      "source": "https://smashfactor.hk/",
+      "credit": "Smash Factor",
+      "alt": {
+        "en": "Smash Factor — Indoor Golf Simulator in Hong Kong",
+        "zh-hk": "Smash Factor — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://smashfactor.hk/wp-content/uploads/2024/11/Powered-by-Trackman-2.webp",
+      "source": "https://smashfactor.hk/",
+      "credit": "Smash Factor",
+      "alt": {
+        "en": "Smash Factor — Powered by Trackman 2",
+        "zh-hk": "Smash Factor — 官方場地圖片"
+      }
+    }
+  ],
+  "optimus-golf-performance": [
+    {
+      "url": "https://www.ogp.hk/web/image/1649-b47711f1/AF1QipMidCrSPZZ-0x4QiKS5V4tH9KXhQUURWK2l5hIww900-h900-k-no-p1.webp",
+      "source": "https://www.ogp.hk/service/indoorgolf-simulators",
+      "credit": "Optimus Golf Performance",
+      "alt": {
+        "en": "Optimus Golf Performance — Simulator Golf Bay",
+        "zh-hk": "Optimus Golf Performance — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.ogp.hk/web/image/1652-b7aa9066/BigTilt-Well-line.webp",
+      "source": "https://www.ogp.hk/service/indoorgolf-simulators",
+      "credit": "Optimus Golf Performance",
+      "alt": {
+        "en": "Optimus Golf Performance — Golf Putting Projection",
+        "zh-hk": "Optimus Golf Performance — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.ogp.hk/web/image/1653-3d9f830b/2.webp",
+      "source": "https://www.ogp.hk/service/indoorgolf-simulators",
+      "credit": "Optimus Golf Performance",
+      "alt": {
+        "en": "Optimus Golf Performance — Golf Private Room",
+        "zh-hk": "Optimus Golf Performance — 官方場地圖片"
+      }
+    }
+  ],
+  "golfzon-causeway-bay": [
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/store_causewaybay.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Causeway Bay — Store causewaybay",
+        "zh-hk": "GOLFZON — Causeway Bay — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/about_us-1024x574.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Causeway Bay — About us",
+        "zh-hk": "GOLFZON — Causeway Bay — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/golf_course-1024x577.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Causeway Bay — Golf course",
+        "zh-hk": "GOLFZON — Causeway Bay — 官方場地圖片"
+      }
+    }
+  ],
+  "golfzon-admiralty": [
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/store_hongtai.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Admiralty — Store hongtai",
+        "zh-hk": "GOLFZON — Admiralty — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/about_us-1024x574.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Admiralty — About us",
+        "zh-hk": "GOLFZON — Admiralty — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/golf_course-1024x577.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Admiralty — Golf course",
+        "zh-hk": "GOLFZON — Admiralty — 官方場地圖片"
+      }
+    }
+  ],
+  "golfzon-lai-chi-kok": [
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/store_laichikok.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Lai Chi Kok — Store laichikok",
+        "zh-hk": "GOLFZON — Lai Chi Kok — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/about_us-1024x574.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Lai Chi Kok — About us",
+        "zh-hk": "GOLFZON — Lai Chi Kok — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/golf_course-1024x577.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Lai Chi Kok — Golf course",
+        "zh-hk": "GOLFZON — Lai Chi Kok — 官方場地圖片"
+      }
+    }
+  ],
+  "golfzon-tsim-sha-tsui-east": [
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/12/Untitled-design.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Tsim Sha Tsui East — GOLFZON TST",
+        "zh-hk": "GOLFZON — Tsim Sha Tsui East — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/about_us-1024x574.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Tsim Sha Tsui East — About us",
+        "zh-hk": "GOLFZON — Tsim Sha Tsui East — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/golf_course-1024x577.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Tsim Sha Tsui East — Golf course",
+        "zh-hk": "GOLFZON — Tsim Sha Tsui East — 官方場地圖片"
+      }
+    }
+  ],
+  "golfzon-kowloon-bay": [
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2025/06/Untitled-design-2.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Kowloon Bay — GOLFZON Kowloon Bay",
+        "zh-hk": "GOLFZON — Kowloon Bay — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/about_us-1024x574.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Kowloon Bay — About us",
+        "zh-hk": "GOLFZON — Kowloon Bay — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfzonhk.com/wp-content/uploads/2024/07/golf_course-1024x577.webp",
+      "source": "https://www.golfzonhk.com/",
+      "credit": "GOLFZON",
+      "alt": {
+        "en": "GOLFZON — Kowloon Bay — Golf course",
+        "zh-hk": "GOLFZON — Kowloon Bay — 官方場地圖片"
+      }
+    }
+  ],
+  "shots-factory-hku": [
+    {
+      "url": "https://shots-factory.com/images/locations/HKU-S3.jpg",
+      "source": "https://shots-factory.com/",
+      "credit": "Shots Factory",
+      "alt": {
+        "en": "Shots Factory — HKU — Shots Factory HKU indoor golf simulator studio with TrackMan technology in Hong Kong",
+        "zh-hk": "Shots Factory — HKU — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://shots-factory.com/images/misc/Share-Image.png",
+      "source": "https://shots-factory.com/",
+      "credit": "Shots Factory",
+      "alt": {
+        "en": "Shots Factory — HKU — official venue image",
+        "zh-hk": "Shots Factory — HKU — 官方場地圖片"
+      }
+    }
+  ],
+  "shots-factory-wan-chai": [
+    {
+      "url": "https://shots-factory.com/images/locations/Wanchai-S7.jpg",
+      "source": "https://shots-factory.com/",
+      "credit": "Shots Factory",
+      "alt": {
+        "en": "Shots Factory — Wan Chai — Shots Factory Wanchai indoor golf simulator bay with TrackMan driving range alternative in Hong Kong",
+        "zh-hk": "Shots Factory — Wan Chai — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://shots-factory.com/images/misc/Share-Image.png",
+      "source": "https://shots-factory.com/",
+      "credit": "Shots Factory",
+      "alt": {
+        "en": "Shots Factory — Wan Chai — official venue image",
+        "zh-hk": "Shots Factory — Wan Chai — 官方場地圖片"
+      }
+    }
+  ],
+  "7iron-hk-wong-chuk-hang": [
+    {
+      "url": "https://usercontent.one/wp/www.7ironhk.com/wp-content/uploads/2023/04/HEADER-WCH-1-uai-258x172.jpg",
+      "source": "https://www.7ironhk.com/",
+      "credit": "7Iron HK",
+      "alt": {
+        "en": "7Iron HK — Wong Chuk Hang — official venue image",
+        "zh-hk": "7Iron HK — Wong Chuk Hang — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://usercontent.one/wp/www.7ironhk.com/wp-content/uploads/2021/07/HOME-SIGNUP-uai-258x172.jpg",
+      "source": "https://www.7ironhk.com/",
+      "credit": "7Iron HK",
+      "alt": {
+        "en": "7Iron HK — Wong Chuk Hang — official venue image",
+        "zh-hk": "7Iron HK — Wong Chuk Hang — 官方場地圖片"
+      }
+    }
+  ],
+  "golf-partners": [
+    {
+      "url": "https://www.golfpartners.com.hk/images/hero-studio.jpg",
+      "source": "https://www.golfpartners.com.hk/",
+      "credit": "Golf Partners",
+      "alt": {
+        "en": "Golf Partners — Golf Partners indoor simulator studio in Central, Hong Kong",
+        "zh-hk": "Golf Partners — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfpartners.com.hk/images/studio-bay.jpg",
+      "source": "https://www.golfpartners.com.hk/",
+      "credit": "Golf Partners",
+      "alt": {
+        "en": "Golf Partners — Hitting bay and launch monitor at Golf Partners",
+        "zh-hk": "Golf Partners — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.golfpartners.com.hk/images/studio-interior.jpg",
+      "source": "https://www.golfpartners.com.hk/",
+      "credit": "Golf Partners",
+      "alt": {
+        "en": "Golf Partners — Interior of the Golf Partners studio in Central",
+        "zh-hk": "Golf Partners — 官方場地圖片"
+      }
+    }
+  ],
+  "tour-mechanics": [
+    {
+      "url": "https://static.wixstatic.com/media/969270_d0f93ea41e854251aba44576f5d0759e%7Emv2.png/v1/fit/w_2500,h_1330,al_c/969270_d0f93ea41e854251aba44576f5d0759e%7Emv2.png",
+      "source": "https://www.tourmechanicshk.com/",
+      "credit": "Tour Mechanics",
+      "alt": {
+        "en": "Tour Mechanics — official venue image",
+        "zh-hk": "Tour Mechanics — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://static.wixstatic.com/media/969270_09d5e36c4ece40468f81306697c9b343~mv2.jpeg",
+      "source": "https://www.tourmechanicshk.com/",
+      "credit": "Tour Mechanics",
+      "alt": {
+        "en": "Tour Mechanics — official venue image",
+        "zh-hk": "Tour Mechanics — 官方場地圖片"
+      }
+    }
+  ],
+  "golftec-hong-kong": [
+    {
+      "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e97ef079d67dc7fc98039_GTHK%20HERO.jpg",
+      "source": "https://golftec.com.hk/golf-lessons/hong-kong",
+      "credit": "GOLFTEC Hong Kong",
+      "alt": {
+        "en": "GOLFTEC Hong Kong — official venue image",
+        "zh-hk": "GOLFTEC Hong Kong — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e98362ae8dd4ce55c956b_GT%20HK.jpg",
+      "source": "https://golftec.com.hk/golf-lessons/hong-kong",
+      "credit": "GOLFTEC Hong Kong",
+      "alt": {
+        "en": "GOLFTEC Hong Kong — official venue image",
+        "zh-hk": "GOLFTEC Hong Kong — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/687e7b44f908b0aea350d620/687e98309cea14c3946ca3c6_GT%20HK%20Building.jpg",
+      "source": "https://golftec.com.hk/golf-lessons/hong-kong",
+      "credit": "GOLFTEC Hong Kong",
+      "alt": {
+        "en": "GOLFTEC Hong Kong — official venue image",
+        "zh-hk": "GOLFTEC Hong Kong — 官方場地圖片"
+      }
+    }
+  ],
+  "the-golf-bay": [
+    {
+      "url": "https://static.wixstatic.com/media/3a50fc_19e13f1baeb741c297787aadaf0a5bf3%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/3a50fc_19e13f1baeb741c297787aadaf0a5bf3%7Emv2.jpg",
+      "source": "https://www.thegolfbay.hk/",
+      "credit": "The Golf Bay",
+      "alt": {
+        "en": "The Golf Bay — official venue image",
+        "zh-hk": "The Golf Bay — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://static.wixstatic.com/media/3a50fc_7f924bdecb8f456ba141d422be4eec48~mv2.jpg",
+      "source": "https://www.thegolfbay.hk/",
+      "credit": "The Golf Bay",
+      "alt": {
+        "en": "The Golf Bay — official venue image",
+        "zh-hk": "The Golf Bay — 官方場地圖片"
+      }
+    }
+  ],
+  "hong-kong-golf-club-fanling": [
+    {
+      "url": "https://hkgolfclub.org/documents/20124/234640/HKGC-Old-10-resized.jpg/05526335-d17b-5d68-b46c-8e82cb46bbd2?t=1665498965249",
+      "source": "https://hkgolfclub.org/public-golfing-access",
+      "credit": "Hong Kong Golf Club",
+      "alt": {
+        "en": "Hong Kong Golf Club — Fanling — official venue image",
+        "zh-hk": "Hong Kong Golf Club — Fanling — 官方場地圖片"
+      }
+    }
+  ],
+  "hong-kong-golf-club-deep-water-bay": [
+    {
+      "url": "https://hkgolfclub.org/documents/20124/234640/DWB-Clubhouse%281%29.jpg",
+      "source": "https://hkgolfclub.org/course",
+      "credit": "Hong Kong Golf Club",
+      "alt": {
+        "en": "Hong Kong Golf Club — Deep Water Bay — official venue image",
+        "zh-hk": "Hong Kong Golf Club — Deep Water Bay — 官方場地圖片"
+      }
+    }
+  ],
+  "hong-kong-golf-and-tennis-academy": [
+    {
+      "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/golf@2x.jpg",
+      "source": "https://www.hkgta.com/",
+      "credit": "Hong Kong Golf & Tennis Academy",
+      "alt": {
+        "en": "Hong Kong Golf & Tennis Academy — official venue image",
+        "zh-hk": "Hong Kong Golf & Tennis Academy — 官方場地圖片"
+      }
+    },
+    {
+      "url": "https://www.hkgta.com/wp-content/themes/themetrust-create/images/map/img/golf.jpg",
+      "source": "https://www.hkgta.com/",
+      "credit": "Hong Kong Golf & Tennis Academy",
+      "alt": {
+        "en": "Hong Kong Golf & Tennis Academy — official venue image",
+        "zh-hk": "Hong Kong Golf & Tennis Academy — 官方場地圖片"
+      }
+    }
   ]
 }

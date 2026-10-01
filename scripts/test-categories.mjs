@@ -36,6 +36,9 @@ const thrive = privateWellness.find(venue => venue.name.en === 'Thrive Body');
 assert.deepEqual(listingCategories(thrive).sort(), ['movement', 'recovery', 'sauna']);
 assert.equal(privateWellness.filter(venue => listingCategories(venue).includes('food')).length, 6);
 assert.equal(privateWellness.filter(venue => listingCategories(venue).includes('shops')).length, 12);
+assert.equal(listings.filter(venue => listingSports(venue).includes('golf')).length, 24, 'Golf directory should include indoor and outdoor venues');
+assert.equal(listings.filter(venue => listingSports(venue).includes('golf') && /Indoor golf/i.test(venue.tags.en.join(' '))).length, 16, 'Indoor golf coverage regressed');
+assert.equal(listings.filter(venue => listingSports(venue).includes('golf') && /Outdoor golf/i.test(venue.tags.en.join(' '))).length, 6, 'Outdoor golf coverage regressed');
 assert.equal(new Set(listings.map(listingSlug)).size, listings.length, 'Unique venue pages');
 for (const venue of listings) {
   const memberships = listingCategories(venue);

@@ -69,7 +69,7 @@ export const privateWellness: Listing[] = [
     name: { en: "Police Officers’ Club", "zh-hk": "警官會所" }, category: "movement", territory: "island",
     area: { en: "Causeway Bay", "zh-hk": "銅鑼灣" },
     description: { en: "Restricted members’ club with pool, tennis, indoor court sports, squash, fitness centre and golf simulator.", "zh-hk": "限定會員會所，設有泳池、網球、室內球類、壁球、健身室及高爾夫模擬器。" },
-    tags: { en: ["Restricted access", "Multi-sport", "Swimming"], "zh-hk": ["限制使用", "多項運動", "游泳"] }, sports: ["swimming", "tennis", "badminton", "basketball", "volleyball", "table-tennis", "squash", "gym"],
+    tags: { en: ["Restricted access", "Multi-sport", "Golf simulator"], "zh-hk": ["限制使用", "多項運動", "高爾夫模擬器"] }, sports: ["swimming", "tennis", "badminton", "basketball", "volleyball", "table-tennis", "squash", "gym", "golf"],
     address: { en: "28 Hung Hing Road, Causeway Bay", "zh-hk": "銅鑼灣鴻興道28號" }, url: "https://poc-psrc.com.hk/Card/AboutUs", source: checked,
   },
   {
