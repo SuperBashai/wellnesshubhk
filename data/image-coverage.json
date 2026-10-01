@@ -1,10 +1,8 @@
 {
   "venues": 315,
-  "visualCoverage": 315,
-  "withOfficialPhotos": 273,
-  "withCategoryArtwork": 42,
+  "withPhotos": 273,
   "photographs": 671,
-  "missingOfficialPhotos": [
+  "missing": [
     {
       "name": "SpiceBox Organics — Kennedy Town",
       "slug": "spicebox-organics-kennedy-town",
@@ -216,5 +214,5 @@
       "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
     }
   ],
-  "rightsStatus": "Official source attribution recorded. Reuse permission has not been confirmed. Category artwork is clearly labelled and is not presented as venue photography."
+  "rightsStatus": "Official source attribution recorded. Reuse permission has not been confirmed."
 }

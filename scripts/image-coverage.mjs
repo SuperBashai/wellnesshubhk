@@ -13,14 +13,6 @@ const { listings, listingSlug, listingName } = load(resolve('lib/data.ts'));
 const images = JSON.parse(readFileSync('data/venue-images.json', 'utf8'));
 const matched = listings.filter((listing) => images[listingSlug(listing)]);
 const missing = listings.filter((listing) => !images[listingSlug(listing)]).map((listing) => ({ name: listingName(listing, 'en'), slug: listingSlug(listing), source: listing.url }));
-const report = {
-  venues: listings.length,
-  visualCoverage: listings.length,
-  withOfficialPhotos: matched.length,
-  withCategoryArtwork: missing.length,
-  photographs: matched.flatMap((listing) => images[listingSlug(listing)]).length,
-  missingOfficialPhotos: missing,
-  rightsStatus: 'Official source attribution recorded. Reuse permission has not been confirmed. Category artwork is clearly labelled and is not presented as venue photography.',
-};
+const report = { venues: listings.length, withPhotos: matched.length, photographs: matched.flatMap((listing) => images[listingSlug(listing)]).length, missing, rightsStatus: 'Official source attribution recorded. Reuse permission has not been confirmed.' };
 writeFileSync('data/image-coverage.json', JSON.stringify(report, null, 2)+'\n');
 console.log(JSON.stringify(report, null, 2));
