@@ -689,6 +689,22 @@ html[lang="zh-HK"] .opinion-copy section p { text-justify: inter-character; hyph
 .opinion-next .shell > span { color: #9eb0aa; font-size: .68rem; font-weight: 730; letter-spacing: .11em; text-transform: uppercase; }
 .opinion-next a { display: grid; grid-template-columns: minmax(0, 820px) auto; justify-content: space-between; align-items: center; gap: 30px; margin-top: 22px; }
 .opinion-next strong { font-family: Georgia, "Noto Serif HK", serif; font-size: clamp(2rem, 4vw, 4rem); font-weight: 400; line-height: 1.1; }
+.editorial-places { padding: clamp(72px, 9vw, 118px) 0; border-top: 1px solid #d9d7cf; background: #f1f5f1; }
+.editorial-places-heading { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(260px, .55fr); gap: 45px; align-items: end; margin-bottom: 44px; }
+.editorial-places-heading span { color: var(--editorial-accent); font-size: .68rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.editorial-places-heading h2 { max-width: 720px; margin-top: 12px; font-family: Georgia, "Noto Serif HK", serif; font-size: clamp(2.2rem, 4.5vw, 4.4rem); font-weight: 400; line-height: 1.05; letter-spacing: -.045em; }
+.editorial-places-heading > p { color: var(--muted); font-size: .9rem; line-height: 1.7; }
+.editorial-place-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.editorial-place-card { overflow: hidden; border: 1px solid #d6dfda; border-radius: 16px; background: #fff; transition: transform .25s ease, box-shadow .25s ease; }
+.editorial-place-card:hover { transform: translateY(-4px); box-shadow: 0 18px 45px rgba(24, 49, 41, .1); }
+.editorial-place-media { position: relative; display: grid; place-items: center; aspect-ratio: 4 / 3; overflow: hidden; background: linear-gradient(135deg, #dcebe5, #eef3ed); color: var(--jade); font-size: .68rem; font-weight: 800; letter-spacing: .13em; }
+.editorial-place-media img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+.editorial-place-card:hover .editorial-place-media img { transform: scale(1.03); }
+.editorial-place-copy { padding: 24px 24px 26px; }
+.editorial-place-copy > span { display: flex; align-items: center; gap: 7px; color: var(--editorial-accent); font-size: .7rem; font-weight: 740; letter-spacing: .07em; text-transform: uppercase; }
+.editorial-place-copy h3 { margin-top: 13px; font-family: Georgia, "Noto Serif HK", serif; font-size: 1.45rem; font-weight: 400; line-height: 1.18; }
+.editorial-place-copy p { margin-top: 13px; color: var(--muted); font-size: .79rem; line-height: 1.62; }
+.editorial-place-copy strong { display: inline-flex; align-items: center; gap: 7px; margin-top: 22px; color: var(--ink); font-size: .72rem; }
 
 @media (max-width: 780px) {
   .editorial-masthead { padding-top: 45px; }
@@ -710,6 +726,8 @@ html[lang="zh-HK"] .opinion-copy section p { text-justify: inter-character; hyph
   .opinion-body aside { max-width: 250px; }
   .opinion-copy section p { font-size: 1.1rem; line-height: 1.82; }
   .opinion-next a { grid-template-columns: 1fr auto; }
+  .editorial-places-heading { grid-template-columns: 1fr; gap: 20px; }
+  .editorial-place-grid { grid-template-columns: 1fr; }
 }
 
 /* Keep the magazine index overrides after the legacy editorial rules. */

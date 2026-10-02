@@ -1,5 +1,5 @@
 import type { LocalText } from "./data";
-import { editorialFieldNotes, editorialLongform } from "./editorial-longform";
+import { readableEditorials, readableHeadlines, readableReadTimes } from "./editorial-readable";
 import { newEditorials } from "./editorials-new";
 
 export type Editorial = {
@@ -191,7 +191,9 @@ const shortEditorials: Editorial[] = [
 
 export const editorials: Editorial[] = [...shortEditorials, ...newEditorials].map((article) => ({
   ...article,
-  sections: [...article.sections, ...(editorialLongform[article.slug] ?? []), ...(editorialFieldNotes[article.slug] ?? [])],
+  ...(readableHeadlines[article.slug] ?? {}),
+  readTime: readableReadTimes[article.slug] ?? article.readTime,
+  sections: readableEditorials[article.slug] ?? article.sections,
 }));
 
 export function getEditorial(slug: string) {
