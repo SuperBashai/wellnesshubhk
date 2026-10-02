@@ -1,22 +1,12 @@
 {
   "venues": 315,
-  "withPhotos": 273,
-  "photographs": 671,
+  "withPhotos": 282,
+  "photographs": 687,
   "missing": [
-    {
-      "name": "SpiceBox Organics — Kennedy Town",
-      "slug": "spicebox-organics-kennedy-town",
-      "source": "https://spiceboxorganics.com/home/"
-    },
     {
       "name": "Organic Mama",
       "slug": "organic-mama",
       "source": "https://www.organicmama.com.hk/en/"
-    },
-    {
-      "name": "Sauna Rituals at The Hideout",
-      "slug": "sauna-rituals-at-the-hideout",
-      "source": "https://thesaunarituals.com/"
     },
     {
       "name": "Re:set by PURE — Lee Theatre Plaza",
@@ -49,16 +39,6 @@
       "source": "https://www.slowood.hk/pages/connect-to-slowood"
     },
     {
-      "name": "SpiceBox Organics — Mid-Levels",
-      "slug": "spicebox-organics-mid-levels",
-      "source": "https://spiceboxorganics.com/home/"
-    },
-    {
-      "name": "Live Zero",
-      "slug": "live-zero",
-      "source": "https://livezero.hk/pages/location"
-    },
-    {
       "name": "FoodCraft",
       "slug": "foodcraft",
       "source": "https://www.foodcraft.hk/pages/contact-us"
@@ -67,11 +47,6 @@
       "name": "Bay Pickle — D·PARK",
       "slug": "bay-pickle-d-park",
       "source": "https://tsuenwan.thebaypickle.com/memberships/7377"
-    },
-    {
-      "name": "Bay Pickle — MCP Discovery",
-      "slug": "bay-pickle-mcp-discovery",
-      "source": "https://www.metrocityplaza.com/en/discovery/shopping"
     },
     {
       "name": "Hong Kong Football Club",
@@ -122,26 +97,6 @@
       "name": "Hu Fa Kuang Sports Centre",
       "slug": "hu-fa-kuang-sports-centre",
       "source": "https://www.cityu.edu.hk/sds/physical-education-wellness-and-sports/sports-and-recreation-facilities/general-information"
-    },
-    {
-      "name": "URSUS Fitness",
-      "slug": "ursus-fitness",
-      "source": "https://www.ursusfitness.com/hyrox-training-club"
-    },
-    {
-      "name": "Be Earth — Central",
-      "slug": "be-earth-central",
-      "source": "https://www.beearth.com.hk/studio/central"
-    },
-    {
-      "name": "Hi Tee Golf — San Po Kong",
-      "slug": "hi-tee-golf-san-po-kong",
-      "source": "https://hiteegolf.com/contact_us/"
-    },
-    {
-      "name": "Hi Tee Golf — Quarry Bay",
-      "slug": "hi-tee-golf-quarry-bay",
-      "source": "https://hiteegolf.com/contact_us/"
     },
     {
       "name": "Jockey Club Kau Sai Chau Public Golf Course",

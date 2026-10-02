@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T14:26:58.277Z",
+  "generatedAt": "2026-10-02T05:20:02.998Z",
   "sources": {
     "https://www.kinship.hk/": {
       "ok": true,
@@ -203,7 +203,7 @@
     "https://spiceboxorganics.com/home/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511000794829709314",
+      "taskId": "7511656224786529281",
       "venues": [
         {
           "slug": "spicebox-organics-kennedy-town",
@@ -331,7 +331,7 @@
     "https://www.organicmama.com.hk/en/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001104449062913",
+      "taskId": "7511656347683836929",
       "venues": [
         {
           "slug": "organic-mama",
@@ -351,7 +351,7 @@
           "score": 100
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6abb86127a1137e3bd47d8f6/1080x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6abb86127a1137e3bd47d8f6/1080x.webp?source_format=png",
           "kind": "img",
           "label": "Better Than Foods Organic Pasta Spaghetti (385g) (163629)",
           "width": 0,
@@ -359,7 +359,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6abb8632f6c20ddecb688ae6/3860x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6abb8632f6c20ddecb688ae6/3860x.webp?source_format=png",
           "kind": "img",
           "label": "Better Than Foods Organic Pasta Spaghetti (385g) (163629)",
           "width": 0,
@@ -367,7 +367,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a964f2b590f556e7edd2048/1080x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a964f2b590f556e7edd2048/1080x.webp?source_format=png",
           "kind": "img",
           "label": "Better than foods Organic High Protein Rice (500g) (163625)",
           "width": 0,
@@ -375,7 +375,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a9646b61ecb7aba935f6154/3860x.jpg?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a9646b61ecb7aba935f6154/3860x.webp?source_format=jpg",
           "kind": "img",
           "label": "Better than foods Organic High Protein Rice (500g) (163625)",
           "width": 0,
@@ -383,7 +383,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a94fe9146c68b73caf27b69/1080x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a94fe9146c68b73caf27b69/1080x.webp?source_format=png",
           "kind": "img",
           "label": "Urtekram Organic Aloe Vera Crystal Deo (50mL) (AC368)",
           "width": 0,
@@ -391,7 +391,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72f837e9321e12c0b7e9a6/1080x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72f837e9321e12c0b7e9a6/1080x.webp?source_format=png",
           "kind": "img",
           "label": "Boons Organic High Protein Chickpea Brown Rice Cracker (60g) (163311)",
           "width": 0,
@@ -399,7 +399,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72b9575781d2422863b9cf/3860x.jpg?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72b9575781d2422863b9cf/3860x.webp?source_format=jpg",
           "kind": "img",
           "label": "Boons Organic High Protein Chickpea Brown Rice Cracker (60g) (163311)",
           "width": 0,
@@ -407,7 +407,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72f82a24f03de4b794d1e4/1080x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72f82a24f03de4b794d1e4/1080x.webp?source_format=png",
           "kind": "img",
           "label": "BOONS Organic High Protein Mung Bean Brown Rice Cracker (60g) (163310)",
           "width": 0,
@@ -415,7 +415,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72b5ecea535a3138e95e55/3860x.jpg?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a72b5ecea535a3138e95e55/3860x.webp?source_format=jpg",
           "kind": "img",
           "label": "BOONS Organic High Protein Mung Bean Brown Rice Cracker (60g) (163310)",
           "width": 0,
@@ -423,7 +423,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a4ca68c5bfa005283e3e222/375x.jpg?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a4ca68c5bfa005283e3e222/375x.webp?source_format=jpg",
           "kind": "img",
           "label": "BECKS COCOA - LOW-FAT GLUTEN-FREE ORGANIC CRIOLLO COCOA POWDERED  (200g) (24002)",
           "width": 0,
@@ -431,7 +431,7 @@
           "score": 48
         },
         {
-          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a4cab95f953a93332f10606/3860x.png?",
+          "url": "https://shoplineimg.com/5dd74a72d9d3e300123900ee/6a4cab95f953a93332f10606/3860x.webp?source_format=png",
           "kind": "img",
           "label": "BECKS COCOA - LOW-FAT GLUTEN-FREE ORGANIC CRIOLLO COCOA POWDERED  (200g) (24002)",
           "width": 0,
@@ -447,7 +447,7 @@
         "hourSnippets": [
           "mone-free Boneless Chicken Thigh Leg (2kg) (MA270) HK$158",
           "Monk Fruit Erythritol Blend 1kg （84302） HK$96",
-          "mone-free Frozen Products 🐷🐔🐮 ADD TO CART Caseificio Valcolatte Frozen Burrata (125g) (MA271) HK$42",
+          "mone-free Frozen Products 🐷🐔🐮 ADD TO CART Sign in/up now Caseificio Valcolatte Frozen Burrata (125g) (MA271) HK$42",
           "mon Wild Canadian Sockeye Salmon (6 x 400g) (MA021HK6) HK$866",
           "Satay Sliced Chicken (Frozen -18°C) (250g) (42510) HK$58",
           "mongrass Chicken Skewers (Frozen -18°C) (280g) (42516) HK$68",
@@ -581,7 +581,7 @@
     "https://thesaunarituals.com/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001150842256385",
+      "taskId": "7511656425165161473",
       "venues": [
         {
           "slug": "sauna-rituals-at-the-hideout",
@@ -591,9 +591,68 @@
           "needsHours": false
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/694294984fe3d7d0cce56ade/157694558_0bee9034-35f7-4325-9b72-0c8e590bedfa.png",
+          "kind": "img",
+          "label": "Sauna interior with scenic view",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/4d0ba694c_sauna_pics_outside_3.jpg",
+          "kind": "img",
+          "label": "Sauna exterior at sunset",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/694294984fe3d7d0cce56ade/9b2205cc0_sauna_coldplunge_small_2.png",
+          "kind": "img",
+          "label": "Sauna and cold plunge facility",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/7f2af2db1_sauna_pics_inside_2.jpg",
+          "kind": "img",
+          "label": "Inside the sauna",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/5e085bc87_sauna_pics_inside_3.jpg",
+          "kind": "img",
+          "label": "Sauna interior with view",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/a8b7d99fc_sauna_pics_inside.jpg",
+          "kind": "img",
+          "label": "Sauna interior sunset view",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/694294984fe3d7d0cce56ade/140ab3af2_ChatGPTImageMar102026at01_41_48PM.png",
+          "kind": "img",
+          "label": "Ice bath cold plunge facility",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
       "contacts": {
-        "phones": [],
+        "phones": [
+          "+852 5117 0051"
+        ],
         "hourSnippets": []
       }
     },
@@ -813,7 +872,7 @@
     "https://www.pure-360.com.hk/en/contact-us/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001206991368193",
+      "taskId": "7511656469268292609",
       "venues": [
         {
           "slug": "re-set-by-pure-lee-theatre-plaza",
@@ -910,7 +969,7 @@
     "https://www.slowood.hk/pages/connect-to-slowood": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001262263912449",
+      "taskId": "7511656516710045697",
       "venues": [
         {
           "slug": "slowood-kennedy-town",
@@ -1050,16 +1109,16 @@
         "hourSnippets": [
           "mond Milk Nutty Bruce from $36 00 from $36",
           "Wedding Voucher In-store Voucher E-Voucher Quick shop Add to cart Palo Santo Sticks per 50g bundles Slowood $65 00 $65",
-          "Opening Hours: Mon to Sun 07:00 - 23:00 Phone: 9855 1128 Kennedy Town Venue: Shop 2-3, G/F, The Hudson, 11 Davis Street, Kennedy Town, Hong Kong Opening Hours: Mon to Sun 11:00 - 21:00 Phone: 6468 6128 ----- Central Market Venue: Sho",
-          "Opening Hours: Mon to Thur, Sun 11am - 9pm Fri, Sat, Eve of Public Holidays 11am - 10pm Phone: 9860 7047 ----- Causeway Bay Venue: Shop No",
-          "Opening Hours: Mon to Sun 11:00 - 21:30 Phone: 6309 1559 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -- Press & Media: hello@slowood"
+          "Opening Hours: &nbsp; Mon to Sun 07:00 - 23:00 Phone: 9855 1128 &nbsp; Kennedy Town Venue: Shop 2-3, G/F, The Hudson, 11 Davis Street, Kennedy Town, Hong Kong Opening Hours: &nbsp; Mon to Sun 11:00 - 21:00 Phone: 6468 6128&nbsp; &nbs",
+          "Opening Hours: &nbsp; Mon to Thur, Sun 11am - 9pm Fri, Sat, Eve of Public Holidays 11am - 10pm Phone: 9860 7047 &nbsp; &nbsp; &nbsp; ----- Causeway Bay Venue: Shop No",
+          "Opening Hours: &nbsp; Mon to Sun 11:00 - 21:30 Phone: 6309 1559 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- -- Press & Media: hello@slowood"
         ]
       }
     },
     "https://livezero.hk/pages/location": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001275513748481",
+      "taskId": "7511656631881490433",
       "venues": [
         {
           "slug": "live-zero",
@@ -1093,6 +1152,14 @@
           "width": 0,
           "height": 0,
           "score": 48
+        },
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0726/1339/6765/files/Dondy_production_wp_bg_img_dont_delete.jpg?v=1746507841",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
         }
       ],
       "contacts": {
@@ -1101,14 +1168,15 @@
           "+852 94333394"
         ],
         "hourSnippets": [
-          "Monday: Closed Tuesday - Saturday: 10am - 7pm, Sunday: 10am - 6pm Closed for lunch: 2-3pm Public holidays: Usually early close or closed"
+          "Monsters ModiBodi Nesti Dante Onyx Containers Pura Sienna Silverette Stasher W&P Shipping & Returns Blog Eco Info 環保智識 Featured Articles 報導 Food Recipes 食譜 Home & Personal Hygiene 家居及個人護理 DIY Zero Waste Living Cart ( 0 ) Ca",
+          "Monday: Closed Tuesday - Saturday: 10am - 7pm,&nbsp;Sunday: 10am - 6pm Closed for lunch: 2-3pm Public holidays: Usually early close or closed"
         ]
       }
     },
     "https://www.foodcraft.hk/pages/contact-us": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001307751171073",
+      "taskId": "7511656718892324865",
       "venues": [
         {
           "slug": "foodcraft",
@@ -1293,7 +1361,7 @@
     "https://www.metrocityplaza.com/en/discovery/shopping": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001379234666498",
+      "taskId": "7511657067980045313",
       "venues": [
         {
           "slug": "bay-pickle-mcp-discovery",
@@ -1311,11 +1379,104 @@
           "width": 0,
           "height": 0,
           "score": 118
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/assets/common/images/hcoin/hcoin_join_en.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/assets/common/images/hcoin/hcoin_app.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/assets/common/images/download_ios.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/assets/common/images/download_android.png",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/close.f7196b4a04fdacb73e8a.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/hcoin_app.e51372f984e979a5ff47.png",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/shopping_banner_mobile.f7a41128f20fb48784cc.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/en/discovery/shopping_banner.3befb66f34926310594a.jpg",
+          "kind": "background",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.metrocityplaza.com/xml/images/shop/590/7X1A3723.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.metrocityplaza.com/xml/images/shop/691/7X1A1761.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.metrocityplaza.com/xml/images/shop/581/mcp3_Shop",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
         }
       ],
       "contacts": {
-        "phones": [],
-        "hourSnippets": []
+        "phones": [
+          "+85229088338",
+          "2908 8338"
+        ],
+        "hourSnippets": [
+          "SUN LIFE Shop 214A Life Kan Shop 134B A"
+        ]
       }
     },
     "https://212hk.com/about-us/": {
@@ -3173,7 +3334,7 @@
     "https://www.hkfc.com/facilities/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001961957721089",
+      "taskId": "7511657167305328641",
       "venues": [
         {
           "slug": "hong-kong-football-club",
@@ -3288,7 +3449,7 @@
         ],
         "hourSnippets": [
           "Opening Hours Monday to Friday: 10:00am - 6:00pm Saturday, Sunday and Public Holidays: 9:00am - 7:00pm (During summer holidays) The Club has two separate Children’s Playrooms located on the first floor",
-          "Opening Hours Daily, 7:00am to 11:00pm Sauna and Steam Room Opening Hours Daily, 7:00am to 11:00pm There are three separate sets of male and female changing rooms, in three main sports areas of the Club: For outdoor sports near the I",
+          "Opening Hours Daily, 7:00am to 11:00pm Sauna and Steam Room Opening Hours Daily, 7:00am to 11:00pm There are three separate sets of male and female changing rooms, in three main sports areas of the Club:&nbsp; For outdoor sports near",
           "Opening Hours Monday to Friday: 10:30am to 8:30pm (Lunch hour: 2:30pm – 3:30pm) Saturday: 10am to 8pm Sunday & Public Holidays: 9:30am to 7:30pm Located on the Ground Floor within the reception area, the Club Shop caters for every sp",
           "Opening Hours Monday to Friday: 10:30am to 8:30pm Saturday: 10am to 8pm Sunday & Public Holidays: 9:30am to 7:30pm The 182-square-metre Library has more than 18,000 books for members to borrow",
           "Opening Hours Monday to Friday: 10:30 -8:30pm Saturday: 10:00 -8:00pm Sunday & Public Holiday: 9:30 – 7:30pm Booking & Enquiries Tel: 2830 9587 Email: library@hkfc"
@@ -3298,7 +3459,7 @@
     "https://www.dbrc.hk/en/sport.html?club=1&id=1438407458&type=1": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511001989392674817",
+      "taskId": "7511657222162638849",
       "venues": [
         {
           "slug": "discovery-bay-recreation-club",
@@ -3310,7 +3471,7 @@
       ],
       "images": [
         {
-          "url": "https://www.dbrc.hk/img/pop_close.png",
+          "url": "https://www.dbrc.hk/img/pop_close.png?act=ZJSl1wekOvpamRtdiBgv",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3318,7 +3479,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/img/bnt_img.png",
+          "url": "https://www.dbrc.hk/img/bnt_img.png?act=EXzYq8mk7HmgsePZvkZQ",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3326,7 +3487,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/img/sport_img_2.png",
+          "url": "https://www.dbrc.hk/img/sport_img_2.png?act=WchGEZUM4JQBQxcOkxje",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3334,7 +3495,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/img/sport_slide.png",
+          "url": "https://www.dbrc.hk/img/slide_right.png?act=XLVtmRMWxIU8eApcvwYl",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3342,7 +3503,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/gallery-sport_page-f-b13ce89765ee5f3085be279ba498f998.jpg?w=723&h=484",
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-7239541a28ab421c50572cb36e6f9d76.jpg?w=723&h=484?act=V70rjPlfl0BHEjcB1WA4",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3350,7 +3511,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/gallery-sport_page-f-833543b2119ef71f28ab6ca7ae95afb8.jpg?w=723&h=484",
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-b13ce89765ee5f3085be279ba498f998.jpg?w=723&h=484?act=qOW3IrpNtjFGJhA9lRmn",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3358,7 +3519,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/gallery-sport_page-f-7239541a28ab421c50572cb36e6f9d76.jpg?w=723&h=484",
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-833543b2119ef71f28ab6ca7ae95afb8.jpg?w=723&h=484?act=D2YRkbgnpZdNIw952IFk",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3366,7 +3527,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/newsletter-photo-e5fc21d4f09c0a5a218ca7cd3bdc8bc8.jpg",
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-7239541a28ab421c50572cb36e6f9d76.jpg?w=723&h=484?act=YrbwIW8kHnbFZ8fOrjw8",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3374,7 +3535,7 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/img/up2top.png",
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-b13ce89765ee5f3085be279ba498f998.jpg?w=723&h=484?act=y4exXuanrZcU5LBBK2VL",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -3382,8 +3543,24 @@
           "score": 30
         },
         {
-          "url": "https://www.dbrc.hk/img/sport_banner.png",
-          "kind": "background",
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-833543b2119ef71f28ab6ca7ae95afb8.jpg?w=723&h=484?act=H854UCv14DCYS8qCTyLT",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/gallery-sport_page-f-7239541a28ab421c50572cb36e6f9d76.jpg?w=723&h=484?act=citcCCx1R4akDrhXx2eb",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        },
+        {
+          "url": "https://www.dbrc.hk/img/slide_left.png?act=PaOZrL6mPGOpx6gK0VjU",
+          "kind": "img",
           "label": "",
           "width": 0,
           "height": 0,
@@ -3648,7 +3825,7 @@
     "https://online.healthshop.com.hk/default/place-order": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511002084074867713",
+      "taskId": "7511657303804766209",
       "venues": [
         {
           "slug": "green-concepts-health-shop",
@@ -3667,7 +3844,7 @@
           "6464-2217"
         ],
         "hourSnippets": [
-          "mone Support - - - - Eye Support - - - - Pets Products - - Filter Systems - - - - Water Filter - - - - Air Filter - - Discount Zone Search Call Support (852) 2882-4848 Shopping Cart 0 HK$0",
+          "mone Support - - - - Eye Support - - - - Pets Products - - Filter Systems - - - - Water Filter - - - - Air Filter - - Discount Zone Search Call Support (852) 2882-4848 Shopping Cart 0 0 item HK$0",
           "Monday to Friday, 10:00am to 7:00pm Saturday, 9:00am to 2:00pm Sunday & All Public Holidays CLOSE (3) WALK IN Green Concepts Health Shop 2/F, Prosperous Commercial Building, 54 - 58 Jardine's Bazaar, Causeway Bay, H",
           "Opening Hours : 10:00am - 7:00pm (Mon - Fri) 9:00am - 2:00pm (Sat) Sunday & All Public Holidays CLOSE ↑ Back to Top Follow Us Facebook Shopping Guide Terms of Service Place Order Delivery & Payment Privacy Policy Quick Link My Accoun",
           "Opening Hours : 10am - 7pm (Mon - Fri) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 9am - 2pm (Sat) Closed on Sunday&nbsp;and public holidays Tel : 2882-4848 Fax : 2890-8469"
@@ -3856,7 +4033,7 @@
     "https://www.cityu.edu.hk/sds/physical-education-wellness-and-sports/sports-and-recreation-facilities/general-information": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511002149917064193",
+      "taskId": "7511657528191645697",
       "venues": [
         {
           "slug": "hu-fa-kuang-sports-centre",
@@ -3866,10 +4043,42 @@
           "needsHours": false
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "url": "https://www.cityu.edu.hk/sds/-/media/project/cityuhk/admin-department/sds/files/public/2023-09/pesportsbanner22.jpg?rev=3ece8b77c5f5421ca73d6932343b3575&hash=0E7715BA718643C2C03899332EBA8EC2",
+          "kind": "img",
+          "label": "pesportsbanner22",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.cityu.edu.hk/image/global/navbar-toggler.svg",
+          "kind": "img",
+          "label": "In this section",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
       "contacts": {
-        "phones": [],
-        "hourSnippets": []
+        "phones": [
+          "2024-2025",
+          "2025-2026",
+          "2026-2027",
+          "3442 8025",
+          "3442 0315",
+          "3442 8058",
+          "3442 8057"
+        ],
+        "hourSnippets": [
+          "Opening Hours for the CityUHK Swimming Pool &nbsp; (announced on 27 July 2026) Application for CityUHK Sports Complex User Card &nbsp;(announced on 2 July 2026) Important Update to the Sports Facilities Booking & Information System (",
+          "Opening Hours&nbsp; Remarks Outdoor Basketball Court Monday to Sunday * 09:00 - 21:00 For location details and facilities charges, please refer to: Booking Procedures and Charges &nbsp; Facilities at the Hu Fa Kuang Sports Centre, Jo",
+          "Monday to Sunday* 08:00 - 22:00 &nbsp; The users of the Physical Fitness Rooms (staff dependent at the age of 15 or above) must have the eligibility of using the Physical Fitness Rooms",
+          "Monday to Sunday* 09:00 - 22:00 For location details and facilities charges, please refer to: Booking Procedures and Charges Practice Gymnasium 4 (189 sqm) 5/F Table Tennis Courts Monday to Sunday* 09:00 - 22:00 2/F Squash&nbs",
+          "Monday to Sunday* 09:00 - 22:00 G/F Practice Gymnasium 1&nbsp; (108 sqm) Monday to Sunday * 09:00 - 22:00 Practice Gymnasium 2&nbsp; (63 sqm) B1/F Jogging Track&nbsp;(Indoor 118m, connects to a 1",
+          "Monday to Sunday* 08:00 - 22:00&nbsp; &nbsp; Facilities at the Main Sports Hall: B2/F Badminton Courts Monday to Sunday * 09:00 - 22:00 For location details and facilities charges, please refer to: Booking Procedures and Charg"
+        ]
       }
     },
     "https://www.ursusfitness.com/hyrox-training-club": {
@@ -5815,7 +6024,7 @@
           "needsHours": false
         }
       ],
-      "error": "Target returned 404"
+      "error": "Target returned no content"
     },
     "https://www.golfzonhk.com/": {
       "ok": true,
@@ -6494,7 +6703,9 @@
       }
     },
     "https://www.kscgolf.org.hk/eng/": {
-      "ok": false,
+      "ok": true,
+      "statusCode": 200,
+      "taskId": "7511658010565941249",
       "venues": [
         {
           "slug": "jockey-club-kau-sai-chau-public-golf-course",
@@ -6504,7 +6715,114 @@
           "needsHours": false
         }
       ],
-      "error": "Target returned no content"
+      "images": [
+        {
+          "url": "https://www.kscgolf.org.hk/media/2147/n1-2.jpg",
+          "kind": "img",
+          "label": "n1-2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2163/n18-2.jpg",
+          "kind": "img",
+          "label": "n18-2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2148/n2.jpg",
+          "kind": "img",
+          "label": "n2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2149/n3.jpg",
+          "kind": "img",
+          "label": "n3.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2150/n4-2.jpg",
+          "kind": "img",
+          "label": "n4-2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2151/n5-2.jpg",
+          "kind": "img",
+          "label": "n5-2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2153/n7-2.jpg",
+          "kind": "img",
+          "label": "n7-2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2152/n6-1.jpg",
+          "kind": "img",
+          "label": "n6-1.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2154/n8-1.jpg",
+          "kind": "img",
+          "label": "n8-1.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2156/n10-1.jpg",
+          "kind": "img",
+          "label": "n10-1.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2155/n9-2-2.jpg",
+          "kind": "img",
+          "label": "n9-2-2.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        },
+        {
+          "url": "https://www.kscgolf.org.hk/media/2157/n11.jpg",
+          "kind": "img",
+          "label": "n11.jpg",
+          "width": 0,
+          "height": 0,
+          "score": 48
+        }
+      ],
+      "contacts": {
+        "phones": [
+          "2791 3380"
+        ],
+        "hourSnippets": [
+          "Monitoring Community 繁 Current Weather 29°C Current Weather 29°C UV Intensity moderate Air Temp 27 - 33°C Humidity 85% Last Update 02/10/2026 1:16pm Golf Book A Tee Time Daily from 9:30am to 4:30pm and from 5:00pm to 8:00pm",
+          "Sunday, 4 October 2026 View All Highlights Facilities and Services Facilities Dining & Events Pro Shop Facilities Dining & Events Pro Shop Location Going to KSC You may drive or come by public transport to get to Sai Kung town",
+          "Monitoring Community Projects © All rights reserved 1995 - 2026 The Jockey Club Kau Sai Chau Public Golf Course Contact us Privacy Policy Statement EM&A Q&A - Registration"
+        ]
+      }
     },
     "https://hkgolfclub.org/public-golfing-access": {
       "ok": true,
@@ -6748,14 +7066,14 @@
     "https://www.cwbgolf.org/golf-club/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511351102428691457",
+      "taskId": "7511658151653971969",
       "venues": [
         {
           "slug": "the-clearwater-bay-golf-and-country-club",
           "name": "The Clearwater Bay Golf & Country Club",
           "needsImages": true,
-          "needsPhone": true,
-          "needsHours": true
+          "needsPhone": false,
+          "needsHours": false
         }
       ],
       "images": [
@@ -6784,25 +7102,33 @@
           "2335 3700"
         ],
         "hourSnippets": [
-          "Wednesday) with tee-off time from 9:30am to 11:30am",
-          "months) may drive a golf cart with a valid international driving permit or domestic driving permit/licence, provided that they are 18 years and above"
+          "Wednesday) with tee-off time from 9:30am to 11:30am"
         ]
       }
     },
     "https://www.dbgc.hk/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511351134225710081",
+      "taskId": "7511658274190575617",
       "venues": [
         {
           "slug": "discovery-bay-golf-club",
           "name": "Discovery Bay Golf Club",
           "needsImages": true,
-          "needsPhone": true,
-          "needsHours": true
+          "needsPhone": false,
+          "needsHours": false
         }
       ],
-      "images": [],
+      "images": [
+        {
+          "url": "https://www.dbgc.hk/ICMServlet/download/387-7526-23876/notice_02092026.jpg",
+          "kind": "img",
+          "label": "",
+          "width": 0,
+          "height": 0,
+          "score": 30
+        }
+      ],
       "contacts": {
         "phones": [],
         "hourSnippets": []
@@ -7204,7 +7530,7 @@
     "https://feteup.com/location/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511431931012100097",
+      "taskId": "7511658381828968449",
       "venues": [
         {
           "slug": "fete-up-basehall-2",
@@ -7324,7 +7650,7 @@
     "https://www.lockcha.com/locations/": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511431961089459201",
+      "taskId": "7511658435537036289",
       "venues": [
         {
           "slug": "lockcha-tea-house-tai-kwun",
@@ -7332,24 +7658,9 @@
           "needsImages": true,
           "needsPhone": false,
           "needsHours": false
-        },
-        {
-          "slug": "lockcha-tea-house-hong-kong-park",
-          "name": "LockCha Tea House — Hong Kong Park",
-          "needsImages": true,
-          "needsPhone": false,
-          "needsHours": false
         }
       ],
       "images": [
-        {
-          "url": "https://images.ctfassets.net/o0crhmcwhbe1/4tYhtd1oFubSMzNL9t5npp/63fb6ec6ef0bb0dc033b0b5e119328b9/location-admiralty.jpg?w=240&h=240&fl=progressive&q=50&fm=jpg",
-          "kind": "img",
-          "label": "Lockcha Hong Kong Park (Teahouse)",
-          "width": 0,
-          "height": 0,
-          "score": 48
-        },
         {
           "url": "https://images.ctfassets.net/o0crhmcwhbe1/4tYhtd1oFubSMzNL9t5npp/63fb6ec6ef0bb0dc033b0b5e119328b9/location-admiralty.jpg?w=480&h=480&fl=progressive&q=50&fm=jpg",
           "kind": "img",
@@ -7363,7 +7674,7 @@
         "phones": [
           "+852 2276-5777",
           "+852 2801-7177",
-          "2003-2025"
+          "2003-2026"
         ],
         "hourSnippets": []
       }
@@ -7708,7 +8019,7 @@
     "https://www.twah.org.hk/en/ancillary-services/adventist-restaurant": {
       "ok": true,
       "statusCode": 200,
-      "taskId": "7511432148050515969",
+      "taskId": "7511658483830282241",
       "venues": [
         {
           "slug": "adventist-restaurant-tsuen-wan",
@@ -7768,7 +8079,7 @@
           "score": 30
         },
         {
-          "url": "https://www.twah.org.hk/storage/resized/2557/160x160/IMG_4409-2.JPG",
+          "url": "https://www.twah.org.hk/storage/webp/resized/2557/160x160/IMG_4409-2.webp",
           "kind": "img",
           "label": "IMG_4409",
           "width": 0,
@@ -7776,7 +8087,7 @@
           "score": 30
         },
         {
-          "url": "https://www.twah.org.hk/storage/resized/2682/160x160/shutterstock_2265681939.jpg",
+          "url": "https://www.twah.org.hk/storage/webp/resized/2682/160x160/shutterstock_2265681939.webp",
           "kind": "img",
           "label": "shutterstock_2265681939",
           "width": 0,
@@ -7792,7 +8103,7 @@
           "score": 30
         },
         {
-          "url": "https://www.twah.org.hk/storage/resized/2559/1100x/Untitled",
+          "url": "https://www.twah.org.hk/storage/webp/resized/2559/1100x/Untitled",
           "kind": "img",
           "label": "Untitled Design1",
           "width": 0,
@@ -7800,7 +8111,7 @@
           "score": 30
         },
         {
-          "url": "https://www.twah.org.hk/storage/media/Footer/JCI_Seal_Accredited_6in_RGB.2026",
+          "url": "https://www.twah.org.hk/storage/webp/media/Footer/JCI_Seal_Accredited_6in_RGB.2026",
           "kind": "img",
           "label": "",
           "width": 0,
@@ -7808,7 +8119,7 @@
           "score": 30
         },
         {
-          "url": "https://www.twah.org.hk/storage/media/Footer/footer-credit-internation_network_of_hphhs@2x.jpg",
+          "url": "https://www.twah.org.hk/storage/webp/media/Footer/footer-credit-internation_network_of_hphhs@2x.webp",
           "kind": "img",
           "label": "",
           "width": 0,

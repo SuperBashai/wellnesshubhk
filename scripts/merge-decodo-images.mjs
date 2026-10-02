@@ -112,6 +112,42 @@ const recoveredSelectionsBySlug = {
   "o-rin-quarry-bay": ["https://www.orin.com.hk/pilates/", [0, 3, 4]],
   "o-rin-tsim-sha-tsui": ["https://www.orin.com.hk/pilates/", [0, 3, 4]],
   "cafe330-kwai-chung-hospital": ["https://www.eshop330.hk/pages/in-store-pickup", [0]],
+  "sauna-rituals-at-the-hideout": ["https://thesaunarituals.com/", [1, 3, 4, 5]],
+};
+
+// Stable local copies of photographs published by verified venue-owned social
+// accounts. Each source points to the exact first-party post, rather than an
+// expiring social CDN URL. Reposts, influencer images and ambiguous branches
+// are intentionally excluded.
+const officialSocialSelectionsBySlug = {
+  "spicebox-organics-kennedy-town": [
+    ["/venue-social/spicebox-organics-store.jpg", "https://www.instagram.com/reel/Dd8MOIfPDvK/"],
+  ],
+  "spicebox-organics-mid-levels": [
+    ["/venue-social/spicebox-organics-store.jpg", "https://www.instagram.com/reel/Dd8MOIfPDvK/"],
+  ],
+  "live-zero": [
+    ["/venue-social/live-zero-refill-station.jpg", "https://www.instagram.com/reel/DOp4Qlwka39/"],
+  ],
+  "bay-pickle-mcp-discovery": [
+    ["/venue-social/bay-pickle-mcp-court.jpg", "https://www.instagram.com/reel/Dd5bdZqpVv3/"],
+  ],
+  "ursus-fitness": [
+    ["/venue-social/ursus-fitness-gym.jpg", "https://www.instagram.com/p/DT16g65Ca6p/"],
+    ["/venue-social/ursus-fitness-training.jpg", "https://www.instagram.com/p/DUAVzmsCdT0/"],
+    ["/venue-social/ursus-fitness-conditioning.jpg", "https://www.instagram.com/p/DTt5ZPvCVD-/"],
+  ],
+  "be-earth-central": [
+    ["/venue-social/be-earth-reformer-studio.jpg", "https://www.instagram.com/p/Ddoa778jRrz/"],
+    ["/venue-social/be-earth-trapeze-yoga.jpg", "https://www.instagram.com/p/DdJeB5SFCg_/"],
+    ["/venue-social/be-earth-yoga-workshop.jpg", "https://www.instagram.com/p/DcqTSYElOVK/"],
+  ],
+  "hi-tee-golf-san-po-kong": [
+    ["/venue-social/hi-tee-golf-indoor-bays.jpg", "https://www.instagram.com/p/DY13eUoP8Bk/"],
+  ],
+  "hi-tee-golf-quarry-bay": [
+    ["/venue-social/hi-tee-golf-indoor-bays.jpg", "https://www.instagram.com/p/DY13eUoP8Bk/"],
+  ],
 };
 
 const noodOfficialPhotos = [
@@ -140,6 +176,7 @@ for (const slug of [
   "spicebox-organics-mid-levels",
   "foodcraft",
   "organic-mama",
+  "sauna-rituals-at-the-hideout",
 ]) delete galleries[slug];
 for (const [source, indices] of Object.entries(selections)) {
   const scraped = enrichment.sources[source];
@@ -215,6 +252,25 @@ for (const [slug, [source, indices]] of Object.entries(recoveredSelectionsBySlug
     alt: {
       en: item.label ? `${venue.name} — ${item.label.replace(/<[^>]+>/g, "").slice(0, 110)}` : `${venue.name} — image from the official website`,
       "zh-hk": `${venue.name} — 官方網站圖片`,
+    },
+  }));
+  added += 1;
+}
+
+for (const [slug, images] of Object.entries(officialSocialSelectionsBySlug)) {
+  if (galleries[slug]?.length) continue;
+  const venue = Object.values(enrichment.sources)
+    .flatMap((entry) => entry.venues ?? [])
+    .find((entry) => entry.slug === slug);
+  if (!venue) continue;
+  const credit = venue.name.split(" — ")[0];
+  galleries[slug] = images.map(([url, source], index) => ({
+    url,
+    source,
+    credit: `${credit} / Instagram`,
+    alt: {
+      en: `${venue.name} — official social photograph${images.length > 1 ? ` ${index + 1}` : ""}`,
+      "zh-hk": `${venue.name} — 官方社交媒體相片${images.length > 1 ? ` ${index + 1}` : ""}`,
     },
   }));
   added += 1;

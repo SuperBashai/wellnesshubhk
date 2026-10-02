@@ -6381,6 +6381,108 @@
       }
     }
   ],
+  "live-zero": [
+    {
+      "url": "/venue-social/live-zero-refill-station.jpg",
+      "source": "https://www.instagram.com/reel/DOp4Qlwka39/",
+      "credit": "Live Zero / Instagram",
+      "alt": {
+        "en": "Live Zero — official social photograph",
+        "zh-hk": "Live Zero — 官方社交媒體相片"
+      }
+    }
+  ],
+  "bay-pickle-mcp-discovery": [
+    {
+      "url": "/venue-social/bay-pickle-mcp-court.jpg",
+      "source": "https://www.instagram.com/reel/Dd5bdZqpVv3/",
+      "credit": "Bay Pickle / Instagram",
+      "alt": {
+        "en": "Bay Pickle — MCP Discovery — official social photograph",
+        "zh-hk": "Bay Pickle — MCP Discovery — 官方社交媒體相片"
+      }
+    }
+  ],
+  "ursus-fitness": [
+    {
+      "url": "/venue-social/ursus-fitness-gym.jpg",
+      "source": "https://www.instagram.com/p/DT16g65Ca6p/",
+      "credit": "URSUS Fitness / Instagram",
+      "alt": {
+        "en": "URSUS Fitness — official social photograph 1",
+        "zh-hk": "URSUS Fitness — 官方社交媒體相片 1"
+      }
+    },
+    {
+      "url": "/venue-social/ursus-fitness-training.jpg",
+      "source": "https://www.instagram.com/p/DUAVzmsCdT0/",
+      "credit": "URSUS Fitness / Instagram",
+      "alt": {
+        "en": "URSUS Fitness — official social photograph 2",
+        "zh-hk": "URSUS Fitness — 官方社交媒體相片 2"
+      }
+    },
+    {
+      "url": "/venue-social/ursus-fitness-conditioning.jpg",
+      "source": "https://www.instagram.com/p/DTt5ZPvCVD-/",
+      "credit": "URSUS Fitness / Instagram",
+      "alt": {
+        "en": "URSUS Fitness — official social photograph 3",
+        "zh-hk": "URSUS Fitness — 官方社交媒體相片 3"
+      }
+    }
+  ],
+  "be-earth-central": [
+    {
+      "url": "/venue-social/be-earth-reformer-studio.jpg",
+      "source": "https://www.instagram.com/p/Ddoa778jRrz/",
+      "credit": "Be Earth / Instagram",
+      "alt": {
+        "en": "Be Earth — Central — official social photograph 1",
+        "zh-hk": "Be Earth — Central — 官方社交媒體相片 1"
+      }
+    },
+    {
+      "url": "/venue-social/be-earth-trapeze-yoga.jpg",
+      "source": "https://www.instagram.com/p/DdJeB5SFCg_/",
+      "credit": "Be Earth / Instagram",
+      "alt": {
+        "en": "Be Earth — Central — official social photograph 2",
+        "zh-hk": "Be Earth — Central — 官方社交媒體相片 2"
+      }
+    },
+    {
+      "url": "/venue-social/be-earth-yoga-workshop.jpg",
+      "source": "https://www.instagram.com/p/DcqTSYElOVK/",
+      "credit": "Be Earth / Instagram",
+      "alt": {
+        "en": "Be Earth — Central — official social photograph 3",
+        "zh-hk": "Be Earth — Central — 官方社交媒體相片 3"
+      }
+    }
+  ],
+  "hi-tee-golf-san-po-kong": [
+    {
+      "url": "/venue-social/hi-tee-golf-indoor-bays.jpg",
+      "source": "https://www.instagram.com/p/DY13eUoP8Bk/",
+      "credit": "Hi Tee Golf / Instagram",
+      "alt": {
+        "en": "Hi Tee Golf — San Po Kong — official social photograph",
+        "zh-hk": "Hi Tee Golf — San Po Kong — 官方社交媒體相片"
+      }
+    }
+  ],
+  "hi-tee-golf-quarry-bay": [
+    {
+      "url": "/venue-social/hi-tee-golf-indoor-bays.jpg",
+      "source": "https://www.instagram.com/p/DY13eUoP8Bk/",
+      "credit": "Hi Tee Golf / Instagram",
+      "alt": {
+        "en": "Hi Tee Golf — Quarry Bay — official social photograph",
+        "zh-hk": "Hi Tee Golf — Quarry Bay — 官方社交媒體相片"
+      }
+    }
+  ],
   "212hk": [
     {
       "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
@@ -6610,6 +6712,66 @@
       "alt": {
         "en": "O:RIN — Tsim Sha Tsui — O:RIN",
         "zh-hk": "O:RIN — Tsim Sha Tsui — 官方網站圖片"
+      }
+    }
+  ],
+  "sauna-rituals-at-the-hideout": [
+    {
+      "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/4d0ba694c_sauna_pics_outside_3.jpg",
+      "source": "https://thesaunarituals.com/",
+      "credit": "Sauna Rituals at The Hideout",
+      "alt": {
+        "en": "Sauna Rituals at The Hideout — Sauna exterior at sunset",
+        "zh-hk": "Sauna Rituals at The Hideout — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/7f2af2db1_sauna_pics_inside_2.jpg",
+      "source": "https://thesaunarituals.com/",
+      "credit": "Sauna Rituals at The Hideout",
+      "alt": {
+        "en": "Sauna Rituals at The Hideout — Inside the sauna",
+        "zh-hk": "Sauna Rituals at The Hideout — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/5e085bc87_sauna_pics_inside_3.jpg",
+      "source": "https://thesaunarituals.com/",
+      "credit": "Sauna Rituals at The Hideout",
+      "alt": {
+        "en": "Sauna Rituals at The Hideout — Sauna interior with view",
+        "zh-hk": "Sauna Rituals at The Hideout — 官方網站圖片"
+      }
+    },
+    {
+      "url": "https://media.base44.com/images/public/694294984fe3d7d0cce56ade/a8b7d99fc_sauna_pics_inside.jpg",
+      "source": "https://thesaunarituals.com/",
+      "credit": "Sauna Rituals at The Hideout",
+      "alt": {
+        "en": "Sauna Rituals at The Hideout — Sauna interior sunset view",
+        "zh-hk": "Sauna Rituals at The Hideout — 官方網站圖片"
+      }
+    }
+  ],
+  "spicebox-organics-kennedy-town": [
+    {
+      "url": "/venue-social/spicebox-organics-store.jpg",
+      "source": "https://www.instagram.com/reel/Dd8MOIfPDvK/",
+      "credit": "SpiceBox Organics / Instagram",
+      "alt": {
+        "en": "SpiceBox Organics — Kennedy Town — official social photograph",
+        "zh-hk": "SpiceBox Organics — Kennedy Town — 官方社交媒體相片"
+      }
+    }
+  ],
+  "spicebox-organics-mid-levels": [
+    {
+      "url": "/venue-social/spicebox-organics-store.jpg",
+      "source": "https://www.instagram.com/reel/Dd8MOIfPDvK/",
+      "credit": "SpiceBox Organics / Instagram",
+      "alt": {
+        "en": "SpiceBox Organics — Mid-Levels — official social photograph",
+        "zh-hk": "SpiceBox Organics — Mid-Levels — 官方社交媒體相片"
       }
     }
   ]

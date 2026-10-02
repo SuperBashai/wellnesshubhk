@@ -101,11 +101,11 @@ function extractContacts(html) {
   return { phones: [...phones].slice(0, 12), hourSnippets: hourSnippets.slice(0, 12) };
 }
 
-async function scrape(source) {
+async function scrape(source, { headless = false } = {}) {
   const response = await fetch("https://scraper-api.decodo.com/v2/scrape", {
     method: "POST",
     headers: { Accept: "application/json", Authorization: `Basic ${token}`, "Content-Type": "application/json" },
-    body: JSON.stringify({ url: source }),
+    body: JSON.stringify({ url: source, ...(headless ? { headless: "html" } : {}) }),
   });
   if (!response.ok) throw new Error(`HTTP ${response.status}: ${(await response.text()).slice(0, 180)}`);
   const payload = await response.json();
@@ -118,10 +118,14 @@ const { listings, listingSlug, listingName } = load(resolve("lib/data.ts"));
 const galleries = JSON.parse(await readFile("data/venue-images.json", "utf8"));
 const previous = JSON.parse(await readFile("data/decodo-venue-enrichment.json", "utf8").catch(() => "{\"sources\":{}}"));
 const refresh = process.argv.includes("--refresh");
+const headless = process.argv.includes("--headless");
+const imagesOnly = process.argv.includes("--images-only");
 const limitArg = process.argv.find((value) => value.startsWith("--limit="));
 const limit = limitArg ? Number(limitArg.split("=")[1]) : Infinity;
 
-const targets = listings.filter((venue) => !galleries[listingSlug(venue)] || !venue.phone || !venue.openingHours?.en);
+const targets = listings.filter((venue) => imagesOnly
+  ? !galleries[listingSlug(venue)]
+  : !galleries[listingSlug(venue)] || !venue.phone || !venue.openingHours?.en);
 const grouped = new Map();
 for (const venue of targets) {
   const entry = grouped.get(venue.url) ?? [];
@@ -135,7 +139,7 @@ const results = { generatedAt: new Date().toISOString(), sources: { ...(previous
 for (let index = 0; index < queue.length; index += 1) {
   const [source, venues] = queue[index];
   try {
-    const { html, statusCode, taskId } = await scrape(source);
+    const { html, statusCode, taskId } = await scrape(source, { headless });
     results.sources[source] = {
       ok: true,
       statusCode,
