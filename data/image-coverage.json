@@ -1,7 +1,7 @@
 {
   "venues": 315,
-  "withPhotos": 282,
-  "photographs": 687,
+  "withPhotos": 290,
+  "photographs": 696,
   "missing": [
     {
       "name": "Organic Mama",
@@ -49,16 +49,6 @@
       "source": "https://tsuenwan.thebaypickle.com/memberships/7377"
     },
     {
-      "name": "Hong Kong Football Club",
-      "slug": "hong-kong-football-club",
-      "source": "https://www.hkfc.com/facilities/"
-    },
-    {
-      "name": "Discovery Bay Recreation Club",
-      "slug": "discovery-bay-recreation-club",
-      "source": "https://www.dbrc.hk/en/sport.html?club=1&id=1438407458&type=1"
-    },
-    {
       "name": "Green Concepts Health Shop",
       "slug": "green-concepts-health-shop",
       "source": "https://online.healthshop.com.hk/default/place-order"
@@ -99,21 +89,6 @@
       "source": "https://www.cityu.edu.hk/sds/physical-education-wellness-and-sports/sports-and-recreation-facilities/general-information"
     },
     {
-      "name": "Jockey Club Kau Sai Chau Public Golf Course",
-      "slug": "jockey-club-kau-sai-chau-public-golf-course",
-      "source": "https://www.kscgolf.org.hk/eng/"
-    },
-    {
-      "name": "The Clearwater Bay Golf & Country Club",
-      "slug": "the-clearwater-bay-golf-and-country-club",
-      "source": "https://www.cwbgolf.org/golf-club/"
-    },
-    {
-      "name": "Discovery Bay Golf Club",
-      "slug": "discovery-bay-golf-club",
-      "source": "https://www.dbgc.hk/"
-    },
-    {
       "name": "Fete Up — BaseHall 2",
       "slug": "fete-up-basehall-2",
       "source": "https://feteup.com/location/"
@@ -124,24 +99,9 @@
       "source": "https://feteup.com/location/"
     },
     {
-      "name": "LockCha Tea House — Tai Kwun",
-      "slug": "lockcha-tea-house-tai-kwun",
-      "source": "https://www.lockcha.com/locations/"
-    },
-    {
       "name": "Adventist Restaurant — Tsuen Wan",
       "slug": "adventist-restaurant-tsuen-wan",
       "source": "https://www.twah.org.hk/en/ancillary-services/adventist-restaurant"
-    },
-    {
-      "name": "Hong Kong Park Sports Centre",
-      "slug": "hong-kong-park-sports-centre",
-      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
-    },
-    {
-      "name": "Hong Kong Squash Centre",
-      "slug": "hong-kong-squash-centre",
-      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
     },
     {
       "name": "Shek Tong Tsui Sports Centre",

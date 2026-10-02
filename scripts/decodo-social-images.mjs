@@ -7,12 +7,16 @@ const profiles = [
   { handle: "spiceboxorganics", slugs: ["spicebox-organics-kennedy-town", "spicebox-organics-mid-levels"] },
   { handle: "livezero.hk", slugs: ["live-zero"] },
   { handle: "foodcraft_hk", slugs: ["foodcraft"] },
-  { handle: "baypickle", slugs: ["bay-pickle-dpark", "bay-pickle-mcp-discovery"] },
+  { handle: "baypickle", slugs: ["bay-pickle-d-park", "bay-pickle-mcp-discovery"] },
+  { handle: "slowood.hk", slugs: ["slowood-kennedy-town", "slowood-central-market", "slowood-hysan-place", "slowood-hong-kong-airport"] },
+  { handle: "feteuphk", slugs: ["fete-up-basehall-2", "fete-up-causeway-bay"] },
   { handle: "hongkongfootballclub1886", slugs: ["hong-kong-football-club"] },
   { handle: "ursusfitness", slugs: ["ursus-fitness"] },
   { handle: "beearthofficial", slugs: ["be-earth-central"] },
   { handle: "hiteegolf", slugs: ["hi-tee-golf-san-po-kong", "hi-tee-golf-quarry-bay"] },
 ];
+const handleArg = process.argv.find((value) => value.startsWith("--handle="))?.split("=")[1]?.toLowerCase();
+const selectedProfiles = handleArg ? profiles.filter((profile) => profile.handle.toLowerCase() === handleArg) : profiles;
 
 const decodeHtml = (value) => value
   .replaceAll("&amp;", "&")
@@ -72,18 +76,17 @@ function extractPosts(html, expectedHandle) {
 const existing = JSON.parse(await readFile("data/decodo-social-images.json", "utf8").catch(() => "{\"profiles\":{}}"));
 const output = { generatedAt: new Date().toISOString(), profiles: { ...(existing.profiles ?? {}) } };
 
-for (let index = 0; index < profiles.length; index += 1) {
-  const profile = profiles[index];
+for (let index = 0; index < selectedProfiles.length; index += 1) {
+  const profile = selectedProfiles[index];
   const profileUrl = `https://www.instagram.com/${profile.handle}/`;
   try {
     const result = await scrape(profileUrl);
     const posts = extractPosts(result.html, profile.handle);
     output.profiles[profile.handle] = { ok: true, profileUrl, slugs: profile.slugs, taskId: result.taskId, posts };
-    console.log(`[${index + 1}/${profiles.length}] @${profile.handle}: ${posts.length} official posts`);
+    console.log(`[${index + 1}/${selectedProfiles.length}] @${profile.handle}: ${posts.length} official posts`);
   } catch (error) {
     output.profiles[profile.handle] = { ok: false, profileUrl, slugs: profile.slugs, error: error instanceof Error ? error.message : String(error) };
-    console.log(`[${index + 1}/${profiles.length}] @${profile.handle}: unavailable`);
+    console.log(`[${index + 1}/${selectedProfiles.length}] @${profile.handle}: unavailable`);
   }
   await writeFile("data/decodo-social-images.json", JSON.stringify(output, null, 2) + "\n");
 }
-

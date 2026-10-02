@@ -6483,6 +6483,72 @@
       }
     }
   ],
+  "hong-kong-football-club": [
+    {
+      "url": "https://www.hkfc.com/media/vxemsmbh/facilities_main_top.jpg",
+      "source": "https://www.hkfc.com/facilities/",
+      "credit": "Hong Kong Football Club",
+      "alt": {
+        "en": "Hong Kong Football Club — main pitch and clubhouse",
+        "zh-hk": "香港足球會 — 主球場及會所"
+      }
+    }
+  ],
+  "jockey-club-kau-sai-chau-public-golf-course": [
+    {
+      "url": "https://consvc.hkjc.com/-/media/Sites/JCEW/Charities/about-us/community-facilities/kau-sai-chau/kaui-sai-chau-public-golf-course-kv.png?rev=be64052b8f684f1383a53d3bdbcdc609",
+      "source": "https://charities.hkjc.com/en-us/about-us/community-footprint/community-footprint-details?id=generalpage/about-us/community-footprint/index/facility-cards/kau-sai-chau-public-golf-course",
+      "credit": "The Hong Kong Jockey Club",
+      "alt": {
+        "en": "Jockey Club Kau Sai Chau Public Golf Course — fairways overlooking Sai Kung",
+        "zh-hk": "賽馬會滘西洲公眾高爾夫球場 — 眺望西貢的球道"
+      }
+    }
+  ],
+  "the-clearwater-bay-golf-and-country-club": [
+    {
+      "url": "https://www.cwbgolf.org/wp-content/uploads/2026/05/slide_a.jpg",
+      "source": "https://www.cwbgolf.org/",
+      "credit": "The Clearwater Bay Golf & Country Club",
+      "alt": {
+        "en": "The Clearwater Bay Golf & Country Club — coastal golf course",
+        "zh-hk": "清水灣鄉村俱樂部 — 臨海高爾夫球場"
+      }
+    }
+  ],
+  "lockcha-tea-house-tai-kwun": [
+    {
+      "url": "https://images.ctfassets.net/o0crhmcwhbe1/2cEMYfmy7B6SgsF4LRJ89Z/86d0001c5a63ef145ab368dda939ed2d/location-taikwun.jpg?fl=progressive&fm=jpg&h=1200&q=85&w=1600",
+      "source": "https://www.lockcha.com/locations/",
+      "credit": "LockCha Tea House",
+      "alt": {
+        "en": "LockCha Tea House at Tai Kwun — heritage complex setting",
+        "zh-hk": "樂茶軒大館店 — 古蹟建築群環境"
+      }
+    }
+  ],
+  "hong-kong-park-sports-centre": [
+    {
+      "url": "https://hkp.lcsd.gov.hk/rest/original/lcsd_hkpp_dev_ebcf8505ce1735df5e14d90d595bd183d21a232c9df04e5b/spo-1.png",
+      "source": "https://hkp.lcsd.gov.hk/en/facilities/sport-centre",
+      "credit": "Leisure and Cultural Services Department",
+      "alt": {
+        "en": "Hong Kong Park Sports Centre — indoor badminton arena",
+        "zh-hk": "香港公園體育館 — 室內羽毛球場"
+      }
+    }
+  ],
+  "hong-kong-squash-centre": [
+    {
+      "url": "https://hkp.lcsd.gov.hk/rest/original/lcsd_hkpp_dev_bca88095afb6b0d86897deb1bb010546649c4667b74dfa82/sq-2.png",
+      "source": "https://hkp.lcsd.gov.hk/en/facilities/squash-centre",
+      "credit": "Leisure and Cultural Services Department",
+      "alt": {
+        "en": "Hong Kong Squash Centre — glass exhibition court",
+        "zh-hk": "香港壁球中心 — 玻璃展覽場"
+      }
+    }
+  ],
   "212hk": [
     {
       "url": "https://212hk.com/wp-content/uploads/2026/04/Facilities-scaled.jpg",
@@ -6772,6 +6838,37 @@
       "alt": {
         "en": "SpiceBox Organics — Mid-Levels — official social photograph",
         "zh-hk": "SpiceBox Organics — Mid-Levels — 官方社交媒體相片"
+      }
+    }
+  ],
+  "discovery-bay-recreation-club": [
+    {
+      "url": "https://scadmin.hkri.com/-/media/hkri/businesses/hospitality/hong-kong/discovery-bay-recreation-club/1.jpg?cropregion=251%2C0%2C1108%2C858&h=900&w=1200",
+      "source": "https://scadmin.hkri.com/en/Our-Businesses/Hotel-Operations-and-Leisure-Businesses/Hong-Kong/Discovery-Bay-Recreation-Club",
+      "credit": "HKR International / Discovery Bay Recreation Club",
+      "alt": {
+        "en": "Discovery Bay Recreation Club — outdoor swimming pools and terrace",
+        "zh-hk": "愉景灣康樂會 — 室外泳池及露台"
+      }
+    }
+  ],
+  "discovery-bay-golf-club": [
+    {
+      "url": "https://scadmin.hkri.com/-/media/hkri/businesses/hospitality/hong-kong/discovery-bay-golf-club/new_resized/db-golf-club-1_p.jpg?h=545&w=1030&hash=E95AD4A6662F59691ABB7BB9282B18948C6B9619",
+      "source": "https://www.hkri.com/en/Our-Businesses/Hotel-Operations-and-Leisure-Businesses/Hong-Kong/Discovery-Bay-Golf-Club",
+      "credit": "HKR International / Discovery Bay Golf Club",
+      "alt": {
+        "en": "Discovery Bay Golf Club — aerial view of the course and coastline",
+        "zh-hk": "愉景灣高爾夫球會 — 球場及海岸鳥瞰"
+      }
+    },
+    {
+      "url": "https://scadmin.hkri.com/-/media/hkri/businesses/hospitality/hong-kong/discovery-bay-golf-club/new_resized/db-golf-club-2_p.jpg?h=545&w=1030&hash=DC54DD762DB1ECE2CCA22F3C1BE5C8C6A75A1F36",
+      "source": "https://www.hkri.com/en/Our-Businesses/Hotel-Operations-and-Leisure-Businesses/Hong-Kong/Discovery-Bay-Golf-Club",
+      "credit": "HKR International / Discovery Bay Golf Club",
+      "alt": {
+        "en": "Discovery Bay Golf Club — fairway and golf carts",
+        "zh-hk": "愉景灣高爾夫球會 — 球道及高爾夫球車"
       }
     }
   ]
