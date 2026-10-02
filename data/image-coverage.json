@@ -1,7 +1,7 @@
 {
   "venues": 315,
-  "withPhotos": 290,
-  "photographs": 696,
+  "withPhotos": 291,
+  "photographs": 697,
   "missing": [
     {
       "name": "Organic Mama",
@@ -106,11 +106,6 @@
     {
       "name": "Shek Tong Tsui Sports Centre",
       "slug": "shek-tong-tsui-sports-centre",
-      "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
-    },
-    {
-      "name": "Sheung Wan Sports Centre",
-      "slug": "sheung-wan-sports-centre",
       "source": "https://www.lcsd.gov.hk/en/facilities/facilitieslist/facilities.php?ftid=0"
     },
     {

@@ -1,4 +1,16 @@
 {
+  "sheung-wan-sports-centre": [
+    {
+      "url": "/venue-social/sheung-wan-sports-centre.jpg",
+      "source": "/venue-social/sheung-wan-sports-centre.jpg",
+      "credit": "Wellness Hub reader",
+      "creditType": "contributed",
+      "alt": {
+        "en": "Sheung Wan Sports Centre — exterior entrance and venue sign",
+        "zh-hk": "上環體育館 — 外牆入口及場館招牌"
+      }
+    }
+  ],
   "chai-wan-sports-centre": [
     {
       "url": "https://www.lcsd.gov.hk/file_upload_clpss/leisure_facilities/en/common/images/photo/facilities/ED/Activity%20room_CWSC.JPG",
