@@ -1,7 +1,7 @@
 {
   "venues": 315,
-  "withPhotos": 291,
-  "photographs": 698,
+  "withPhotos": 292,
+  "photographs": 699,
   "missing": [
     {
       "name": "Organic Mama",
@@ -42,11 +42,6 @@
       "name": "FoodCraft",
       "slug": "foodcraft",
       "source": "https://www.foodcraft.hk/pages/contact-us"
-    },
-    {
-      "name": "Bay Pickle — D·PARK",
-      "slug": "bay-pickle-d-park",
-      "source": "https://tsuenwan.thebaypickle.com/memberships/7377"
     },
     {
       "name": "Green Concepts Health Shop",
