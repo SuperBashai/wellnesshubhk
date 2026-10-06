@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node scripts/assert-local-images.mjs",
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
@@ -11,7 +12,8 @@
     "decodo:enrich": "node --env-file=.env.local scripts/decodo-enrich-venues.mjs",
     "decodo:social-images": "node --env-file=.env.local scripts/decodo-social-images.mjs",
     "decodo:merge-images": "node scripts/merge-decodo-images.mjs",
-    "images:check": "node scripts/check-venue-images.mjs",
+    "images:check": "node scripts/assert-local-images.mjs",
+    "images:localize": "node scripts/localize-venue-images.mjs",
     "images:coverage": "node scripts/image-coverage.mjs"
   },
   "dependencies": {

@@ -6,7 +6,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { JsonLd } from "@/components/json-ld";
 import { VenueGallery, type VenuePhoto } from "@/components/venue-gallery";
-import { GooglePlacePhoto } from "@/components/google-place-photo";
+import { VenueFallback } from "@/components/venue-fallback";
 import { VenueReviews } from "@/components/venue-reviews";
 import venueImages from "@/data/venue-images.json";
 import { listingCategories } from "@/lib/listing-categories";
@@ -138,7 +138,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
                   <span><Check size={15} />{t.verified}</span>
                 </div>
               </div>
-              {photos.length ? <VenueGallery photos={photos} locale={locale} /> : <GooglePlacePhoto slug={slug} locale={locale} category={listing.category} />}
+              {photos.length ? <VenueGallery photos={photos} locale={locale} /> : <VenueFallback category={listing.category} />}
             </div>
           </div>
         </header>

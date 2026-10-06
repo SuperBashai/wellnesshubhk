@@ -16,7 +16,7 @@ const homeVisuals = [
     slug: "dink-city",
     category: { en: "Move", "zh-hk": "運動" },
     name: "Dink City",
-    image: "https://www.dinkhk.com/attachment/banner/178419009861732.png",
+    image: "/venue-images/dink-city-1-7e1417ab67.webp",
     credit: "Dink City",
     alt: { en: "Indoor pickleball courts at Dink City", "zh-hk": "Dink City 室內匹克球場" },
   },
@@ -24,7 +24,7 @@ const homeVisuals = [
     slug: "the-ice-bath-club-kennedy-town",
     category: { en: "Recover", "zh-hk": "恢復" },
     name: "The Ice Bath Club",
-    image: "https://cdn.sanity.io/images/p4tg2klf/production/0ff51ab2d09ae0ff66d64c6065419c3ee806fa12-2000x1429.jpg",
+    image: "/venue-images/the-ice-bath-club-kennedy-town-1-c956275b89.webp",
     credit: "The Ice Bath Club",
     alt: { en: "Cold-plunge space at The Ice Bath Club", "zh-hk": "The Ice Bath Club 冰浴恢復空間" },
   },
@@ -32,7 +32,7 @@ const homeVisuals = [
     slug: "the-clubhouse-recharge-suite",
     category: { en: "Reset", "zh-hk": "放鬆" },
     name: "The Clubhouse",
-    image: "https://images.squarespace-cdn.com/content/v1/664eae10f346835bdc10c019/f76a88cc-359c-4fa2-b978-3c90f191e77e/Clubhouse_Stills-49.jpeg",
+    image: "/venue-images/the-clubhouse-recharge-suite-1-1890cf0218.webp",
     credit: "The Clubhouse Hong Kong",
     alt: { en: "The Clubhouse Recharge Suite", "zh-hk": "The Clubhouse Recharge Suite 恢復空間" },
   },
@@ -40,7 +40,7 @@ const homeVisuals = [
     slug: "treehouse-central",
     category: { en: "Eat well", "zh-hk": "食得好" },
     name: "TREEHOUSE",
-    image: "https://images.squarespace-cdn.com/content/v1/60b854773befb320435415b3/c84c3400-9cd1-471d-b9f0-dcbc07b09aee/DSC03043.jpg",
+    image: "/venue-images/treehouse-central-1-70398703dd.webp",
     credit: "TREEHOUSE",
     alt: { en: "Plant-based dining at TREEHOUSE", "zh-hk": "TREEHOUSE 植物為本餐飲" },
   },
@@ -101,8 +101,7 @@ export function WellnessHome({ locale }: { locale: Locale }) {
             {homeVisuals.map((item, index) => <Link className={`home-visual-card home-visual-card-${index + 1}`} href={`/${locale}/venues/${item.slug}`} key={item.slug}>
               <span className="home-visual-media">
                 {/* Official-source photography is credited on its venue page. */}
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={item.image} alt={item.alt[locale]} loading="lazy" referrerPolicy="no-referrer" />
+                <Image src={item.image} alt={item.alt[locale]} fill sizes="(max-width: 780px) 100vw, 50vw" />
               </span>
               <span className="home-visual-overlay" aria-hidden="true" />
               <span className="home-visual-copy"><small>{item.category[locale]}</small><strong>{item.name}</strong><span>{locale === "en" ? "Official photo" : "官方相片"} · {item.credit}</span></span>

@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-10-06T17:44:03.530Z",
+  "requested": 545,
+  "saved": 538,
+  "failed": [
+    {
+      "slug": "united-services-recreation-club",
+      "url": "https://www.usrc.org.hk/uploads/1/1/8/7/11871079/published/usrc-aerial-view.jpg?1526877912",
+      "error": "HTTP 403"
+    },
+    {
+      "slug": "atsumaru-yoga",
+      "url": "https://www.atsumaruyogahk.com/quality_auto/IMG_3879_JPG.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "atsumaru-yoga",
+      "url": "https://www.atsumaruyogahk.com/quality_auto/atsumaru_1207-146.jpg",
+      "error": "HTTP 404"
+    },
+    {
+      "slug": "smash-factor",
+      "url": "https://smashfactor.hk/wp-content/uploads/2024/11/practice-golf-like-a-professional-768x576.webp",
+      "error": "HTTP 403"
+    },
+    {
+      "slug": "smash-factor",
+      "url": "https://smashfactor.hk/wp-content/uploads/2023/06/SF-VIProom-768x432.webp",
+      "error": "HTTP 403"
+    },
+    {
+      "slug": "smash-factor",
+      "url": "https://smashfactor.hk/wp-content/uploads/2024/11/Powered-by-Trackman-2.webp",
+      "error": "HTTP 403"
+    },
+    {
+      "slug": "pickle-city",
+      "url": "https://pps.whatsapp.net/v/t61.24694-24/561849057_1332112921843296_7695264301290407831_n.jpg?ccb=11-4&oh=01_Q5Aa5QER6W8RPah47QYlJwZNZSdLXRgVWTXIun50VuAtos0AFg&oe=6A8180C2&_nc_sid=5e03e0&_nc_cat=104",
+      "error": "HTTP 403"
+    }
+  ],
+  "localFilesMissing": [],
+  "home": {
+    "dink-city": "/venue-images/dink-city-1-7e1417ab67.webp",
+    "ice-bath-club": "/venue-images/the-ice-bath-club-kennedy-town-1-c956275b89.webp",
+    "clubhouse-recharge-suite": "/venue-images/the-clubhouse-recharge-suite-1-1890cf0218.webp",
+    "treehouse-central": "/venue-images/treehouse-central-1-70398703dd.webp"
+  }
+}

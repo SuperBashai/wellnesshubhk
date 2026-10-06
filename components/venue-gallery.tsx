@@ -22,7 +22,7 @@ export function VenueGallery({ photos, locale }: { photos: VenuePhoto[]; locale:
   if (!photo) return <div className="gallery-unavailable">{locale === "en" ? "Photos are temporarily unavailable." : "相片暫時未能載入。"}</div>;
   return <figure className="venue-gallery">
     <div className="venue-gallery-image">
-      {/* Official-source images retain their original hosting and attribution. */}
+      {/* Images are hosted locally; original-source attribution is retained. */}
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src={photo.url} alt={photo.alt[locale]} referrerPolicy="no-referrer" onError={() => { setFailed((previous) => [...previous, photo.url]); setSelected(0); }} />
       <div className="venue-gallery-count"><Images size={15} aria-hidden="true" /> {current + 1} / {available.length}</div>
