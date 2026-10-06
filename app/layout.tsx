@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     template: `%s | ${siteTitleName}`,
   },
   description:
-    "Discover sports facilities, recovery spaces, healthy restaurants and wellness shops across Hong Kong.",
+    "Explore Hong Kong gyms, sports facilities, recovery spaces, healthy restaurants and wellness shops.",
   applicationName: siteName,
   authors: [{ name: siteName }],
   creator: siteName,
