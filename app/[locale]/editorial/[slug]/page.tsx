@@ -10,7 +10,7 @@ import venueImages from "@/data/venue-images.json";
 import { getListingBySlug, listingName, type Locale } from "@/lib/data";
 import { editorialRecommendations } from "@/lib/editorial-recommendations";
 import { editorials, getEditorial } from "@/lib/editorials";
-import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
+import { absoluteUrl, defaultSocialImage, localizedLanguageAlternates, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 
@@ -26,9 +26,9 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const canonical = `/${locale}/editorial/${slug}`;
   const image = article.coverImage ?? defaultSocialImage;
   return {
-    title: `${article.title[locale]} — Wellness Hub Editorial`,
+    title: { absolute: `${article.title[locale]} | Wellness Hub HK` },
     description: article.deck[locale],
-    alternates: { canonical, languages: { en: `/en/editorial/${slug}`, "zh-HK": `/zh-hk/editorial/${slug}`, "x-default": `/en/editorial/${slug}` } },
+    alternates: { canonical, languages: localizedLanguageAlternates(`/editorial/${slug}`) },
     openGraph: { type: "article", url: canonical, siteName, title: article.title[locale], description: article.deck[locale], locale: locale === "en" ? "en_HK" : "zh_HK", publishedTime: new Date(article.date.en).toISOString(), modifiedTime: "2026-10-02T00:00:00+08:00", section: article.category[locale], images: [image] },
     twitter: { card: "summary_large_image", title: article.title[locale], description: article.deck[locale], images: [image] },
   };

@@ -8,7 +8,7 @@ import { SiteHeader } from "@/components/site-header";
 import { JsonLd } from "@/components/json-ld";
 import type { Locale } from "@/lib/data";
 import { editorials } from "@/lib/editorials";
-import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
+import { absoluteUrl, defaultSocialImage, localizedLanguageAlternates, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 
@@ -54,7 +54,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const description = chinese ? pageCopy["zh-hk"].intro : pageCopy.en.intro;
   return {
     title, description,
-    alternates: { canonical: `/${locale}/editorial`, languages: { en: "/en/editorial", "zh-HK": "/zh-hk/editorial", "x-default": "/en/editorial" } },
+    alternates: { canonical: `/${locale}/editorial`, languages: localizedLanguageAlternates("/editorial") },
     openGraph: { type: "website", url: `/${locale}/editorial`, siteName, title, description, locale: chinese ? "zh_HK" : "en_HK", images: [defaultSocialImage] },
     twitter: { card: "summary_large_image", title, description, images: [defaultSocialImage] },
   };

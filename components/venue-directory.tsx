@@ -17,7 +17,7 @@ function normalize(value: string) {
   return value.normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLocaleLowerCase().trim();
 }
 
-export function VenueDirectory({ locale, covers, initialCategory, initialTerritory, initialQuery }: { locale: Locale; covers: Record<string, string>; initialCategory: CategoryId | "all"; initialTerritory: TerritoryId | "all"; initialQuery: string }) {
+export function VenueDirectory({ locale, covers, initialCategory, initialTerritory, initialQuery, heading, intro }: { locale: Locale; covers: Record<string, string>; initialCategory: CategoryId | "all"; initialTerritory: TerritoryId | "all"; initialQuery: string; heading: string; intro: string }) {
   const router = useRouter();
   const t = copy[locale];
   const [query, setQuery] = useState(initialQuery);
@@ -90,7 +90,7 @@ export function VenueDirectory({ locale, covers, initialCategory, initialTerrito
       <SiteHeader locale={locale} alternatePath="/places" />
       <section className="section directory-section" id="places">
         <div className="shell">
-          <div className="section-heading directory-heading"><div><span className="eyebrow"><span />{t.featuredEyebrow}</span><h1>{t.featuredTitle}</h1><p>{t.featuredBody}</p></div><strong className="result-count">{String(filtered.length).padStart(2, "0")}<small>{locale === "en" ? "places" : "個地方"}</small></strong></div>
+          <div className="section-heading directory-heading"><div><span className="eyebrow"><span />{t.featuredEyebrow}</span><h1>{heading}</h1><p>{intro}</p></div><strong className="result-count">{String(filtered.length).padStart(2, "0")}<small>{locale === "en" ? "places" : "個地方"}</small></strong></div>
           <div className="directory-search">
             <div
               className="directory-search-combobox"

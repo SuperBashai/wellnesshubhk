@@ -12,7 +12,7 @@ import venueImages from "@/data/venue-images.json";
 import { listingCategories } from "@/lib/listing-categories";
 import { sports, listingSports } from "@/lib/sports";
 import { categories, getListingBySlug, listingName, listingSlug, listings, territories, type CategoryId, type Locale } from "@/lib/data";
-import { absoluteUrl, defaultSocialImage, siteName } from "@/lib/seo";
+import { absoluteUrl, conciseDescription, defaultSocialImage, languageTag, localizedLanguageAlternates, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
@@ -61,14 +61,19 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const listing = getListingBySlug(slug);
   if (!listing) return {};
   const name = listingName(listing, locale);
+  const area = listing.area[locale];
   const canonical = `/${locale}/venues/${slug}`;
-  const images = (venueImages as Record<string, VenuePhoto[]>)[slug]?.map((photo) => photo.url) ?? [defaultSocialImage];
+  const title = locale === "en" ? `${name} - ${area}, Hong Kong` : `${name}｜${area}｜香港`;
+  const description = conciseDescription(locale === "en"
+    ? `${name} in ${area}, Hong Kong. ${listing.description.en} Find its address, opening hours, phone number and official website.`
+    : `${name}位於${area}。${listing.description["zh-hk"]}查看地址、營業時間、電話及官方網站。`);
+  const images = (venueImages as Record<string, VenuePhoto[]>)[slug]?.map((photo) => absoluteUrl(photo.url)) ?? [defaultSocialImage];
   return {
-    title: name,
-    description: listing.description[locale],
-    alternates: { canonical, languages: { en: `/en/venues/${slug}`, "zh-HK": `/zh-hk/venues/${slug}`, "x-default": `/en/venues/${slug}` } },
-    openGraph: { type: "website", url: canonical, siteName, title: name, description: listing.description[locale], locale: locale === "en" ? "en_HK" : "zh_HK", images },
-    twitter: { card: "summary_large_image", title: name, description: listing.description[locale], images },
+    title: { absolute: title },
+    description,
+    alternates: { canonical, languages: localizedLanguageAlternates(`/venues/${slug}`) },
+    openGraph: { type: "website", url: canonical, siteName, title, description, locale: locale === "en" ? "en_HK" : "zh_HK", images },
+    twitter: { card: "summary_large_image", title, description, images },
   };
 }
 
@@ -88,14 +93,17 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
   const Icon = categoryIcons[listing.category as CategoryId];
   const canonicalUrl = absoluteUrl(`/${locale}/venues/${slug}`);
   const schemaType: Record<CategoryId, string> = { movement: "SportsActivityLocation", recovery: "HealthAndBeautyBusiness", sauna: "HealthAndBeautyBusiness", food: "Restaurant", shops: "Store" };
+  const alternateName = listingName(listing, locale === "en" ? "zh-hk" : "en");
+  const mapUrl = listing.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${listingName(listing, "en")}, ${listing.address.en}, Hong Kong`)}` : undefined;
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": schemaType[listing.category], "@id": `${canonicalUrl}#venue`, name, url: canonicalUrl,
-        description: listing.description[locale], telephone: listing.phone, image: photos.map((photo) => photo.url),
+        "@type": schemaType[listing.category], "@id": `${canonicalUrl}#venue`, name, alternateName: alternateName !== name ? alternateName : undefined, url: canonicalUrl,
+        description: listing.description[locale], telephone: listing.phone, image: photos.map((photo) => absoluteUrl(photo.url)),
         address: listing.address ? { "@type": "PostalAddress", streetAddress: listing.address[locale], addressLocality: listing.area[locale], addressRegion: "Hong Kong", addressCountry: "HK" } : undefined,
         areaServed: { "@type": "AdministrativeArea", name: "Hong Kong SAR" },
+        inLanguage: languageTag(locale), mainEntityOfPage: canonicalUrl, hasMap: mapUrl,
         sameAs: [listing.url], keywords: listing.tags[locale].join(", "),
       },
       {

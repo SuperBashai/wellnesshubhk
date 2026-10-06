@@ -1,19 +1,18 @@
 import type { Metadata } from "next";
 import { headers } from "next/headers";
 import { GoogleAnalytics } from "@next/third-parties/google";
-import { defaultSocialImage, seoKeywords, siteName, siteUrl } from "@/lib/seo";
+import { defaultSocialImage, siteName, siteTitleName, siteUrl } from "@/lib/seo";
 import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: siteUrl,
   title: {
-    default: siteName,
-    template: `%s | ${siteName}`,
+    default: siteTitleName,
+    template: `%s | ${siteTitleName}`,
   },
   description:
     "Discover sports facilities, recovery spaces, healthy restaurants and wellness shops across Hong Kong.",
   applicationName: siteName,
-  keywords: seoKeywords,
   authors: [{ name: siteName }],
   creator: siteName,
   publisher: siteName,
@@ -32,7 +31,7 @@ export const metadata: Metadata = {
 };
 
 export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  const locale = (await headers()).get("x-wellness-locale") ?? "en";
+  const locale = (await headers()).get("x-wellness-locale") ?? "en-HK";
   return (
     <html lang={locale} data-scroll-behavior="smooth">
       <body>{children}</body>
