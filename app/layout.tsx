@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { headers } from "next/headers";
+import { GoogleAnalytics } from "@next/third-parties/google";
 import { defaultSocialImage, seoKeywords, siteName, siteUrl } from "@/lib/seo";
 import "./globals.css";
 
@@ -32,5 +33,10 @@ export const metadata: Metadata = {
 
 export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   const locale = (await headers()).get("x-wellness-locale") ?? "en";
-  return <html lang={locale} data-scroll-behavior="smooth"><body>{children}</body></html>;
+  return (
+    <html lang={locale} data-scroll-behavior="smooth">
+      <body>{children}</body>
+      <GoogleAnalytics gaId="G-TX04QNJ87F" />
+    </html>
+  );
 }

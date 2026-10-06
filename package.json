@@ -15,6 +15,7 @@
     "images:coverage": "node scripts/image-coverage.mjs"
   },
   "dependencies": {
+    "@next/third-parties": "^15.5.26",
     "@supabase/supabase-js": "2.117.2",
     "lucide-react": "^0.468.0",
     "next": "^15.3.0",
