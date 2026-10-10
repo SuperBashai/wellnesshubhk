@@ -1,4 +1,33 @@
 {
+  "the-ceremony": [
+    {
+      "url": "/venue-images/the-ceremony-1.webp",
+      "source": "https://theceremonyhk.com/",
+      "credit": "The Ceremony",
+      "alt": {
+        "en": "The Ceremony — warmly lit timber sauna at H Queen's",
+        "zh-hk": "The Ceremony — H Queen’s 會所內嘅木製桑拿房"
+      }
+    },
+    {
+      "url": "/venue-images/the-ceremony-2.webp",
+      "source": "https://theceremonyhk.com/",
+      "credit": "The Ceremony",
+      "alt": {
+        "en": "The Ceremony — individual cold-plunge baths",
+        "zh-hk": "The Ceremony — 獨立冰浴設施"
+      }
+    },
+    {
+      "url": "/venue-images/the-ceremony-3.webp",
+      "source": "https://theceremonyhk.com/",
+      "credit": "The Ceremony",
+      "alt": {
+        "en": "The Ceremony — softly illuminated wellness lounge",
+        "zh-hk": "The Ceremony — 柔和燈光健康休息空間"
+      }
+    }
+  ],
   "sheung-wan-sports-centre": [
     {
       "url": "/venue-social/sheung-wan-sports-centre.jpg",

@@ -8,6 +8,7 @@ const notPublished = hours("Opening hours are not published; contact the venue b
 const pureFitness = hours("Mon–Sat 6am–midnight; Sun & public holidays 8am–10pm", "星期一至六上午6時至午夜12時；星期日及公眾假期上午8時至晚上10時");
 
 export const contactByName: Record<string, ContactDetails> = {
+  "The Ceremony": { openingHours: hours("Mon–Fri 7am–10pm; Sat, Sun & public holidays 9am–10pm", "星期一至五上午7時至晚上10時；星期六、日及公眾假期上午9時至晚上10時"), phone: "+852 6149 1884" },
   "The Clubhouse Recharge Suite": { openingHours: hours("Mon–Thu 5:45am–8pm; Fri 7am–2pm; Sat 8am–1pm; Sun closed", "星期一至四上午5時45分至晚上8時；星期五上午7時至下午2時；星期六上午8時至下午1時；星期日休息"), phone: "+852 5507 1662" },
   "Pickle Go HK": { openingHours: booking, phone: "+852 6951 9942" },
   "The Pickleball Lab — Tuen Mun Town Plaza": { openingHours: booking, phone: "+852 6902 2116" },

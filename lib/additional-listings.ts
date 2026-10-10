@@ -17,6 +17,16 @@ export const additionalListings = [
     address: { en: "Level 8, Baskerville House, 13 Duddell Street", "zh-hk": "都爹利街13號樂成行8樓" }, url: "https://visit-acme.com/",
   },
   {
+    name: { en: "The Ceremony", "zh-hk": "The Ceremony" },
+    additionalCategories: ["sauna"],
+    category: "recovery", territory: "island", area: { en: "Central", "zh-hk": "中環" },
+    description: { en: "A Central wellness club combining sauna, cold plunge and lounge-based contrast therapy with body recovery and skin treatments.", "zh-hk": "位於中環嘅健康會所，結合桑拿、冰浴同休息空間嘅冷熱交替體驗，亦提供身體恢復及皮膚護理療程。" },
+    tags: { en: ["Cold plunge", "Sauna", "Contrast therapy", "Treatments"], "zh-hk": ["冰浴", "桑拿", "冷熱交替", "護理療程"] },
+    address: { en: "18/F, H Queen's, 80 Queen's Road Central, Central", "zh-hk": "中環皇后大道中80號H Queen’s 18樓" },
+    url: "https://theceremonyhk.com/",
+    source: "Official venue source checked 2026-10-11",
+  },
+  {
     name: "Sauna Rituals at The Hideout",
     additionalCategories: ["recovery"],
     category: "sauna", territory: "new-territories", area: { en: "Mui Wo", "zh-hk": "梅窩" },
