@@ -36,6 +36,10 @@ function venueIntro(listing: NonNullable<ReturnType<typeof getListingBySlug>>, l
   return `${listing.description[locale]} ${context[listing.category]}`;
 }
 
+function openingHourLines(value: string) {
+  return value.split(/\s*[;；]\s*/).map((line) => line.trim()).filter(Boolean);
+}
+
 const venueCopy = {
   en: {
     back: "Back to directory", verified: "Sources checked October 2026", visit: "Visit official website", overview: "Venue overview",
@@ -91,6 +95,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
   const activities = listingSports(listing);
   const territory = territories.find((item) => item.id === listing.territory)!;
   const Icon = categoryIcons[listing.category as CategoryId];
+  const hours = openingHourLines(listing.openingHours?.[locale] ?? t.hoursUnavailable);
   const canonicalUrl = absoluteUrl(`/${locale}/venues/${slug}`);
   const schemaType: Record<CategoryId, string> = { movement: "SportsActivityLocation", recovery: "HealthAndBeautyBusiness", sauna: "HealthAndBeautyBusiness", food: "Restaurant", shops: "Store" };
   const alternateName = listingName(listing, locale === "en" ? "zh-hk" : "en");
@@ -155,7 +160,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
               {activities.length > 0 && <div><Dumbbell size={19} /><span><small>{locale === "en" ? "Sports & activities" : "運動項目"}</small><span className="venue-tag-list">{sports.filter((item) => activities.includes(item.id)).map((item) => <i key={item.id}>{item.label[locale]}</i>)}</span></span></div>}
               <div><MapPin size={19} /><span><small>{t.area}</small><strong>{listing.area[locale]}</strong></span></div>
               {listing.address && <div><ArrowRight size={19} /><span><small>{t.address}</small><strong>{listing.address[locale]}</strong></span></div>}
-              <div><Clock3 size={19} /><span><small>{t.hours}</small><strong>{listing.openingHours?.[locale] ?? t.hoursUnavailable}</strong></span></div>
+              <div><Clock3 size={19} /><span><small>{t.hours}</small><ul className="venue-hours-list">{hours.map((line, index) => <li key={`${line}-${index}`}>{line}</li>)}</ul></span></div>
               <div><Phone size={19} /><span><small>{t.phone}</small>{listing.phone ? <a className="venue-phone" href={`tel:${listing.phone.replace(/[^+\d]/g, "")}`}>{listing.phone}</a> : <strong>{t.phoneUnavailable}</strong>}</span></div>
               <div><MapIcon size={19} /><span><small>{t.territory}</small><strong>{territory.label[locale]}</strong></span></div>
               <div className="venue-offers"><Icon size={19} /><span><small>{t.offers}</small><span className="venue-tag-list">{listing.tags[locale].map((tag) => <i key={tag}>{tag}</i>)}</span></span></div>

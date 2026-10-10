@@ -321,6 +321,10 @@ html[lang="zh-HK"] .venue-title-block h1 { font-size: clamp(3.8rem, 7vw, 7rem); 
 .venue-facts span { min-width: 0; }
 .venue-facts small { display: block; margin-bottom: 8px; color: #82908a; font-size: .64rem; font-weight: 720; letter-spacing: .06em; text-transform: uppercase; }
 .venue-facts strong { display: block; font-size: .94rem; line-height: 1.55; font-weight: 580; }
+.venue-hours-list { display: grid; margin: 0; padding: 0; list-style: none; }
+.venue-hours-list li { padding: 9px 0; border-top: 1px solid #e3e9e5; font-size: .9rem; font-weight: 580; line-height: 1.5; }
+.venue-hours-list li:first-child { padding-top: 0; border-top: 0; }
+.venue-hours-list li:last-child { padding-bottom: 0; }
 .venue-tag-list { display: flex; flex-wrap: wrap; gap: 7px; }
 .venue-tag-list i { padding: 7px 10px; border-radius: 999px; background: var(--tint); color: var(--jade-dark); font-size: .68rem; font-style: normal; font-weight: 650; }
 .venue-related { background: #f1f0ea; }
