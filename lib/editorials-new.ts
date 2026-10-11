@@ -153,4 +153,170 @@ export const newEditorials: Editorial[] = [
       },
     ],
   },
+  {
+    slug: "what-contrast-therapy-can-do-for-your-health",
+    number: "11",
+    format: { en: "Feature", "zh-hk": "專題" },
+    category: { en: "Recovery", "zh-hk": "恢復" },
+    title: {
+      en: "What heat and cold can—and cannot—do for your health.",
+      "zh-hk": "桑拿加冰浴，對健康可以做到咩？",
+    },
+    deck: {
+      en: "Sauna and cold plunges can feel deeply restorative. The strongest reasons to use them are practical, while the bigger health promises still need better evidence.",
+      "zh-hk": "桑拿同冰浴可以令人感覺好恢復。最可靠嘅好處其實好實際；至於更大嘅健康承諾，仍然需要更多研究。",
+    },
+    date: { en: "12 October 2026", "zh-hk": "2026年10月12日" },
+    readTime: { en: "11 min read", "zh-hk": "閱讀約11分鐘" },
+    accent: "blue",
+    coverImage: "/venue-images/the-ceremony-1.webp",
+    coverAlt: {
+      en: "A calm timber sauna room at The Ceremony in Hong Kong",
+      "zh-hk": "香港 The Ceremony 內一間寧靜木製桑拿房",
+    },
+    sections: [
+      {
+        paragraphs: [
+          {
+            en: "Contrast therapy has an easy story to sell. Sit in a hot sauna, step into cold water, and come out feeling sharper, calmer and strangely proud of yourself. In Hong Kong, where many days are crowded and fast, the ritual can feel like somebody has pressed pause. The heat asks you to slow down. The cold leaves very little room to think about tomorrow's inbox. For a few minutes, your attention is fully inside your body.",
+            "zh-hk": "冷熱交替療法好容易令人心動：先坐入熱桑拿，再踏入凍水，出嚟時個人醒咗、靜咗，仲會有少少成功感。喺節奏急、地方迫嘅香港，呢個儀式就似有人撳咗暫停。熱力叫你慢落嚟，凍水就令人冇空間再諗聽日個收件箱。嗰幾分鐘，你嘅注意力會完全返到身體。",
+          },
+          {
+            en: "That feeling is real. It is also different from proving that contrast therapy prevents illness, melts fat, removes toxins or extends life. The research is much less dramatic than the marketing. There are useful findings around exercise recovery, soreness, relaxation and the body's short-term response to heat and cold. There are also large gaps, small studies and results that do not always agree. The honest position sits between dismissal and hype: contrast therapy may be a helpful wellness practice, but it is not a medical shortcut.",
+            "zh-hk": "呢種感覺係真實嘅，但感覺良好，同證明冷熱交替可以防病、減脂、排毒或者延長壽命，係兩回事。研究結果冇宣傳講得咁戲劇化。運動後恢復、肌肉痠痛、放鬆，同身體對冷熱嘅短期反應，的確有一啲實用發現；但亦有好多空白、規模細嘅研究，同互相唔完全一致嘅結果。最誠實嘅講法介乎否定同吹捧之間：佢可以係有幫助嘅健康習慣，但唔係醫療捷徑。",
+          },
+        ],
+      },
+      {
+        heading: { en: "What your body is actually doing", "zh-hk": "身體其實發生緊咩事" },
+        paragraphs: [
+          {
+            en: "In a sauna, your skin warms, blood vessels near the surface widen and your heart rate usually rises. Sweating helps the body manage heat. This can feel loose and soothing, especially after a tense day, but it is still physical stress. Stay too long or arrive dehydrated and the pleasant heaviness can become a headache, nausea or dizziness. More heat is not automatically more beneficial.",
+            "zh-hk": "喺桑拿入面，皮膚會升溫，近皮膚表面嘅血管擴張，心跳通常亦會加快。身體靠出汗幫手散熱。尤其係繃緊咗一日之後，呢種感覺可以令人鬆落嚟；但佢始終係一種身體壓力。如果留得太耐，或者本身缺水，舒服嘅沉重感可以變成頭痛、作嘔或者頭暈。唔係越熱越有益。",
+          },
+          {
+            en: "Cold water creates almost the opposite first reaction. Blood vessels at the skin narrow, breathing can become quick and heart rate and blood pressure may jump. The first task is not toughness; it is regaining a steady breath without forcing it. When people move from hot to cold, those reactions arrive close together. That sharp change explains much of the alert, refreshed feeling afterwards. It does not, by itself, prove a lasting health change. A strong sensation is not the same thing as a strong body of evidence.",
+            "zh-hk": "凍水帶嚟嘅第一個反應幾乎相反。皮膚血管收窄，呼吸可能突然變快，心跳同血壓亦可能上升。第一件事唔係證明自己幾捱得，而係唔勉強之下慢慢穩定呼吸。由熱轉凍時，呢啲反應會密集出現，亦解釋咗點解之後會覺得特別醒神。不過，強烈感受本身唔等於長期健康改善；感覺好強，同證據好強，係兩回事。",
+          },
+        ],
+      },
+      {
+        heading: { en: "The clearest benefit may be recovery", "zh-hk": "最清楚嘅好處，可能係恢復感" },
+        paragraphs: [
+          {
+            en: "Cold-water immersion has been studied most often after exercise. Reviews suggest it can sometimes reduce next-day soreness and improve how recovered a person feels. Contrast water therapy may also help some short-term recovery markers. The effect depends on the workout, the timing, the water temperature and what outcome is being measured. It is more accurate to say cold can be useful in selected situations than to say everybody needs an ice bath after training.",
+            "zh-hk": "冷水浸泡最多研究都集中喺運動之後。綜合研究顯示，佢有時可以減輕翌日肌肉痠痛，亦令人主觀上覺得恢復得好啲。冷熱水交替亦可能改善一啲短期恢復指標。不過，效果會受運動類型、時間、水溫同量度方法影響。比較準確嘅講法係：凍水喺某啲情況有用，而唔係每個人做完運動都需要冰浴。",
+          },
+          {
+            en: "There is a trade-off worth knowing. Repeated cold immersion immediately after strength training may reduce some of the muscle-building signals that training is meant to create. If your priority is long-term strength or muscle growth, making an ice bath the automatic ending to every lifting session may work against that goal. If you need to feel ready for another event soon, reducing soreness may matter more. Recovery is not one universal target; it depends on what you are recovering for.",
+            "zh-hk": "有一個取捨值得知道。如果每次重量訓練後即刻做冷水浸泡，可能會削弱部分本來幫助肌肉適應同生長嘅訊號。如果你最重視長期力量或者增肌，將冰浴變成每次操完必做，未必配合目標。但如果你短時間內要再比賽或者再訓練，減少痠痛可能更重要。恢復唔係一個人人相同嘅目標，要睇你準備為咩而恢復。",
+          },
+        ],
+      },
+      {
+        heading: { en: "Heat may offer a gentler kind of work", "zh-hk": "熱力帶嚟另一種較溫和嘅刺激" },
+        paragraphs: [
+          {
+            en: "Regular passive heat exposure has attracted interest because it raises heart rate and increases blood flow without asking the joints to do much. Some studies report better blood-vessel function or lower blood pressure after repeated heat sessions. Other reviews of controlled trials find the overall effects uncertain or too small to call. Much of the enthusiastic discussion also comes from observational studies, which can show a link but cannot prove that sauna caused the healthier outcome.",
+            "zh-hk": "定期接受被動熱力近年好受關注，因為佢可以提高心跳同血流，又唔需要關節做太多動作。有啲研究發現，重複熱療後血管功能或者血壓有所改善；但亦有綜合對照研究認為，整體效果仍然未確定，或者細到未能下結論。好多令人興奮嘅講法亦來自觀察研究，只能見到關聯，未能證明健康結果一定由桑拿造成。",
+          },
+          {
+            en: "The more immediate reasons to enjoy a sauna are simpler. Warmth can feel comforting, muscles may feel less guarded, and sitting quietly creates a clear transition out of a busy day. Those benefits do not need to be dressed up as detoxification. Sweat is mainly the body's cooling system; the liver and kidneys do the heavy work of processing waste. A sauna can support a restful routine without needing to cleanse your body of a mysterious modern burden.",
+            "zh-hk": "享受桑拿最直接嘅理由其實簡單得多。溫暖令人舒服，肌肉可能冇咁繃緊，安靜坐一陣亦幫忙由忙碌一日轉入休息。呢啲好處唔需要包裝成「排毒」。出汗主要係身體降溫機制，處理廢物嘅重任由肝臟同腎臟負責。桑拿可以幫你建立休息節奏，唔需要聲稱清走某種神秘嘅現代毒素。",
+          },
+        ],
+      },
+      {
+        heading: { en: "Why the ritual can calm a busy mind", "zh-hk": "點解個儀式會令個腦靜落嚟" },
+        paragraphs: [
+          {
+            en: "A good contrast session also changes the shape of an hour. Phones stay outside. The next step is obvious: warm, cool, rest, drink water. That simple order can be calming when the rest of life is full of open tabs and unfinished choices. Cold water demands attention to the breath; a quiet sauna makes silence feel normal. Even if every effect cannot be reduced to a blood test, the pause can still matter.",
+            "zh-hk": "一次好嘅冷熱體驗，亦會改變一個鐘嘅形狀。電話留喺外面，下一步好清楚：暖身、降溫、休息、飲水。當生活充滿未關嘅分頁同未完成嘅選擇，呢個簡單次序可以令人平靜。凍水叫你留意呼吸，安靜桑拿房就令沉默變得自然。就算每一種感受都未必可以化成驗血數字，呢段停頓仍然有意義。",
+          },
+          {
+            en: "This may be one reason people report better mood or sleep after cold or heat sessions. There are early research signals in both areas, but they are not yet a promise. Expectations, the setting, social connection and the decision to take an hour away from work can all contribute. That does not make the experience fake. It simply means wellness rarely arrives from one temperature alone. The room, the people and what you do afterwards are part of the result.",
+            "zh-hk": "呢個可能係有人做完冷熱療程後覺得心情或者睡眠好咗嘅原因之一。兩方面都有初步研究訊號，但仲未去到保證效果。期望、環境、同人連結，同主動放低工作一個鐘，都可能有份。呢個唔代表感受係假，只係健康好少單靠一個溫度出現。間房、身邊嘅人，同之後點樣生活，都係結果一部分。",
+          },
+        ],
+      },
+      {
+        heading: { en: "What the evidence does not justify", "zh-hk": "現有證據未支持嘅講法" },
+        paragraphs: [
+          {
+            en: "Contrast therapy has not earned the right to replace exercise, sleep, balanced meals or medical care. It is not a proven cure for anxiety, inflammation, heart disease or chronic pain. A short session may change stress markers or inflammation for a while, but short-term movement in a marker is not automatically a long-term improvement in health. Claims about immunity, fat loss and longevity often travel much further than the trials behind them.",
+            "zh-hk": "冷熱交替未有足夠證據取代運動、睡眠、均衡飲食或者醫療照顧。佢亦唔係已證實可以醫治焦慮、發炎、心臟病或者慢性痛症。一次療程可能短時間改變壓力或者炎症指標，但指標短暫移動，唔自動等於長期健康改善。免疫力、減脂同長壽等講法，往往比背後研究行得更遠。",
+          },
+          {
+            en: "The newest reviews of contrast therapy are notably cautious. They find limited evidence for meaningful changes in resting heart rate, blood pressure, vascular health or metabolism. Small benefits may exist, and future studies may find more, but certainty matters. A responsible venue should be able to explain the experience without promising to fix your hormones, erase inflammation or reset your nervous system in one visit.",
+            "zh-hk": "最新嘅冷熱交替綜合研究其實相當審慎。對靜止心率、血壓、血管健康或者新陳代謝有明顯改善，現時證據都有限。細小好處可能存在，將來研究亦可能發現更多，但確定程度好重要。負責任嘅場地應該可以清楚解釋體驗，而唔係承諾一次就修好荷爾蒙、清走發炎或者重設神經系統。",
+          },
+        ],
+      },
+      {
+        heading: { en: "Does the order matter?", "zh-hk": "先熱定先凍，有冇分別？" },
+        paragraphs: [
+          {
+            en: "There is no single perfect sequence for every person or goal. Many venues begin with heat because it feels easier to settle into, then use cold as a short, clear finish. Athletes sometimes use cold after training because soreness is the main concern. Somebody visiting in the evening may prefer to finish neutral or warm rather than walk into the night feeling wired. The final temperature can change the mood of the session even when nobody can promise a different long-term health result.",
+            "zh-hk": "冇一個次序適合所有人同所有目標。好多場地先由熱開始，因為比較容易放鬆，再用短時間凍水清楚收尾。運動員有時訓練後用凍水，因為最在意肌肉痠痛；夜晚去嘅人就可能想用中性或者暖溫度結束，唔想太精神咁行出街。最後一個溫度會影響成個體驗嘅感覺，但未有人可以保證佢帶嚟唔同嘅長期健康結果。",
+          },
+          {
+            en: "More rounds are not necessarily better either. The research uses many different temperatures, timings and sequences, which is one reason neat online protocols can sound more certain than the science. One or two comfortable rounds may give you the part most people value: a noticeable change of state and time to recover. Build slowly only if the experience continues to feel good. Consistency, comfort and safe supervision matter more than winning an argument about whether three minutes is superior to two.",
+            "zh-hk": "做更多輪亦唔一定更好。研究採用好多唔同溫度、時間同次序，所以網上整齊劃一嘅流程，往往講得比科學更肯定。一至兩輪舒服體驗，可能已經有大部分人最重視嘅效果：感覺狀態轉變，同真正留時間恢復。如果一直感覺良好，先慢慢增加。持續、舒服同有安全照顧，比爭論三分鐘係咪一定好過兩分鐘重要。",
+          },
+        ],
+      },
+      {
+        heading: { en: "A good venue makes restraint easy", "zh-hk": "好場地，會令克制變得容易" },
+        paragraphs: [
+          {
+            en: "Facilities matter because heat and water require care. Look for clean changing areas, clear rules, visible timing, staff who notice first-time guests and honest information about temperatures. Cold tubs should be maintained as carefully as any shared pool. A good host asks about relevant health concerns, shows you how to enter and exit safely, and makes it normal to stop early. They do not use cheering, filming or peer pressure to turn discomfort into entertainment.",
+            "zh-hk": "設施質素重要，因為高溫同共用水池都需要細心管理。留意更衣區係咪乾淨、規則係咪清楚、有冇容易見到嘅計時、職員會唔會照顧第一次嚟嘅客人，同溫度資料係咪坦白。冷水池應該好似任何共用泳池一樣認真保養。好嘅職員會問相關健康情況、示範點樣安全上落，亦令提早停止變成正常選擇，而唔係用起哄、拍片或者朋輩壓力將不適變成表演。",
+          },
+          {
+            en: "The rest area deserves attention too. Contrast therapy works best as a cycle with pauses, not as a race between two extremes. Somewhere to sit, water within reach and enough booking time to recover are basic parts of the service. Privacy also matters: guests should know whether a session is shared, what swimwear is expected and whether photographs are allowed. These details may sound less exciting than a sub-zero temperature claim, but they are often what separates a thoughtful recovery space from a dramatic one-off challenge.",
+            "zh-hk": "休息區亦值得留意。冷熱交替最適合有停頓嘅循環，而唔係兩個極端之間嘅比賽。有地方坐、有水飲，同預約時間足夠回復，全部都係服務基本部分。私隱亦重要：客人應該事前知道係咪共用、要着咩衣物，同場內可唔可以拍照。呢啲細節聽落冇零下溫度咁刺激，但往往正正分開咗一個周到恢復空間，同一次純粹追求戲劇效果嘅挑戰。",
+          },
+        ],
+      },
+      {
+        heading: { en: "A sensible first session", "zh-hk": "第一次，可以簡單啲" },
+        paragraphs: [
+          {
+            en: "For a first visit, choose a staffed venue that gives a clear safety briefing. Start with a shorter, milder round rather than copying the longest timer in the room. Five to ten minutes of comfortable sauna heat and a brief cool or cold dip can be enough to learn how your body responds. You do not need the coldest tub, and you do not need to stay until your teeth chatter. Rest between rounds, drink water and stop while you still feel well.",
+            "zh-hk": "第一次去，最好揀有職員當值、會清楚講安全指引嘅場地。由較短、較溫和一輪開始，唔好照抄房入面最耐嗰個計時器。五至十分鐘舒服熱度，加一次短時間涼水或者冷水，已經足夠了解身體反應。唔需要揀最凍個池，亦唔需要浸到牙關打震。每輪之間休息、飲水，仲舒服時就可以停。",
+          },
+          {
+            en: "Breathe normally. Deliberate hyperventilation, long breath-holds and underwater challenges do not belong in a plunge pool. Avoid alcohol before or during a session, and do not use extreme heat or cold alone. If you feel faint, confused, unusually short of breath, develop chest pain or cannot regain control of your breathing, get out and seek help. The best session is not the one that looks impressive; it is the one you leave safely and would calmly choose again.",
+            "zh-hk": "保持正常呼吸。刻意過度換氣、長時間閉氣，同水底挑戰，都唔應該喺冷水池做。療程前同期間唔好飲酒，亦唔好獨自做極端冷熱。如果頭暈、神志唔清、異常氣促、胸痛，或者呼吸一直控制唔到，要即刻離開並求助。最好嘅療程唔係睇落最厲害嗰次，而係你安全離開，亦會平靜地願意再做嗰次。",
+          },
+        ],
+      },
+      {
+        heading: { en: "Who should take extra care", "zh-hk": "邊啲人要格外小心" },
+        paragraphs: [
+          {
+            en: "Rapid temperature changes place real demands on the heart and circulation. Speak with a doctor before trying contrast therapy if you have heart disease, uncontrolled high blood pressure, an irregular heart rhythm, a history of fainting, circulation problems such as Raynaud's, or another condition affected by temperature. The same applies during pregnancy and when medication changes blood pressure, heart rate, sweating or temperature control.",
+            "zh-hk": "溫度快速轉變會對心臟同循環系統造成真實負荷。如果你有心臟病、未受控制嘅高血壓、心律不整、曾經暈倒、雷諾氏症等循環問題，或者其他受溫度影響嘅病況，試之前應該先問醫生。懷孕期間，或者服用會影響血壓、心率、出汗同體溫調節嘅藥物，亦一樣要先查詢。",
+          },
+          {
+            en: "People with high blood pressure should be especially cautious about moving directly between very hot and very cold conditions. The American Heart Association advises people with hypertension not to alternate cold water and sauna without medical guidance. Nobody loses points for choosing a cool shower, sitting out a round or ending warm. Your medical history matters more than a standard protocol printed on a wall.",
+            "zh-hk": "有高血壓嘅人，尤其要小心直接由非常熱轉去非常凍。美國心臟協會建議，高血壓人士唔應該喺冇醫療指導下自行交替冷水同桑拿。揀涼水浴、休息一輪，或者以暖身結束，都唔代表輸咗。你自己嘅病歷，永遠比牆上一套標準流程重要。",
+          },
+        ],
+      },
+      {
+        heading: { en: "The healthiest part may be the habit around it", "zh-hk": "最健康嘅，可能係圍住佢建立嘅習慣" },
+        paragraphs: [
+          {
+            en: "Used well, contrast therapy can become a dependable piece of a healthy week: a reason to leave the phone behind, notice the breath, sit with a friend and give recovery some actual time. It may ease soreness, offer a pleasant heat response and create a clear sense of reset. Those are modest claims, but modest does not mean meaningless. A practice that helps you slow down and care for yourself can be valuable without becoming a miracle.",
+            "zh-hk": "用得合適，冷熱交替可以成為健康一星期入面可靠嘅一小部分：一個放低電話、留意呼吸、同朋友坐低，同真正畀時間恢復嘅理由。佢可能舒緩痠痛、帶嚟舒服熱感，同令人有清楚重新開始嘅感覺。呢啲講法唔誇張，但唔誇張唔代表冇意義。一個幫你慢落嚟、照顧自己嘅習慣，唔需要變成奇蹟先有價值。",
+          },
+          {
+            en: "Let the session support the basics instead of replacing them. Eat, sleep, move, keep appointments with your doctor and stay connected to people. Then, if heat and cold make the week feel more spacious, enjoy them for exactly that. The most credible wellness practice is often the one that fits quietly into a life, asks you to respect your limits and leaves you feeling more able to return to the ordinary work of being well.",
+            "zh-hk": "畀療程支援生活基本功，而唔係取代佢哋。好好食飯、瞓覺、郁動、按時睇醫生，同人保持連結。然後，如果冷同熱令一星期多咗空間，就為呢個原因享受佢。最可信嘅健康習慣，往往係安靜融入生活、叫你尊重自己界線，並令你更有能力返去做好日常照顧自己嗰一個。",
+          },
+        ],
+      },
+    ],
+  },
 ];

@@ -25,11 +25,12 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!article || !locales.includes(locale)) return {};
   const canonical = `/${locale}/editorial/${slug}`;
   const image = article.coverImage ?? defaultSocialImage;
+  const articleDate = new Date(article.date.en).toISOString();
   return {
     title: { absolute: `${article.title[locale]} | Wellness Hub HK` },
     description: article.deck[locale],
     alternates: { canonical, languages: localizedLanguageAlternates(`/editorial/${slug}`) },
-    openGraph: { type: "article", url: canonical, siteName, title: article.title[locale], description: article.deck[locale], locale: locale === "en" ? "en_HK" : "zh_HK", publishedTime: new Date(article.date.en).toISOString(), modifiedTime: "2026-10-02T00:00:00+08:00", section: article.category[locale], images: [image] },
+    openGraph: { type: "article", url: canonical, siteName, title: article.title[locale], description: article.deck[locale], locale: locale === "en" ? "en_HK" : "zh_HK", publishedTime: articleDate, modifiedTime: articleDate, section: article.category[locale], images: [image] },
     twitter: { card: "summary_large_image", title: article.title[locale], description: article.deck[locale], images: [image] },
   };
 }
@@ -48,12 +49,13 @@ export default async function EditorialArticlePage({ params }: { params: Promise
   const galleries = venueImages as Record<string, Array<{ url: string }>>;
   const canonicalUrl = absoluteUrl(`/${locale}/editorial/${slug}`);
   const articleImage = absoluteUrl(article.coverImage ?? "/well-hk-hero.png");
+  const articleDate = new Date(article.date.en).toISOString();
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
       {
         "@type": "Article", "@id": `${canonicalUrl}#article`, headline: article.title[locale], description: article.deck[locale],
-        image: [articleImage], datePublished: new Date(article.date.en).toISOString(), dateModified: "2026-10-02T00:00:00+08:00",
+        image: [articleImage], datePublished: articleDate, dateModified: articleDate,
         author: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) }, publisher: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) },
         mainEntityOfPage: canonicalUrl, articleSection: article.category[locale], inLanguage: locale === "en" ? "en-HK" : "zh-HK",
         wordCount: article.sections.flatMap((section) => section.paragraphs).map((paragraph) => paragraph[locale]).join(" ").split(/\s+/).length,

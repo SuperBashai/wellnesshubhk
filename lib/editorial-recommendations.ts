@@ -9,4 +9,5 @@ export const editorialRecommendations: Record<string, string[]> = {
   "the-best-studio-makes-room-for-beginners": ["ikigai-causeway-bay", "yoga-movement-hong-kong", "anhao-wellness-mid-levels"],
   "sauna-is-better-when-nobody-is-rushing": ["sauna-rituals-at-the-hideout", "coastal-fitness-dream-room", "ikigai-central-infrared-sauna"],
   "the-neighbourhood-health-shop-still-matters": ["live-zero", "spicebox-organics-kennedy-town", "slowood-kennedy-town"],
+  "what-contrast-therapy-can-do-for-your-health": ["the-ceremony", "kinship", "the-ice-bath-club-kennedy-town"],
 };
