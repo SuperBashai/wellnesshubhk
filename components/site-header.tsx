@@ -29,12 +29,13 @@ export function SiteHeader({ locale, page = "home", alternatePath }: { locale: L
           <Link href={`/${locale}#discover`}>{t.navDiscover}</Link>
           <HeaderDropdown label={locale === "en" ? "Activities" : "活動"} ariaLabel={locale === "en" ? "Browse by activity" : "按活動瀏覽"} items={categoryItems} />
           <HeaderDropdown label={locale === "en" ? "Areas" : "地區"} ariaLabel={locale === "en" ? "Browse by area" : "按地區瀏覽"} items={areaItems} />
+          <Link href={`/${locale}/events`}>{locale === "en" ? "Events" : "健康活動"}</Link>
           <Link href={`/${locale}/editorial`}>{t.navGuide}</Link>
         </nav>
         <div className="header-actions">
           <Link className="language-link" href={`/${otherLocale}${suffix}`} hrefLang={otherLocale === "zh-hk" ? "zh-HK" : "en-HK"}>{locale === "en" ? "中文" : "EN"}</Link>
           <Link className="header-cta" href={`/${locale}/places`}>{locale === "en" ? "Find a place" : "搵好去處"}<ArrowUpRight size={15} /></Link>
-          <MobileNav locale={locale} labels={{ discover: t.navDiscover, areas: t.navAreas, guide: t.navGuide }} />
+          <MobileNav locale={locale} labels={{ discover: t.navDiscover, areas: t.navAreas, events: locale === "en" ? "Events" : "健康活動", guide: t.navGuide }} />
         </div>
       </div>
     </header>

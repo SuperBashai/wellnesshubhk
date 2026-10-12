@@ -1,0 +1,208 @@
+import type { Locale } from "@/lib/data";
+
+export type LocalText = Record<Locale, string>;
+
+export type WellnessEvent = {
+  slug: string;
+  title: LocalText;
+  category: LocalText;
+  startDate: string;
+  endDate?: string;
+  day: string;
+  month: LocalText;
+  monthKey: string;
+  monthHeading: LocalText;
+  dateLabel: LocalText;
+  time: LocalText;
+  location: LocalText;
+  organizer: LocalText;
+  description: LocalText;
+  status: LocalText;
+  url: LocalText;
+};
+
+const sameUrl = (url: string): LocalText => ({ en: url, "zh-hk": url });
+
+export const wellnessEvents: WellnessEvent[] = [
+  {
+    slug: "run-charity-trail-race-2026",
+    title: { en: "RUN Charity Trail Race", "zh-hk": "RUN 慈善越野賽" },
+    category: { en: "Trail running", "zh-hk": "越野跑" },
+    startDate: "2026-11-07T07:30:00+08:00",
+    day: "07",
+    month: { en: "NOV", "zh-hk": "11月" },
+    monthKey: "2026-11",
+    monthHeading: { en: "November 2026", "zh-hk": "2026年11月" },
+    dateLabel: { en: "Saturday, 7 November 2026", "zh-hk": "2026年11月7日（星期六）" },
+    time: { en: "From 7:30am", "zh-hk": "上午7:30起" },
+    location: { en: "Tai Tam Country Park, Hong Kong Island", "zh-hk": "香港島大潭郊野公園" },
+    organizer: { en: "RUN Hong Kong", "zh-hk": "RUN Hong Kong" },
+    description: { en: "A welcoming 15km charity trail race through Tai Tam, with a community-focused atmosphere and an age range of 14 to 75.", "zh-hk": "一場走入大潭山徑嘅15公里慈善越野賽，氣氛親切，以社區同行為重點，適合14至75歲參加者。" },
+    status: { en: "Registration open", "zh-hk": "現正接受報名" },
+    url: sameUrl("https://www.runhk.org/en/runrace2026"),
+  },
+  {
+    slug: "chill-wellness-meditation-november-2026",
+    title: { en: "CHILL Wellness Meditation Class", "zh-hk": "CHILL 身心健康靜觀課程" },
+    category: { en: "Mindfulness", "zh-hk": "靜觀" },
+    startDate: "2026-11-11T19:00:00+08:00",
+    endDate: "2026-11-25T21:30:00+08:00",
+    day: "11",
+    month: { en: "NOV", "zh-hk": "11月" },
+    monthKey: "2026-11",
+    monthHeading: { en: "November 2026", "zh-hk": "2026年11月" },
+    dateLabel: { en: "11, 18 and 25 November 2026", "zh-hk": "2026年11月11、18及25日" },
+    time: { en: "7:00–9:30pm", "zh-hk": "晚上7:00至9:30" },
+    location: { en: "Sheung Wan, Central & Western", "zh-hk": "中西區上環" },
+    organizer: { en: "HKFYG", "zh-hk": "香港青年協會" },
+    description: { en: "A three-session evening series for slowing down, practising meditation and making a little breathing room in the working week.", "zh-hk": "三節平日晚間課程，一齊放慢節奏、練習靜觀，喺忙碌工作周中留一點呼吸空間。" },
+    status: { en: "Programme listing live", "zh-hk": "活動資料已公布" },
+    url: sameUrl("https://jcfitcity.hk/en"),
+  },
+  {
+    slug: "translantau-by-utmb-2026",
+    title: { en: "TransLantau by UTMB", "zh-hk": "TransLantau by UTMB 大嶼山越野賽" },
+    category: { en: "Ultra trail", "zh-hk": "超級越野跑" },
+    startDate: "2026-11-13T00:00:00+08:00",
+    endDate: "2026-11-15T23:59:00+08:00",
+    day: "13–15",
+    month: { en: "NOV", "zh-hk": "11月" },
+    monthKey: "2026-11",
+    monthHeading: { en: "November 2026", "zh-hk": "2026年11月" },
+    dateLabel: { en: "13–15 November 2026", "zh-hk": "2026年11月13至15日" },
+    time: { en: "Start times vary by race", "zh-hk": "各組別起步時間不同" },
+    location: { en: "Mui Wo and Lantau Island", "zh-hk": "梅窩及大嶼山" },
+    organizer: { en: "UTMB World Series", "zh-hk": "UTMB World Series" },
+    description: { en: "A major Lantau trail weekend with 104km, 45km, 27km and 15km routes across some of Hong Kong’s most dramatic terrain.", "zh-hk": "大嶼山大型越野周末，設104、45、27及15公里路線，走過香港最壯麗嘅山野地形。" },
+    status: { en: "100K open; shorter races listed full", "zh-hk": "100公里接受報名；較短組別顯示額滿" },
+    url: { en: "https://translantau.utmb.world/", "zh-hk": "https://translantau.utmb.world/zh-Hant" },
+  },
+  {
+    slug: "hong-kong-zhuhai-macao-bridge-half-marathon-2026",
+    title: { en: "Hong Kong–Zhuhai–Macao Bridge Half Marathon", "zh-hk": "港珠澳大橋（香港段）半馬拉松" },
+    category: { en: "Road running", "zh-hk": "公路跑" },
+    startDate: "2026-11-15T06:15:00+08:00",
+    day: "15",
+    month: { en: "NOV", "zh-hk": "11月" },
+    monthKey: "2026-11",
+    monthHeading: { en: "November 2026", "zh-hk": "2026年11月" },
+    dateLabel: { en: "Sunday, 15 November 2026", "zh-hk": "2026年11月15日（星期日）" },
+    time: { en: "From 6:15am", "zh-hk": "上午6:15起" },
+    location: { en: "Hong Kong section of the HZMB", "zh-hk": "港珠澳大橋香港段" },
+    organizer: { en: "Hong Kong Association of Athletics Affiliates", "zh-hk": "中國香港田徑總會" },
+    description: { en: "A rare chance to race across the Hong Kong section of the bridge, with 10km and half-marathon distances and space for 10,000 runners.", "zh-hk": "難得可以跑上港珠澳大橋香港段，設10公里及半馬拉松，總名額10,000人。" },
+    status: { en: "Public ballot closed", "zh-hk": "公眾抽籤已截止" },
+    url: sameUrl("https://www.boc.cn/en/aboutboc/boccsr/202606/t20260610_25671845.html"),
+  },
+  {
+    slug: "city-runners-trial-classes-2026",
+    title: { en: "CITY RUNNERS Trial Classes", "zh-hk": "CITY RUNNERS 體驗班" },
+    category: { en: "Community running", "zh-hk": "社區跑步" },
+    startDate: "2026-11-19T09:00:00+08:00",
+    endDate: "2026-12-10T10:30:00+08:00",
+    day: "19",
+    month: { en: "NOV", "zh-hk": "11月" },
+    monthKey: "2026-11",
+    monthHeading: { en: "November 2026", "zh-hk": "2026年11月" },
+    dateLabel: { en: "19 & 26 Nov; 3 & 10 Dec 2026", "zh-hk": "2026年11月19、26日及12月3、10日" },
+    time: { en: "9:00–10:30am", "zh-hk": "上午9:00至10:30" },
+    location: { en: "Eastern District", "zh-hk": "東區" },
+    organizer: { en: "RunOurCity", "zh-hk": "全城街馬" },
+    description: { en: "Four friendly morning sessions designed to help people try group running and build a more regular city-running habit.", "zh-hk": "四節輕鬆晨跑體驗，俾大家試下團體跑步，慢慢建立恆常城市跑習慣。" },
+    status: { en: "Programme listing live", "zh-hk": "活動資料已公布" },
+    url: sameUrl("https://jcfitcity.hk/en"),
+  },
+  {
+    slug: "magic-run-fest-2026",
+    title: { en: "Magic Run Fest presented by AIA Vitality", "zh-hk": "AIA Vitality 健康程式呈獻 Magic Run Fest" },
+    category: { en: "Family running", "zh-hk": "親子跑步" },
+    startDate: "2026-11-28T00:00:00+08:00",
+    endDate: "2026-11-29T23:59:00+08:00",
+    day: "28–29",
+    month: { en: "NOV", "zh-hk": "11月" },
+    monthKey: "2026-11",
+    monthHeading: { en: "November 2026", "zh-hk": "2026年11月" },
+    dateLabel: { en: "28–29 November 2026", "zh-hk": "2026年11月28至29日" },
+    time: { en: "See organiser for race times", "zh-hk": "各場次時間請參閱主辦方資料" },
+    location: { en: "Hong Kong Disneyland Resort, Lantau", "zh-hk": "大嶼山香港迪士尼樂園度假區" },
+    organizer: { en: "Hong Kong Disneyland Resort", "zh-hk": "香港迪士尼樂園度假區" },
+    description: { en: "A playful weekend of 10K, 5K and 3K character runs for adults, children and families around the resort.", "zh-hk": "一個充滿玩味嘅跑步周末，設10公里、5公里及3公里角色主題賽，適合大人、小朋友同家庭。" },
+    status: { en: "Check current availability", "zh-hk": "請查看最新名額" },
+    url: sameUrl("https://news.hongkongdisneyland.com/en/hong-kong-disneyland-resort-s-acclaimed-running-event-reimagined-as-the-brand-new-magic-run-fest-presented-by-aia-vitality-registration-opens-july-29-2026/"),
+  },
+  {
+    slug: "hong-kong-trail-running-uphill-challenge-2026",
+    title: { en: "Hong Kong Trail Running (Uphill) Challenge", "zh-hk": "香港越野跑（上斜）挑戰賽" },
+    category: { en: "Uphill trail", "zh-hk": "上斜越野跑" },
+    startDate: "2026-12-06T09:00:00+08:00",
+    day: "06",
+    month: { en: "DEC", "zh-hk": "12月" },
+    monthKey: "2026-12",
+    monthHeading: { en: "December 2026", "zh-hk": "2026年12月" },
+    dateLabel: { en: "Sunday, 6 December 2026", "zh-hk": "2026年12月6日（星期日）" },
+    time: { en: "Women 9:00am; men 9:30am", "zh-hk": "女子組上午9:00；男子組上午9:30" },
+    location: { en: "Ng Tung Chai Road to Tai Mo Shan, Tai Po", "zh-hk": "大埔梧桐寨路至大帽山" },
+    organizer: { en: "Hong Kong Association of Athletics Affiliates", "zh-hk": "中國香港田徑總會" },
+    description: { en: "A compact but demanding 5km climb with roughly 800 metres of elevation gain and a field capped at 200 runners.", "zh-hk": "約5公里但相當考驗體能嘅上斜賽，攀升約800米，參賽名額上限200人。" },
+    status: { en: "Registration closes 11 November", "zh-hk": "11月11日截止報名" },
+    url: sameUrl("https://www.hkaaa.com/en/comp_details.php?id=290"),
+  },
+  {
+    slug: "tai-po-half-marathon-2026",
+    title: { en: "Tai Po Half Marathon", "zh-hk": "大埔半馬拉松" },
+    category: { en: "Road running", "zh-hk": "公路跑" },
+    startDate: "2026-12-27T07:30:00+08:00",
+    day: "27",
+    month: { en: "DEC", "zh-hk": "12月" },
+    monthKey: "2026-12",
+    monthHeading: { en: "December 2026", "zh-hk": "2026年12月" },
+    dateLabel: { en: "Sunday, 27 December 2026", "zh-hk": "2026年12月27日（星期日）" },
+    time: { en: "From 7:30am", "zh-hk": "上午7:30起" },
+    location: { en: "Hong Kong Science Park and Tai Po", "zh-hk": "香港科學園及大埔" },
+    organizer: { en: "Tai Po Half Marathon", "zh-hk": "大埔半馬拉松" },
+    description: { en: "A year-end community race with half-marathon, 10km, 3km and family 1km options, starting and finishing at Science Park.", "zh-hk": "年末社區賽事，設半馬拉松、10公里、3公里及親子1公里，起點及終點同設於科學園。" },
+    status: { en: "First come, first served", "zh-hk": "先到先得，額滿即止" },
+    url: { en: "https://tphm.sportsoho.com/en", "zh-hk": "https://tphm.sportsoho.com/" },
+  },
+  {
+    slug: "hyrox-hong-kong-2027",
+    title: { en: "AIA HYROX Hong Kong", "zh-hk": "AIA HYROX 香港站" },
+    category: { en: "Fitness racing", "zh-hk": "體能競賽" },
+    startDate: "2027-01-07T00:00:00+08:00",
+    endDate: "2027-01-10T23:59:00+08:00",
+    day: "07–10",
+    month: { en: "JAN", "zh-hk": "1月" },
+    monthKey: "2027-01",
+    monthHeading: { en: "January 2027", "zh-hk": "2027年1月" },
+    dateLabel: { en: "7–10 January 2027", "zh-hk": "2027年1月7至10日" },
+    time: { en: "Wave times set by organiser", "zh-hk": "各組別時間由主辦方公布" },
+    location: { en: "AsiaWorld-Expo, Chek Lap Kok", "zh-hk": "赤鱲角亞洲國際博覽館" },
+    organizer: { en: "HYROX", "zh-hk": "HYROX" },
+    description: { en: "Hong Kong’s four-day indoor fitness race combines eight 1km runs with eight functional workout stations, across solo, doubles and relay divisions.", "zh-hk": "四日室內體能賽，將八段1公里跑同八個功能訓練站結合，設個人、雙人及接力組別。" },
+    status: { en: "Tickets available", "zh-hk": "門票現正發售" },
+    url: sameUrl("https://hyrox.com/event/hyrox-hong-kong/"),
+  },
+  {
+    slug: "standard-chartered-hong-kong-marathon-2027",
+    title: { en: "Standard Chartered Hong Kong Marathon", "zh-hk": "渣打香港馬拉松" },
+    category: { en: "City marathon", "zh-hk": "城市馬拉松" },
+    startDate: "2027-01-17T00:00:00+08:00",
+    day: "17",
+    month: { en: "JAN", "zh-hk": "1月" },
+    monthKey: "2027-01",
+    monthHeading: { en: "January 2027", "zh-hk": "2027年1月" },
+    dateLabel: { en: "Sunday, 17 January 2027", "zh-hk": "2027年1月17日（星期日）" },
+    time: { en: "Start times vary by race", "zh-hk": "各組別起步時間不同" },
+    location: { en: "Tsim Sha Tsui to Victoria Park", "zh-hk": "尖沙咀至維多利亞公園" },
+    organizer: { en: "Hong Kong Association of Athletics Affiliates", "zh-hk": "中國香港田徑總會" },
+    description: { en: "Hong Kong’s landmark road race returns with marathon, half-marathon, 10km and wheelchair events for a total field of 78,000.", "zh-hk": "香港標誌性公路賽回歸，設馬拉松、半馬拉松、10公里及輪椅賽，總參賽名額78,000個。" },
+    status: { en: "Main public ballot closed", "zh-hk": "主要公眾抽籤已截止" },
+    url: sameUrl("https://www.hkmarathon.com/race-information/"),
+  },
+];
+
+export const eventMonths = Array.from(new Set(wellnessEvents.map((event) => event.monthKey))).map((monthKey) => ({
+  monthKey,
+  heading: wellnessEvents.find((event) => event.monthKey === monthKey)!.monthHeading,
+  events: wellnessEvents.filter((event) => event.monthKey === monthKey),
+}));
