@@ -23,6 +23,36 @@ export type WellnessEvent = {
 
 const sameUrl = (url: string): LocalText => ({ en: url, "zh-hk": url });
 
+export const eventImages: Record<string, string> = {
+  "float-and-sound-arca-sky-2026": "/editorial-public-pool.jpg",
+  "liana-method-relaxation-reset-2026": "/editorial-rest-rainy-day.jpg",
+  "ikigai-live-music-sound-meditation-2026": "/venue-images/ikigai-causeway-bay-1-ca3cbb2cb8.webp",
+  "zero-carbon-wheel-yoga-2026": "/venue-images/yoga-movement-hong-kong-1-742e9337a9.webp",
+  "waterfall-mindful-stress-reduction-sound-bath-2026": "/venue-images/waterfall-exquisite-wellness-tsim-sha-tsui-1-6541e28ef6.webp",
+  "yoga-room-monthly-reset-october-2026": "/venue-images/anahata-yoga-2-aba0b1d727.webp",
+  "kerry-hotel-evolve-mindfulness-sound-healing-2026": "/editorial-sauna-tea.jpg",
+  "be-earth-200-hour-yoga-teacher-training-2026": "/venue-social/be-earth-yoga-workshop.jpg",
+  "yoga-room-friday-night-healing-2026": "/editorial-joyful-movement.jpg",
+  "be-earth-morning-intensives-2026": "/venue-social/be-earth-trapeze-yoga.jpg",
+  "run-charity-trail-race-2026": "/editorial-walk-without-tracking.jpg",
+  "be-earth-reformer-pilates-certificate-2026": "/venue-social/be-earth-reformer-studio.jpg",
+  "yun-wellness-face-yoga-2026": "/editorial-beginner-studio.jpg",
+  "yun-wellness-interactive-singing-bowls-2026": "/editorial-rest-rainy-day.jpg",
+  "chill-wellness-meditation-november-2026": "/venue-images/a-yoga-studio-hk-1-cdaa4893ce.webp",
+  "translantau-by-utmb-2026": "/venue-images/mui-wo-sports-centre-1-3774c8e36c.webp",
+  "hong-kong-zhuhai-macao-bridge-half-marathon-2026": "/editorial-hong-kong-morning.png",
+  "city-runners-trial-classes-2026": "/venue-images/quarry-bay-sports-centre-2-4f788b8301.webp",
+  "yun-wellness-tai-chi-meditation-winter-2026": "/editorial-hong-kong-table.jpg",
+  "magic-run-fest-2026": "/venue-images/peng-chau-sports-centre-1-ec6a24933b.webp",
+  "hong-kong-trail-running-uphill-challenge-2026": "/venue-images/tung-chung-man-tung-road-sports-centre-1-906a0e70ab.webp",
+  "yun-wellness-release-rise-breathwork-2026": "/editorial-cold-plunge.jpg",
+  "yun-wellness-year-end-journaling-2026": "/editorial-neighbourhood-shop.jpg",
+  "pure-moonlit-christmas-sound-bath-2026": "/venue-images/pure-k11-musea-1-24873eb877.webp",
+  "tai-po-half-marathon-2026": "/venue-images/tai-po-sports-centre-3-0238e20054.webp",
+  "hyrox-hong-kong-2027": "/venue-social/ursus-fitness-conditioning.jpg",
+  "standard-chartered-hong-kong-marathon-2027": "/venue-images/harbour-road-sports-centre-1-857bfc3d46.webp",
+};
+
 export const wellnessEvents: WellnessEvent[] = [
   {
     slug: "float-and-sound-arca-sky-2026",

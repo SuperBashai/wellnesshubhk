@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, ArrowRight, ArrowUpRight, Check, Clock3, Map as MapIcon, Dumbbell, Flame, Leaf, MapPin, Phone, ShoppingBasket, Snowflake } from "lucide-react";
+import { ArrowLeft, ArrowRight, ArrowUpRight, Check, Clock3, Map as MapIcon, Dumbbell, Facebook, Flame, Globe2, Instagram, Leaf, Linkedin, MapPin, Phone, ShoppingBasket, Snowflake, Youtube } from "lucide-react";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import { JsonLd } from "@/components/json-ld";
@@ -13,9 +13,11 @@ import { listingCategories } from "@/lib/listing-categories";
 import { sports, listingSports } from "@/lib/sports";
 import { categories, getListingBySlug, listingName, listingSlug, listings, territories, type CategoryId, type Locale } from "@/lib/data";
 import { absoluteUrl, conciseDescription, defaultSocialImage, languageTag, localizedLanguageAlternates, siteName } from "@/lib/seo";
+import { venueSocialLinks, type VenueSocialPlatform } from "@/lib/venue-socials";
 
 const locales: Locale[] = ["en", "zh-hk"];
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
+const socialIcons = { instagram: Instagram, facebook: Facebook, youtube: Youtube, linkedin: Linkedin } satisfies Record<VenueSocialPlatform, typeof Instagram>;
 
 function venueIntro(listing: NonNullable<ReturnType<typeof getListingBySlug>>, locale: Locale) {
   const area = listing.area[locale];
@@ -46,12 +48,14 @@ const venueCopy = {
     about: "Plan your visit", aboutBody: "Check the location and facilities, then visit the official website for current opening hours, prices and bookings.",
     area: "Neighbourhood", address: "Address", hours: "Opening hours", phone: "Phone", hoursUnavailable: "Not published — check the official website before visiting.", phoneUnavailable: "Not published — contact via the official website.", territory: "Region", offers: "What you'll find", source: "Official source", sourceBody: "We link directly to the venue or public-facility source and do not invent ratings.",
     relatedEyebrow: "Keep exploring", relatedTitle: "More places in this category", view: "View venue", directory: "Browse all places",
+    socialLinks: "Official links", website: "Official website",
   },
   "zh-hk": {
     back: "返回目錄", verified: "資料於2026年10月查閱", visit: "前往官方網站", overview: "場地簡介",
     about: "安排你嘅行程", aboutBody: "睇吓位置同設施，再到官方網站查閱最新開放時間、收費同預約詳情。",
     area: "地區", address: "地址", hours: "營業時間", phone: "電話", hoursUnavailable: "官方未有公布，出發前請查看官方網站。", phoneUnavailable: "官方未有公布，請經官方網站聯絡。", territory: "區域", offers: "場地特色", source: "官方資料來源", sourceBody: "我哋會直接連結場地或公共設施官方資料，亦唔會虛構評分。",
     relatedEyebrow: "繼續探索", relatedTitle: "同類型其他地方", view: "查看場地", directory: "瀏覽全部地方",
+    socialLinks: "官方連結", website: "官方網站",
   },
 } as const;
 
@@ -100,6 +104,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
   const schemaType: Record<CategoryId, string> = { movement: "SportsActivityLocation", recovery: "HealthAndBeautyBusiness", sauna: "HealthAndBeautyBusiness", food: "Restaurant", shops: "Store" };
   const alternateName = listingName(listing, locale === "en" ? "zh-hk" : "en");
   const mapUrl = listing.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${listingName(listing, "en")}, ${listing.address.en}, Hong Kong`)}` : undefined;
+  const socials = venueSocialLinks(slug);
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
@@ -109,7 +114,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
         address: listing.address ? { "@type": "PostalAddress", streetAddress: listing.address[locale], addressLocality: listing.area[locale], addressRegion: "Hong Kong", addressCountry: "HK" } : undefined,
         areaServed: { "@type": "AdministrativeArea", name: "Hong Kong SAR" },
         inLanguage: languageTag(locale), mainEntityOfPage: canonicalUrl, hasMap: mapUrl,
-        sameAs: [listing.url], keywords: listing.tags[locale].join(", "),
+        sameAs: [listing.url, ...socials.map((social) => social.url)], keywords: listing.tags[locale].join(", "),
       },
       {
         "@type": "BreadcrumbList", itemListElement: [
@@ -142,6 +147,14 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
                   {listing.address && <a className="venue-directions" href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${listingName(listing, "en")}, ${listing.address.en}, Hong Kong`)}`} target="_blank" rel="noreferrer"><MapPin size={17} />{locale === "en" ? "Find on map" : "睇地圖"}</a>}
                   <span><Check size={15} />{t.verified}</span>
                 </div>
+                <nav className="venue-social-links" aria-label={t.socialLinks}>
+                  <a href={listing.url} target="_blank" rel="noreferrer" aria-label={t.website} title={t.website}><Globe2 size={18} /></a>
+                  {socials.map((social) => {
+                    const SocialIcon = socialIcons[social.platform];
+                    const label = social.platform[0].toUpperCase() + social.platform.slice(1);
+                    return <a key={`${social.platform}-${social.url}`} href={social.url} target="_blank" rel="noreferrer" aria-label={label} title={label}><SocialIcon size={18} /></a>;
+                  })}
+                </nav>
               </div>
               {photos.length ? <VenueGallery photos={photos} locale={locale} /> : <VenueFallback category={listing.category} />}
             </div>

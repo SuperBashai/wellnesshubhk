@@ -7,7 +7,7 @@ import { JsonLd } from "@/components/json-ld";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import type { Locale } from "@/lib/data";
-import { eventMonths, wellnessEvents } from "@/lib/events";
+import { eventImages, eventMonths, wellnessEvents } from "@/lib/events";
 import { absoluteUrl, localizedLanguageAlternates, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
@@ -97,6 +97,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
           eventStatus: "https://schema.org/EventScheduled",
           location: { "@type": "Place", name: event.location[locale], address: { "@type": "PostalAddress", addressRegion: "Hong Kong", addressCountry: "HK" } },
           organizer: { "@type": "Organization", name: event.organizer[locale], url: event.url[locale] },
+          image: absoluteUrl(eventImages[event.slug]),
           url: event.url[locale],
         },
       })),
@@ -144,6 +145,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
             <div className="events-list">
               {month.events.map((event) => <article className="event-row" key={event.slug}>
                 <div className="event-date"><strong>{event.day}</strong><span>{event.month[locale]}</span></div>
+                <div className="event-image"><Image src={eventImages[event.slug]} alt={event.title[locale]} fill sizes="(max-width: 780px) 75vw, (max-width: 980px) 180px, 220px" /></div>
                 <div className="event-main">
                   <div className="event-labels"><span>{event.category[locale]}</span><span>{event.status[locale]}</span></div>
                   <h4>{event.title[locale]}</h4>

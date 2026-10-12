@@ -267,6 +267,9 @@ html[lang="zh-HK"] .venue-title-block h1 { font-size: clamp(3.8rem, 7vw, 7rem); 
 .venue-hero-actions > a { min-height: 52px; display: inline-flex; align-items: center; gap: 11px; padding: 0 21px; border-radius: 11px; background: var(--jade); color: #fff; font-size: .8rem; font-weight: 740; }
 .venue-hero-actions > span { flex-basis: 100%; display: inline-flex; align-items: center; gap: 8px; color: #53665d; font-size: .75rem; }
 .venue-hero-actions > a.venue-directions { background: transparent; color: var(--jade-dark); border: 1px solid #9eb9ae; }
+.venue-social-links { display: flex; align-items: center; gap: 9px; margin-top: 18px; }
+.venue-social-links a { width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid #c7d2cd; border-radius: 50%; color: var(--jade-dark); transition: border-color .2s, background .2s, color .2s, transform .2s; }
+.venue-social-links a:hover { transform: translateY(-2px); border-color: var(--jade); background: var(--jade); color: #fff; }
 .venue-symbol { aspect-ratio: 1; display: flex; flex-direction: column; align-items: center; justify-content: space-between; padding: 42px; border-radius: 50%; }
 .venue-symbol small { font-size: .63rem; font-weight: 760; letter-spacing: .15em; }
 .venue-hero-grid.has-photos { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(32px, 5vw, 80px); padding-top: 55px; }
@@ -825,10 +828,13 @@ html[lang="zh-HK"] .events-hero-copy h1 { font-size: clamp(3rem, 5.8vw, 5.8rem);
 .events-month-heading { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 18px; border-bottom: 1px solid var(--ink); }
 .events-month-heading h3 { font-family: Georgia, "Noto Serif HK", serif; font-size: clamp(2rem, 3.4vw, 3.4rem); font-weight: 400; letter-spacing: -.035em; }
 .events-month-heading span { color: var(--jade); font: 400 1.5rem/1 Georgia, serif; }
-.event-row { display: grid; grid-template-columns: 118px minmax(0, 1fr) 165px; gap: clamp(25px, 4vw, 60px); align-items: start; padding: 38px 0 42px; border-bottom: 1px solid var(--line); }
+.event-row { display: grid; grid-template-columns: 92px minmax(170px, 220px) minmax(0, 1fr) 150px; gap: clamp(22px, 3vw, 46px); align-items: start; padding: 38px 0 42px; border-bottom: 1px solid var(--line); content-visibility: auto; contain-intrinsic-size: 340px; }
 .event-date { display: flex; flex-direction: column; }
 .event-date strong { font: 400 3rem/.92 Georgia, serif; letter-spacing: -.04em; }
 .event-date span { margin-top: 9px; color: var(--jade); font-size: .67rem; font-weight: 800; letter-spacing: .1em; }
+.event-image { position: relative; aspect-ratio: 4 / 3; overflow: hidden; border-radius: 3px; background: #e8ece9; }
+.event-image img { object-fit: cover; transition: transform .45s ease; }
+.event-row:hover .event-image img { transform: scale(1.025); }
 .event-labels { display: flex; flex-wrap: wrap; gap: 9px; }
 .event-labels span { padding: 6px 9px; border-radius: 999px; background: #eaf2ed; color: var(--jade); font-size: .61rem; font-weight: 780; letter-spacing: .065em; text-transform: uppercase; }
 .event-labels span + span { background: #f1efe8; color: #6e6859; }
@@ -851,8 +857,8 @@ html[lang="zh-HK"] .events-hero-copy h1 { font-size: clamp(3rem, 5.8vw, 5.8rem);
   .events-next-date { padding-left: 18px; }
   .events-next-date strong { font-size: 2.5rem; }
   .events-next-grid > a { width: 44px; height: 44px; }
-  .event-row { grid-template-columns: 90px minmax(0, 1fr); }
-  .event-link { grid-column: 2; width: fit-content; align-self: start; }
+  .event-row { grid-template-columns: 72px 180px minmax(0, 1fr); }
+  .event-link { grid-column: 3; width: fit-content; align-self: start; }
 }
 
 @media (max-width: 780px) {
@@ -870,6 +876,8 @@ html[lang="zh-HK"] .events-hero-copy h1 { font-size: clamp(3rem, 5.8vw, 5.8rem);
   .events-next-grid > a { width: 42px; height: 42px; }
   .events-section-heading { gap: 22px; margin-bottom: 62px; }
   .event-row { grid-template-columns: 60px minmax(0, 1fr); gap: 18px; padding: 31px 0 35px; }
+  .event-image { grid-column: 2; aspect-ratio: 16 / 10; }
+  .event-main { grid-column: 2; }
   .event-date strong { font-size: 2.3rem; }
   .event-main h4 { font-size: clamp(1.65rem, 8vw, 2.5rem); }
   .event-facts { flex-direction: column; }
