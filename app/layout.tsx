@@ -8,10 +8,10 @@ export const metadata: Metadata = {
   metadataBase: siteUrl,
   title: {
     default: siteTitleName,
-    template: `%s | ${siteTitleName}`,
+    template: `%s | ${siteName}`,
   },
   description:
-    "Explore Hong Kong gyms, sports facilities, recovery spaces, healthy restaurants and wellness shops.",
+    "Your Hong Kong wellness guide to gyms, sports facilities, recovery spaces, healthy restaurants and wellness shops across the city.",
   applicationName: siteName,
   authors: [{ name: siteName }],
   creator: siteName,
@@ -20,12 +20,12 @@ export const metadata: Metadata = {
   manifest: "/manifest.webmanifest",
   formatDetection: { email: false, address: false, telephone: false },
   openGraph: {
-    type: "website", siteName, title: siteName,
-    description: "A bilingual guide to movement, recovery and healthy eating across Hong Kong.",
+    type: "website", siteName, title: siteTitleName,
+    description: "A bilingual Hong Kong wellness guide to movement, recovery and healthy eating across the city.",
     images: [{ url: defaultSocialImage, width: 1536, height: 1024, alt: "Wellness Hub Hong Kong" }],
     locale: "en_HK", alternateLocale: "zh_HK",
   },
-  twitter: { card: "summary_large_image", title: siteName, description: "A bilingual guide to movement, recovery and healthy eating across Hong Kong.", images: [defaultSocialImage] },
+  twitter: { card: "summary_large_image", title: siteTitleName, description: "A bilingual Hong Kong wellness guide to movement, recovery and healthy eating across the city.", images: [defaultSocialImage] },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 } },
   other: { "geo.region": "HK", "geo.placename": "Hong Kong" },
 };

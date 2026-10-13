@@ -180,7 +180,7 @@ export function getListingBySlug(slug: string) {
 export const copy = {
   en: {
     navDiscover: "Discover", navAreas: "Areas", navGuide: "Editorial", suggest: "Suggest a place",
-    heroEyebrow: "Wellness, around the corner", heroTitle: "Feel good, closer to home.", heroBody: "Explore places to move, recover and eat well across Hong Kong, neighbourhood by neighbourhood.",
+    heroEyebrow: "Your local wellness guide", heroTitle: "Hong Kong wellness, closer to home.", heroBody: "Explore wellness in Hong Kong, neighbourhood by neighbourhood — from places to move and recover to healthy dining and shops.",
     searchPlaceholder: "Venue, activity or district", allAreas: "All of Hong Kong", search: "Find places",
     browseEyebrow: "Browse by interest", browseTitle: "Start with what you need today.", browseBody: "Move, recover, eat well or slow down. There is no single way to feel well.",
     areasEyebrow: "Explore by area", areasTitle: "One city. Many ways to reset.",
@@ -188,7 +188,7 @@ export const copy = {
     all: "All", noResults: "No places match those filters yet. Try another area or clear your search.", clear: "Clear filters", view: "View venue", updated: "Directory updated 1 October 2026", showMore: "Show more places",
     guideEyebrow: "Opinion & editorial", guideTitle: "Ideas for a healthier Hong Kong.", guideBody: "Original viewpoints on movement, food, recovery and life in the city.", guideCta: "Browse the editorials",
     trustTitle: "Local, useful, transparent.", trustBody: "We show the source for every place and never invent ratings. Details change, so please confirm directly with each venue before visiting.",
-    footerNote: "A calmer way to explore wellness across Hong Kong.", disclaimer: "Directory information is general and is not medical advice.",
+    footerNote: "A calmer guide to Hong Kong wellness, neighbourhood by neighbourhood.", disclaimer: "Directory information is general and is not medical advice.",
   },
   "zh-hk": {
     navDiscover: "探索", navAreas: "地區", navGuide: "生活誌", suggest: "推薦好地方",

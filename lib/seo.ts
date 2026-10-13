@@ -1,5 +1,5 @@
 export const siteName = "Wellness Hub";
-export const siteTitleName = "Wellness Hub Hong Kong";
+export const siteTitleName = "Hong Kong Wellness Guide | Wellness Hub";
 
 const configuredUrl = process.env.NEXT_PUBLIC_SITE_URL
   ?? (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "http://localhost:3010");

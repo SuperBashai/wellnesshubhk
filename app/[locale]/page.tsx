@@ -14,10 +14,10 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const chinese = locale === "zh-hk";
-  const title = chinese ? "香港運動、恢復與健康飲食指南｜Wellness Hub" : "Move, Recover & Eat Well in Hong Kong | Wellness Hub";
+  const title = chinese ? "香港健康生活指南｜Wellness Hub" : "Hong Kong Wellness Guide | Wellness Hub";
   const description = chinese
     ? "探索全港健身及運動場地、瑜伽與普拉提、冰浴、桑拿、健康餐廳及健康食品店。"
-    : "Explore Hong Kong gyms, sports facilities, yoga and Pilates studios, ice baths, saunas, healthy restaurants and wellness shops.";
+    : "Your guide to Hong Kong wellness: explore gyms, sports facilities, yoga, Pilates, ice baths, saunas, healthy dining and wellness shops.";
   return {
     title: { absolute: title },
     description,
@@ -40,9 +40,9 @@ export default async function LocalizedHome({ params }: { params: Promise<{ loca
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [
-      { "@type": "Organization", "@id": `${absoluteUrl("/")}#organization`, name: siteName, alternateName: "Wellness Hub HK", url: absoluteUrl("/"), logo: absoluteUrl("/icon.svg"), areaServed: { "@type": "AdministrativeArea", name: "Hong Kong SAR" } },
-      { "@type": "WebSite", "@id": `${absoluteUrl("/")}#website`, name: siteName, alternateName: "Wellness Hub HK", url: absoluteUrl("/"), inLanguage: ["en-HK", "zh-HK"], publisher: { "@id": `${absoluteUrl("/")}#organization` }, potentialAction: { "@type": "SearchAction", target: `${absoluteUrl(`/${locale}/places`)}?q={search_term_string}`, "query-input": "required name=search_term_string" } },
-      { "@type": "WebPage", "@id": `${pageUrl}#webpage`, url: pageUrl, name: typedLocale === "en" ? "Move, Recover & Eat Well in Hong Kong" : "香港運動、恢復與健康飲食指南", isPartOf: { "@id": `${absoluteUrl("/")}#website` }, inLanguage: typedLocale === "en" ? "en-HK" : "zh-HK" },
+      { "@type": "Organization", "@id": `${absoluteUrl("/")}#organization`, name: siteName, alternateName: ["Wellness Hub HK", "Hong Kong Wellness", "Wellness Hong Kong"], url: absoluteUrl("/"), logo: absoluteUrl("/icon.svg"), areaServed: { "@type": "AdministrativeArea", name: "Hong Kong SAR" } },
+      { "@type": "WebSite", "@id": `${absoluteUrl("/")}#website`, name: siteName, alternateName: ["Wellness Hub HK", "Hong Kong Wellness", "Wellness Hong Kong"], url: absoluteUrl("/"), inLanguage: ["en-HK", "zh-HK"], publisher: { "@id": `${absoluteUrl("/")}#organization` }, potentialAction: { "@type": "SearchAction", target: `${absoluteUrl(`/${locale}/places`)}?q={search_term_string}`, "query-input": "required name=search_term_string" } },
+      { "@type": "WebPage", "@id": `${pageUrl}#webpage`, url: pageUrl, name: typedLocale === "en" ? "Hong Kong Wellness Guide" : "香港健康生活指南", description: typedLocale === "en" ? "A bilingual guide to wellness in Hong Kong, from movement and recovery to healthy dining." : "雙語香港健康生活指南，涵蓋運動、恢復及健康飲食。", isPartOf: { "@id": `${absoluteUrl("/")}#website` }, inLanguage: typedLocale === "en" ? "en-HK" : "zh-HK" },
     ],
   };
   return <><JsonLd data={jsonLd} /><WellnessHome locale={typedLocale} /></>;
