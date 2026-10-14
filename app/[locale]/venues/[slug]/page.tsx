@@ -104,7 +104,7 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
   const schemaType: Record<CategoryId, string> = { movement: "SportsActivityLocation", recovery: "HealthAndBeautyBusiness", sauna: "HealthAndBeautyBusiness", food: "Restaurant", shops: "Store" };
   const alternateName = listingName(listing, locale === "en" ? "zh-hk" : "en");
   const mapUrl = listing.address ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${listingName(listing, "en")}, ${listing.address.en}, Hong Kong`)}` : undefined;
-  const socials = venueSocialLinks(slug);
+  const socials = venueSocialLinks(slug, listing.url);
   const jsonLd = {
     "@context": "https://schema.org",
     "@graph": [

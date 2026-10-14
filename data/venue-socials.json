@@ -1,0 +1,808 @@
+{
+  "https://www.kinship.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/kinship.hk/"
+    }
+  ],
+  "https://comeasap.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/comeasaphk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/comeasap"
+    }
+  ],
+  "https://www.ikigai.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/ikigai.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ikigai.hk"
+    }
+  ],
+  "https://www.treehouse.eco": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/treehouse.eco/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/treehouse.eco"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@treehouserestaurants1193"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/treehouseeco/"
+    }
+  ],
+  "https://www.theplayerclimbing.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/the_player_climbingym/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ThePlayerClimbingym"
+    }
+  ],
+  "https://spiceboxorganics.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/spiceboxorganics/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/SpiceBoxOrganics"
+    }
+  ],
+  "https://www.organicmama.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/organicmama.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/organicmama.hk"
+    }
+  ],
+  "https://www.goparksaisha.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/goparksaisha/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/goparksaishahk"
+    }
+  ],
+  "https://visit-acme.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/acme.baskerville/"
+    }
+  ],
+  "https://theceremonyhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/theceremonyhk/"
+    }
+  ],
+  "https://www.coastalfitnesshk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/coastalfitnesshk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/CoastalFitnessHK"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@TheProcessProgramming"
+    }
+  ],
+  "https://www.pure-360.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/purefitnessofficial/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/PUREYogaOfficial"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/c/purefitness"
+    }
+  ],
+  "https://www.atticv.com.hk": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/atticv"
+    }
+  ],
+  "https://saladstop.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/saladstophk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/saladstopHK"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/user/saladstop"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/saladstop-group/"
+    }
+  ],
+  "https://www.mana.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/manafastslowfood/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ManaFastSlowFood"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UC_86s9vzusvL9WreCAH43JQ"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/manafastslowfood/"
+    }
+  ],
+  "https://www.slowood.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/slowood.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/Slowood.hk"
+    }
+  ],
+  "https://livezero.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/livezero.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/livezerohk"
+    }
+  ],
+  "https://www.foodcraft.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/foodcraft_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/foodcrafthk"
+    }
+  ],
+  "https://www.organicplus.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/organicplus/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/OrganicPlus.hk"
+    }
+  ],
+  "https://thebaypickle.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/baypickle/"
+    }
+  ],
+  "https://www.metrocityplaza.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/metrocityplaza/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/MetroCityPlaza"
+    }
+  ],
+  "https://212hk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/212hong_kong/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/212hk.com"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@212HK"
+    }
+  ],
+  "https://yama-pickleball.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/yama.pickleball_arena/"
+    }
+  ],
+  "https://www.stackdpb.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/stackdpb/"
+    }
+  ],
+  "https://www.pickandmatch.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pickandmatch.hk/"
+    }
+  ],
+  "https://pickledise-hk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pickledise.hk/"
+    }
+  ],
+  "https://picklelandhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/picklelandhk/"
+    }
+  ],
+  "https://linktr.ee": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/picklecityhk/"
+    }
+  ],
+  "https://www.theground.io": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pickle.ready/"
+    }
+  ],
+  "https://pickleand.club": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pickleandclub/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/pickleandclub"
+    }
+  ],
+  "https://web.sino-hotels.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/GoldCoastHotel/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/GoldCoastHotel"
+    }
+  ],
+  "https://www.ymcahk.org.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/ymcahkms/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/YMCAHKMS"
+    }
+  ],
+  "https://www.thrivebody.info": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/thrivebody.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/thrivebody.hk"
+    }
+  ],
+  "https://www.lrc.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/lrc_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/HK.LRC"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@ladiesrecreationclub"
+    }
+  ],
+  "https://www.cchly.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/cchly_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/p/The-Country-Club-at-Hong-Lok-Yuen-100057523926852"
+    }
+  ],
+  "https://www.usrc.org.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/usrc_1911/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/USRC.org.hk"
+    }
+  ],
+  "https://www.hkfc.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/hongkongfootballclub1886/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/HongKongFootballClub"
+    }
+  ],
+  "https://online.healthshop.com.hk": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/GreenConceptsHK"
+    }
+  ],
+  "https://www.healthygiant.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/healthygiant.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/healthygianthk"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCnUOwOEDWjqBV3qdOwSCazw"
+    }
+  ],
+  "https://www.theclubhousehongkong.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/theclubhousehongkong/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/theclubhousehongkong/"
+    }
+  ],
+  "https://www.pickle-go.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pickle.go.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/p/Pickle-Go-HK-61587403076359"
+    }
+  ],
+  "https://www.tmtp.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/lab.pickleball/"
+    }
+  ],
+  "https://waterfall.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/waterfallsportsandwellness/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/waterfallsportswellness"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCp6LY_i-7l_vJNeYOr2cp6A"
+    }
+  ],
+  "https://www.cityu.edu.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/cityuhksportsteams/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/cityusportsteams"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@CityUHK.Sports"
+    }
+  ],
+  "https://www.dinkhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/dinkcityhk/"
+    }
+  ],
+  "https://hofhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/houseoffitnesshk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/houseoffitnesshk"
+    }
+  ],
+  "https://www.fit-01.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/fit01.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/fit01hk"
+    }
+  ],
+  "https://dbdbtraining.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/dbdb_training/"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@dbdbtraining"
+    }
+  ],
+  "https://anhao-wellness.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/anhaowellness/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/AnhaoWellness"
+    }
+  ],
+  "https://www.orin.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/orin_hk_/"
+    }
+  ],
+  "https://senses-studio.co": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/senses_studios_/"
+    }
+  ],
+  "https://www.absoluteboutiquefitness.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/absolutepilateshongkong/"
+    }
+  ],
+  "https://pilatessens.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pilatessens/"
+    }
+  ],
+  "https://yogamovementhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/yogamovementhk/"
+    }
+  ],
+  "https://www.anahatayoga.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/anahatayogahk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/anahatayogahk"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/anahata-yoga-hong-kong/"
+    }
+  ],
+  "https://www.ayogastudiohk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/ayogastudio.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ayogastudiohk"
+    }
+  ],
+  "https://www.atsumaruyogahk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/atsumaruhk.yoga/"
+    }
+  ],
+  "https://www.enjoyoga.online": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/enjoyoga.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/enjoyoga.hk"
+    }
+  ],
+  "https://www.pause.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pause.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/pause.hk"
+    }
+  ],
+  "https://www.jeselstudio.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/jesel_studio/"
+    }
+  ],
+  "https://smashfactor.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/smashfactor.hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/smashfactor.hk"
+    }
+  ],
+  "https://www.golfzonhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/golfzon_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/GolfZonGreenLiveHongKong"
+    }
+  ],
+  "https://shots-factory.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/shotsfactoryhk/"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@shotsfactoryhk"
+    }
+  ],
+  "https://www.7ironhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/7ironhk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/Sevenironhk"
+    }
+  ],
+  "https://www.tourmechanicshk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/tour.mechanics/"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCLgvmMKJaMfzWplbHsqV2cQ"
+    }
+  ],
+  "https://golftec.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/golftec_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/golftec.hk"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@GolftecSEA"
+    }
+  ],
+  "https://www.thegolfbay.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/thegolfbaydb/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/thegolfbay"
+    }
+  ],
+  "https://www.kscgolf.org.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/ksc.golf/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ksc.golf"
+    }
+  ],
+  "https://www.cwbgolf.org": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/cwbgolforg/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/ClearwaterBayGolfCountryClub"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/user/cwbgolf"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/the-clearwater-bay-golf-country-club/"
+    }
+  ],
+  "https://www.dbgc.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/discoverybay.golfclub/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/DiscoveryBayGolfClubHK"
+    }
+  ],
+  "https://www.hkgta.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/hongkong_gta/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/hongkong.gta"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCLBvJbGeHfp-ZqmUr_UHqVw"
+    }
+  ],
+  "https://www.pickabowl.com.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pickabowlhk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/Pickabowl"
+    }
+  ],
+  "https://www.pokeworldhk.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/pokeworldhk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/pokeworlddhk"
+    }
+  ],
+  "https://heybo.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/heybo_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/heybohk"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/user/saladstop"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/saladstop-group/"
+    }
+  ],
+  "https://feteup.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/feteuphk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/feteup"
+    }
+  ],
+  "https://www.lockcha.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/lockchahk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/lockchahk"
+    }
+  ],
+  "https://www.southlane.co": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/14southlane/"
+    }
+  ],
+  "https://www.kfbg.org": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/kfbg.official/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/KadoorieFarmAndBotanicGarden"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/user/KadoorieFarm"
+    }
+  ],
+  "https://www.twah.org.hk": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/TsuenWanAdventistHospital"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/channel/UCvCbh-YFMB5xk1sUzzKerCg"
+    }
+  ],
+  "https://www.eshop330.hk": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/farmfresh330_hk/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/farmfresh330.hk"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@eshop330_hk"
+    }
+  ],
+  "https://www.allnood.com": [
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/noodfoodofficial/"
+    },
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/pages/nood-food"
+    }
+  ]
+}

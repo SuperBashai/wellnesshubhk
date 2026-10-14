@@ -1,3 +1,5 @@
+import socialByOrigin from "@/data/venue-socials.json";
+
 export type VenueSocialPlatform = "instagram" | "facebook" | "youtube" | "linkedin";
 
 export type VenueSocialLink = {
@@ -38,6 +40,17 @@ const socialBySlugPrefix: Array<[string, VenueSocialLink[]]> = [
   ]],
 ];
 
-export function venueSocialLinks(slug: string) {
-  return socialBySlug[slug] ?? socialBySlugPrefix.find(([prefix]) => slug.startsWith(prefix))?.[1] ?? [];
+export function venueSocialLinks(slug: string, officialUrl?: string) {
+  const specificLinks = socialBySlug[slug] ?? socialBySlugPrefix.find(([prefix]) => slug.startsWith(prefix))?.[1] ?? [];
+  if (!officialUrl) return specificLinks;
+
+  try {
+    const brandLinks = (socialByOrigin as Record<string, VenueSocialLink[]>)[new URL(officialUrl).origin] ?? [];
+    const seenPlatforms = new Set<VenueSocialPlatform>();
+    return [...specificLinks, ...brandLinks].filter((social) =>
+      !seenPlatforms.has(social.platform) && seenPlatforms.add(social.platform)
+    );
+  } catch {
+    return specificLinks;
+  }
 }

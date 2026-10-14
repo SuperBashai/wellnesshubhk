@@ -10,6 +10,7 @@
     "typecheck": "tsc --noEmit",
     "decodo:test": "node --env-file=.env.local scripts/test-decodo.mjs",
     "decodo:enrich": "node --env-file=.env.local scripts/decodo-enrich-venues.mjs",
+    "decodo:socials": "node --env-file=.env.local scripts/decodo-venue-socials.mjs",
     "decodo:social-images": "node --env-file=.env.local scripts/decodo-social-images.mjs",
     "decodo:merge-images": "node scripts/merge-decodo-images.mjs",
     "images:check": "node scripts/assert-local-images.mjs",
