@@ -5,6 +5,9 @@ import { categories, copy, listingName, listingSlug, listings, territories, type
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 import { HeroSearch } from "@/components/hero-search";
+import { HomeVenueCarousel } from "@/components/home-venue-carousel";
+import venueImages from "@/data/venue-images.json";
+import { eventImages, wellnessEvents } from "@/lib/events";
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
 const territoryMapLabels = {
   island: { en: "HK Island", "zh-hk": "香港島" },
@@ -48,6 +51,18 @@ const homeVisuals = [
 
 export function WellnessHome({ locale }: { locale: Locale }) {
   const t = copy[locale];
+  const extraVenues = ["the-ceremony", "united-services-recreation-club", "kinship", "golfzon-causeway-bay", "ikigai-causeway-bay", "go-park-sai-sha", "the-player-climbingym", "asap"];
+  const rotatingVenues = [
+    ...homeVisuals.map((item) => ({ ...item, category: item.category[locale], alt: item.alt[locale] })),
+    ...extraVenues.flatMap((slug) => {
+      const listing = listings.find((item) => listingSlug(item) === slug);
+      const photo = (venueImages as Record<string, { url: string; alt: Record<Locale, string>; credit: string }[]>)[slug]?.[0];
+      return listing && photo ? [{ slug, name: listingName(listing, locale), category: categories.find((item) => item.id === listing.category)!.label[locale], image: photo.url, alt: photo.alt[locale], credit: photo.credit }] : [];
+    }),
+  ];
+  const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
+  const upcomingEvents = wellnessEvents.filter((event) => (event.endDate ?? event.startDate).slice(0, 10) >= today)
+    .sort((a, b) => a.startDate.localeCompare(b.startDate)).slice(0, 3);
   const searchSuggestions = listings.map((listing) => ({
     name: listingName(listing, locale),
     area: listing.area[locale],
@@ -97,17 +112,20 @@ export function WellnessHome({ locale }: { locale: Locale }) {
             <div><span className="eyebrow"><span />{locale === "en" ? "Inside Wellness Hub" : "走入 Wellness Hub"}</span><h2 id="home-visual-title">{locale === "en" ? "See what feeling good can look like." : "睇吓好好生活，可以係點樣。"}</h2></div>
             <p>{locale === "en" ? "A visual glimpse of places to move, recover and eat well around the city." : "用相片探索城中運動、恢復同健康飲食空間。"}</p>
           </div>
-          <div className="home-visual-grid">
-            {homeVisuals.map((item, index) => <Link className={`home-visual-card home-visual-card-${index + 1}`} href={`/${locale}/venues/${item.slug}`} key={item.slug}>
-              <span className="home-visual-media">
-                {/* Official-source photography is credited on its venue page. */}
-                <Image src={item.image} alt={item.alt[locale]} fill sizes="(max-width: 780px) 100vw, 50vw" />
-              </span>
-              <span className="home-visual-overlay" aria-hidden="true" />
-              <span className="home-visual-copy"><small>{item.category[locale]}</small><strong>{item.name}</strong><span>{locale === "en" ? "Official photo" : "官方相片"} · {item.credit}</span></span>
-              <ArrowUpRight className="home-visual-arrow" size={22} aria-hidden="true" />
-            </Link>)}
+          <HomeVenueCarousel venues={rotatingVenues} locale={locale} />
+        </div>
+      </section>
+
+      <section className="section home-events" aria-labelledby="home-events-title">
+        <div className="shell">
+          <div className="home-events-heading"><div><span className="eyebrow"><span />{locale === "en" ? "Make a plan" : "約定一齊出發"}</span><h2 id="home-events-title">{locale === "en" ? "What's on around Hong Kong." : "香港有咩好活動？"}</h2><p>{locale === "en" ? "A few dates for your diary. Move, unwind and meet your community." : "記低幾個好日子，一齊郁動、放鬆，認識同路人。"}</p></div><Link href={`/${locale}/events`}>{locale === "en" ? "All events" : "全部活動"}<ArrowUpRight size={19} /></Link></div>
+          <div className="home-events-grid">
+            {upcomingEvents.map((event) => <article className="home-event-card" key={event.slug}>
+              <Link href={`/${locale}/events#${event.slug}`} className="home-event-photo"><Image src={eventImages[event.slug]} alt={event.title[locale]} fill sizes="(max-width: 780px) 100vw, 33vw" /><span>{event.day} {event.month[locale]}</span></Link>
+              <div className="home-event-body"><small>{event.category[locale]}</small><h3><Link href={`/${locale}/events#${event.slug}`}>{event.title[locale]}</Link></h3><p>{event.location[locale]}</p><span>{event.time[locale]}</span><Link className="home-event-details" href={`/${locale}/events#${event.slug}`}>{locale === "en" ? "Event details" : "活動詳情"}<ArrowUpRight size={17} /></Link></div>
+            </article>)}
           </div>
+          {upcomingEvents.length === 0 && <p>{locale === "en" ? "New dates are on the way. Explore the calendar for more." : "新活動即將公布，歡迎查看活動日曆。"}</p>}
         </div>
       </section>
 

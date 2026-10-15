@@ -143,7 +143,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
           {eventMonths.map((month) => <section className="events-month" key={month.monthKey}>
             <div className="events-month-heading"><h3>{month.heading[locale]}</h3><span>{String(month.events.length).padStart(2, "0")}</span></div>
             <div className="events-list">
-              {month.events.map((event) => <article className="event-row" key={event.slug}>
+              {month.events.map((event) => <article className="event-row" id={event.slug} key={event.slug}>
                 <div className="event-date"><strong>{event.day}</strong><span>{event.month[locale]}</span></div>
                 <div className="event-image"><Image src={eventImages[event.slug]} alt={event.title[locale]} fill sizes="(max-width: 780px) 75vw, (max-width: 980px) 180px, 220px" /></div>
                 <div className="event-main">
