@@ -4,6 +4,7 @@ export type LocalText = Record<Locale, string>;
 
 export type WellnessEvent = {
   slug: string;
+  updatedAt?: string;
   title: LocalText;
   category: LocalText;
   startDate: string;
@@ -15,6 +16,8 @@ export type WellnessEvent = {
   dateLabel: LocalText;
   time: LocalText;
   location: LocalText;
+  address?: LocalText;
+  price?: number;
   organizer: LocalText;
   description: LocalText;
   status: LocalText;
@@ -60,6 +63,7 @@ export const eventImages: Record<string, string> = {
 export const wellnessEvents: WellnessEvent[] = [
   {
     slug: "greater-bay-area-pickleball-pok-oi-cup-2026",
+    updatedAt: "2026-11-01",
     title: { en: "Greater Bay Area Pickleball Competition — Pok Oi Cup", "zh-hk": "大灣區匹克球大賽－博愛盃" },
     category: { en: "Pickleball competition", "zh-hk": "匹克球比賽" },
     startDate: "2026-11-07T09:00:00+08:00",
@@ -71,6 +75,7 @@ export const wellnessEvents: WellnessEvent[] = [
     dateLabel: { en: "7–8 November 2026", "zh-hk": "2026年11月7至8日" },
     time: { en: "From 9:00am; check organiser for daily schedule", "zh-hk": "上午9:00起；每日賽程請向主辦方確認" },
     location: { en: "Tin Shui Sports Centre, 7 Tin Shui Road, Tin Shui Wai", "zh-hk": "元朗天水圍天瑞路7號天水體育館" },
+    address: { en: "7 Tin Shui Road, Tin Shui Wai, Yuen Long, Hong Kong", "zh-hk": "香港元朗天水圍天瑞路7號" },
     organizer: { en: "Yuen Long District Sports Association", "zh-hk": "元朗區體育會" },
     description: { en: "A two-day Greater Bay Area pickleball tournament in Tin Shui Wai. Check the organiser's page for the current draw and registration position.", "zh-hk": "於天水圍舉行嘅兩日大灣區匹克球賽事。賽程及報名情況請以主辦方最新公布為準。" },
     status: { en: "Check registration with organiser", "zh-hk": "報名情況請向主辦方查詢" },
@@ -78,6 +83,7 @@ export const wellnessEvents: WellnessEvent[] = [
   },
   {
     slug: "anhao-move-pause-taste-2026",
+    updatedAt: "2026-11-01",
     title: { en: "Move. Pause. Taste.", "zh-hk": "運動・放鬆・品嚐" },
     category: { en: "Barre, sound bath & tasting", "zh-hk": "芭蕾塑身、聲音浴及品嚐" },
     startDate: "2026-11-11T19:00:00+08:00",
@@ -89,6 +95,8 @@ export const wellnessEvents: WellnessEvent[] = [
     dateLabel: { en: "Wednesday, 11 November 2026", "zh-hk": "2026年11月11日（星期三）" },
     time: { en: "7:00–8:30pm", "zh-hk": "晚上7:00至8:30" },
     location: { en: "Anhao Wellness, 6/F Art Piece, 3 Matheson Street, Causeway Bay", "zh-hk": "銅鑼灣勿地臣街3號 Art Piece 6樓 Anhao Wellness" },
+    address: { en: "6/F, Art Piece, 3 Matheson Street, Causeway Bay, Hong Kong", "zh-hk": "香港銅鑼灣勿地臣街3號 Art Piece 6樓" },
+    price: 680,
     organizer: { en: "Anhao Wellness x Respira x Food With Benefits", "zh-hk": "Anhao Wellness x Respira x Food With Benefits" },
     description: { en: "An intimate evening that moves from barre to a gong sound bath, followed by a Food With Benefits tasting. HK$680 per person.", "zh-hk": "先做芭蕾塑身訓練，再享受銅鑼聲音浴，最後品嚐 Food With Benefits 健康美食。每位港幣680元。" },
     status: { en: "Limited places; book via organiser", "zh-hk": "名額有限；請經主辦方報名" },
@@ -96,6 +104,7 @@ export const wellnessEvents: WellnessEvent[] = [
   },
   {
     slug: "breathe-with-me-2026",
+    updatedAt: "2026-11-01",
     title: { en: "BREATHE WITH ME", "zh-hk": "與我呼吸 BREATHE WITH ME" },
     category: { en: "Mindful sensory installation", "zh-hk": "靜心感官裝置" },
     startDate: "2026-11-11T11:00:00+08:00",
@@ -107,6 +116,8 @@ export const wellnessEvents: WellnessEvent[] = [
     dateLabel: { en: "11–24 November 2026", "zh-hk": "2026年11月11至24日" },
     time: { en: "Daily, 11:00am–9:00pm", "zh-hk": "每日早上11:00至晚上9:00" },
     location: { en: "2/F, Peak Galleria, 118 Peak Road, The Peak", "zh-hk": "山頂山頂道118號山頂廣場2樓" },
+    address: { en: "2/F, Peak Galleria, 118 Peak Road, The Peak, Hong Kong", "zh-hk": "香港山頂山頂道118號山頂廣場2樓" },
+    price: 0,
     organizer: { en: "Hong Kong Design Centre x Annabelle Schneider", "zh-hk": "香港設計中心 x Annabelle Schneider" },
     description: { en: "A free sensory installation inviting visitors to slow down, notice their breath and spend a moment with others at The Peak.", "zh-hk": "免費感官裝置，邀請大家喺山頂放慢腳步，留意呼吸，同身邊人共享片刻安靜。" },
     status: { en: "Free admission", "zh-hk": "免費入場" },
@@ -114,6 +125,7 @@ export const wellnessEvents: WellnessEvent[] = [
   },
   {
     slug: "pure-blissful-yin-workshop-2026",
+    updatedAt: "2026-11-01",
     title: { en: "Blissful Yin Workshop with Kamal Acharya", "zh-hk": "Kamal Acharya 喜悅陰瑜伽工作坊" },
     category: { en: "Yin yoga workshop", "zh-hk": "陰瑜伽工作坊" },
     startDate: "2026-11-21T10:00:00+08:00",
@@ -125,6 +137,8 @@ export const wellnessEvents: WellnessEvent[] = [
     dateLabel: { en: "Saturdays, 21 & 28 November 2026", "zh-hk": "2026年11月21及28日（星期六）" },
     time: { en: "10:00am–12:30pm on both days", "zh-hk": "兩日均為上午10:00至下午12:30" },
     location: { en: "PURE Yoga, Langham Place, Mong Kok", "zh-hk": "旺角朗豪坊 PURE Yoga" },
+    address: { en: "9/F, Langham Place Office Tower, 8 Argyle Street, Mong Kok, Kowloon", "zh-hk": "九龍旺角亞皆老街8號朗豪坊辦公大樓9樓" },
+    price: 1600,
     organizer: { en: "PURE Yoga x Kamal Acharya", "zh-hk": "PURE Yoga x Kamal Acharya" },
     description: { en: "A two-session yin yoga workshop taught in English. PURE and non-PURE guests are welcome; the published full-workshop price is HK$1,600.", "zh-hk": "兩節以英語教授嘅陰瑜伽工作坊，PURE 會員及非會員均可參加；公布嘅全套課程費用為港幣1,600元。" },
     status: { en: "Check current availability with PURE", "zh-hk": "請向 PURE 查詢最新名額" },
@@ -601,6 +615,13 @@ export const wellnessEvents: WellnessEvent[] = [
     url: sameUrl("https://www.hkmarathon.com/race-information/"),
   },
 ];
+
+export function upcomingEvents(now = new Date()) {
+  const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(now);
+  return wellnessEvents
+    .filter((event) => (event.endDate ?? event.startDate).slice(0, 10) >= today)
+    .sort((left, right) => left.startDate.localeCompare(right.startDate));
+}
 
 export const eventMonths = Array.from(new Set(wellnessEvents.map((event) => event.monthKey))).map((monthKey) => ({
   monthKey,

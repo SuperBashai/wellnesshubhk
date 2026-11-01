@@ -4,6 +4,7 @@ import { newEditorials } from "./editorials-new";
 
 export type Editorial = {
   slug: string;
+  updatedAt?: string;
   number: string;
   format: LocalText;
   category: LocalText;

@@ -20,6 +20,7 @@ export type LocalText = { en: string; "zh-hk": string };
 
 export type Listing = {
   name: string | LocalText;
+  updatedAt?: string;
   category: CategoryId;
   additionalCategories?: CategoryId[];
   territory: TerritoryId;
@@ -29,6 +30,11 @@ export type Listing = {
   url: string;
   address?: LocalText;
   openingHours?: LocalText;
+  openingHoursSpecification?: { dayOfWeek: string[]; opens: string; closes: string }[];
+  geo?: { latitude: number; longitude: number };
+  priceRange?: string;
+  menu?: string;
+  servesCuisine?: string;
   phone?: string;
   source?: string;
   featured?: boolean;

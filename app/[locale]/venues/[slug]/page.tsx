@@ -109,9 +109,14 @@ export default async function VenuePage({ params }: { params: Promise<{ locale: 
     "@context": "https://schema.org",
     "@graph": [
       {
-        "@type": schemaType[listing.category], "@id": `${canonicalUrl}#venue`, name, alternateName: alternateName !== name ? alternateName : undefined, url: canonicalUrl,
+        "@type": listing.address ? schemaType[listing.category] : "Place", "@id": `${canonicalUrl}#venue`, name, alternateName: alternateName !== name ? alternateName : undefined, url: canonicalUrl,
         description: listing.description[locale], telephone: listing.phone, image: photos.map((photo) => absoluteUrl(photo.url)),
         address: listing.address ? { "@type": "PostalAddress", streetAddress: listing.address[locale], addressLocality: listing.area[locale], addressRegion: "Hong Kong", addressCountry: "HK" } : undefined,
+        geo: listing.geo ? { "@type": "GeoCoordinates", ...listing.geo } : undefined,
+        openingHoursSpecification: listing.openingHoursSpecification?.map((hours) => ({ "@type": "OpeningHoursSpecification", ...hours })),
+        priceRange: listing.priceRange,
+        menu: listing.category === "food" ? listing.menu : undefined,
+        servesCuisine: listing.category === "food" ? listing.servesCuisine : undefined,
         areaServed: { "@type": "AdministrativeArea", name: "Hong Kong SAR" },
         inLanguage: languageTag(locale), mainEntityOfPage: canonicalUrl, hasMap: mapUrl,
         sameAs: [listing.url, ...socials.map((social) => social.url)], keywords: listing.tags[locale].join(", "),

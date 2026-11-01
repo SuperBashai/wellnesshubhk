@@ -4,6 +4,7 @@ import { HeaderDropdown } from "@/components/header-dropdown";
 import { MobileNav } from "@/components/mobile-nav";
 import type { Locale } from "@/lib/data";
 import { categories, copy, territories } from "@/lib/data";
+import { areaHubs } from "@/lib/area-hubs";
 
 export function SiteHeader({ locale, page = "home", alternatePath }: { locale: Locale; page?: "home" | "guide" | "venue"; alternatePath?: string }) {
   const t = copy[locale];
@@ -16,6 +17,7 @@ export function SiteHeader({ locale, page = "home", alternatePath }: { locale: L
   const areaItems = [
     { href: `/${locale}/places`, label: locale === "en" ? "All of Hong Kong" : "全香港", description: locale === "en" ? "See every neighbourhood" : "瀏覽各區健康生活場地" },
     ...territories.map((item) => ({ href: `/${locale}/places?territory=${item.id}`, label: item.label[locale], description: item.areas[locale] })),
+    ...areaHubs.map((item) => ({ href: `/${locale}/areas/${item.slug}`, label: item.name[locale], description: locale === "en" ? "Neighbourhood guide" : "社區指南" })),
   ];
 
   return (

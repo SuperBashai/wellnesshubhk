@@ -7,11 +7,16 @@ import { JsonLd } from "@/components/json-ld";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import type { Locale } from "@/lib/data";
-import { eventImages, eventMonths, wellnessEvents } from "@/lib/events";
+import { eventImages, upcomingEvents } from "@/lib/events";
 import { absoluteUrl, localizedLanguageAlternates, siteName } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 const heroImage = "/editorial-walk-without-tracking.jpg";
+export const revalidate = 3600;
+
+export function generateStaticParams() {
+  return locales.map((locale) => ({ locale }));
+}
 
 const pageCopy = {
   en: {
@@ -19,7 +24,7 @@ const pageCopy = {
     title: "Good things are happening all over Hong Kong.",
     intro: "Runs, movement sessions, mindfulness workshops and community days—one calm place to see what is coming up and make a plan.",
     jump: "See upcoming events",
-    count: `${wellnessEvents.length} verified events`,
+    count: "Upcoming events, checked against organiser information",
     updated: "Updated 1 November 2026",
     next: "Next up",
     upcoming: "Upcoming in Hong Kong",
@@ -36,7 +41,7 @@ const pageCopy = {
     title: "香港各區，都有健康好活動發生。",
     intro: "跑步、運動體驗、靜觀工作坊同社區活動，一個清爽好用嘅日曆，幫你睇清楚有咩新鮮事，約定時間出發。",
     jump: "睇即將舉行活動",
-    count: `${wellnessEvents.length} 個已核實活動`,
+    count: "根據主辦方資料整理嘅即將舉行活動",
     updated: "2026年11月1日更新",
     next: "下一個活動",
     upcoming: "香港即將舉行",
@@ -70,7 +75,13 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
   if (!locales.includes(localeParam as Locale)) notFound();
   const locale = localeParam as Locale;
   const t = pageCopy[locale];
-  const firstEvent = wellnessEvents[0];
+  const events = upcomingEvents();
+  const firstEvent = events[0];
+  const months = Array.from(new Set(events.map((event) => event.monthKey))).map((monthKey) => ({
+    monthKey,
+    heading: events.find((event) => event.monthKey === monthKey)!.monthHeading,
+    events: events.filter((event) => event.monthKey === monthKey),
+  }));
   const pageUrl = absoluteUrl(`/${locale}/events`);
   const jsonLd = {
     "@context": "https://schema.org",
@@ -83,23 +94,12 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
     isPartOf: { "@type": "WebSite", name: siteName, url: absoluteUrl(`/${locale}`) },
     mainEntity: {
       "@type": "ItemList",
-      numberOfItems: wellnessEvents.length,
-      itemListElement: wellnessEvents.map((event, index) => ({
+      numberOfItems: events.length,
+      itemListElement: events.map((event, index) => ({
         "@type": "ListItem",
         position: index + 1,
-        item: {
-          "@type": "Event",
-          name: event.title[locale],
-          description: event.description[locale],
-          startDate: event.startDate,
-          ...(event.endDate ? { endDate: event.endDate } : {}),
-          eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
-          eventStatus: "https://schema.org/EventScheduled",
-          location: { "@type": "Place", name: event.location[locale], address: { "@type": "PostalAddress", addressRegion: "Hong Kong", addressCountry: "HK" } },
-          organizer: { "@type": "Organization", name: event.organizer[locale], url: event.url[locale] },
-          image: absoluteUrl(eventImages[event.slug]),
-          url: event.url[locale],
-        },
+        name: event.title[locale],
+        url: absoluteUrl(`/${locale}/events/${event.slug}`),
       })),
     },
   };
@@ -125,14 +125,14 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
         </div>
       </header>
 
-      <section className="events-next" aria-label={t.next}>
+      {firstEvent && <section className="events-next" aria-label={t.next}>
         <div className="shell events-next-grid">
           <span>{t.next}</span>
           <div className="events-next-date"><strong>{firstEvent.day}</strong><small>{firstEvent.month[locale]}</small></div>
           <div><p>{firstEvent.category[locale]}</p><h2>{firstEvent.title[locale]}</h2><span><MapPin size={14} />{firstEvent.location[locale]}</span></div>
-          <a href={firstEvent.url[locale]} target="_blank" rel="noreferrer" aria-label={`${t.eventDetails}: ${firstEvent.title[locale]}`}><ArrowUpRight size={23} /></a>
+          <Link href={`/${locale}/events/${firstEvent.slug}`} aria-label={`${t.eventDetails}: ${firstEvent.title[locale]}`}><ArrowUpRight size={23} /></Link>
         </div>
-      </section>
+      </section>}
 
       <section className="events-calendar section" id="upcoming">
         <div className="shell">
@@ -140,7 +140,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
             <div><span>{t.eyebrow}</span><h2>{t.upcoming}</h2></div>
             <p>{t.upcomingIntro}</p>
           </div>
-          {eventMonths.map((month) => <section className="events-month" key={month.monthKey}>
+          {months.map((month) => <section className="events-month" key={month.monthKey}>
             <div className="events-month-heading"><h3>{month.heading[locale]}</h3><span>{String(month.events.length).padStart(2, "0")}</span></div>
             <div className="events-list">
               {month.events.map((event) => <article className="event-row" id={event.slug} key={event.slug}>
@@ -148,7 +148,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
                 <div className="event-image"><Image src={eventImages[event.slug]} alt={event.title[locale]} fill sizes="(max-width: 780px) 75vw, (max-width: 980px) 180px, 220px" /></div>
                 <div className="event-main">
                   <div className="event-labels"><span>{event.category[locale]}</span><span>{event.status[locale]}</span></div>
-                  <h4>{event.title[locale]}</h4>
+                  <h4><Link href={`/${locale}/events/${event.slug}`}>{event.title[locale]}</Link></h4>
                   <p>{event.description[locale]}</p>
                   <div className="event-facts">
                     <span><CalendarDays size={15} />{event.dateLabel[locale]}</span>
@@ -157,7 +157,7 @@ export default async function EventsPage({ params }: { params: Promise<{ locale:
                   </div>
                   <small>{t.hostedBy}: {event.organizer[locale]}</small>
                 </div>
-                <a className="event-link" href={event.url[locale]} target="_blank" rel="noreferrer"><span>{t.eventDetails}</span><ArrowUpRight size={19} /></a>
+                <Link className="event-link" href={`/${locale}/events/${event.slug}`}><span>{t.eventDetails}</span><ArrowUpRight size={19} /></Link>
               </article>)}
             </div>
           </section>)}

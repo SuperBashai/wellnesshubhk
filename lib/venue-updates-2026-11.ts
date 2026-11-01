@@ -3,6 +3,7 @@ import type { Listing } from "@/lib/data";
 export const venueUpdatesNovember2026: Listing[] = [
   {
     name: { en: "Taikoo Place Padel Club", "zh-hk": "太古坊板式網球會所" },
+    updatedAt: "2026-11-01",
     category: "movement",
     additionalCategories: ["recovery", "sauna"],
     sports: ["padel"],
