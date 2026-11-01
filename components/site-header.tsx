@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ArrowUpRight } from "lucide-react";
 import { HeaderDropdown } from "@/components/header-dropdown";
+import { LanguageLink } from "@/components/language-link";
 import { MobileNav } from "@/components/mobile-nav";
 import type { Locale } from "@/lib/data";
 import { categories, copy, territories } from "@/lib/data";
@@ -35,7 +36,7 @@ export function SiteHeader({ locale, page = "home", alternatePath }: { locale: L
           <Link href={`/${locale}/editorial`}>{t.navGuide}</Link>
         </nav>
         <div className="header-actions">
-          <Link className="language-link" href={`/${otherLocale}${suffix}`} hrefLang={otherLocale === "zh-hk" ? "zh-HK" : "en-HK"}>{locale === "en" ? "中文" : "EN"}</Link>
+          <LanguageLink locale={otherLocale} href={`/${otherLocale}${suffix}`} label={locale === "en" ? "中文" : "EN"} />
           <Link className="header-cta" href={`/${locale}/places`}>{locale === "en" ? "Find a place" : "搵好去處"}<ArrowUpRight size={15} /></Link>
           <MobileNav locale={locale} labels={{ discover: t.navDiscover, areas: t.navAreas, events: locale === "en" ? "Events" : "健康活動", guide: t.navGuide }} />
         </div>

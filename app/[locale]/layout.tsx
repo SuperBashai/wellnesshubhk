@@ -1,17 +1,12 @@
 import type { Metadata } from "next";
-import { headers } from "next/headers";
 import { GoogleAnalytics } from "@next/third-parties/google";
 import { defaultSocialImage, siteName, siteTitleName, siteUrl } from "@/lib/seo";
-import "./globals.css";
+import "../globals.css";
 
 export const metadata: Metadata = {
   metadataBase: siteUrl,
-  title: {
-    default: siteTitleName,
-    template: `%s | ${siteName}`,
-  },
-  description:
-    "Your Hong Kong wellness guide to gyms, sports facilities, recovery spaces, healthy restaurants and wellness shops across the city.",
+  title: { default: siteTitleName, template: `%s | ${siteName}` },
+  description: "Your Hong Kong wellness guide to gyms, sports facilities, recovery spaces, healthy restaurants and wellness shops across the city.",
   applicationName: siteName,
   authors: [{ name: siteName }],
   creator: siteName,
@@ -30,12 +25,11 @@ export const metadata: Metadata = {
   other: { "geo.region": "HK", "geo.placename": "Hong Kong" },
 };
 
-export default async function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  const locale = (await headers()).get("x-wellness-locale") ?? "en-HK";
-  return (
-    <html lang={locale} data-scroll-behavior="smooth">
-      <body>{children}</body>
-      <GoogleAnalytics gaId="G-TX04QNJ87F" />
-    </html>
-  );
+export function generateStaticParams() {
+  return [{ locale: "en" }, { locale: "zh-hk" }];
+}
+
+export default async function LocaleLayout({ children, params }: Readonly<{ children: React.ReactNode; params: Promise<{ locale: string }> }>) {
+  const { locale } = await params;
+  return <html lang={locale === "zh-hk" ? "zh-HK" : "en-HK"} data-scroll-behavior="smooth"><body>{children}</body><GoogleAnalytics gaId="G-TX04QNJ87F" /></html>;
 }
