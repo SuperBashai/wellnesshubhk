@@ -5,7 +5,7 @@ import { ArrowLeft } from "lucide-react";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import type { Locale } from "@/lib/data";
-import { absoluteUrl, localizedLanguageAlternates, siteName } from "@/lib/seo";
+import { absoluteUrl, localizedLanguageAlternates } from "@/lib/seo";
 import { trustPages } from "@/lib/trust-pages";
 
 const locales: Locale[] = ["en", "zh-hk"];
@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!page || !locales.includes(locale as Locale)) return {};
   const typedLocale = locale as Locale;
   return {
-    title: `${page.title[typedLocale]} | ${siteName}`,
+    title: page.title[typedLocale],
     description: page.intro[typedLocale],
     alternates: { canonical: `/${locale}/${info}`, languages: localizedLanguageAlternates(`/${info}`) },
     openGraph: { type: "website", url: absoluteUrl(`/${locale}/${info}`), title: page.title[typedLocale], description: page.intro[typedLocale], locale: locale === "en" ? "en_HK" : "zh_HK" },

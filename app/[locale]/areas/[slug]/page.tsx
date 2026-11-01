@@ -9,7 +9,7 @@ import venueImages from "@/data/venue-images.json";
 import { areaHubs } from "@/lib/area-hubs";
 import { categories, listingName, listingSlug, listings, type Locale } from "@/lib/data";
 import { listingCategories } from "@/lib/listing-categories";
-import { absoluteUrl, localizedLanguageAlternates, siteName } from "@/lib/seo";
+import { absoluteUrl, localizedLanguageAlternates } from "@/lib/seo";
 
 const locales: Locale[] = ["en", "zh-hk"];
 const photos = venueImages as Record<string, { url: string; alt: Record<Locale, string> }[]>;
@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const area = areaHubs.find((item) => item.slug === slug);
   if (!area || !locales.includes(locale as Locale)) return {};
   const typedLocale = locale as Locale;
-  const title = typedLocale === "en" ? `Wellness in ${area.name.en}, Hong Kong | ${siteName}` : `${area.name["zh-hk"]}健康生活好去處 | ${siteName}`;
+  const title = typedLocale === "en" ? `Wellness in ${area.name.en}, Hong Kong` : `${area.name["zh-hk"]}健康生活好去處`;
   return {
     title, description: area.intro[typedLocale],
     alternates: { canonical: `/${locale}/areas/${slug}`, languages: localizedLanguageAlternates(`/areas/${slug}`) },

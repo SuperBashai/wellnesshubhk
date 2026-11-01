@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!event || !locales.includes(locale as Locale)) return {};
   const typedLocale = locale as Locale;
   const path = `/events/${slug}`;
-  const title = `${event.title[typedLocale]} | ${event.dateLabel[typedLocale]} | Wellness Hub`;
+  const title = `${event.title[typedLocale]} | ${event.dateLabel[typedLocale]}`;
   const description = `${event.description[typedLocale]} ${event.location[typedLocale]}.`;
   const image = absoluteUrl(eventImages[slug]);
   const ended = (event.endDate ?? event.startDate).slice(0, 10) < new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Hong_Kong", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date());
