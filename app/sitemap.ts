@@ -26,7 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     localizedEntry("/events", locale, 0.86, "weekly", latestDirectoryUpdate),
     ...upcomingEvents().map((event) => localizedEntry(`/events/${event.slug}`, locale, 0.69, "monthly", event.updatedAt)),
     localizedEntry("/editorial", locale, 0.8, "weekly"),
-    ...trustPages.map((page) => localizedEntry(`/${page.slug}`, locale, 0.45, "monthly", "2026-11-01")),
+    ...trustPages.map((page) => localizedEntry(`/${page.slug}`, locale, 0.45, "monthly", page.updatedAt)),
     ...areaHubs.map((area) => localizedEntry(`/areas/${area.slug}`, locale, 0.78, "weekly", "2026-11-01")),
     ...editorials.map((article) => localizedEntry(`/editorial/${article.slug}`, locale, 0.72, "monthly", article.updatedAt)),
     ...listings.map((listing) => localizedEntry(`/venues/${listingSlug(listing)}`, locale, 0.7, "monthly", listing.updatedAt)),

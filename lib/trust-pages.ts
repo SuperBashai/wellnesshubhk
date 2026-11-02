@@ -1,7 +1,8 @@
 import type { LocalText } from "@/lib/data";
 
 export type TrustPage = {
-  slug: "about" | "methodology" | "editorial-policy";
+  slug: "about" | "methodology" | "editorial-policy" | "contact";
+  updatedAt: string;
   title: LocalText;
   intro: LocalText;
   sections: { heading: LocalText; paragraphs: LocalText[] }[];
@@ -10,9 +11,13 @@ export type TrustPage = {
 export const trustPages: TrustPage[] = [
   {
     slug: "about",
+    updatedAt: "2026-11-02",
     title: { en: "About Wellness Hub", "zh-hk": "關於 Wellness Hub" },
     intro: { en: "A neighbourhood-first guide to places to move, recover and eat well across Hong Kong.", "zh-hk": "由社區出發，探索全港運動、恢復同健康飲食嘅實用指南。" },
     sections: [
+      { heading: { en: "Who runs it", "zh-hk": "邊個營運" }, paragraphs: [
+        { en: "Wellness Hub is run by Patrick. He edits the directory and writes the editorial articles. For corrections or questions, please use the contact page.", "zh-hk": "Wellness Hub 由 Patrick 營運，負責整理場地目錄同撰寫生活誌文章。如有資料更正或查詢，請到聯絡頁同我哋講。" },
+      ] },
       { heading: { en: "What we do", "zh-hk": "我哋做啲咩" }, paragraphs: [
         { en: "Wellness Hub brings public facilities and private businesses into one bilingual directory. We organise places by activity and area, so you can find something that fits an ordinary week—not just a special occasion.", "zh-hk": "Wellness Hub 將公共設施同私人場地整理喺同一個雙語目錄，按活動同地區分類，幫你搵到適合日常生活、唔使等特別日子先去嘅地方。" },
         { en: "Our events calendar highlights upcoming activities using organiser information and links you back to the original source for booking and updates.", "zh-hk": "健康活動日曆根據主辦方資料整理即將舉行嘅活動，並連結原始來源，方便你查閱最新安排同報名。" },
@@ -24,6 +29,7 @@ export const trustPages: TrustPage[] = [
   },
   {
     slug: "methodology",
+    updatedAt: "2026-11-01",
     title: { en: "How we build the directory", "zh-hk": "場地資料點樣整理" },
     intro: { en: "A practical account of how we select, source and maintain venue and event listings.", "zh-hk": "講清楚我哋點樣揀選、查證同更新場地及活動資料。" },
     sections: [
@@ -39,8 +45,9 @@ export const trustPages: TrustPage[] = [
   },
   {
     slug: "editorial-policy",
+    updatedAt: "2026-11-02",
     title: { en: "Editorial policy", "zh-hk": "生活誌編輯方針" },
-    intro: { en: "How we approach opinions, features, reviews and health-related claims.", "zh-hk": "我哋點樣處理觀點、專題、評評同健康相關內容。" },
+    intro: { en: "How Patrick approaches opinions, features, reviews and health-related claims.", "zh-hk": "Patrick 點樣處理觀點、專題、評論同健康相關內容。" },
     sections: [
       { heading: { en: "Clear labels, independent voice", "zh-hk": "清楚標示，獨立表達" }, paragraphs: [
         { en: "Opinion pieces express a point of view; features explore a topic; reviews describe an experience. We label these formats so readers know what they are reading. A venue appearing in an article or recommendation list is not a guarantee of quality or results.", "zh-hk": "觀點文章表達立場，專題深入探討題目，評評記錄體驗。我哋會標示文章類型，等讀者知道讀緊咩。場地出現喺文章或推薦名單，唔代表保證質素或效果。" },
@@ -51,6 +58,17 @@ export const trustPages: TrustPage[] = [
       ] },
       { heading: { en: "Reviews and corrections", "zh-hk": "評論及更正" }, paragraphs: [
         { en: "Visitor reviews are submitted by users and checked before public display; they are not the views of Wellness Hub. If an article or listing contains an error, we will correct the published information after checking the relevant source.", "zh-hk": "讀者評論由用戶提交，公開顯示前會經過檢查，唔代表 Wellness Hub 立場。如文章或場地資料有錯，我哋會核對相關來源後更正。" },
+      ] },
+    ],
+  },
+  {
+    slug: "contact",
+    updatedAt: "2026-11-02",
+    title: { en: "Contact Wellness Hub", "zh-hk": "聯絡 Wellness Hub" },
+    intro: { en: "Questions, corrections or a venue or event we should know about? Get in touch with Patrick.", "zh-hk": "有問題、資料更正，或者想介紹場地同活動？歡迎聯絡 Patrick。" },
+    sections: [
+      { heading: { en: "Email us", "zh-hk": "電郵聯絡" }, paragraphs: [
+        { en: "Write to wellnesshubhk@gmail.com. Please include the page URL and a reliable source if you are reporting a correction. We review submissions before changing published information.", "zh-hk": "請電郵 wellnesshubhk@gmail.com。如要更正資料，請附上相關頁面網址同可靠資料來源。我哋會核對後先更新已刊登內容。" },
       ] },
     ],
   },

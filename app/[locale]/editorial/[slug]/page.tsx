@@ -29,6 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     title: { absolute: `${article.title[locale]} | Wellness Hub HK` },
     description: article.deck[locale],
+    authors: [{ name: "Patrick" }],
     alternates: { canonical, languages: localizedLanguageAlternates(`/editorial/${slug}`) },
     openGraph: { type: "article", url: canonical, siteName, title: article.title[locale], description: article.deck[locale], locale: locale === "en" ? "en_HK" : "zh_HK", publishedTime: articleDate, modifiedTime: articleDate, section: article.category[locale], images: [image] },
     twitter: { card: "summary_large_image", title: article.title[locale], description: article.deck[locale], images: [image] },
@@ -56,7 +57,7 @@ export default async function EditorialArticlePage({ params }: { params: Promise
       {
         "@type": "Article", "@id": `${canonicalUrl}#article`, headline: article.title[locale], description: article.deck[locale],
         image: [articleImage], datePublished: articleDate, dateModified: articleDate,
-        author: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) }, publisher: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) },
+        author: { "@type": "Person", name: "Patrick", url: absoluteUrl(`/${locale}/about`) }, publisher: { "@type": "Organization", name: siteName, url: absoluteUrl(`/${locale}`) },
         mainEntityOfPage: canonicalUrl, articleSection: article.category[locale], inLanguage: locale === "en" ? "en-HK" : "zh-HK",
         wordCount: article.sections.flatMap((section) => section.paragraphs).map((paragraph) => paragraph[locale]).join(" ").split(/\s+/).length,
       },
@@ -81,7 +82,7 @@ export default async function EditorialArticlePage({ params }: { params: Promise
               <div><span className="editorial-issue">{article.format[locale]} / {article.number}</span><p>{article.category[locale]}</p></div>
               <h1>{article.title[locale]}</h1>
             </div>
-            <div className="opinion-deck"><p>{article.deck[locale]}</p><div className="editorial-meta"><span>{article.date[locale]}</span><span>{article.readTime[locale]}</span></div></div>
+            <div className="opinion-deck"><p>{article.deck[locale]}</p><div className="editorial-meta"><span>{locale === "en" ? "By Patrick" : "Patrick 撰文"}</span><span>{article.date[locale]}</span><span>{article.readTime[locale]}</span></div></div>
           </div>
           {article.coverImage && <div className="opinion-cover"><Image src={article.coverImage} alt={article.coverAlt?.[locale] ?? ""} fill priority sizes="100vw" /></div>}
         </header>

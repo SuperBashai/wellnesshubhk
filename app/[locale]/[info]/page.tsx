@@ -41,6 +41,7 @@ export default async function InfoPage({ params }: { params: Promise<{ locale: s
       <h1>{page.title[locale]}</h1>
       <p className="info-lead">{page.intro[locale]}</p>
       <div className="info-sections">{page.sections.map((section) => <section key={section.heading.en}><h2>{section.heading[locale]}</h2>{section.paragraphs.map((paragraph) => <p key={paragraph.en}>{paragraph[locale]}</p>)}</section>)}</div>
+      {info === "contact" && <p><a href="mailto:wellnesshubhk@gmail.com">wellnesshubhk@gmail.com</a></p>}
       <nav className="info-related" aria-label={locale === "en" ? "Learn more" : "了解更多"}>{trustPages.filter((item) => item.slug !== info).map((item) => <Link href={`/${locale}/${item.slug}`} key={item.slug}>{item.title[locale]}</Link>)}</nav>
     </article>
     <SiteFooter locale={locale} />
