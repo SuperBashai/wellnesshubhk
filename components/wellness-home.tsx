@@ -7,7 +7,7 @@ import { SiteFooter } from "@/components/site-footer";
 import { HeroSearch } from "@/components/hero-search";
 import { HomeVenueCarousel } from "@/components/home-venue-carousel";
 import venueImages from "@/data/venue-images.json";
-import { eventImages, upcomingEvents } from "@/lib/events";
+import { eventImageAlts, eventImages, upcomingEvents } from "@/lib/events";
 import { areaHubs } from "@/lib/area-hubs";
 const categoryIcons = { movement: Dumbbell, recovery: Snowflake, sauna: Flame, food: Leaf, shops: ShoppingBasket };
 const territoryMapLabels = {
@@ -120,7 +120,7 @@ export function WellnessHome({ locale }: { locale: Locale }) {
           <div className="home-events-heading"><div><span className="eyebrow"><span />{locale === "en" ? "Make a plan" : "約定一齊出發"}</span><h2 id="home-events-title">{locale === "en" ? "What's on around Hong Kong." : "香港有咩好活動？"}</h2><p>{locale === "en" ? "A few dates for your diary. Move, unwind and meet your community." : "記低幾個好日子，一齊郁動、放鬆，認識同路人。"}</p></div><Link href={`/${locale}/events`}>{locale === "en" ? "All events" : "全部活動"}<ArrowUpRight size={19} /></Link></div>
           <div className="home-events-grid">
             {nextEvents.map((event) => <article className="home-event-card" key={event.slug}>
-              <Link href={`/${locale}/events/${event.slug}`} className="home-event-photo"><Image src={eventImages[event.slug]} alt={event.title[locale]} fill sizes="(max-width: 780px) 100vw, 33vw" /><span>{event.day} {event.month[locale]}</span></Link>
+              <Link href={`/${locale}/events/${event.slug}`} className="home-event-photo"><Image src={eventImages[event.slug]} alt={eventImageAlts[event.slug]?.[locale] ?? event.title[locale]} fill sizes="(max-width: 780px) 100vw, 33vw" /><span>{event.day} {event.month[locale]}</span></Link>
               <div className="home-event-body"><small>{event.category[locale]}</small><h3><Link href={`/${locale}/events/${event.slug}`}>{event.title[locale]}</Link></h3><p>{event.location[locale]}</p><span>{event.time[locale]}</span><Link className="home-event-details" href={`/${locale}/events/${event.slug}`}>{locale === "en" ? "Event details" : "活動詳情"}<ArrowUpRight size={17} /></Link></div>
             </article>)}
           </div>

@@ -7,7 +7,7 @@ import { JsonLd } from "@/components/json-ld";
 import { SiteFooter } from "@/components/site-footer";
 import { SiteHeader } from "@/components/site-header";
 import type { Locale } from "@/lib/data";
-import { eventImages, wellnessEvents } from "@/lib/events";
+import { eventImageAlts, eventImages, wellnessEvents } from "@/lib/events";
 import { absoluteUrl, languageTag, localizedLanguageAlternates, siteName } from "@/lib/seo";
 
 export const revalidate = 3600;
@@ -90,7 +90,7 @@ export default async function EventPage({ params }: { params: Promise<{ locale: 
           <a className="event-detail-cta" href={event.url[locale]} target="_blank" rel="noreferrer">{isEnglish ? "Check details and booking with the organiser" : "向主辦方查看詳情及報名"}<ArrowUpRight size={18} /></a>
           <p className="event-detail-note">{isEnglish ? "Schedules, prices and availability can change. Please confirm directly with the organiser before booking or travelling." : "時間、收費及名額可能有變；報名或出發前請先向主辦方確認。"}</p>
         </div>
-        <figure className="event-detail-media"><Image src={eventImages[slug]} alt={event.title[locale]} fill priority sizes="(max-width: 800px) 100vw, 42vw" /></figure>
+        <figure className="event-detail-media"><Image src={eventImages[slug]} alt={eventImageAlts[slug]?.[locale] ?? event.title[locale]} fill priority sizes="(max-width: 800px) 100vw, 42vw" /></figure>
       </div>
     </div>
     <SiteFooter locale={locale} />
