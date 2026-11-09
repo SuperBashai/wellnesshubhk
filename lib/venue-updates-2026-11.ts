@@ -2,6 +2,22 @@ import type { Listing } from "@/lib/data";
 
 export const venueUpdatesNovember2026: Listing[] = [
   {
+    name: { en: "Lean Wellness", "zh-hk": "Lean Wellness 女性健康工作室" },
+    updatedAt: "2026-11-09",
+    category: "movement",
+    territory: "kowloon",
+    area: { en: "Yau Ma Tei", "zh-hk": "油麻地" },
+    address: { en: "8/F, Tai Wo Commercial Building, 513 Nathan Road, Yau Ma Tei, Kowloon", "zh-hk": "九龍油麻地彌敦道513號泰和商業大廈8樓" },
+    description: {
+      en: "A women-focused Pilates and yoga studio in Yau Ma Tei offering reformer classes, small-group yoga and private training. Contact the studio for its current class schedule before visiting.",
+      "zh-hk": "位於油麻地、專為女性而設的普拉提及瑜伽工作室，提供器械普拉提、小班瑜伽及私人課堂。到訪前請向工作室查詢最新課堂時間。",
+    },
+    tags: { en: ["Pilates", "Yoga", "Women-focused", "Private classes"], "zh-hk": ["普拉提", "瑜伽", "女性專屬", "私人課堂"] },
+    url: "https://leanwellnesshk.com/",
+    phone: "+852 8482 5649",
+    source: "https://leanwellnesshk.com/",
+  },
+  {
     name: { en: "Taikoo Place Padel Club", "zh-hk": "太古坊板式網球會所" },
     updatedAt: "2026-11-01",
     category: "movement",

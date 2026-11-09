@@ -8,7 +8,7 @@ import { absoluteUrl } from "@/lib/seo";
 
 const locales = ["en", "zh-hk"] as const;
 export const revalidate = 3600;
-const latestDirectoryUpdate = "2026-11-01";
+const latestDirectoryUpdate = "2026-11-09";
 
 function localizedEntry(path: string, locale: typeof locales[number], priority: number, changeFrequency: "weekly" | "monthly", modified?: string): MetadataRoute.Sitemap[number] {
   return {
