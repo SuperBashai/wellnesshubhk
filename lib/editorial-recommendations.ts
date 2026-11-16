@@ -10,4 +10,7 @@ export const editorialRecommendations: Record<string, string[]> = {
   "sauna-is-better-when-nobody-is-rushing": ["sauna-rituals-at-the-hideout", "coastal-fitness-dream-room", "ikigai-central-infrared-sauna"],
   "the-neighbourhood-health-shop-still-matters": ["live-zero", "spicebox-organics-kennedy-town", "slowood-kennedy-town"],
   "what-contrast-therapy-can-do-for-your-health": ["the-ceremony", "kinship", "the-ice-bath-club-kennedy-town"],
+  "the-quiet-joy-of-being-a-beginner-again": ["bay-pickle-d-park", "sheung-wan-sports-centre", "yoga-movement-hong-kong"],
+  "a-lunch-break-that-belongs-to-you": ["south-lane-shek-tong-tsui", "live-zero", "sheung-wan-sports-centre"],
+  "wellness-after-the-city-goes-dark": ["go24-fitness-kennedy-town", "onyx-admiralty", "the-ceremony"],
 };

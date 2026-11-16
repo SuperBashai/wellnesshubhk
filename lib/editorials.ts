@@ -1,6 +1,7 @@
 import type { LocalText } from "./data";
 import { readableEditorials, readableHeadlines, readableReadTimes } from "./editorial-readable";
 import { newEditorials } from "./editorials-new";
+import { novemberEditorials } from "./editorials-november-2026";
 
 export type Editorial = {
   slug: string;
@@ -190,12 +191,12 @@ const shortEditorials: Editorial[] = [
   },
 ];
 
-export const editorials: Editorial[] = [...shortEditorials, ...newEditorials].map((article) => ({
+export const editorials: Editorial[] = [...shortEditorials, ...newEditorials, ...novemberEditorials].map((article) => ({
   ...article,
   ...(readableHeadlines[article.slug] ?? {}),
   readTime: readableReadTimes[article.slug] ?? article.readTime,
   sections: readableEditorials[article.slug] ?? article.sections,
-}));
+})).sort((a, b) => Date.parse(b.date.en) - Date.parse(a.date.en));
 
 export function getEditorial(slug: string) {
   return editorials.find((article) => article.slug === slug);

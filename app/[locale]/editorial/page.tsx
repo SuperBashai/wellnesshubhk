@@ -101,7 +101,7 @@ export default async function EditorialIndexPage({ params }: { params: Promise<{
           <div className="shell editorial-lead-grid">
             <Link className="editorial-cover-image" href={`/${locale}/editorial/${lead.slug}`} aria-label={`${t.read}: ${lead.title[locale]}`}>
               {lead.coverImage && <Image src={lead.coverImage} alt={lead.coverAlt?.[locale] ?? ""} fill priority sizes="(max-width: 780px) 100vw, 58vw" />}
-              <span>{locale === "en" ? "Hong Kong / City life" : "香港 / 城市生活"}</span>
+              <span>{locale === "en" ? "Hong Kong" : "香港"} / {lead.category[locale]}</span>
             </Link>
             <div className="editorial-lead-copy">
               <p className="editorial-kicker">{t.latest} · {lead.format[locale]}</p>
