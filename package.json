@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/assert-local-images.mjs",
+    "prebuild": "node scripts/assert-local-images.mjs && npm run editorial:check",
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
+    "editorial:check": "node scripts/check-editorial-text.mjs",
     "decodo:test": "node --env-file=.env.local scripts/test-decodo.mjs",
     "decodo:enrich": "node --env-file=.env.local scripts/decodo-enrich-venues.mjs",
     "decodo:socials": "node --env-file=.env.local scripts/decodo-venue-socials.mjs",
