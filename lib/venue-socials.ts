@@ -8,6 +8,7 @@ export type VenueSocialLink = {
 };
 
 const socialBySlug: Record<string, VenueSocialLink[]> = {
+  "the-iyengar-yogasala-hong-kong": [{ platform: "instagram", url: "https://www.instagram.com/yogasalahk/" }],
   "lean-wellness": [{ platform: "instagram", url: "https://www.instagram.com/leanwellness/" }],
   "kinship": [{ platform: "instagram", url: "https://www.instagram.com/kinship.hk/" }],
   "asap": [

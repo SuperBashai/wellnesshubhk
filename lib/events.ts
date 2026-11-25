@@ -27,6 +27,8 @@ export type WellnessEvent = {
 const sameUrl = (url: string): LocalText => ({ en: url, "zh-hk": url });
 
 export const eventImages: Record<string, string> = {
+  "kfb-singing-bowl-yoga-retreat-2026": "/event-images/kfbg-singing-bowl-yoga-2026.jpg",
+  "yogasala-christmas-yoga-intensive-2026": "/event-images/yogasala-christmas-yoga-2026.jpg",
   "sjs-beginner-yoga-4-december-2026": "/event-images/st-james-settlement-logo.png",
   "sjs-beginner-yoga-11-december-2026": "/event-images/st-james-settlement-logo.png",
   "sjs-beginner-yoga-18-december-2026": "/event-images/st-james-settlement-logo.png",
@@ -68,8 +70,10 @@ export const eventImages: Record<string, string> = {
   "standard-chartered-hong-kong-marathon-2027": "/venue-images/harbour-road-sports-centre-1-857bfc3d46.webp",
 };
 
-// These five listings use an existing venue photograph, not a photograph of the event itself.
+// Record the subject of organiser artwork and any reused venue photographs.
 export const eventImageAlts: Record<string, LocalText> = {
+  "kfb-singing-bowl-yoga-retreat-2026": { en: "Kadoorie Farm and Allpamama's Singing Bowl Yoga Retreat poster", "zh-hk": "嘉道理農場及 Allpamama 缽頌瑜伽靜修營官方海報" },
+  "yogasala-christmas-yoga-intensive-2026": { en: "The Iyengar Yogaśālā's Christmas Yoga Intensive poster", "zh-hk": "艾揚格瑜伽舍聖誕三天瑜伽密集課程官方海報" },
   "sjs-beginner-yoga-4-december-2026": { en: "St. James' Settlement organiser logo", "zh-hk": "聖雅各福群會主辦機構標誌" },
   "sjs-beginner-yoga-11-december-2026": { en: "St. James' Settlement organiser logo", "zh-hk": "聖雅各福群會主辦機構標誌" },
   "sjs-beginner-yoga-18-december-2026": { en: "St. James' Settlement organiser logo", "zh-hk": "聖雅各福群會主辦機構標誌" },
@@ -81,6 +85,53 @@ export const eventImageAlts: Record<string, LocalText> = {
 };
 
 export const wellnessEvents: WellnessEvent[] = [
+  {
+    slug: "kfb-singing-bowl-yoga-retreat-2026",
+    updatedAt: "2026-11-25",
+    title: { en: "Singing Bowl Yoga: Three-Day Sound and Breath Retreat", "zh-hk": "缽頌瑜伽：聲與息的三日靜修營" },
+    category: { en: "Yoga and sound retreat", "zh-hk": "瑜伽及頌缽靜修營" },
+    startDate: "2026-12-11T14:00:00+08:00",
+    endDate: "2026-12-13T17:00:00+08:00",
+    day: "11",
+    month: { en: "DEC", "zh-hk": "12月" },
+    monthKey: "2026-12",
+    monthHeading: { en: "December 2026", "zh-hk": "2026年12月" },
+    dateLabel: { en: "11–13 December 2026", "zh-hk": "2026年12月11至13日" },
+    time: { en: "Starts Friday 2pm; ends Sunday 5pm", "zh-hk": "星期五下午2時開始；星期日下午5時結束" },
+    location: { en: "Kadoorie Farm and Botanic Garden and nearby areas, Tai Po", "zh-hk": "大埔嘉道理農場暨植物園及附近地區" },
+    address: { en: "Lam Kam Road, Tai Po, New Territories", "zh-hk": "新界大埔林錦公路" },
+    organizer: { en: "Kadoorie Farm and Botanic Garden with Allpamama", "zh-hk": "嘉道理農場暨植物園及 Allpamama" },
+    description: {
+      en: "A Cantonese-language residential retreat combining singing bowls, yoga, breathwork and quiet time in nature. The regular course fee is HK$4,500, plus two nights' accommodation from HK$800; places are limited and registration is required.",
+      "zh-hk": "廣東話三日兩夜靜修營，結合頌缽、瑜伽、呼吸練習同自然體驗。課程正價港幣4,500元，另加兩晚住宿費港幣800元起；名額有限，須預先報名。",
+    },
+    status: { en: "Registration required; confirm availability", "zh-hk": "須預先報名；請確認名額" },
+    url: sameUrl("https://www.kfbg.org/tc/events/singing-bowl-yoga-retreat-three-days-harmonizing-with-nature-through-sound"),
+  },
+  {
+    slug: "yogasala-christmas-yoga-intensive-2026",
+    updatedAt: "2026-11-25",
+    title: { en: "Christmas Yoga Intensive", "zh-hk": "聖誕三天瑜伽密集課程" },
+    category: { en: "Iyengar yoga workshop", "zh-hk": "艾揚格瑜伽工作坊" },
+    startDate: "2026-12-25T09:00:00+08:00",
+    endDate: "2026-12-27T13:00:00+08:00",
+    day: "25",
+    month: { en: "DEC", "zh-hk": "12月" },
+    monthKey: "2026-12",
+    monthHeading: { en: "December 2026", "zh-hk": "2026年12月" },
+    dateLabel: { en: "25–27 December 2026", "zh-hk": "2026年12月25至27日" },
+    time: { en: "9am–1pm daily", "zh-hk": "每日早上9時至下午1時" },
+    location: { en: "The Iyengar Yogaśālā Hong Kong, North Point", "zh-hk": "北角艾揚格瑜伽舍" },
+    address: { en: "Flat A, 6/F, Lok's Industrial Building, 204 Tsat Tsz Mui Road, North Point, Hong Kong", "zh-hk": "香港北角七姊妹道204號駱氏工廠大廈6樓A室" },
+    price: 2200,
+    organizer: { en: "The Iyengar Yogaśālā Hong Kong", "zh-hk": "艾揚格瑜伽舍" },
+    description: {
+      en: "Three morning sessions of Iyengar yoga with Icy, focused on breath awareness, restorative practice and easing into the new year. For Yoga 1+ students; HK$2,200 for three days, or HK$2,000 if paid before 30 November.",
+      "zh-hk": "由 Icy 帶領三個上午嘅艾揚格瑜伽課，練習呼吸覺察同修復式瑜伽，為新一年調整步伐。適合瑜伽1級或以上；三日港幣2,200元，11月30日前付款優惠價港幣2,000元。",
+    },
+    status: { en: "Booking required; confirm availability", "zh-hk": "須預約；請確認名額" },
+    url: sameUrl("https://www.yogasalahk.com/current-courses"),
+  },
   {
     slug: "sjs-beginner-yoga-4-december-2026",
     updatedAt: "2026-11-09",

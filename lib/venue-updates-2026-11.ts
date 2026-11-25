@@ -2,6 +2,25 @@ import type { Listing } from "@/lib/data";
 
 export const venueUpdatesNovember2026: Listing[] = [
   {
+    name: { en: "The Iyengar Yogaśālā Hong Kong", "zh-hk": "艾揚格瑜伽舍" },
+    updatedAt: "2026-11-25",
+    category: "movement",
+    territory: "island",
+    area: { en: "North Point", "zh-hk": "北角" },
+    address: {
+      en: "Flat A, 6/F, Lok's Industrial Building, 204 Tsat Tsz Mui Road, North Point, Hong Kong",
+      "zh-hk": "香港北角七姊妹道204號駱氏工廠大廈6樓A室",
+    },
+    description: {
+      en: "A North Point studio dedicated to Iyengar yoga, with regular classes, workshops and focused courses. Check the live timetable and book with the studio before visiting.",
+      "zh-hk": "北角嘅艾揚格瑜伽教室，提供恆常課堂、工作坊同主題課程。到訪前請先查看最新時間表並向教室預約。",
+    },
+    tags: { en: ["Iyengar yoga", "Classes", "Workshops", "Private studio"], "zh-hk": ["艾揚格瑜伽", "瑜伽課堂", "工作坊", "私人教室"] },
+    url: "https://www.yogasalahk.com/",
+    phone: "+852 9071 0230",
+    source: "https://www.yogasalahk.com/",
+  },
+  {
     name: { en: "Lean Wellness", "zh-hk": "Lean Wellness 女性健康工作室" },
     updatedAt: "2026-11-09",
     category: "movement",
